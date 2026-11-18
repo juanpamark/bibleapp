@@ -1,0 +1,388 @@
+<!DOCTYPE html><html class="light" lang="es"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Planes Devocionales - Sagradas Escrituras</title>
+<!-- Google Fonts: Inter & Merriweather -->
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&amp;display=swap" rel="stylesheet">
+<!-- Material Symbols Outlined -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<!-- Tailwind CSS CDN -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          "colors": {
+            "primary-fixed": "#ffdbce",
+            "secondary-fixed": "#ffdea8",
+            "on-secondary-container": "#785817",
+            "on-tertiary": "#ffffff",
+            "surface-container-high": "#f0e6e1",
+            "tertiary-container": "#b75a37",
+            "surface-dim": "#e2d8d3",
+            "secondary-container": "#fdd184",
+            "surface-container-lowest": "#ffffff",
+            "surface-tint": "#9a4522",
+            "on-primary-fixed-variant": "#7b2f0c",
+            "on-error": "#ffffff",
+            "inverse-surface": "#352f2c",
+            "on-tertiary-fixed": "#380d00",
+            "outline": "#88726b",
+            "primary-fixed-dim": "#ffb59a",
+            "secondary-fixed-dim": "#ebc075",
+            "surface-container-highest": "#ebe0dc",
+            "surface-variant": "#ebe0dc",
+            "secondary": "#795918",
+            "inverse-primary": "#ffb59a",
+            "on-secondary": "#ffffff",
+            "on-secondary-fixed": "#271900",
+            "on-surface": "#1f1b18",
+            "on-surface-variant": "#55433c",
+            "surface-container-low": "#fcf2ec",
+            "on-error-container": "#93000a",
+            "background": "#fff8f5",
+            "error-container": "#ffdad6",
+            "on-primary": "#ffffff",
+            "on-tertiary-fixed-variant": "#7c2e0e",
+            "on-primary-fixed": "#370e00",
+            "on-background": "#1f1b18",
+            "on-primary-container": "#fffbff",
+            "tertiary": "#984221",
+            "surface-bright": "#fff8f5",
+            "surface": "#fff8f5",
+            "inverse-on-surface": "#f9efea",
+            "primary-container": "#b65b35",
+            "surface-container": "#f6ece7",
+            "tertiary-fixed-dim": "#ffb59b",
+            "outline-variant": "#dbc1b8",
+            "error": "#ba1a1a",
+            "tertiary-fixed": "#ffdbcf",
+            "on-tertiary-container": "#fffbff",
+            "on-secondary-fixed-variant": "#5e4200",
+            "primary": "#974320"
+          },
+          "borderRadius": {
+            "DEFAULT": "0.25rem",
+            "lg": "0.5rem",
+            "xl": "0.75rem",
+            "full": "9999px"
+          },
+          "spacing": {
+            "space-md": "1rem",
+            "space-lg": "1.5rem",
+            "space-xl": "2.25rem",
+            "margin": "1.25rem",
+            "space-sm": "0.5rem",
+            "space-xs": "0.25rem",
+            "gutter": "1rem"
+          },
+          "fontFamily": {
+            "label-sm": ["Inter"],
+            "headline-lg": ["Merriweather"],
+            "label-lg": ["Inter"],
+            "label-md": ["Inter"],
+            "scripture-verse-num": ["Inter"],
+            "scripture-body": ["Merriweather"],
+            "headline-sm": ["Merriweather"],
+            "body-lg": ["Inter"],
+            "body-md": ["Inter"],
+            "headline-md": ["Merriweather"],
+            "headline-xl": ["Merriweather"],
+            "headline-xl-mobile": ["Merriweather"]
+          },
+          "fontSize": {
+            "label-sm": ["10px", { "lineHeight": "14px", "letterSpacing": "0.04em", "fontWeight": "600" }],
+            "headline-lg": ["24px", { "lineHeight": "32px", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+            "label-lg": ["14px", { "lineHeight": "18px", "letterSpacing": "0.01em", "fontWeight": "600" }],
+            "label-md": ["12px", { "lineHeight": "16px", "letterSpacing": "0.02em", "fontWeight": "500" }],
+            "scripture-verse-num": ["11px", { "lineHeight": "14px", "letterSpacing": "0.02em", "fontWeight": "600" }],
+            "scripture-body": ["19px", { "lineHeight": "32px", "letterSpacing": "0.01em", "fontWeight": "400" }],
+            "headline-sm": ["18px", { "lineHeight": "26px", "fontWeight": "400" }],
+            "body-lg": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+            "body-md": ["14px", { "lineHeight": "20px", "fontWeight": "400" }],
+            "headline-md": ["20px", { "lineHeight": "28px", "fontWeight": "600" }],
+            "headline-xl": ["32px", { "lineHeight": "42px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+            "headline-xl-mobile": ["26px", { "lineHeight": "34px", "letterSpacing": "-0.015em", "fontWeight": "700" }]
+          }
+        },
+      },
+    }
+  </script>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+</head>
+<body class="bg-background text-on-surface min-h-screen pb-28 antialiased selection:bg-primary-fixed selection:text-on-primary-fixed">
+<!-- Top App Bar (Shared Component Anchor) -->
+<header class="bg-surface shadow-sm sticky top-0 z-40">
+<div class="w-full flex items-center justify-between px-space-md py-space-sm max-w-screen-md mx-auto">
+<div class="flex items-center gap-2">
+<button class="text-primary hover:bg-surface-container transition-colors duration-150 p-2 rounded-full flex items-center justify-center active:scale-95">
+<span class="material-symbols-outlined" data-icon="menu_book">menu_book</span>
+</button>
+<span class="font-headline-md text-headline-md font-bold text-primary">Sagradas Escrituras</span>
+</div>
+<!-- Right Action Clusters -->
+<div class="flex items-center gap-1">
+<button aria-label="Buscar" class="text-primary hover:bg-surface-container transition-colors duration-150 p-2 rounded-full flex items-center justify-center active:scale-95">
+
+</button>
+</div>
+</div>
+</header>
+<!-- Main Container -->
+<main class="max-w-screen-md mx-auto px-margin pt-space-md space-y-space-xl">
+<!-- Page Header & Search Bar -->
+<section class="space-y-space-md">
+<div class="flex items-center justify-between">
+<div><h1 class="font-headline-lg text-headline-lg font-bold text-on-surface">Estudio Bíblico Semanal</h1>
+<p class="font-body-md text-body-md text-on-surface-variant mt-0.5">Inmersión exegética y lectura estructurada por libros.</p></div>
+<div class="hidden sm:flex items-center justify-center w-10 h-10 rounded-full bg-surface-container text-primary">
+<span class="material-symbols-outlined" data-icon="calendar_today">calendar_today</span>
+</div>
+</div>
+<!-- Quick Search Input -->
+<div class="relative w-full">
+<span class="material-symbols-outlined absolute left-3.5 top-1/2 -translate-y-1/2 text-outline text-[20px]" data-icon="search">search</span>
+<input class="w-full pl-11 pr-4 py-2.5 bg-surface-container-low border-b-2 border-transparent focus:border-primary border-t-0 border-x-0 rounded-lg text-body-md text-on-surface placeholder:text-outline focus:ring-0 transition-colors" placeholder="Buscar libro, tema doctrinal o pasaje..." type="text">
+</div>
+<!-- Tab Pill Filters ('Mis Planes' Active) -->
+<div class="flex items-center gap-2 overflow-x-auto pb-1 no-scrollbar"><button class="bg-primary text-on-primary rounded-lg px-4 py-2 font-label-md text-label-md flex items-center gap-1.5 shadow-sm active:scale-95 transition-transform duration-150">
+<span class="material-symbols-outlined text-[16px]" data-icon="auto_stories">auto_stories</span>
+<span class="">Estudio Actual</span>
+</button>
+<button class="bg-surface-container text-on-surface-variant hover:bg-surface-container-high rounded-lg px-4 py-2 font-label-md text-label-md flex items-center gap-1.5 active:scale-95 transition-all duration-150">
+<span class="material-symbols-outlined text-[16px]" data-icon="library_books">library_books</span>
+<span class="">Por Género</span>
+</button>
+<button class="bg-surface-container text-on-surface-variant hover:bg-surface-container-high rounded-lg px-4 py-2 font-label-md text-label-md flex items-center gap-1.5 active:scale-95 transition-all duration-150">
+<span class="material-symbols-outlined text-[16px]" data-icon="bookmark_added">bookmark_added</span>
+<span class="">Completados</span>
+</button></div>
+</section>
+<!-- SECTION: Plan en Curso (Hero Bento Card) -->
+<section class="space-y-space-md"><div class="flex items-center justify-between">
+<span class="font-label-lg text-label-lg text-primary uppercase tracking-wider font-semibold">Estudio Destacado</span>
+<span class="font-label-md text-label-md text-on-surface-variant">Capítulo 12 de 28</span>
+</div>
+<div class="bg-surface-container-lowest border border-outline-variant/60 rounded-xl overflow-hidden shadow-[0_4px_20px_-2px_rgba(45,40,37,0.05),0_2px_6px_-1px_rgba(194,100,62,0.04)]">
+<div class="relative h-44 sm:h-52 w-full overflow-hidden">
+<img class="w-full h-full object-cover" data-alt="Ancient parchment manuscript of the Gospel of Matthew in warm terracotta library light" src="https://lh3.googleusercontent.com/aida-public/AB6AXuClKheG_uruO5YvL37-Tj2ie0GL8u9GXyotuuTROJs0WBuwJ0ieiPH_IVjN6e3EwBIT-IdaKVM5ty-71uhJbdiXJj5i19wMv8d6heQJW1TQv_VcXtITOHjt_xEdt52idYR7MOmCA7V-8bakDxzAgum40qAxIzacVoe0VQ6SRC1N43-nxTkEVgOAFeXXWCe-5Hw_q4CN4dc_1tXjMjB4fOXwyVSn7qcEqvr6GD8uOA">
+<div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent"></div>
+<div class="absolute top-3 left-3 bg-secondary-container text-on-secondary-container font-label-sm text-label-sm px-2.5 py-1 rounded-full backdrop-blur-sm shadow-sm flex items-center gap-1 font-semibold">
+<span class="material-symbols-outlined text-[14px]" data-icon="auto_stories">auto_stories</span>
+28 Capítulos • Análisis capítulo por capítulo
+</div>
+<div class="absolute bottom-3 left-4 right-4">
+<span class="font-label-md text-label-md text-secondary-fixed font-medium">Ruta de Estudio Guiado</span>
+<h2 class="font-headline-md text-headline-md text-on-primary font-bold leading-tight mt-0.5">Estudio de la Semana: El Evangelio de Mateo</h2>
+</div>
+</div>
+<div class="p-space-md sm:p-space-lg space-y-space-md bg-surface-container-lowest">
+<div class="space-y-1">
+<div class="flex items-center justify-between text-body-md">
+<span class="font-label-md text-label-md text-on-surface-variant font-medium">Avance general del libro</span>
+<span class="font-label-md text-label-md font-bold text-primary">43% completado</span>
+</div>
+<div class="w-full bg-surface-container rounded-full h-2 overflow-hidden mt-1">
+<div class="bg-primary h-2 rounded-full transition-all duration-300" style="width: 43%"></div>
+</div>
+</div>
+<div class="border-l-4 border-secondary-container bg-surface-container-low p-3 rounded-r-lg space-y-1">
+<p class="font-body-md text-body-md text-on-surface leading-relaxed">
+<strong class="font-semibold text-primary">Contexto Teológico y Literario:</strong> Mateo presenta a Jesús como el cumplimiento del Rey Davídico y las promesas del Antiguo Testamento, estructurado en cinco grandes discursos doctrinales que reflejan un nuevo pacto de justicia y misericordia.
+</p>
+</div>
+<button class="w-full bg-primary hover:bg-tertiary text-on-primary font-label-lg text-label-lg py-3.5 px-4 rounded-lg flex items-center justify-center gap-2 shadow-sm transition-all duration-150 active:scale-[0.99]">
+<span class="material-symbols-outlined text-[20px]" data-icon="menu_book">menu_book</span>
+<span class="">Comenzar ruta</span>
+</button>
+</div>
+</div></section>
+<!-- SECTION: Lista Interactiva de Días -->
+<section class="space-y-space-md"><div class="flex items-center justify-between">
+<div>
+<h3 class="font-headline-sm text-headline-sm font-semibold text-on-surface">Catálogo por Géneros Bíblicos</h3>
+<p class="font-label-md text-label-md text-on-surface-variant">Explora los 66 libros clasificados por su naturaleza teológica y literaria.</p>
+</div>
+<button class="font-label-md text-label-md text-primary font-semibold hover:underline flex items-center gap-0.5">
+<span class="">Explorar todos</span>
+<span class="material-symbols-outlined text-[16px]" data-icon="chevron_right">chevron_right</span>
+</button>
+</div>
+<div class="space-y-space-md">
+<!-- Género 1: Epístolas Paulinas -->
+<div class="bg-surface-container-lowest border border-outline-variant/60 rounded-xl p-space-md shadow-sm space-y-3">
+<div class="flex items-center justify-between border-b border-surface-container pb-2.5">
+<div class="flex items-center gap-2.5">
+<div class="w-9 h-9 rounded-full bg-primary/10 text-primary flex items-center justify-center">
+<span class="material-symbols-outlined text-[20px]" data-icon="mark_email_read">mark_email_read</span>
+</div>
+<div>
+<h4 class="font-headline-sm text-[16px] font-bold text-on-surface">Epístolas Paulinas</h4>
+<span class="font-label-sm text-label-sm text-outline">13 libros • Doctrinal y Pastoral</span>
+</div>
+</div>
+<span class="bg-surface-container text-on-surface-variant px-2.5 py-0.5 rounded-full text-label-sm font-medium">Nuevo Testamento</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant">Cartas dirigidas a iglesias apostólicas centradas en la justificación por la fe, la eclesiología y la vida en el Espíritu.</p>
+<div class="grid grid-cols-1 sm:grid-cols-3 gap-2 pt-1">
+<div class="bg-surface-container-low/60 hover:bg-surface-container border border-outline-variant/30 rounded-lg p-2.5 flex items-center justify-between cursor-pointer transition-colors group">
+<div>
+<span class="font-label-lg text-label-md font-semibold text-on-surface group-hover:text-primary">Romanos</span>
+<p class="font-label-sm text-[11px] text-on-surface-variant">16 cap • Gracia y fe</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[18px] group-hover:text-primary" data-icon="chevron_right">chevron_right</span>
+</div>
+<div class="bg-surface-container-low/60 hover:bg-surface-container border border-outline-variant/30 rounded-lg p-2.5 flex items-center justify-between cursor-pointer transition-colors group">
+<div>
+<span class="font-label-lg text-label-md font-semibold text-on-surface group-hover:text-primary">Gálatas</span>
+<p class="font-label-sm text-[11px] text-on-surface-variant">6 cap • Libertad cristiana</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[18px] group-hover:text-primary" data-icon="chevron_right">chevron_right</span>
+</div>
+<div class="bg-surface-container-low/60 hover:bg-surface-container border border-outline-variant/30 rounded-lg p-2.5 flex items-center justify-between cursor-pointer transition-colors group">
+<div>
+<span class="font-label-lg text-label-md font-semibold text-on-surface group-hover:text-primary">Efesios</span>
+<p class="font-label-sm text-[11px] text-on-surface-variant">6 cap • Riquezas en Cristo</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[18px] group-hover:text-primary" data-icon="chevron_right">chevron_right</span>
+</div>
+</div>
+</div>
+<!-- Género 2: Evangelios -->
+<div class="bg-surface-container-lowest border border-outline-variant/60 rounded-xl p-space-md shadow-sm space-y-3">
+<div class="flex items-center justify-between border-b border-surface-container pb-2.5">
+<div class="flex items-center gap-2.5">
+<div class="w-9 h-9 rounded-full bg-secondary-fixed text-on-secondary-fixed flex items-center justify-center">
+<span class="material-symbols-outlined text-[20px]" data-icon="menu_book">menu_book</span>
+</div>
+<div>
+<h4 class="font-headline-sm text-[16px] font-bold text-on-surface">Evangelios</h4>
+<span class="font-label-sm text-label-sm text-outline">4 libros • Narrativa y Teología Cristológica</span>
+</div>
+</div>
+<span class="bg-secondary-container text-on-secondary-container px-2.5 py-0.5 rounded-full text-label-sm font-semibold">En Curso</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant">Relatos históricos del ministerio terrenal, crucifixión y resurrección del Mesías prometido desde cuatro perspectivas sinópticas y joánicas.</p>
+<div class="grid grid-cols-2 sm:grid-cols-4 gap-2 pt-1">
+<div class="bg-primary-fixed/20 border-2 border-primary/40 rounded-lg p-2.5 flex items-center justify-between cursor-pointer transition-colors group">
+<div>
+<span class="font-label-lg text-label-md font-bold text-primary">Mateo</span>
+<p class="font-label-sm text-[11px] text-on-surface-variant">28 cap • Rey e Hijos</p>
+</div>
+<span class="material-symbols-outlined text-primary text-[18px]" data-icon="play_circle">play_circle</span>
+</div>
+<div class="bg-surface-container-low/60 hover:bg-surface-container border border-outline-variant/30 rounded-lg p-2.5 flex items-center justify-between cursor-pointer transition-colors group">
+<div>
+<span class="font-label-lg text-label-md font-semibold text-on-surface group-hover:text-primary">Marcos</span>
+<p class="font-label-sm text-[11px] text-on-surface-variant">16 cap • Siervo Sufriente</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[18px] group-hover:text-primary" data-icon="chevron_right">chevron_right</span>
+</div>
+<div class="bg-surface-container-low/60 hover:bg-surface-container border border-outline-variant/30 rounded-lg p-2.5 flex items-center justify-between cursor-pointer transition-colors group">
+<div>
+<span class="font-label-lg text-label-md font-semibold text-on-surface group-hover:text-primary">Lucas</span>
+<p class="font-label-sm text-[11px] text-on-surface-variant">24 cap • Hijo del Hombre</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[18px] group-hover:text-primary" data-icon="chevron_right">chevron_right</span>
+</div>
+<div class="bg-surface-container-low/60 hover:bg-surface-container border border-outline-variant/30 rounded-lg p-2.5 flex items-center justify-between cursor-pointer transition-colors group">
+<div>
+<span class="font-label-lg text-label-md font-semibold text-on-surface group-hover:text-primary">Juan</span>
+<p class="font-label-sm text-[11px] text-on-surface-variant">21 cap • Verbo Divino</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[18px] group-hover:text-primary" data-icon="chevron_right">chevron_right</span>
+</div>
+</div>
+</div>
+<!-- Género 3: Cartas Universales -->
+<div class="bg-surface-container-lowest border border-outline-variant/60 rounded-xl p-space-md shadow-sm space-y-3">
+<div class="flex items-center justify-between border-b border-surface-container pb-2.5">
+<div class="flex items-center gap-2.5">
+<div class="w-9 h-9 rounded-full bg-surface-container text-primary flex items-center justify-center">
+<span class="material-symbols-outlined text-[20px]" data-icon="forum">forum</span>
+</div>
+<div>
+<h4 class="font-headline-sm text-[16px] font-bold text-on-surface">Cartas Universales</h4>
+<span class="font-label-sm text-label-sm text-outline">8 libros • Exhortación General</span>
+</div>
+</div>
+<span class="bg-surface-container text-on-surface-variant px-2.5 py-0.5 rounded-full text-label-sm font-medium">Nuevo Testamento</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant">Instrucciones éticas, perseverancia en la fe frente a la persecución y madurez comunitaria dirigidas a la iglesia universal dispersa.</p>
+<div class="grid grid-cols-1 sm:grid-cols-3 gap-2 pt-1">
+<div class="bg-surface-container-low/60 hover:bg-surface-container border border-outline-variant/30 rounded-lg p-2.5 flex items-center justify-between cursor-pointer transition-colors group">
+<div>
+<span class="font-label-lg text-label-md font-semibold text-on-surface group-hover:text-primary">Hebreos</span>
+<p class="font-label-sm text-[11px] text-on-surface-variant">13 cap • Sumo Sacerdote</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[18px] group-hover:text-primary" data-icon="chevron_right">chevron_right</span>
+</div>
+<div class="bg-surface-container-low/60 hover:bg-surface-container border border-outline-variant/30 rounded-lg p-2.5 flex items-center justify-between cursor-pointer transition-colors group">
+<div>
+<span class="font-label-lg text-label-md font-semibold text-on-surface group-hover:text-primary">Santiago</span>
+<p class="font-label-sm text-[11px] text-on-surface-variant">5 cap • Fe demostrada</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[18px] group-hover:text-primary" data-icon="chevron_right">chevron_right</span>
+</div>
+<div class="bg-surface-container-low/60 hover:bg-surface-container border border-outline-variant/30 rounded-lg p-2.5 flex items-center justify-between cursor-pointer transition-colors group">
+<div>
+<span class="font-label-lg text-label-md font-semibold text-on-surface group-hover:text-primary">1 y 2 Pedro</span>
+<p class="font-label-sm text-[11px] text-on-surface-variant">8 cap • Esperanza viva</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[18px] group-hover:text-primary" data-icon="chevron_right">chevron_right</span>
+</div>
+</div>
+</div>
+</div></section>
+<!-- SECTION: Descubrir Nuevos Planes -->
+<!-- Daily Reflection Floating Banner / Sanctuary Prompt -->
+<section class="bg-surface-container border border-outline-variant/40 rounded-xl p-space-md sm:p-space-lg flex flex-col sm:flex-row items-center justify-between gap-4"><div class="flex items-center gap-3">
+<div class="p-3 rounded-full bg-secondary-fixed text-on-secondary-fixed">
+<span class="material-symbols-outlined text-[24px]" data-icon="menu_book">menu_book</span>
+</div>
+<div>
+<h4 class="font-headline-sm text-headline-sm font-semibold text-on-surface">Sesión Semanal de Exégesis</h4>
+<p class="font-body-md text-body-md text-on-surface-variant">Siguiente capítulo programado: Mateo 13 (Parábolas del Reino).</p>
+</div>
+</div>
+<button class="w-full sm:w-auto bg-surface-container-lowest hover:bg-surface border border-outline-variant/60 text-on-surface font-label-md text-label-md py-2.5 px-4 rounded-lg active:scale-95 transition-all">
+Configurar ritmo
+</button></section>
+</main>
+<!-- Bottom Navigation Bar (Shared Component: Pestaña 'Planes' Activa) -->
+<nav class="fixed bottom-0 left-0 w-full z-50 flex justify-around items-center px-space-sm py-space-xs bg-surface/90 backdrop-blur-md shadow-[0_-4px_24px_rgba(45,40,37,0.06)]"><!-- Inicio (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant px-space-sm py-space-xs hover:text-primary transition-colors duration-150 active:scale-95" href="#">
+<span class="material-symbols-outlined text-[22px]" data-icon="home">home</span>
+<span class="font-label-sm text-label-sm mt-0.5">Inicio</span>
+</a>
+<!-- Lector (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant px-space-sm py-space-xs hover:text-primary transition-colors duration-150 active:scale-95" href="#">
+<span class="material-symbols-outlined text-[22px]" data-icon="menu_book">menu_book</span>
+<span class="font-label-sm text-label-sm mt-0.5">Lector</span>
+</a>
+<!-- Estudio (ACTIVE: Tono cálido secondary-container) -->
+<a class="flex flex-col items-center justify-center bg-secondary-container text-on-secondary-container rounded-xl px-space-sm py-space-xs active:scale-95 transition-transform duration-150 shadow-sm" href="#">
+<span class="material-symbols-outlined text-[22px]" data-icon="auto_stories" data-weight="fill" style="font-variation-settings: 'FILL' 1;">auto_stories</span>
+<span class="font-label-sm text-label-sm font-semibold mt-0.5">Estudio</span>
+</a>
+<!-- Notas (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant px-space-sm py-space-xs hover:text-primary transition-colors duration-150 active:scale-95" href="#">
+<span class="material-symbols-outlined text-[22px]" data-icon="edit_note">edit_note</span>
+<span class="font-label-sm text-label-sm mt-0.5">Notas</span>
+</a>
+<!-- Perfil (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant px-space-sm py-space-xs hover:text-primary transition-colors duration-150 active:scale-95" href="#">
+<span class="material-symbols-outlined text-[22px]" data-icon="person">person</span>
+<span class="font-label-sm text-label-sm mt-0.5">Perfil</span>
+</a></nav>
+
+
+</body></html>

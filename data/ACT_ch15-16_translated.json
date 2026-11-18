@@ -1,0 +1,642 @@
+[
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 1,
+    "greek_text": "Καί τινες κατελθόντες ἀπὸ τῆς Ἰουδαίας ἐδίδασκον τοὺς ἀδελφοὺς ὅτι Ἐὰν μὴ περιτμηθῆτε τῷ ἔθει τῷ Μωϋσέως, οὐ δύνασθε σωθῆναι.",
+    "translation": "Y algunos que descendieron de Judea enseñaban a los hermanos: «A menos que se circunciden conforme al rito de Moisés, no pueden ser salvos».",
+    "translation_notes": "El detonante de la crisis de la circuncisión: maestros judaizantes bajan de Judea a la iglesia gentil de Antioquía. Formulan una condición soteriológica excluyente: Ἐὰν μὴ περιτμηθῆτε... οὐ δύνασθε σωθῆναι ('si no son circuncidados... no pueden ser salvos'). Reducen la justificación por la fe a un apéndice de la observancia halájica mosaica (τῷ ἔθει τῷ Μωϋσέως), convirtiendo el pacto abrahámico en un requisito indispensable para pertenecer a la comunidad mesiánica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 2,
+    "greek_text": "γενομένης δὲ στάσεως καὶ ζητήσεως οὐκ ὀλίγης τῷ Παύλῳ καὶ τῷ Βαρναβᾷ πρὸς αὐτοὺς ἔταξαν ἀναβαίνειν Παῦλον καὶ Βαρναβᾶν καί τινας ἄλλους ἐξ αὐτῶν πρὸς τοὺς ἀποστόλους καὶ πρεσβυτέρους εἰς Ἰερουσαλὴμ περὶ τοῦ ζητήματος τούτου.",
+    "translation": "Habiéndose producido una fuerte disensión y un debate no pequeño entre Pablo y Bernabé contra ellos, determinaron que Pablo, Bernabé y algunos otros de ellos subieran a Jerusalén, a los apóstoles y a los ancianos, para tratar esta cuestión disputada.",
+    "translation_notes": "Confrontación dialéctica y delegación eclesial: el sustantivo στάσις denota una controversia enconada, conflicto o insurrección doctrinal, acompañada de ζητήσεως οὐκ ὀλίγης ('un debate no pequeño', intensa disputa teológica). La iglesia de Antioquía comisiona formalmente (ἔταξαν) una delegación oficial encabezada por Pablo y Bernabé ante el colegio apostólico y el presbiterio de Jerusalén (πρὸς τοὺς ἀποστόλους καὶ πρεσβυτέρους) para dirimir jurídicamente el asunto."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 3,
+    "greek_text": "οἱ μὲν οὖν προπεμφθέντες ὑπὸ τῆς ἐκκλησίας διήρχοντο τήν τε Φοινίκην καὶ Σαμάρειαν ἐκδιηγούμενοι τὴν ἐπιστροφὴν τῶν ἐθνῶν, καὶ ἐποίουν χαρὰν μεγάλην πᾶσι τοῖς ἀδελφοῖς.",
+    "translation": "Ellos, pues, siendo despedidos y provistos para el viaje por la iglesia, atravesaban Fenicia y Samaria relatando con todo detalle la conversión de los gentiles; y causaban gran gozo a todos los hermanos.",
+    "translation_notes": "El participio pasivo προπεμφθέντες (de propempō) es un término técnico que describe el acto de proveer vituallas, escoltar y despedir con bendición solemne a una delegación misionera. A su paso por Fenicia y Samaria narran con pormenor (ἐκδιηγούμενοι) la 'conversión de los gentiles' (τὴν ἐπιστροφὴν τῶν ἐθνῶν), desatando un gozo desbordante entre los creyentes helenistas y samaritanos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 4,
+    "greek_text": "παραγενόμενοι δὲ εἰς Ἱεροσόλυμα παρεδέχθησαν ἀπὸ τῆς ἐκκλησίας καὶ τῶν ἀποστόλων καὶ τῶν πρεσβυτέρων, ἀνήγγειλάν τε ὅσα ὁ θεὸς ἐποίησεν μετ’ αὐτῶν.",
+    "translation": "Llegados a Jerusalén, fueron recibidos calurosamente por la iglesia, los apóstoles y los ancianos, e informaron de todas las cosas que Dios había hecho en colaboración con ellos.",
+    "translation_notes": "Recepción oficial conciliar: el verbo παρεδέχθησαν denota una acogida formal, honorable y fraterna. Rinden testimonio ante los tres estamentos de la comunidad madre (iglesia, apóstoles y ancianos). Destacan la soberanía divina como causa eficiente: 'todo lo que Dios había hecho con ellos' (μετ’ αὐτῶν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 5,
+    "greek_text": "ἐξανέστησαν δέ τινες τῶν ἀπὸ τῆς αἱρέσεως τῶν Φαρισαίων πεπιστευκότες, λέγοντες ὅτι δεῖ περιτέμνειν αὐτοὺς παραγγέλλειν τε τηρεῖν τὸν νόμον Μωϋσέως.",
+    "translation": "Pero se levantaron algunos de la secta de los fariseos que habían creído, diciendo: «Es indispensable circuncidarlos y ordenarles que guarden la ley de Moisés».",
+    "translation_notes": "La postura del partido fariseo converso: creyentes genuinos pero procedentes de la 'secta de los fariseos' (τῆς αἱρέσεως τῶν Φαρισαίων πεπιστευκότες), celosos custodios de la pureza legal. Plantean una doble exigencia imperativa (δεῖ): la circuncisión quirúrgica (περιτέμνειν) y la observancia estricta de todo el código de la Torá mosaica (τηρεῖν τὸν νόμον Μωϋσέως) como condición para la membresía plena."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 6,
+    "greek_text": "Συνήχθησάν τε οἱ ἀπόστολοι καὶ οἱ πρεσβύτεροι ἰδεῖν περὶ τοῦ λόγου τούτου.",
+    "translation": "Se reunieron entonces los apóstoles y los ancianos para deliberar acerca de este asunto.",
+    "translation_notes": "Convocatoria formal del Concilio de Jerusalén (aprox. 48–49 d.C.): los apóstoles y los ancianos se congregan en sínodo deliberativo. El infinitivo ἰδεῖν ('examinar, considerar críticamente') señala un proceso sinodal de discernimiento colegiado y análisis teológico profundo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 7,
+    "greek_text": "πολλῆς δὲ ζητήσεως γενομένης ἀναστὰς Πέτρος εἶπεν πρὸς αὐτούς· Ἄνδρες ἀδελφοί, ὑμεῖς ἐπίστασθε ὅτι ἀφ’ ἡμερῶν ἀρχαίων ἐν ὑμῖν ἐξελέξατο ὁ θεὸς διὰ τοῦ στόματός μου ἀκοῦσαι τὰ ἔθνη τὸν λόγον τοῦ εὐαγγελίου καὶ πιστεῦσαι,",
+    "translation": "Y habiendo surgido una prolongada discusión, Pedro se puso de pie y les dijo: «Varones hermanos, ustedes saben bien que desde los primeros días Dios escogió entre ustedes que por mi boca los gentiles oyeran la palabra del evangelio y creyeran;",
+    "translation_notes": "Intervención magisterial de Pedro: tras un debate exhaustivo (πολλῆς ζητήσεως γενομένης), Pedro se levanta como testigo primordial de la revelación de Cornelio (Hch 10). La locución ἀφ’ ἡμερῶν ἀρχαίων ('desde los primeros días / hace ya bastante tiempo') alude a los diez años transcurridos desde Cesarea. Subraya que la iniciativa de abrir la fe a los gentiles por su boca fue una elección soberana directa de Dios (ἐξελέξατο ὁ θεός)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 8,
+    "greek_text": "καὶ ὁ καρδιογνώστης θεὸς ἐμαρτύρησεν αὐτοῖς δοὺς τὸ πνεῦμα τὸ ἅγιον καθὼς καὶ ἡμῖν,",
+    "translation": "y Dios, que conoce los corazones, dio testimonio a favor de ellos dándoles el Espíritu Santo tal como a nosotros;",
+    "translation_notes": "Atributo divino supremo: ὁ καρδιογνώστης θεός ('Dios, el conocedor omnisciente de los corazones', título exclusivo registrado únicamente aquí y en Hch 1:24). Dios conoce la pureza interior de la fe antes y al margen de cualquier cirugía ritual externa. El don del Espíritu Santo otorgado a los gentiles fungió como testimonio probatorio divino concluyente (ἐμαρτύρησεν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 9,
+    "greek_text": "καὶ οὐθὲν διέκρινεν μεταξὺ ἡμῶν τε καὶ αὐτῶν, τῇ πίστει καθαρίσας τὰς καρδίας αὐτῶν.",
+    "translation": "y ninguna distinción hizo entre nosotros y ellos, purificando por la fe sus corazones.",
+    "translation_notes": "Axioma eclesiológico y soteriológico radical: οὐθὲν διέκρινεν μεταξὺ ἡμῶν τε καὶ αὐτῶν ('no hizo diferencia ni discriminación alguna entre nosotros y ellos'). La purificación ritual levítica queda superada y redefinida en términos interiores: τῇ πίστει καθαρίσας τὰς καρδίας αὐτῶν ('habiendo purificado sus corazones por medio de la fe'). La fe en Cristo produce la verdadera catarsis moral y ontológica que la circuncisión y los lavamientos ceremoniales jamás pudieron obrar."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 10,
+    "greek_text": "νῦν οὖν τί πειράζετε τὸν θεόν, ἐπιθεῖναι ζυγὸν ἐπὶ τὸν τράχηλον τῶν μαθητῶν ὃν οὔτε οἱ πατέρες ἡμῶν οὔτε ἡμεῖς ἰσχύσαμεν βαστάσαι;",
+    "translation": "Ahora, pues, ¿por qué ponen a prueba a Dios, imponiendo sobre el cuello de los discípulos un yugo que ni nuestros antepasados ni nosotros mismos hemos podido sobrellevar?",
+    "translation_notes": "Denuncia de la provocación idolátrica de la Ley: 'poner a prueba a Dios' (τί πειράζετε τὸν θεόν) al cuestionar la suficiencia de su gracia ya manifestada. La metáfora del 'yugo' (ζυγόν, empleado en el judaísmo rabínico con orgullo como 'el yugo de la Torá', 'ol torah') es redefinido por Pedro como una carga intolerable y aplastante que ni los propios judíos de ninguna generación histórica pudieron cargar con éxito moral irreprochable."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 11,
+    "greek_text": "ἀλλὰ διὰ τῆς χάριτος τοῦ κυρίου Ἰησοῦ πιστεύομεν σωθῆναι καθ’ ὃν τρόπον κἀκεῖνοι.",
+    "translation": "Al contrario, creemos que somos salvos por la gracia del Señor Jesús, del mismo modo que ellos».",
+    "translation_notes": "El clímax doctrinal de la 'Sola Gratia': declaración teológica monumental de Pedro. La salvación no se obtiene por méritos de observancia legal mosaica, sino exclusivamente 'por la gracia del Señor Jesús' (διὰ τῆς χάριτος τοῦ κυρίου Ἰησοῦ). La inversión retórica es asombrosa: Pedro no dice que los gentiles se salvan al modo de los judíos, sino que los judíos creyentes son salvos 'del mismo modo que ellos' (καθ’ ὃν τρόπον κἀκεῖνοι), erigiendo la justificación gratuita de los gentiles en el paradigma salvífico universal."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 12,
+    "greek_text": "Ἐσίγησεν δὲ πᾶν τὸ πλῆθος, καὶ ἤκουον Βαρναβᾶ καὶ Παύλου ἐξηγουμένων ὅσα ἐποίησεν ὁ θεὸς σημεῖα καὶ τέρατα ἐν τοῖς ἔθνεσιν δι’ αὐτῶν.",
+    "translation": "Toda la multitud guardó silencio, y escuchaban a Bernabé y a Pablo narrar detalladamente cuán grandes señales y prodigios había hecho Dios entre los gentiles por medio de ellos.",
+    "translation_notes": "Silencio reverente de la asamblea (Ἐσίγησεν πᾶν τὸ πλῆθος) ante la contundencia del argumento de Pedro. Bernabé y Pablo intervienen no para teorizar, sino para corroborar empíricamente con hechos milagrosos (σημεῖα καὶ τέρατα) cómo Dios acreditó su ministerio entre las naciones incircuncisas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 13,
+    "greek_text": "μετὰ δὲ τὸ σιγῆσαι αὐτοὺς ἀπεκρίθη Ἰάκωβος λέγων· Ἄνδρες ἀδελφοί, ἀκούσατέ μου.",
+    "translation": "Y cuando ellos terminaron de hablar, Jacobo intervino diciendo: «Varones hermanos, escúchenme:",
+    "translation_notes": "Intervención de Jacobo (Santiago el Justo, hermano del Señor): como presidente y máxima autoridad pastoral del concilio de Jerusalén, asume la formulación del dictamen definitivo. Pide audiencia formal con autoridad magisterial (ἀκούσατέ μου)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 14,
+    "greek_text": "Συμεὼν ἐξηγήσατο καθὼς πρῶτον ὁ θεὸς ἐπεσκέψατο λαβεῖν ἐξ ἐθνῶν λαὸν τῷ ὀνόματι αὐτοῦ.",
+    "translation": "Simeón ha explicado cómo Dios al principio intervino para tomar de entre los gentiles un pueblo para su nombre.",
+    "translation_notes": "Precisión lingüística y teológica de Jacobo: se refiere a Pedro con su nombre hebreo/arameo más arcaico: Συμεών (Symeōn, Šim'on), reflejando el ambiente judío jerosolimitano. El verbo ἐπεσκέψατο ('visitó con propósito redentor providencial'). La paradoja teológica es monumental: tomar de entre los gentiles (ἐξ ἐθνῶν) un 'pueblo' (λαόν, término reservado exclusivamente en el Antiguo Testamento para Israel como pueblo consagrado de Yahvé) para portar su Nombre divino."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 15,
+    "greek_text": "καὶ τούτῳ συμφωνοῦσιν οἱ λόγοι τῶν προφητῶν, καθὼς γέγραπται·",
+    "translation": "Y con esto concuerdan las palabras de los profetas, tal como está escrito:",
+    "translation_notes": "El principio hermenéutico de la consonancia profética: el verbo συμφωνοῦσιν ('armonizan en perfecta sinfonía'). Jacobo demuestra que la admisión de los gentiles no es una novedad herética ni una ruptura improvisada, sino el designio prometido por el corpus profético unánime de las Escrituras."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 16,
+    "greek_text": "Μετὰ ταῦτα ἀναστρέψω καὶ ἀνοικοδομήσω τὴν σκηνὴν Δαυὶδ τὴν πεπτωκυῖαν καὶ τὰ κατεσκαμμένα αὐτῆς ἀνοικοδομήσω καὶ ἀνορθώσω αὐτήν,",
+    "translation": "«Después de estas cosas volveré y reedificaré la tienda caída de David; y reedificaré sus ruinas y la levantaré de nuevo,",
+    "translation_notes": "Cita de Amós 9:11-12 según la versión de la Septuaginta (LXX). La 'tienda de David' (τὴν σκηνὴν Δαυίδ) simboliza la dinastía davídica caída tras el exilio babilónico, la cual es restaurada y reedificada escatológicamente en la entronización regia de Jesús el Mesías resucitado."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 17,
+    "greek_text": "ὅπως ἂν ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων τὸν κύριον, καὶ πάντα τὰ ἔθνη ἐφ’ οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ’ αὐτούς, λέγει κύριος ποιῶν ταῦτα",
+    "translation": "para que el resto de la humanidad busque al Señor, y todos los gentiles sobre los cuales es invocado mi nombre, dice el Señor que hace estas cosas,",
+    "translation_notes": "Universalismo profético: la lectura de la Septuaginta lee 'los restantes de los hombres' (οἱ κατάλοιποι τῶν ἀνθρώπων, traduciendo 'Adam' en vez del texto masorético 'Edom'). La cláusula jurídica semítica ἐφ’ οὓς ἐπικέκληται τὸ ὄνομα ('sobre quienes ha sido proclamado e invocado mi nombre') indica consagración soberana como propiedad legítima de Dios: las naciones paganas son incorporadas a Dios directamente en su condición de gentiles (πάντα τὰ ἔθνη)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 18,
+    "greek_text": "γνωστὰ ἀπ’ αἰῶνος.",
+    "translation": "conocidas desde la eternidad».",
+    "translation_notes": "La predeterminación del plan divino: γνωστὰ ἀπ’ αἰῶνος ('conocidas y decretadas desde siempre / desde los siglos'). La salvación incircuncisa de las naciones no es un plan correctivo de emergencia, sino el propósito cósmico primordial concebido por Dios antes de la creación del mundo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 19,
+    "greek_text": "διὸ ἐγὼ κρίνω μὴ παρενοχλεῖν τοῖς ἀπὸ τῶν ἐθνῶν ἐπιστρέφουσιν ἐπὶ τὸν θεόν,",
+    "translation": "«Por lo cual yo juzgo que no se debe perturbar con trabas a los gentiles que se convierten a Dios,",
+    "translation_notes": "El veredicto magisterial de Jacobo: la fórmula jurídica solemne ἐγὼ κρίνω ('yo emito sentencia / es mi dictamen oficial'). El verbo compuesto παρενοχλεῖν significa 'poner estorbos gravosos, molestar innecesariamente con exigencias secundarias'. El concilio resuelve no imponer la circuncisión ni el yugo legal a los gentiles conversos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 20,
+    "greek_text": "ἀλλὰ ἐπιστεῖλαι αὐτοῖς τοῦ ἀπέχεσθαι τῶν ἀλισγημάτων τῶν εἰδώλων καὶ τῆς πορνείας καὶ τοῦ πνικτοῦ καὶ τοῦ αἵματος·",
+    "translation": "sino escribirles que se abstengan de las contaminaciones de los ídolos, de la inmoralidad sexual, de carne de animales estrangulados y de sangre.",
+    "translation_notes": "Las cuatro cláusulas del Decreto Apostólico para la comensalidad: estas cuatro estipulaciones no son requisitos soteriológicos para ser salvos, sino normas éticas y de convivencia halájica (basadas en el código para extranjeros residentes de Levítico 17–18) para hacer posible la comunión de mesa entre cristianos de origen judío y gentil sin ofender la conciencia judía: 1) abstenerse de las impurezas idolátricas (ἀλισγημάτων τῶν εἰδώλων, carne sacrificada a deidades paganas); 2) de la inmoralidad sexual (πορνείας, uniones incestuosas vetadas en Lv 18 y promiscuidad cultual helenística); 3) de carne estrangulada (πνικτοῦ, sin desangrar adecuadamente); y 4) del consumo directo de sangre (αἵματος, prohibido desde el pacto noájico en Gn 9:4 y Lv 17:10-14)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 21,
+    "greek_text": "Μωϋσῆς γὰρ ἐκ γενεῶν ἀρχαίων κατὰ πόλιν τοὺς κηρύσσοντας αὐτὸν ἔχει ἐν ταῖς συναγωγαῖς κατὰ πᾶν σάββατον ἀναγινωσκόμενος.",
+    "translation": "Porque Moisés, desde generaciones antiguas, tiene en cada ciudad quienes lo proclamen, siendo leído en las sinagogas todos los días de reposo».",
+    "translation_notes": "Justificación pastoral del compromiso de convivencia: Jacobo explica que los creyentes gentiles deben respetar estas mínimas normas de santidad para no escandalizar a las comunidades judías de la diáspora, ya que la Ley de Moisés se leía públicamente cada sábado en las sinagogas de todo el Imperio romano; el desprecio flagrante de estas normas básicas de sangre e idolatría habría hecho inviable la misión evangelizadora."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 22,
+    "greek_text": "Τότε ἔδοξε τοῖς ἀποστόλοις καὶ τοῖς πρεσβυτέροις σὺν ὅλῃ τῇ ἐκκλησίᾳ ἐκλεξαμένους ἄνδρας ἐξ αὐτῶν πέμψαι εἰς Ἀντιόχειαν σὺν τῷ Παύλῳ καὶ Βαρναβᾷ, Ἰούδαν τὸν καλούμενον Βαρσαββᾶν καὶ Σιλᾶν, ἄνδρας ἡγουμένους ἐν τοῖς ἀδελφοῖς,",
+    "translation": "Entonces pareció bien a los apóstoles y a los ancianos, con toda la iglesia, elegir a algunos varones de entre ellos para enviarlos a Antioquía con Pablo y Bernabé: a Judas, apodado Barsabás, y a Silas, varones prominentes entre los hermanos,",
+    "translation_notes": "El consenso unánime del concilio: la fórmula jurídica institucional helenística ἔδοξε ('fue resuelto / pareció bien') por los apóstoles, ancianos y toda la comunidad. Para garantizar la imparcialidad del testimonio y evitar sospechas de que Pablo y Bernabé tergiversaran el veredicto, comisionan a dos líderes prestigiosos de Jerusalén: Judas Barsabás (probable hermano de José Barsabás el Justo, Hch 1:23) y Silas (ciudadano romano que se convertirá en el fiel compañero apostólico de Pablo)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 23,
+    "greek_text": "γράψαντες διὰ χειρὸς αὐτῶν· Οἱ ἀπόστολοι καὶ οἱ πρεσβύτεροι ἀδελφοὶ τοῖς κατὰ τὴν Ἀντιόχειαν καὶ Συρίαν καὶ Κιλικίαν ἀδελφοῖς τοῖς ἐξ ἐθνῶν χαίρειν.",
+    "translation": "escribiendo por medio de ellos esta carta: «Los apóstoles y los ancianos hermanos, a los hermanos de entre los gentiles que están en Antioquía, Siria y Cilicia: ¡Saludos!",
+    "translation_notes": "Protocolo epistolar oficial de la encíclica conciliar: redactada con la fórmula clásica de la correspondencia diplomática helenística (emisor + destinatario + infinitivo absoluto χαίρειν, '¡Saludos! / ¡Gozoso bienestar!'). La circular reconoce a los creyentes gentiles con el título pleno de 'hermanos' (ἀδελφοῖς τοῖς ἐξ ἐθνῶν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 24,
+    "greek_text": "ἐπειδὴ ἠκούσαμεν ὅτι τινὲς ἐξ ἡμῶν ἐξελθόντες ἐτάραξαν ὑμᾶς λόγοις ἀνασκευάζοντες τὰς ψυχὰς ὑμῶν οἷς οὐ διεστειλάμεθα,",
+    "translation": "Puesto que hemos oído que algunos que salieron de entre nosotros, a los cuales no dimos instrucción alguna, los han perturbado con sus palabras, inquietando profundamente sus almas,",
+    "translation_notes": "Desautorización explícita de los judaizantes: la cúpula apostólica desmiente tajantemente haber ordenado la propaganda legalista: οἷς οὐ διεστειλάμεθα ('a quienes en ningún momento dimos comisión ni mandato'). El verbo ἀνασκευάζοντες es un tecnicismo militar y comercial que significa 'saquear, demoler o llevar a la bancarrota espiritual'."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 25,
+    "greek_text": "ἔδοξεν ἡμῖν γενομένοις ὁμοθυμαδὸν ἐκλεξαμένοις ἄνδρας πέμψαι πρὸς ὑμᾶς σὺν τοῖς ἀγαπητοῖς ἡμῶν Βαρναβᾷ καὶ Παύλῳ,",
+    "translation": "nos ha parecido bien, habiendo llegado a un acuerdo unánime, elegir varones y enviarlos a ustedes junto con nuestros amados Bernabé y Pablo,",
+    "translation_notes": "Unanimidad conciliar y respaldo a los apóstoles misioneros: la expresión γενομένοις ὁμοθυμαδόν certifica que la resolución fue adoptada de común acuerdo armónico. Los apóstoles califican a Bernabé y a Pablo como 'nuestros amados' (τοῖς ἀγαπητοῖς ἡμῶν), restaurando y blindando públicamente su reputación ministerial frente a los ataques judaizantes."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 26,
+    "greek_text": "ἀνθρώποις παραδεδωκόσι τὰς ψυχὰς αὐτῶν ὑπὲρ τοῦ ὀνόματος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.",
+    "translation": "hombres que han arriesgado sus propias vidas por la causa del nombre de nuestro Señor Jesucristo.",
+    "translation_notes": "Elogio apostólico del martirio: el participio παραδεδωκόσι τὰς ψυχὰς αὐτῶν ('hombres que han expuesto y entregado su propia existencia física a la muerte') por lealtad al Nombre de Jesucristo, aludiendo a los padecimientos y lapidación sufridos durante el Primer Viaje Misionero (Hch 14:19)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 27,
+    "greek_text": "ἀπεστάλκαμεν οὖν Ἰούδαν καὶ Σιλᾶν, καὶ αὐτοὺς διὰ λόγου ἀπαγγέλλοντας τὰ αὐτά.",
+    "translation": "De modo que hemos enviado a Judas y a Silas, quienes también les transmitirán personalmente las mismas cosas de viva voz.",
+    "translation_notes": "Garantía probatoria oral: para evitar que la epístola escrita pudiera ser tildada de falsificación o tergiversación, envían a Judas y Silas para confirmar el mensaje 'de viva voz' (διὰ λόγου)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 28,
+    "greek_text": "ἔδοξεν γὰρ τῷ πνεύματι τῷ ἁγίῳ καὶ ἡμῖν μηδὲν πλέον ἐπιτίθεσθαι ὑμῖν βάρος πλὴν τούτων τῶν ἐπάναγκες,",
+    "translation": "Porque pareció bien al Espíritu Santo y a nosotros no imponerles a ustedes ninguna carga adicional fuera de estas cosas indispensables:",
+    "translation_notes": "La fórmula conciliar clásica de autoridad colegiada inspirada: ἔδοξεν γὰρ τῷ πνεύματι τῷ ἁγίῳ καὶ ἡμῖν ('ha parecido bien al Espíritu Santo y a nosotros'). El colegio apostólico reconoce al Espíritu como el verdadero legislador y presidente sinodal que guió la deliberación comunitaria. Se garantiza la libertad evangélica repudiando cualquier carga legal adicional (μηδὲν πλέον βάρος), limitándose estrictamente a lo indispensable (τῶν ἐπάναγκες) para la convivencia pacífica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 29,
+    "greek_text": "ἀπέχεσθαι εἰδωλοθύτων καὶ αἵματος καὶ πνικτῶν καὶ πορνείας· ἐξ ὧν διατηροῦντες ἑαυτοὺς εὖ πράξετε. ἔρρωσθε.",
+    "translation": "que se abstengan de lo sacrificado a los ídolos, de sangre, de carne de animales estrangulados y de inmoralidad sexual; de las cuales cosas, si se guardan diligentemente, harán bien. ¡Que les vaya bien!».",
+    "translation_notes": "Reiteración del Decreto Apostólico y despedida epistolar: se listan las prohibiciones halájicas básicas: εἰδωλοθύτων (carnes idolátricas sacrificadas en templos paganos), αἵματος (ingestión de sangre), πνικτῶν (carnes asfixiadas) y πορνείας (uniones sexuales ilícitas). La fórmula final ἔρρωσθε (imperativo perfecto pasivo de rhōnnymi, '¡manténganse con salud y fortaleza!') es el cierre oficial clásico de los documentos jurídicos imperiales grecorromanos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 30,
+    "greek_text": "Οἱ μὲν οὖν ἀπολυθέντες κατῆλθον εἰς Ἀντιόχειαν, καὶ συναγαγόντες τὸ πλῆθος ἐπέδωκαν τὴν ἐπιστολήν·",
+    "translation": "Ellos, habiendo sido despedidos, descendieron a Antioquía; y convocando a toda la congregación, hicieron entrega de la carta.",
+    "translation_notes": "Entrega pública del decreto: la delegación desciende a Antioquía y reúne a toda la asamblea comunitaria (συναγαγόντες τὸ πλῆθος) para realizar la lectura y entrega protocolaria solemne de la encíclica (ἐπέδωκαν τὴν ἐπιστολήν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 31,
+    "greek_text": "ἀναγνόντες δὲ ἐχάρησαν ἐπὶ τῇ παρακλήσει.",
+    "translation": "Y habiéndola leído, se regocijaron enormemente por el consuelo y la exhortación recibida.",
+    "translation_notes": "Alivio y alegría de la libertad: el sustantivo παράκλησις tiene el doble matiz de 'consuelo reconfortante' (al verse libres definitivamente de la exigencia de la circuncisión) y 'exhortación fraterna' a vivir en santidad y respeto mutuo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 32,
+    "greek_text": "Ἰούδας τε καὶ Σιλᾶς, καὶ αὐτοὶ προφῆται ὄντες, διὰ λόγου πολλοῦ παρεκάλεσαν τοὺς ἀδελφοὺς καὶ ἐπεστήριξαν·",
+    "translation": "Judas y Silas, siendo ellos mismos también profetas, confortaron con un extenso discurso a los hermanos y los fortalecieron.",
+    "translation_notes": "Ministerio profético de edificación: Judas y Silas son identificados formalmente como προφῆται ('profetas'). Su ministerio no se limitó a predecir sucesos futuros, sino a proclamar la verdad con unción, exhortar (παρεκάλεσαν) y apuntalar doctrinalmente a la iglesia (ἐπεστήριξαν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 33,
+    "greek_text": "ποιήσαντες δὲ χρόνον ἀπελύθησαν μετ’ εἰρήνης ἀπὸ τῶν ἀδελφῶν πρὸς τοὺς ἀποστείλαντας αὐτούς.",
+    "translation": "Y habiendo pasado algún tiempo allí, fueron despedidos en paz por los hermanos para volver a los que los habían enviado.",
+    "translation_notes": "Despedida fraterna en paz (ἀπελύθησαν μετ’ εἰρήνης). El versículo 34 («Sin embargo, a Silas le pareció bien quedarse allí») no figura en los manuscritos griegos más antiguos y fidedignos (P74, Sinaítico, Alejandrino, Vaticano), siendo una glosa tardía del Texto Occidental para explicar por qué Silas reaparece en el v. 40 con Pablo. El texto crítico SBLGNT / NA28 omite el versículo 34 pasando de inmediato al versículo 35."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 35,
+    "greek_text": "Παῦλος δὲ καὶ Βαρναβᾶς διέτριβον ἐν Ἀντιοχείᾳ διδάσκοντες καὶ εὐαγγελιζόμενοι μετὰ καὶ ἑτέρων πολλῶν τὸν λόγον τοῦ κυρίου.",
+    "translation": "Pablo y Bernabé, en cambio, se quedaron en Antioquía, enseñando y proclamando las buenas noticias de la palabra del Señor junto con muchos otros.",
+    "translation_notes": "Fructífero ministerio docente en Antioquía: los verbos διδάσκοντες ('instruyendo doctrinalmente') y εὐαγγελιζόμενοι ('proclamando el evangelio a los de afuera') denotan una intensa actividad apostólica en colaboración con un nutrido equipo pastoral local (μετὰ καὶ ἑτέρων πολλῶν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 36,
+    "greek_text": "Μετὰ δέ τινας ἡμέρας εἶπεν πρὸς Βαρναβᾶν Παῦλος· Ἐπιστρέψαντες δὴ ἐπισκεψώμεθα τοὺς ἀδελφοὺς κατὰ πόλιν πᾶσαν ἐν αἷς κατηγγείλαμεν τὸν λόγον τοῦ κυρίου, πῶς ἔχουσιν.",
+    "translation": "Pasados algunos días, Pablo dijo a Bernabé: «Volvamos ya a visitar e inspeccionar el estado de los hermanos en cada una de las ciudades donde proclamamos la palabra del Señor, para ver cómo se encuentran».",
+    "translation_notes": "Iniciativa del Segundo Viaje Misionero: el subjuntivo exhortativo ἐπισκεψώμεθα (de episkeptomai, término pastoral y médico que significa 'visitar para cuidar, auscultar y verificar el estado espiritual de alguien'). Pablo propone una gira pastoral de seguimiento por las comunidades fundadas en el primer viaje."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 37,
+    "greek_text": "Βαρναβᾶς δὲ ἐβούλετο συμπαραλαβεῖν καὶ τὸν Ἰωάννην τὸν καλούμενον Μᾶρκον·",
+    "translation": "Bernabé quería llevar también consigo a Juan, conocido como Marcos;",
+    "translation_notes": "Deseo pastoral de restauración de Bernabé: el imperfecto ἐβούλετο denota una determinación persistente. Fiel a su temperamento misericordioso de 'hijo de consolación', Bernabé deseaba otorgar una segunda oportunidad ministerial a su primo Juan Marcos (cf. Col 4:10)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 38,
+    "greek_text": "Παῦλος δὲ ἠξίου, τὸν ἀποστάντα ἀπ’ αὐτῶν ἀπὸ Παμφυλίας καὶ μὴ συνελθόντα αὐτοῖς εἰς τὸ ἔργον, μὴ συμπαραλαμβάνειν τοῦτον.",
+    "translation": "pero Pablo consideraba justo y adecuado no llevar consigo a quien se había apartado desertando de ellos desde Panfilia y no los había acompañado en la obra.",
+    "translation_notes": "Rigor apostólico de Pablo: el verbo ἠξίου ('estimaba digno y justo según un criterio ético-operativo'). El participio ἀποστάντα (de aphistēmi, de donde deriva 'apostasía', denota deserción militar o abandono cobarde del deber) resalta la gravedad del abandono de Marcos en Perge (Hch 13:13). Pablo consideraba que un carácter inestable ponía en peligro la seguridad de toda la misión."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 39,
+    "greek_text": "ἐγένετο δὲ παροξυσμὸς ὥστε ἀποχωρισθῆναι αὐτοὺς ἀπ’ ἀλλήλων, τόν τε Βαρναβᾶν παραλαβόντα τὸν Μᾶρκον ἐκπλεῦσαι εἰς Κύπρον,",
+    "translation": "Se produjo entonces una discrepancia tan enconada que se separaron el uno del otro; y Bernabé, tomando consigo a Marcos, zarpó rumbo a Chipre;",
+    "translation_notes": "La ruptura dolorosa entre los apóstoles: el término médico y literario παροξυσμός (paroxysmos, de donde procede 'paroxismo') denota una crisis aguda, irritación severa o choque emocional frontal irreconciliable. La honestidad historiográfica de Lucas no disfraza las discrepancias humanas de los apóstoles. Dios encauzó esta dolorosa división para duplicar las rutas misioneras: Bernabé navega con Marcos a su natal Chipre (donde más tarde Marcos madurará hasta reconciliarse plenamente con Pablo, cf. 2 Tm 4:11; Flm 24)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 40,
+    "greek_text": "Παῦλος δὲ ἐπιλεξάμενος Σιλᾶν ἐξῆλθεν παραδοθεὶς τῇ χάριτι τοῦ κυρίου ὑπὸ τῶν ἀδελφῶν,",
+    "translation": "mientras que Pablo escogió a Silas y partió, habiendo sido encomendado por los hermanos a la gracia del Señor;",
+    "translation_notes": "Elección estratégica de Silas: Pablo elige a Silas (Silvano), quien reunía cualidades óptimas: era profeta respetado de la iglesia de Jerusalén (v. 32), portador oficial del decreto apostólico y ciudadano romano (Hch 16:37). La iglesia de Antioquía avala formalmente el nuevo equipo encomendándolo solemnemente a la gracia divina."
+  },
+  {
+    "book": "ACT",
+    "chapter": 15,
+    "verse": 41,
+    "greek_text": "διήρχετο δὲ τὴν Συρίαν καὶ τὴν Κιλικίαν ἐπιστηρίζων τὰς ἐκκλησίας.",
+    "translation": "y recorría Siria y Cilicia, consolidando y fortaleciendo a las iglesias.",
+    "translation_notes": "Ruta terrestre del Segundo Viaje Misionero: en lugar de viajar por mar, avanzan por la vía terrestre cruzando el norte de Siria y la llanura de Cilicia (tierra natal de Pablo), visitando y fortaleciendo doctrinalmente (ἐπιστηρίζων) las comunidades locales."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 1,
+    "greek_text": "Κατήντησεν δὲ καὶ εἰς Δέρβην καὶ εἰς Λύστραν. καὶ ἰδοὺ μαθητής τις ἦν ἐκεῖ ὀνόματι Τιμόθεος, υἱὸς γυναικὸς Ἰουδαίας πιστῆς, πατρὸς δὲ Ἕλληνος,",
+    "translation": "Llegó también a Derbe y a Listra; y he aquí, había allí cierto discípulo llamado Timoteo, hijo de una mujer judía creyente pero de padre griego,",
+    "translation_notes": "Presentación de Timoteo: Pablo llega a Listra (sitio de su anterior lapidación en Hch 14). Timoteo ('el que honra a Dios') era fruto del ministerio previo. Su madre, Eunice (y su abuela Loida, cf. 2 Tm 1:5), era una judía conversa devota (Ἰουδαίας πιστῆς), pero su padre era un gentil griego (πατρὸς δὲ Ἕλληνος). Conforme a la halajá judía tradicional, la filiación religiosa seguía la línea materna, pero el padre griego no había permitido que su hijo fuera circuncidado en la infancia."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 2,
+    "greek_text": "ὃς ἐμαρτυρεῖτο ὑπὸ τῶν ἐν Λύστροις καὶ Ἰκονίῳ ἀδελφῶν·",
+    "translation": "del cual daban excelente testimonio los hermanos que estaban en Listra y en Iconio.",
+    "translation_notes": "Aval comunitario interurbano: el verbo pasivo ἐμαρτυρεῖτο denota una reputación intachable y acreditada públicamente por las comunidades cristianas de dos urbes distantes entre sí unos 40 km (Listra e Iconio)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 3,
+    "greek_text": "τοῦτον ἠθέλησεν ὁ Παῦλος σὺν αὐτῷ ἐξελθεῖν, καὶ λαβὼν περιέτεμεν αὐτὸν διὰ τοὺς Ἰουδαίους τοὺς ὄντας ἐν τοῖς τόποις ἐκείνοις, ᾔδεισαν γὰρ ἅπαντες ὅτι Ἕλλην ὁ πατὴρ αὐτοῦ ὑπῆρχεν.",
+    "translation": "Pablo quiso que este saliera de viaje misionero con él; y tomándolo consigo, lo circuncidó por causa de los judíos que había en aquellos lugares, porque todos sabían que su padre era griego.",
+    "translation_notes": "La circuncisión de Timoteo y la prudencia misionera: este acto de Pablo no contradice el decreto de Hch 15 ni Gálatas 2:3 (donde se rehusó categóricamente a circuncidar a Tito, que era 100% gentil pagano). Timoteo era de madre judía, por lo que ante la comunidad judía era considerado técnicamente un judío apóstata que vivía en incircuncisión. Para evitar un escándalo que clausurara el acceso misionero a las sinagogas (διὰ τοὺς Ἰουδαίους), Pablo aplica su principio pastoral: 'me he hecho a los judíos como judío para ganar a los judíos' (1 Co 9:20), deslindando la circuncisión de la justificación soteriológica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 4,
+    "greek_text": "ὡς δὲ διεπορεύοντο τὰς πόλεις, παρεδίδοσαν αὐτοῖς φυλάσσειν τὰ δόγματα τὰ κεκριμένα ὑπὸ τῶν ἀποστόλων καὶ πρεσβυτέρων τῶν ἐν Ἱεροσολύμοις.",
+    "translation": "Y al pasar por las ciudades, les entregaban para que las observaran las decisiones decretadas por los apóstoles y los ancianos que estaban en Jerusalén.",
+    "translation_notes": "Difusión de las resoluciones conciliares: el verbo παρεδίδοσαν es el término técnico para la transmisión autoritativa de la tradición apostólica (paradosis). El sustantivo δόγματα (dogmata, decretos u ordenanzas oficiales del gobierno de la polis) describe las cuatro cláusulas de comunión emanadas del Concilio de Jerusalén, confiriéndoles validez canónica obligatoria para salvaguardar la unidad eclesial."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 5,
+    "greek_text": "αἱ μὲν οὖν ἐκκλησίαι ἐστερεοῦντο τῇ πίστει καὶ ἐπερίσσευον τῷ ἀριθμῷ καθ’ ἡμέραν.",
+    "translation": "Así pues, las iglesias eran consolidadas en la fe, y aumentaban en número día tras día.",
+    "translation_notes": "Sumario lucano de crecimiento integral: la conjunción μὲν οὖν introduce un balance triunfal. Se combinan dos dimensiones: madurez cualitativa interior en la doctrina (ἐστερεοῦντο τῇ πίστει, imperfecto pasivo: 'eran afirmadas como roca sólida') y crecimiento cuantitativo exterior incesante (ἐπερίσσευον τῷ ἀριθμῷ καθ’ ἡμέραν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 6,
+    "greek_text": "Διῆλθον δὲ τὴν Φρυγίαν καὶ Γαλατικὴν χώραν, κωλυθέντες ὑπὸ τοῦ ἁγίου πνεύματος λαλῆσαι τὸν λόγον ἐν τῇ Ἀσίᾳ,",
+    "translation": "Atravesaron la región de Frigia y Galacia, habiéndoles sido prohibido por el Espíritu Santo hablar la palabra en la provincia de Asia;",
+    "translation_notes": "Orientación soberana del Espíritu: avanzan por el territorio étnico y administrativo de Frigia y el sur de Galacia. El participio aoristo pasivo κωλυθέντες ('habiendo sido impedidos / frenados tajantemente') por el Espíritu Santo revela una intervención carismática negativa: se les veta predicar en la provincia senatorial de Asia (cuya capital era Éfeso), reservando esa región para una etapa posterior de mayor madurez estratégica (Hch 19)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 7,
+    "greek_text": "ἐλθόντες δὲ κατὰ τὴν Μυσίαν ἐπείραζον εἰς τὴν Βιθυνίαν πορευθῆναι καὶ οὐκ εἴασεν αὐτοὺς τὸ πνεῦμα Ἰησοῦ·",
+    "translation": "y al llegar frente a Misia, intentaban dirigirse hacia Bitinia, pero el Espíritu de Jesús no se lo permitió.",
+    "translation_notes": "El cierre del norte: al llegar al confín de Misia, planeaban entrar al norte hacia la provincia de Bitinia (en las costas del mar Negro). Sin embargo, el imperfecto ἐπείραζον ('intentaban reiteradamente') choca con la negativa divina: οὐκ εἴασεν αὐτούς ('no se lo permitió'). La designación τὸ πνεῦμα Ἰησοῦ ('el Espíritu de Jesús', variante textual indiscutible atestiguada por P74, Sinaítico, Alejandrino y Vaticano) subraya la dirección activa y personal de Cristo resucitado sobre el despliegue geográfico de sus heraldos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 8,
+    "greek_text": "παρελθόντες δὲ τὴν Μυσίαν κατέβησαν εἰς Τρῳάδα.",
+    "translation": "De modo que, pasando de largo por Misia, descendieron a Troas.",
+    "translation_notes": "Encarrilados hacia el mar: canalizados por las sucesivas prohibiciones del Espíritu, los misioneros se ven forzados a continuar hacia el oeste hasta llegar al puerto marítimo de Alejandría de Troas, colonia romana sobre el mar Egeo que conectaba el continente asiático con el continente europeo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 9,
+    "greek_text": "καὶ ὅραμα διὰ νυκτὸς τῷ Παύλῳ ὤφθη, ἀνὴρ Μακεδών τις ἦν ἑστὼς καὶ παρακαλῶν αὐτὸν καὶ λέγων· Διαβὰς εἰς Μακεδονίαν βοήθησον ἡμῖν.",
+    "translation": "Y durante la noche se le mostró a Pablo una visión: un varón macedonio estaba de pie, rogándole y diciendo: «¡Cruza a Macedonia y ayúdanos!».",
+    "translation_notes": "La visión del varón macedonio: la teofanía nocturna (ὅραμα διὰ νυκτὸς ὤφθη). La figura es identificada como macedonia, probablemente por su indumentaria típica (el sombrero de ala ancha 'kausia' y el manto militar corto 'clamis') o por su explícita súplica verbal. El clamor Διαβὰς εἰς Μακεδονίαν βοήθησον ἡμῖν ('habiendo cruzado el mar hacia Macedonia, socórrenos') expresa la necesidad espiritual angustiosa del continente europeo, abriendo la puerta a la evangelización de Occidente."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 10,
+    "greek_text": "ὡς δὲ τὸ ὅραμα εἶδεν, εὐθέως ἐζητήσαμεν ἐξελθεῖν εἰς Μακεδονίαν, συμβιβάζοντες ὅτι προσκέκληται ἡμᾶς ὁ θεὸς εὐαγγελίσασθαι αὐτούς.",
+    "translation": "En cuanto vio la visión, enseguida procuramos partir para Macedonia, concluyendo con certeza que Dios nos había convocado para anunciarles las buenas noticias.",
+    "translation_notes": "Aparición de la primera sección «Nosotros» (Wir-Passagen): cambio gramatical trascendental de la 3.ª persona a la 1.ª persona del plural: εὐθέως ἐζητήσαμεν ('procuramos de inmediato'). Lucas, el médico amado y autor del libro, se une personalmente a la comitiva apostólica en Troas. El participio συμβιβάζοντες significa 'ensamblar evidencias racionales y espirituales para llegar a una conclusión lógica incontrovertible'."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 11,
+    "greek_text": "Ἀναχθέντες οὖν ἀπὸ Τρῳάδος εὐθυδρομήσαμεν εἰς Σαμοθρᾴκην, τῇ δὲ ἐπιούσῃ εἰς Νέαν Πόλιν,",
+    "translation": "Habiendo zarpado, pues, de Troas, navegamos en rumbo directo hacia Samotracia, y al día siguiente a Neápolis;",
+    "translation_notes": "Travesía marítima favorable: el verbo técnico de navegación εὐθυδρομήσαμεν ('navegar a toda vela en línea recta con viento favorable por la popa'). Hacen escala nocturna en la isla montañosa de Samotracia y desembarcan al día siguiente en Neápolis (el moderno puerto de Kavala en el norte de Grecia), terminal portuaria que daba acceso a la gran calzada militar romana 'Vía Egnatia'."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 12,
+    "greek_text": "κἀκεῖθεν εἰς Φιλίππους, ἥτις ἐστὶν πρώτη τῆς μερίδος Μακεδονίας πόλις, κολωνία. ἦμεν δὲ ἐν ταύτῃ τῇ πόλει διατρίβοντες ἡμέρας τινάς.",
+    "translation": "y de allí a Filipos, que es la ciudad principal de esa parte de Macedonia, una colonia romana. Y estuvimos en esta ciudad pasando algunos días.",
+    "translation_notes": "Estatus colonial romano de Filipos: la descripción geográfica e institucional de Lucas es milimétrica: πρώτη τῆς μερίδος ('ciudad prominente de ese distrito de Macedonia') y κολωνία (colonia romana fundada por Marco Antonio y Octavio Augusto tras la célebre batalla de Filipos en el 42 a.C.). Como colonia, gozaba del prestigioso 'ius Italicum': sus ciudadanos disfrutaban de exención de tributos provinciales, derecho de propiedad territorial conforme al derecho romano y gobierno autónomo a imagen de la misma Roma."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 13,
+    "greek_text": "τῇ τε ἡμέρᾳ τῶν σαββάτων ἐξήλθομεν ἔξω τῆς πύλης παρὰ ποταμὸν οὗ ἐνομίζομεν προσευχὴν εἶναι, καὶ καθίσαντες ἐλαλοῦμεν ταῖς συνελθούσαις γυναιξίν.",
+    "translation": "Y en el día de reposo salimos fuera de la puerta de la ciudad, junto a un río, donde suponíamos que había un lugar de oración; y sentándonos, hablábamos a las mujeres que se habían reunido.",
+    "translation_notes": "Búsqueda del lugar de oración al aire libre: el día sábado buscan fuera de la muralla, a orillas del río Gangites (a unos 2 km de Filipos). La ausencia de una sinagoga formal construida indicaba que en Filipos no residían ni siquiera diez varones judíos adultos libres (el 'minyán' legal requerido por la halajá rabínica para fundar una sinagoga). Hallan un lugar de oración al aire libre (προσευχή), habitual junto a corrientes de agua para facilitar las abluciones rituales de purificación. Los misioneros se sientan a enseñar a un grupo compuesto exclusivamente por mujeres."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 14,
+    "greek_text": "καί τις γυνὴ ὀνόματι Λυδία, πορφυρόπωλις πόλεως Θυατείρων σεβομένη τὸν θεόν, ἤκουεν, ἧς ὁ κύριος διήνοιξεν τὴν καρδίαν προσέχειν τοῖς λαλουμένοις ὑπὸ τοῦ Παύλου.",
+    "translation": "Y una mujer llamada Lidia, comerciante de telas de púrpura, de la ciudad de Tiatira, temerosa de Dios, nos escuchaba; y el Señor abrió de par en par su corazón para que estuviera atenta a lo que Pablo decía.",
+    "translation_notes": "Conversión de Lidia: oriunda de Tiatira (en la provincia asiática de Lidia), ciudad célebre por su refinada industria de tintes textiles. Lidia era una próspera empresaria independiente de telas teñidas de púrpura (πορφυρόπωλις), tinte de altísimo valor suntuario monopolizado por la nobleza grecorromana. Era una gentil 'temerosa de Dios' (σεβομένη τὸν θεόν). La soberanía divina en la conversión: ἧς ὁ κύριος διήνοιξεν τὴν καρδίαν ('cuyo corazón el Señor abrió plenamente'). El verbo dianoigō describe la iluminación interior de la gracia previa que capacita la mente humana para abrazar la fe salvífica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 15,
+    "greek_text": "ὡς δὲ ἐβαπτίσθη καὶ ὁ οἶκος αὐτῆς, παρεκάλεσεν λέγουσα· Εἰ κεκρίκατέ με πιστὴν τῷ κυρίῳ εἶναι, εἰσελθόντες εἰς τὸν οἶκόν μου μένετε· καὶ παρεβιάσατο ἡμᾶς.",
+    "translation": "Cuando fue bautizada ella y su familia, nos rogó diciendo: «Si han juzgado que soy fiel al Señor, entren en mi casa y hospédense allí». Y nos persuadió con insistencia.",
+    "translation_notes": "Bautismo doméstico y hospitalidad militante: el bautismo de Lidia y de toda su casa (ὁ οἶκος αὐτῆς, incluyendo familiares y servidumbre de su negocio). Plantea una fórmula condicional de honor espiritual: Εἰ κεκρίκατέ με πιστὴν εἶναι ('si me consideran creyente genuina, no pueden rehusar mi mesa'). El verbo compuesto παρεβιάσατο significa 'nos forzó dulcemente mediante ruegos irresistibles', convirtiendo su mansión en el primer cuartel general y templo doméstico del cristianismo en Europa."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 16,
+    "greek_text": "Ἐγένετο δὲ πορευομένων ἡμῶν εἰς τὴν προσευχὴν παιδίσκην τινὰ ἔχουσαν πνεῦμα πύθωνα ὑπαντῆσαι ἡμῖν, ἥτις ἐργασίαν πολλὴν παρεῖχεν τοῖς κυρίοις αὐτῆς μαντευομένη·",
+    "translation": "Aconteció que, yendo nosotros al lugar de oración, nos salió al encuentro una muchacha esclava que tenía un espíritu de adivinación, la cual producía cuantiosas ganancias a sus amos adivinando la suerte.",
+    "translation_notes": "Encounter con el ocultismo délfico: la joven era una esclava (παιδίσκη) poseída por un 'espíritu pitónico' (πνεῦμα πύθωνα). En la mitología griega, la serpiente Pitón custodiaba el santuario oracular de Apolo en Delfos; el término designaba a personas poseídas por entidades de ventriloquía o clarividencia que emitían oráculos en trance. La esclava era una valiosa fuente de ingresos mercantiles para un consorcio de amos (τοῖς κυρίοις αὐτῆς) mediante sus artes adivinatorias (μαντευομένη)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 17,
+    "greek_text": "αὕτη κατακολουθοῦσα τῷ Παύλῳ καὶ ἡμῖν ἔκραζεν λέγουσα· Οὗτοι οἱ ἄνθρωποι δοῦλοι τοῦ θεοῦ τοῦ ὑψίστου εἰσίν, οἵτινες καταγγέλλουσιν ὑμῖν ὁδὸν σωτηρίας.",
+    "translation": "Esta, siguiendo de cerca a Pablo y a nosotros, gritaba diciendo: «¡Estos hombres son siervos del Dios Altísimo, los cuales les anuncian a ustedes el camino de salvación!».",
+    "translation_notes": "Testimonio demoníaco ambiguo: el imperfecto ἔκραζεν indica alaridos reiterados. Sus palabras eran teológicamente verdaderas pero procedían de una fuente corrupta: llamaba a Yahvé 'el Dios Altísimo' (θεοῦ τοῦ ὑψίστου, título que en el contexto pagano macedonio evocaba al Zeus supremo local o a deidades sincréticas) y anunciaba 'un camino de salvación'. Los demonios procuraban validar su propio culto desacreditando el mensaje o presentándose como aliados del evangelio."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 18,
+    "greek_text": "τοῦτο δὲ ἐποίει ἐπὶ πολλὰς ἡμέρας. διαπονηθεὶς δὲ Παῦλος καὶ ἐπιστρέψας τῷ πνεύματι εἶπεν· Παραγγέλλω σοι ἐν ὀνόματι Ἰησοῦ Χριστοῦ ἐξελθεῖν ἀπ’ αὐτῆς· καὶ ἐξῆλθεν αὐτῇ τῇ ὥρᾳ.",
+    "translation": "Y esto lo hacía por muchos días. Pero Pablo, sumamente indignado y apenado, se volvió y dijo al espíritu: «¡Te ordeno en el nombre de Jesucristo que salgas de ella!». Y salió en ese mismo instante.",
+    "translation_notes": "Exorcismo apostólico perentorio: el participio διαπονηθείς (de diaponeomai) expresa una mezcla de profunda indignación santa ante la manipulación demoníaca y dolor compasivo por el tormento de la muchacha explotada. Pablo no acepta el testimonio de Satanás (cf. Mc 1:25, 34). Invoca la autoridad suprema del Nombre de Jesucristo, y el espíritu sale instantáneamente (αὐτῇ τῇ ὥρᾳ), dejando a la esclava libre y en paz mental."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 19,
+    "greek_text": "Ἰδόντες δὲ οἱ κύριοι αὐτῆς ὅτι ἐξῆλθεν ἡ ἐλπὶς τῆς ἐργασίας αὐτῶν ἐπιλαβόμενοι τὸν Παῦλον καὶ τὸν Σιλᾶν εἵλκυσαν εἰς τὴν ἀγορὰν ἐπὶ τοὺς ἄρχοντας,",
+    "translation": "Pero sus amos, al ver que se había esfumado la esperanza de sus ganancias, prendieron a Pablo y a Silas y los arrastraron a la plaza del mercado, ante las autoridades;",
+    "translation_notes": "El móvil económico del conflicto: juego de palabras brillante en el griego lucano: el espíritu 'salió' (ἐξῆλθεν) de la muchacha en el v. 18, y los amos ven que con él 'salió' (ἐξῆλθεν) toda esperanza de su lucrativo negocio mercantil. Enfurecidos por la pérdida financiera, agarran violentamente a Pablo y a Silas y los arrastran por la fuerza (εἵλκυσαν) al ágora o foro judicial público ante los magistrados (ἄρχοντας)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 20,
+    "greek_text": "καὶ προσαγαγόντες αὐτοὺς τοῖς στρατηγοῖς εἶπαν· Οὗτοι οἱ ἄνθρωποι ἐκταράσσουσιν ἡμῶν τὴν πόλιν Ἰουδαῖοι ὑπάρχοντες,",
+    "translation": "y presentándolos ante los pretores, dijeron: «Estos hombres, siendo judíos, están alborotando gravemente nuestra ciudad,",
+    "translation_notes": "Magistratura colonial romana y antisemitismo: Lucas designa a los magistrados principales de la colonia con el título griego de στρατηγοί (stratēgoi), traducción técnica oficial de los 'praetores' o 'duoviri' que gobernaban las colonias militares romanas asistidos por lictores. Los acusadores encubren su pérdida económica apelando astutamente al prejuicio racial antisemita (Ἰουδαῖοι ὑπάρχοντες, recordando el reciente decreto del emperador Claudio que expulsó a los judíos de Roma en el 49 d.C. por disturbios atribuidos al 'impulso de Cresto', cf. Hch 18:2)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 21,
+    "greek_text": "καὶ καταγγέλλουσιν ἔθη ἃ οὐκ ἔξεστιν ἡμῖν παραδέχεσθαι οὐδὲ ποιεῖν Ῥωμαίοις οὖσιν.",
+    "translation": "y proclaman costumbres que no nos es lícito a nosotros aceptar ni practicar, siendo romanos».",
+    "translation_notes": "Acusación jurídica de sedición contra la majestad romana: denuncian la introducción de una 'religio illicita'. El cargo explota el orgullo chovinista de los colonos: Ῥωμαίοις οὖσιν ('siendo nosotros orgullosos ciudadanos romanos'). La ley romana prohibía introducir cultos foráneos no autorizados por el Senado que alteraran las costumbres y el orden civil patrio."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 22,
+    "greek_text": "καὶ συνεπέστη ὁ ὄχλος κατ’ αὐτῶν, καὶ οἱ στρατηγοὶ περιρήξαντες αὐτῶν τὰ ἱμάτια ἐκέλευον ῥαβδίζειν,",
+    "translation": "Y la multitud se levantó en tropel contra ellos; y los pretores, desgarrando las ropas de los apóstoles, ordenaron que los azotaran con varas.",
+    "translation_notes": "Flagelación con varas por los lictores romanos: la turba colonial se amotina (συνεπέστη ὁ ὄχλος). Los pretores ceden al clamor popular y ordenan desnudar a los reos rasgando violentamente sus túnicas (περιρήξαντες). El verbo ῥαβδίζειν (rhabdizein) es el tecnicismo para el castigo penal romano administrado por los lictores con el haz de varas ('fasces'). Pablo recordará este brutal suplicio en 2 Co 11:25: 'tres veces fui azotado con varas'."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 23,
+    "greek_text": "πολλάς τε ἐπιθέντες αὐτοῖς πληγὰς ἔβαλον εἰς φυλακήν, παραγγείλαντες τῷ δεσμοφύλακι ἀσφαλῶς τηρεῖν αὐτούς·",
+    "translation": "Y después de haberles infligido muchos azotes, los arrojaron a la cárcel, ordenando al carcelero que los custodiara con máxima seguridad.",
+    "translation_notes": "Cárcel de máxima seguridad: la severidad física: 'muchos golpes' (πολλὰς πληγάς, sin el límite judío de los 39 azotes, pues la flagelación romana no tenía tope legal). El mandato al carcelero (δεσμοφύλαξ) exige custodia bajo apercibimiento militar estricto (ἀσφαλῶς τηρεῖν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 24,
+    "greek_text": "ὃς παραγγελίαν τοιαύτην λαβὼν ἔβαλεν αὐτοὺς εἰς τὴν ἐσωτέραν φυλακὴν καὶ τοὺς πόδας ἠσφαλίσατο αὐτῶν εἰς τὸ ξύλον.",
+    "translation": "Este, habiendo recibido semejante orden, los metió en el calabozo más recóndito y aseguró sus pies en el cepo.",
+    "translation_notes": "La celda interior y el suplicio del cepo: el carcelero los arroja al calabozo más profundo y subterráneo (εἰς τὴν ἐσωτέραν φυλακήν, antro húmedo, oscuro y pestilente). Asegura sus piernas en el cepo (εἰς τὸ ξύλον, bloque macizo de madera con orificios ajustables que forzaba a los prisioneros a mantener las piernas abiertas en dolorosa distensión muscular sobre espaldas ya sangrantes)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 25,
+    "greek_text": "Κατὰ δὲ τὸ μεσονύκτιον Παῦλος καὶ Σιλᾶς προσευχόμενοι ὕμνουν τὸν θεόν, ἐπηκροῶντο δὲ αὐτῶν οἱ δέσμιοι·",
+    "translation": "Pero hacia la medianoche, Pablo y Silas estaban orando y entonando himnos a Dios, y los demás presos los escuchaban con atención;",
+    "translation_notes": "Liturgia nocturna en el calabozo: a medianoche (Κατὰ τὸ μεσονύκτιον), en medio del dolor físico lacerante de las heridas abiertas de los azotes, Pablo y Silas transforman la celda en un templo. El verbo compuesto ὕμνουν denota el cántico doxológico gozoso (probablemente salmos del Hallel). El verbo ἐπηκροῶντο (imperfecto de epakroaomai) significa 'escuchar con embeleso, deleite y atención absorta': los criminales comunes quedaron cautivados por aquella insólita alabanza."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 26,
+    "greek_text": "ἄφνω δὲ σεισμὸς ἐγένετο μέγας ὥστε σαλευθῆναι τὰ θεμέλια τοῦ δεσμωτηρίου, ἠνεῴχθησαν δὲ παραχρῆμα αἱ θύραι πᾶσαι, καὶ πάντων τὰ δεσμὰ ἀνέθη.",
+    "translation": "cuando de repente sobrevino un gran terremoto, de tal magnitud que los cimientos mismos de la prisión se sacudieron; y al instante se abrieron de par en par todas las puertas, y las cadenas de todos se desataron.",
+    "translation_notes": "El terremoto sobrenatural de liberación: el adverbio ἄφνω ('súbitamente'). La violencia sísmica sacude los cimientos mismos del edificio penal, pero el efecto no es el colapso destructivo del techo, sino un milagro de desate: los cerrojos y portones de hierro se abren (ἠνεῴχθησαν αἱ θύραι πᾶσαι) y las grillas, grilletes y cadenas de todos los reclusos se soltaron (πάντων τὰ δεσμὰ ἀνέθη)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 27,
+    "greek_text": "ἔξυπνος δὲ γενόμενος ὁ δεσμοφύλαξ καὶ ἰδὼν ἀνεῳγμένας τὰς θύρας τῆς φυλακῆς σπασάμενος τὴν μάχαιραν ἤμελλεν ἑαυτὸν ἀναιρεῖν, νομίζων ἐκπεφευγέναι τοὺς δεσμίους.",
+    "translation": "Despertando el carcelero y viendo abiertas las puertas de la cárcel, desenvainó la espada y estaba a punto de quitarse la vida, creyendo que los presos se habían fugado.",
+    "translation_notes": "El código de honor y la pena militar romana: el carcelero se despierta sobresaltado y, al divisar las puertas abiertas en la penumbra, asume la fuga general. Conforme al severo derecho militar romano, el guardián respondía con su propia vida por los reos fugados bajo su custodia. Para evitar la deshonra pública, la degradación penal y una ejecución infamante por negligencia militar, desenvaina su espada corta (σπασάμενος τὴν μάχαιραν) para suicidarse según la ética estoica romana."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 28,
+    "greek_text": "ἐφώνησεν δὲ φωνῇ μεγάλῃ ὁ Παῦλος λέγων· Μηδὲν πράξῃς σεαυτῷ κακόν, ἅπαντες γάρ ἐσμεν ἐνθάδε.",
+    "translation": "Pero Pablo clamó a gran voz, diciendo: «¡No te hagas ningún daño, porque todos estamos aquí!».",
+    "translation_notes": "Compasión apostólica que rescata la vida del enemigo: desde la oscuridad interior de la celda, Pablo discierne el acto desesperado del oficial romano e interviene con un grito potente (φωνῇ μεγάλῃ). Ningún recluso había intentado escapar, sobrecogidos por la majestad de Dios."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 29,
+    "greek_text": "αἰτήσας δὲ φῶτα εἰσεπήδησεν καὶ ἔντρομος γενόμενος προσέπεσεν τῷ Παύλῳ καὶ τῷ Σιλᾷ,",
+    "translation": "El carcelero, pidiendo antorchas, se precipitó hacia adentro y, temblando de miedo, se postró a los pies de Pablo y de Silas;",
+    "translation_notes": "Sobrecogimiento numinoso del centinela: pide luces o teas ardientes (φῶτα) y salta al interior del calabozo (εἰσεπήδησεν). El participio ἔντρομος describe un temblor físico incontrolable producido por el pavor reverente ante la presencia divina que emanaba de aquellos dos prisioneros ensangrentados. Cae postrado a sus pies (προσέπεσεν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 30,
+    "greek_text": "καὶ προαγαγὼν αὐτοὺς ἔξω ἔφη· Κύριοι, τί με δεῖ ποιεῖν ἵνα σωθῶ;",
+    "translation": "y sacándolos fuera, les preguntó: «Señores, ¿qué debo hacer para ser salvo?».",
+    "translation_notes": "La pregunta existencial decisiva: tras sacarlos de la pestilente celda subterránea, los interpela con el título de respeto 'Señores' (Κύριοι). Su pregunta trasciende el temor a la corte marcial romana: habiendo escuchado sus cánticos y el testimonio de la esclava adivina sobre 'el camino de salvación', el carcelero indaga con angustia ontológica: τί με δεῖ ποιεῖν ἵνα σωθῶ; ('¿qué me es imperativo hacer para alcanzar la salvación de mi alma?')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 31,
+    "greek_text": "οἱ δὲ εἶπαν· Πίστευσον ἐπὶ τὸν κύριον Ἰησοῦν, καὶ σωθήσῃ σὺ καὶ ὁ οἶκός σου.",
+    "translation": "Ellos respondieron: «Cree en el Señor Jesús, y serás salvo tú y tu familia».",
+    "translation_notes": "La respuesta soteriológica definitiva del Nuevo Testamento: Πίστευσον ἐπὶ τὸν κύριον Ἰησοῦν ('deposita tu fe y confianza incondicional en el Señor Jesús'). No se exige circuncisión, ritos preparatorios ni méritos humanos, sino la adhesión personal al Kyrios resucitado. La promesa alcanza al hogar corporativo: σὺ καὶ ὁ οἶκός σου ('tú y toda tu casa'), abriendo el pacto de salvación a la familia entera dispuesta a creer."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 32,
+    "greek_text": "καὶ ἐλάλησαν αὐτῷ τὸν λόγον τοῦ κυρίου σὺν πᾶσι τοῖς ἐν τῇ οἰκίᾳ αὐτοῦ.",
+    "translation": "Y le proclamaron la palabra del Señor a él y a todos los que estaban en su casa.",
+    "translation_notes": "Instrucción catequética comunitaria: la salvación de la familia no operaba por magia o automatismo ciego, sino mediante la recepción consciente del evangelio: Pablo y Silas explicaron detalladamente la palabra del Señor (τὸν λόγον τοῦ κυρίου) a todos los miembros y criados de la residencia del carcelero."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 33,
+    "greek_text": "καὶ παραλαβὼν αὐτοὺς ἐν ἐκείνῃ τῇ ὥρᾳ τῆς νυκτὸς ἔλουσεν ἀπὸ τῶν πληγῶν, καὶ ἐβαπτίσθη αὐτὸς καὶ οἱ αὐτοῦ πάντες παραχρῆμα,",
+    "translation": "Y tomándolos consigo en aquella misma hora de la noche, les lavó las heridas; y al instante fue bautizado él con todos los suyos,",
+    "translation_notes": "Reciprocidad de amor y bautismo inmediato: conmovedor trueque de misericordia en plena madrugada: el carcelero lava con agua medicinal las espaldas flageladas y sangrantes de los apóstoles (ἔλουσεν ἀπὸ τῶν πληγῶν); e inmediatamente después, los apóstoles lavan al carcelero y a los suyos en las aguas del sacramento bautismal (ἐβαπτίσθη παραχρῆμα)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 34,
+    "greek_text": "ἀναγαγών τε αὐτοὺς εἰς τὸν οἶκον παρέθηκεν τράπεζαν καὶ ἠγαλλιάσατο πανοικεὶ πεπιστευκὼς τῷ θεῷ.",
+    "translation": "y llevándolos arriba a su propia casa, les puso la mesa y se regocijó con toda su casa por haber creído en Dios.",
+    "translation_notes": "Comunión de mesa y gozo escatológico: el carcelero conduce a los prisioneros a su vivienda particular (situada en la planta superior de la prisión) y les sirve un banquete (παρέθηκεν τράπεζαν). El adverbio πανοικεί ('con toda su familia') califica el verbo ἠγαλλιάσατο (gozo desbordante exultante), celebrando haber pasado de las tinieblas del paganismo a la fe salvífica en el Dios vivo (πεπιστευκὼς τῷ θεῷ)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 35,
+    "greek_text": "Ἡμέρας δὲ γενομένης ἀπέστειλαν οἱ στρατηγοὶ τοὺς ῥαβδούχους λέγοντες· Ἀπόλυσον τοὺς ἀνθρώπους ἐκείνους.",
+    "translation": "Cuando se hizo de día, los pretores enviaron a los lictores diciendo: «Pon en libertad a aquellos hombres».",
+    "translation_notes": "La orden matutina de excarcelación: los magistrados coloniales (οἱ στρατηγοί / praetores) despachan a sus alguaciles o 'lictores' (τοὺς ῥαβδούχους, literalmente 'los portadores de varas', agentes judiciales que ejecutaban los castigos y portaban las fasces). Asumiendo que el escarmiento público del día anterior era suficiente para sofocar el tumulto, ordenan su liberación informal."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 36,
+    "greek_text": "ἀπήγγειλεν δὲ ὁ δεσμοφύλαξ τοὺς λόγους τούτους πρὸς τὸν Παῦλον, ὅτι Ἀπέσταλκαν οἱ στρατηγοὶ ἵνα ἀπολυθῆτε· νῦν οὖν ἐξελθόντες πορεύεσθε ἐν εἰρήνῃ.",
+    "translation": "Y el carcelero transmitió estas palabras a Pablo: «Los pretores han mandado decir que sean puestos en libertad; por tanto, salgan ahora y váyanse en paz».",
+    "translation_notes": "El carcelero comunica con júbilo la orden oficial a Pablo, creyendo que el asunto quedaba zanjado amigablemente y deseándoles la bendición de la paz (πορεύεσθε ἐν εἰρήνῃ)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 37,
+    "greek_text": "ὁ δὲ Παῦλος ἔφη πρὸς αὐτούς· Δείραντες ἡμᾶς δημοσίᾳ ἀκατακρίτους, ἀνθρώπους Ῥωμαίους ὑπάρχοντας, ἔβαλαν εἰς φυλακήν· καὶ νῦν λάθρᾳ ἡμᾶς ἐκβάλλουσιν; οὐ γάρ, ἀλλὰ ἐλθόντες αὐτοὶ ἡμᾶς ἐξαγαγέτωσαν.",
+    "translation": "Pero Pablo les dijo: «Nos azotaron públicamente sin habernos juzgado ni condenado, siendo ciudadanos romanos, y nos arrojaron a la cárcel, ¿y ahora nos echan fuera a escondidas? ¡De ninguna manera! Que vengan ellos mismos a escoltarnos hacia afuera».",
+    "translation_notes": "El contraataque jurídico de la ciudadanía romana de Pablo: Pablo despliega una defensa forense fulminante que invocaba los pilares sagrados del derecho constitucional romano: la 'Lex Valeria' (509 a.C.) y la 'Lex Porcia' (195 a.C.), las cuales prohibían bajo pena capital azotar, encadenar o infligir castigos corporales a cualquier ciudadano romano ('civis Romanus') sin un juicio formal y veredicto legal (ἀκατακρίτους). Al azotar públicamente (δημοσίᾳ) a dos ciudadanos romanos (ἀνθρώπους Ῥωμαίους ὑπάρχοντας, pues tanto Pablo como Silas poseían la ciudadanía), los pretores habían cometido un gravísimo delito de lesa majestad ('crimen laesae maiestatis') sancionado con la destitución y el destierro. Pablo rehúsa una salida furtiva (λάθρᾳ) y exige una reparación pública formal (ἐλθόντες αὐτοὶ ἡμᾶς ἐξαγαγέτωσαν) para proteger la respetabilidad y seguridad de la joven iglesia de Filipos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 38,
+    "greek_text": "ἀπήγγειλαν δὲ τοῖς στρατηγοῖς οἱ ῥαβδοῦχοι τὰ ῥήματα ταῦτα· ἐφοβήθησαν δὲ ἀκούσαντες ὅτι Ῥωμαῖοί εἰσιν,",
+    "translation": "Los lictores informaron de estas palabras a los pretores; y estos se aterrorizaron al oír que eran ciudadanos romanos;",
+    "translation_notes": "Pánico de los magistrados coloniales: el verbo ἐφοβήθησαν ('se llenaron de terror pánico'). Sabían que una apelación directa de Pablo al gobernador provincial o al emperador en Roma acarrearía la pérdida inmediata de su investidura magistral y severas sanciones penales contra ellos por violación de las leyes consulares."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 39,
+    "greek_text": "καὶ ἐλθόντες παρεκάλεσαν αὐτούς, καὶ ἐξαγαγόντες ἠρώτων ἀπελθεῖν ἀπὸ τῆς πόλεως.",
+    "translation": "y acudiendo en persona, les ofrecieron disculpas; y escoltándolos hacia afuera, les rogaban que salieran de la ciudad.",
+    "translation_notes": "Capitulación de los pretores: las máximas autoridades coloniales se ven obligadas a humillarse públicamente, acudiendo a la cárcel a presentar excusas diplomáticas (παρεκάλεσαν, 'les rogaron con deferencia'). Los conducen con honores fuera del recinto y les suplican respetuosamente que abandonen la ciudad para calmar los ánimos populares sin suscitar mayores investigaciones imperiales."
+  },
+  {
+    "book": "ACT",
+    "chapter": 16,
+    "verse": 40,
+    "greek_text": "ἐξελθόντες δὲ ἀπὸ τῆς φυλακῆς εἰσῆλθον πρὸς τὴν Λυδίαν, καὶ ἰδόντες παρεκάλεσαν τοὺς ἀδελφοὺς καὶ ἐξῆλθαν.",
+    "translation": "Y habiendo salido de la cárcel, entraron en casa de Lidia; y al ver a los hermanos, los confortaron y partieron.",
+    "translation_notes": "Despedida triunfal y consolidación de la iglesia filipense: lejos de huir amedrentados, Pablo y Silas marchan con calma y dignidad pública a la residencia señorial de Lidia, donde se congregaba la flamante comunidad. Allí reconfortan y exhortan (παρεκάλεσαν) a los hermanos antes de partir, dejando establecida una de las iglesias más fieles, afectuosas y generosas de toda la misión paulina (cf. Filipenses 1:3-5; 4:15-16)."
+  }
+]

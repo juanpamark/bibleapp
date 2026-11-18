@@ -1,0 +1,754 @@
+[
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 1,
+    "greek_text": "Λαλούντων δὲ αὐτῶν πρὸς τὸν λαὸν ἐπέστησαν αὐτοῖς οἱ ἱερεῖς καὶ ὁ στρατηγὸς τοῦ ἱεροῦ καὶ οἱ Σαδδουκαῖοι,",
+    "translation": "Mientras ellos hablaban al pueblo, se presentaron ante ellos los sacerdotes, el comandante de la guardia del templo y los saduceos,",
+    "translation_notes": "El genitivo absoluto Λαλούντων δὲ αὐτῶν describe la repentina interrupción militar de la enseñanza apostólica. El verbo ἐπέστησαν (aoristo activo de ephistēmi) denota una intervención policial hostil e imprevista. Aparece la jerarquía del templo: 1) Los sacerdotes en funciones litúrgicas; 2) ὁ στρατηγὸς τοῦ ἱεροῦ (el prefecto o comandante del templo, correspondiente al sagan judío, segundo magistrado en autoridad tras el sumo sacerdote, al mando de la policía levítica encargada del orden público en el recinto sagrado); 3) οἱ Σαδδουκαῖοι (la influyente aristocracia sacerdotal saducea, caracterizada por su pragmatismo político pro-romano y su negación teológica de la resurrección corporal y del mundo angélico)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 2,
+    "greek_text": "διαπονούμενοι διὰ τὸ διδάσκειν αὐτοὺς τὸν λαὸν καὶ καταγγέλλειν ἐν τῷ Ἰησοῦ τὴν ἀνάστασιν τὴν ἐκ νεκρῶν,",
+    "translation": "profundamente irritados porque ellos enseñaban al pueblo y proclamaban en Jesús la resurrección de entre los muertos;",
+    "translation_notes": "El participio presente deponente διαπονούμενοι (de diaponéō) expresa una irritación vehemente mezclada con zozobra política: a los saduceos les indignaba que galileos sin aval rabínico asumieran magisterio público popular (διδάσκειν τὸν λαόν). El motivo teológico era inadmisible para ellos: καταγγέλλειν ἐν τῷ Ἰησοῦ τὴν ἀνάστασιν (proclamar en la persona histórica de Jesús la resurrección escatológica de los muertos), doctrina que los saduceos combatían formalmente contra los fariseos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 3,
+    "greek_text": "καὶ ἐπέβαλον αὐτοῖς τὰς χεῖρας καὶ ἔθεντο εἰς τήρησιν εἰς τὴν αὔριον, ἦν γὰρ ἑσπέρα ἤδη.",
+    "translation": "y les echaron mano y los pusieron bajo custodia hasta el día siguiente, porque ya era el atardecer.",
+    "translation_notes": "La fórmula judicial ἐπέβαλον αὐτοῖς τὰς χεῖρας ('les echaron mano') marca el primer arresto formal de los apóstoles. El término jurídico τήρησις denota la prisión preventiva o custodia cautelar. La nota temporal explicativa ἦν γὰρ ἑσπέρα ἤδη ('pues ya era la tarde') responde a la ley procesal judía: el Sanedrín tenía estrictamente prohibido juzgar causas de pena capital o celebrar sesiones forenses después del atardecer (Mishná, Sanedrín 4:1)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 4,
+    "greek_text": "πολλοὶ δὲ τῶν ἀκουσάντων τὸν λόγον ἐπίστευσαν, καὶ ἐγενήθη ὁ ἀριθμὸς τῶν ἀνδρῶν ὡς χιλιάδες πέντε.",
+    "translation": "Pero muchos de los que habían oído la palabra creyeron; y el número de los varones llegó a ser como cinco mil.",
+    "translation_notes": "El arresto represivo resulta estéril frente a la eficacia del evangelio. El sustantivo específico ἀνήρ (ἀνδρῶν, 'varones adultos cabezas de familia', en lugar del genérico anthrōpoi) sigue el modelo de cómputo del censo bíblico y del judaísmo del Segundo Templo; sumando a las mujeres y niños de los hogares de los creyentes, la comunidad mesiánica de Jerusalén alcanzaba una cifra estimada de entre diez mil y quince mil fieles, lo que representaba un porcentaje sustancial de la población urbana de la ciudad."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 5,
+    "greek_text": "Ἐγένετο δὲ ἐπὶ τὴν αὔριον συναχθῆναι αὐτῶν τοὺς ἄρχοντας καὶ τοὺς πρεσβυτέρους καὶ τοὺς γραμματεῖς ἐν Ἰερουσαλήμ",
+    "translation": "Aconteció al día siguiente que se reunieron en Jerusalén sus gobernantes, los ancianos y los escribas,",
+    "translation_notes": "Convocatoria extraordinaria en pleno del Gran Sanedrín de Jerusalén, conformado por sus tres estamentos constitutivos de 71 magistrados: 1) οἱ ἄρχοντες (los sumos sacerdotes y magistrados principales de la aristocracia sacerdotal); 2) οἱ πρεσβύτεροι (los ancianos, jefes de familias nobles patricia terrateniente); 3) οἱ γραμματεῖς (los letrados y doctores de la ley, principalmente fariseos y peritos juristas)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 6,
+    "greek_text": "καὶ Ἄννας ὁ ἀρχιερεὺς καὶ Καϊάφας καὶ Ἰωάννης καὶ Ἀλέξανδρος καὶ ὅσοι ἦσαν ἐκ γένους ἀρχιερατικοῦ,",
+    "translation": "junto con Anás el sumo sacerdote, Caifás, Juan, Alejandro y todos los que eran del linaje de los sumos sacerdotes;",
+    "translation_notes": "Lucas menciona a los miembros de la dinastía sacerdotal de Anás, quien aunque había sido destituido oficialmente por el procurador romano Valerio Grato en el 15 d.C., retenía la jefatura fáctica patriarcal y el título honorífico de 'sumo sacerdote' de por vida entre el pueblo; su yerno Caifás ejercía el cargo administrativo formal ante Roma (18-36 d.C.). Se mencionan figuras prominentes de la oligarquía como Juan (posiblemente Jonatán hijo de Anás) y Alejandro. La frase ἐκ γένους ἀρχιερατικοῦ alude al clan cerrado de familias aristocráticas que monopolizaban los puestos supremos del sacerdocio y la tesorería del templo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 7,
+    "greek_text": "καὶ στήσαντες αὐτοὺς ἐν τῷ μέσῳ ἐπυνθάνοντο· Ἐν ποίᾳ δυνάμει ἢ ἐν ποίῳ ὀνόματι ἐποιήσατε τοῦτο ὑμεῖς;",
+    "translation": "y habiéndolos colocado en medio del tribunal, les interrogaban: «¿Con qué poder o en qué nombre han hecho esto ustedes?».",
+    "translation_notes": "La disposición forense del Sanedrín disponía a los magistrados sentados en un semicírculo en la Cámara de las Piedras Labradas (Lishkat ha-Gazit), situando a los reos de pie 'en medio' (ἐν τῷ μέσῳ) para su interrogatorio. La indagación jurídica se centra en la legitimidad de la autoridad: Ἐν ποίᾳ δυνάμει ἢ ἐν ποίῳ ὀνόματι ('¿Con qué clase de potencia sobrenatural o bajo la autoridad de qué nombre?'). El derecho judío (Deuteronomio 13) preveía la pena capital si un milagro se obraba mediante nigromancia, hechicería o invocando a dioses ajenos para apartar a Israel del pacto."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 8,
+    "greek_text": "τότε Πέτρος πλησθεὶς πνεύματος ἁγίου εἶπεν πρὸς αὐτούς· Ἄρχοντες τοῦ λαοῦ καὶ πρεσβύτεροι,",
+    "translation": "Entonces Pedro, lleno del Espíritu Santo, les dijo: «Gobernantes del pueblo y ancianos de Israel:",
+    "translation_notes": "Cumplimiento exacto de la promesa forense de Jesús a sus discípulos: 'cuando los lleven ante los concilios... el Espíritu Santo les enseñará en esa misma hora lo que deben decir' (Lc 12:11-12; 21:14-15). El participio aoristo pasivo πλησθείς (colmado repentinamente por una efusión carismática especial) otorga al pescador galileo la compostura y oratoria propia de un testigo profético. Pedro abre su defensa con el tratamiento de máximo respeto institucional y protocolar judío: Ἄρχοντες τοῦ λαοῦ καὶ πρεσβύτεροι."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 9,
+    "greek_text": "εἰ ἡμεῖς σήμερον ἀνακρινόμεθα ἐπὶ εὐεργεσίᾳ ἀνθρώπου ἀσθενοῦς, ἐν τίνι οὗτος σέσωσται,",
+    "translation": "si hoy se nos somete a interrogatorio judicial por un acto de beneficencia hecho a un hombre enfermo, para saber por qué medio este ha sido sanado,",
+    "translation_notes": "Ironía procesal demoledora: el verbo ἀνακρίνω (anakrinō) es el tecnicismo del derecho judicial romano y helenístico para el interrogatorio preliminar de instrucción criminal a un acusado de delito grave. Pedro señala el absurdo ético y judicial de abrir un proceso penal por causa de una εὐεργεσία (euergesia, término cívico clásico para una obra generosa de beneficencia o salvamento público en beneficio de la comunidad) realizada a favor de un inválido (ἀσθενοῦς). El perfecto pasivo σέσωσται abarca tanto la sanidad física inmediata como la salvación integral holística."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 10,
+    "greek_text": "γνωστὸν ἔστω πᾶσιν ὑμῖν καὶ παντὶ τῷ λαῷ Ἰσραὴλ ὅτι ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ τοῦ Ναζωραίου, ὃν ὑμεῖς ἐσταυρώσατε, ὃν ὁ θεὸς ἤγειρεν ἐκ νεκρῶν, ἐν τούτῳ οὗτος παρέστηκεν ἐνώπιον ὑμῶν ὑγιής.",
+    "translation": "séales notorio a todos ustedes y a todo el pueblo de Israel, que en el nombre de Jesucristo el Nazareno, a quien ustedes crucificaron, a quien Dios resucitó de entre los muertos, por él este hombre se halla en pie y sano delante de ustedes.",
+    "translation_notes": "Declaración testimonial de máxima audacia ante la corte suprema de la nación: Pedro responde sin ambages al requerimiento del tribunal. Señala al causante divino: el nombre de 'Jesucristo el Nazareno'. Contrapone frontalmente el veredicto humano inicuo y el juicio divino absoluto: ὃν ὑμεῖς ἐσταυρώσατε ('a quien ustedes crucificaron mediante la justicia romana') frente a ὃν ὁ θεὸς ἤγειρεν ἐκ νεκρῶν ('a quien Dios resucitó de entre los muertos'). El efecto físico del milagro se expone como prueba factual pericial: παρέστηκεν ἐνώπιον ὑμῶν ὑγιής ('está aquí presente de pie y cabalmente sano ante sus propios ojos')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 11,
+    "greek_text": "οὗτός ἐστιν ὁ λίθος ὁ ἐξουθενηθεὶς ὑφ’ ὑμῶν τῶν οἰκοδόμων, ὁ γενόμενος εἰς κεφαλὴν γωνίας.",
+    "translation": "Este Jesús es «la piedra desechada por ustedes, los constructores, la cual ha llegado a ser la cabeza del ángulo».",
+    "translation_notes": "Cita cristológica fundamental del Salmo 118:22 (LXX), aplicada por el propio Jesús durante su controversia final en el templo (Lc 20:17). Pedro adapta el texto añadiendo una acusación directa y personal: 'por ustedes, los constructores' (ὑφ’ ὑμῶν τῶν οἰκοδόμων). La élite sacerdotal y rabínica, llamada por Dios a ser los maestros de obras espirituales de Israel, consideró al Mesías indigno e inservible, desechándolo con menosprecio (ἐξουθενηθείς). No obstante, la arquitectura divina lo convirtió en κεφαλὴ γωνίας: la piedra angular fundamental que une y sostiene todo el edificio pactual."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 12,
+    "greek_text": "καὶ οὐκ ἔστιν ἐν ἄλλῳ οὐδενὶ ἡ σωτηρία, οὐδὲ γὰρ ὄνομα ἕτερόν ἐστιν ὑπὸ τὸν οὐρανὸν τὸ δεδομένον ἐν ἀνθρώποις ἐν ᾧ δεῖ σωθῆναι ἡμᾶς.",
+    "translation": "Y en ningún otro hay salvación; porque no hay otro nombre bajo el cielo, dado a los hombres, en el cual podamos ser salvos».",
+    "translation_notes": "El axioma cristológico y soteriológico central del cristianismo primitivo: la doble negación enfática οὐκ ἔστιν ἐν ἄλλῳ οὐδενὶ ('no hay en absolutamente ningún otro') proclama la exclusividad absoluta de Jesucristo como único mediador de salvación. El nombre de Jesús es el único 'donado soberanamente por Dios a la humanidad' (τὸ δεδομένον, participio perfecto pasivo de donación divina irrevocable). El verbo impersonal δεῖ (dei, necesidad decretada por la providencia eterna) establece que la salvación universal es ontológicamente imposible al margen de su persona redentora."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 13,
+    "greek_text": "Θεωροῦντες δὲ τὴν τοῦ Πέτρου παρρησίαν καὶ Ἰωάννου, καὶ καταλαβόμενοι ὅτι ἄνθρωποι ἀγράμματοί εἰσιν καὶ ἰδιῶται, ἐθαύμαζον, ἐπεγίνωσκόν τε αὐτοὺς ὅτι σὺν τῷ Ἰησοῦ ἦσαν,",
+    "translation": "Viendo, pues, la audacia de Pedro y de Juan, y percatándose de que eran hombres sin instrucción formal y del común del pueblo, se maravillaban; y reconocían que habían estado con Jesús;",
+    "translation_notes": "El asombro del cuerpo judicial ante la παρρησία (parrhēsia, audacia elocuente y franqueza intachable ante la autoridad imperial o judicial). El Sanedrín comprueba perplejo su condición sociocultural: 1) ἀγράμματοι (agrammatoi: que carecían de formación académica rabínica en las escuelas de interpretación de la Torá como las de Hillel o Shamai, aunque supieran leer y escribir en arameo y griego); 2) ἰδιῶται (idiōtai: personas particulares legas, ciudadanos ordinarios sin rango cívico, administrativo o sacerdotal). La explicación al misterio de su sabiduría residía en un hecho incontrovertible: σὺν τῷ Ἰησοῦ ἦσαν ('habían convivido como discípulos con Jesús')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 14,
+    "greek_text": "τόν τε ἄνθρωπον βλέποντες σὺν αὐτοῖς ἑστῶτα τὸν τεθεραπευμένον οὐδὲν εἶχον ἀντειπεῖν.",
+    "translation": "y viendo de pie junto a ellos al hombre que había sido sanado, no tenían nada que objetar.",
+    "translation_notes": "La evidencia fáctica del milagro bloquea toda dialéctica jurídica de la acusación: el participio perfecto pasivo τὸν τεθεραπευμένον denota una curación anatómica consumada e indiscutible. El lisiado que todos conocían estaba parado erguido junto a los apóstoles (σὺν αὐτοῖς ἑστῶτα). Frente a semejante prueba pericial viva, los juristas no hallaron argumento alguno con el que rebatirlos (οὐδὲν εἶχον ἀντειπεῖν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 15,
+    "greek_text": "κελεύσαντες δὲ αὐτοὺς ἔξω τοῦ συνεδρίου ἀπελθεῖν συνέβαλλον πρὸς ἀλλήλους",
+    "translation": "Habiéndoles ordenado salir fuera del Sanedrín, deliberaban entre sí,",
+    "translation_notes": "Suspensión de la audiencia pública para dar paso a la sesión deliberativa secreta a puerta cerrada. El sustantivo συνέδριον (synedrion) designa técnicamente al tribunal supremo judicial y político de Israel. El verbo συνέβαλλον (imperfecto de symballō) describe el intercambio afanoso de opiniones contradictorias entre los miembros de la corte."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 16,
+    "greek_text": "λέγοντες· Τί ποιήσωμεν τοῖς ἀνθρώποις τούτοις; ὅτι μὲν γὰρ γνωστὸν σημεῖον γέγονεν δι’ αὐτῶν πᾶσιν τοῖς κατοικοῦσιν Ἰερουσαλὴμ φανερόν, καὶ οὐ δυνάμεθα ἀρνήσασθαι·",
+    "translation": "diciendo: «¿Qué haremos con estos hombres? Porque es un hecho notorio para todos los habitantes de Jerusalén que una señal manifiesta ha ocurrido por medio de ellos, y no podemos negarlo.",
+    "translation_notes": "Reconocimiento privado de la bancarrota argumental de la corte: admiten que un 'signo notorio' (γνωστὸν σημεῖον) ha ocurrido de manera pública y manifiesta (φανερόν) ante toda la capital. La confesión unánime οὐ δυνάμεθα ἀρνήσασθαι ('no podemos en absoluto negarlo') demuestra que la hostilidad de los líderes no se debía a falta de pruebas racionales, sino a la resistencia deliberada de su poder institucional ante la soberanía mesiánica de Jesús."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 17,
+    "greek_text": "ἀλλ’ ἵνα μὴ ἐπὶ πλεῖον διανεμηθῇ εἰς τὸν λαόν, ἀπειλῇ ἀπειλησώμεθα αὐτοῖς μηκέτι λαλεῖν ἐπὶ τῷ ὀνόματι τούτῳ μηδενὶ ἀνθρώπων.",
+    "translation": "Sin embargo, para que no se divulgue más entre el pueblo, amenacémoslos con severidad para que no hablen más en este nombre a persona alguna».",
+    "translation_notes": "Medida pragmática de contención política: el verbo médico διανεμηθῇ (subjuntivo aoristo pasivo de dianemō, empleado por Hipócrates y Galeno para describir la propagación invasiva de una úlcera gangrenosa o epidemia contagiosa) expresa el temor de las autoridades a que el movimiento mesiánico se propague inconteniblemente entre la población. Emplean la construcción enfática semítica de dativo cognado ἀπειλῇ ἀπειλησώμεθα ('amenacemos con amenaza formal de sanciones punitivas') para intimidar judicialmente a los apóstoles e imponer censura absoluta sobre 'este nombre'."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 18,
+    "greek_text": "καὶ καλέσαντες αὐτοὺς παρήγγειλαν τὸ καθόλου μὴ φθέγγεσθαι μηδὲ διδάσκειν ἐπὶ τῷ ὀνόματι τοῦ Ἰησοῦ.",
+    "translation": "Y llamándolos de nuevo, les ordenaron categóricamente que de ninguna manera hablaran ni enseñaran en el nombre de Jesús.",
+    "translation_notes": "Promulgación de la orden de interdicción judicial: el adverbio τὸ καθόλου (hapax legomenon en el NT) significa de modo absoluto, tajante e incondicional. El mandato abarca tanto la conversación privada o testimonio oracular (μὴ φθέγγεσθαι) como la instrucción doctrinal sistemática comunitaria (μηδὲ διδάσκειν) sobre la base del nombre de Jesús."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 19,
+    "greek_text": "ὁ δὲ Πέτρος καὶ Ἰωάννης ἀποκριθέντες εἶπον πρὸς αὐτούς· Εἰ δίκαιόν ἐστιν ἐνώπιον τοῦ θεοῦ ὑμῶν ἀκούειν μᾶλλον ἢ τοῦ θεοῦ, κρίνατε·",
+    "translation": "Pero Pedro y Juan respondieron y les dijeron: «Juzguen ustedes si es justo delante de Dios obedecerles a ustedes antes que a Dios;",
+    "translation_notes": "El principio fundamental de la objeción de conciencia y la desobediencia civil legítima cuando una autoridad terrenal colisiona con el mandamiento expreso de Dios. La apelación retórica Εἰ δίκαιόν ἐστιν ἐνώπιον τοῦ θεοῦ... κρίνατε ('Juzguen según el derecho supremo de la corte de Dios') coloca a los propios magistrados del Sanedrín ante el dilema de subordinar la voluntad divina a sus decretos corporativos humanos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 20,
+    "greek_text": "οὐ δυνάμεθα γὰρ ἡμεῖς ἃ εἴδαμεν καὶ ἠκούσαμεν μὴ λαλεῖν.",
+    "translation": "porque nosotros no podemos dejar de decir las cosas que hemos visto y oído».",
+    "translation_notes": "La imposibilidad moral y espiritual del silencio apostólico: el pronombre enfático ἡμεῖς ('nosotros') con la doble negación οὐ δυνάμεθα... μὴ λαλεῖν ('nos resulta moralmente imposible no hablar'). El deber del testigo ocular y auditivo fáctico (ἃ εἴδαμεν καὶ ἠκούσαμεν) de la vida, muerte y resurrección del Mesías constituye un mandato divino superior a cualquier censura impuesta por tribunales humanos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 21,
+    "greek_text": "οἱ δὲ προσαπειλησάμενοι ἀπέλυσαν αὐτούς, μηδὲν εὑρίσκοντες τὸ πῶς κολάσωνται αὐτούς, διὰ τὸν λαόν, ὅτι πάντες ἐδόξαζον τὸν θεὸν ἐπὶ τῷ γεγονότι·",
+    "translation": "Ellos entonces, tras amenazarlos de nuevo, los pusieron en libertad, no hallando modo de castigarlos por causa del pueblo, porque todos glorificaban a Dios por lo que había acontecido;",
+    "translation_notes": "El participio compuesto προσαπειλησάμενοι indica la reiteración exasperada de amenazas penales. El Sanedrín se ve maniatado políticamente: el temor al pueblo (διὰ τὸν λαόν) les impide aplicar azotes o prisión formal, dado que la opinión pública celebraba unánimemente el milagro como una obra manifiesta de la gloria de Dios (ἐδόξαζον τὸν θεόν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 22,
+    "greek_text": "ἐτῶν γὰρ ἦν πλειόνων τεσσεράκοντα ὁ ἄνθρωπος ἐφ’ ὃν γεγόνει τὸ σημεῖον τοῦτο τῆς ἰάσεως.",
+    "translation": "porque el hombre en quien se había obrado esta señal de sanidad tenía más de cuarenta años.",
+    "translation_notes": "Dato clínico y cronológico determinante registrado por Lucas: 'más de cuarenta años' (ἐτῶν ἦν πλειόνων τεσσεράκοντα). En la medicina antigua, una atrofia muscular y ósea congénita mantenida durante cuatro décadas era considerada absolutamente irreversible por medios terapéuticos naturales, consolidando el carácter sobrenatural incuestionable del 'signo de sanidad' (τὸ σημεῖον τῆς ἰάσεως)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 23,
+    "greek_text": "Ἀπολυθέντες δὲ ἦλθον πρὸς τοὺς ἰδίους καὶ ἀπήγγειλαν ὅσα πρὸς αὐτοὺς οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι εἶπαν.",
+    "translation": "Puestos en libertad, vinieron a los suyos y relataron todo lo que los sumos sacerdotes y los ancianos les habían dicho.",
+    "translation_notes": "La expresión πρὸς τοὺς ἰδίους ('hacia los suyos propios') denota el núcleo fraterno de la asamblea eclesial reunida en oración. El verbo ἀπήγγειλαν (aoristo activo de apaggellō) indica un informe oficial fidedigno ante la congregación sobre los términos e intimidaciones del Sanedrín."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 24,
+    "greek_text": "οἱ δὲ ἀκούσαντες ὁμοθυμαδὸν ἦραν φωνὴν πρὸς τὸν θεὸν καὶ εἶπαν· Δέσποτα, σὺ ὁ ποιήσας τὸν οὐρανὸν καὶ τὴν γῆν καὶ τὴν θάλασσαν καὶ πάντα τὰ ἐν αὐτοῖς,",
+    "translation": "Y ellos, al oírlo, alzaron unánimes la voz a Dios y dijeron: «Soberano Señor, tú eres el que hiciste el cielo y la tierra, el mar y todas las cosas que en ellos hay;",
+    "translation_notes": "Inicio de la oración comunitaria modelo ante la persecución del poder estatal: el adverbio ὁμοθυμαδόν recalca la absoluta unidad de mente y corazón del cuerpo eclesial. Invocan a Dios con el título augusto Δέσποτα (Despotes, 'Dueño soberano absoluto', monarca supremo del cosmos que ejerce potestad incondicional sobre emperadores y tribunales). Fundamentan su confianza en el poder creador omnímodo de Dios (hacedor de cielo, tierra, mar y sus criaturas, alusión litúrgica a Éxodo 20:11 y Salmo 146:6)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 25,
+    "greek_text": "ὁ τοῦ πατρὸς ἡμῶν διὰ πνεύματος ἁγίου στόματος Δαυὶδ παιδός σου εἰπών· Ἵνα τί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά;",
+    "translation": "el que por boca de nuestro padre David, tu siervo, dijiste mediante el Espíritu Santo: «¿Por qué se amotinaron las naciones, y los pueblos tramaron cosas vanas?",
+    "translation_notes": "Cita del Salmo 2:1-2 según la versión de los LXX. La teología de la revelación de la comunidad es explícita: Dios habló 'mediante el Espíritu Santo por boca de nuestro padre David, tu siervo'. El verbo ἐφρύαξαν (aoristo activo de phryassō) es un término poético que describe el relincho impetuoso y rebelde de caballos de guerra indómitos que intentan sacudirse el yugo, retratando la arrogancia insurgente de las naciones paganas (ἔθνη) y de los pueblos contra la soberanía divina, tramando maquinaciones condenadas al fracaso (κενά, 'vacías, fútiles')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 26,
+    "greek_text": "παρέστησαν οἱ βασιλεῖς τῆς γῆς καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ κυρίου καὶ κατὰ τοῦ χριστοῦ αὐτοῦ.",
+    "translation": "Se presentaron los reyes de la tierra, y los gobernantes se coligaron a una contra el Señor y contra su Ungido».",
+    "translation_notes": "Continuación del Salmo 2: el paralelismo poético hebreo enfrenta a 'los reyes de la tierra' (οἱ βασιλεῖς τῆς γῆς) y a 'los gobernantes' (οἱ ἄρχοντες) en una conspiración unificada (ἐπὶ τὸ αὐτό) dirigida frontalmente contra Dios (τοῦ κυρίου) y contra su Mesías o Rey escatológico consagrado (κατὰ τοῦ χριστοῦ αὐτοῦ)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 27,
+    "greek_text": "συνήχθησαν γὰρ ἐπ’ ἀληθείας ἐν τῇ πόλει ταύτῃ ἐπὶ τὸν ἅγιον παῖδά σου Ἰησοῦν, ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πιλᾶτος σὺν ἔθνεσιν καὶ λαοῖς Ἰσραήλ,",
+    "translation": "Porque verdaderamente se confabularon en esta ciudad contra tu santo Siervo Jesús, a quien ungiste, tanto Herodes como Poncio Pilato, junto con los gentiles y los pueblos de Israel,",
+    "translation_notes": "Aplicación tipológica y profética directa del Salmo 2 a los hechos históricos acaecidos en la crucifixión en Jerusalén: 1) Los 'reyes' se cumplen en Herodes Antipas (tetrarca de Galilea); 2) Los 'gobernantes' en Poncio Pilato (prefecto romano de Judea); 3) Las 'naciones' en las tropas romanas gentiles (ἔθνεσιν); 4) Los 'pueblos' en la muchedumbre hostil y la aristocracia de Israel (λαοῖς Ἰσραήλ). Toda la coalición de poderes sociopolíticos y religiosos conspiró contra el 'santo Siervo Jesús' (τὸν ἅγιον παῖδά σου), a quien Dios consagró rey mesiánico (ὃν ἔχρισας)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 28,
+    "greek_text": "ποιῆσαι ὅσα ἡ χείρ σου καὶ ἡ βουλὴ [σου] προώρισεν γενέσθαι.",
+    "translation": "para hacer cuanto tu mano y tu designio habían predeterminado que sucediera.",
+    "translation_notes": "Declaración terminante sobre la soberanía providencial divina sobre el mal histórico: los gobernantes y pueblos actuaron movidos por su odio y malicia culpables; no obstante, sin saberlo, no hicieron sino ejecutar aquello que 'tu mano' (ἡ χείρ σου, metáfora antropomórfica del poder activo ejecutor de Dios) y 'tu designio soberano' (ἡ βουλή σου) habían predeterminado en la eternidad (προώρισεν, aoristo activo de proorizō: trazar el destino de antemano) para la expiación del mundo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 29,
+    "greek_text": "καὶ τὰ νῦν, κύριε, ἔπιδε ἐπὶ τὰς ἀπειλὰς αὐτῶν, καὶ δὸς τοῖς δούλοις σου μετὰ παρρησίας πάσης λαλεῖν τὸν λόγον σου,",
+    "translation": "Y ahora, Señor, mira sus amenazas, y concede a tus siervos proclamar tu palabra con toda audacia,",
+    "translation_notes": "La petición de la iglesia perseguida sorprende por su carácter desinteresado y heroico: no oran pidiendo la destrucción de sus enemigos ni la exención del sufrimiento personal, sino que imploran: 1) ἔπιδε (imperativo aoristo de epeidon: 'mira con ojo de juicio y justicia providencial sus amenazas'); 2) δὸς τοῖς δούλοις σου μετὰ παρρησίας πάσης λαλεῖν τὸν λόγον σου ('concede a tus esclavos hablar tu palabra con audacia irreductible'). El término παρρησία es la antítesis de la intimidación y la cobardía."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 30,
+    "greek_text": "ἐν τῷ τὴν χεῖρά [σου] ἐκτείνειν σε εἰς ἴασιν καὶ σημεῖα καὶ τέρατα γίνεσθαι διὰ τοῦ ὀνόματος τοῦ ἁγίου παιδός σου Ἰησοῦ.",
+    "translation": "mientras extiendes tu mano para sanar, y para que se realicen señales y prodigios mediante el nombre de tu santo Siervo Jesús».",
+    "translation_notes": "Petición de respaldo carismático y testimonial: el modismo veterotestamentario de 'extender la mano' (ἐκτείνειν τὴν χεῖρα, cf. Éx 7:5) invoca la manifestación del poder salvífico directo de Dios en sanidades (εἰς ἴασιν) y prodigios cósmicos. Toda la eficacia operante continúa canalizándose 'por medio del nombre de tu santo Siervo Jesús' (διὰ τοῦ ὀνόματος τοῦ ἁγίου παιδός σου Ἰησοῦ)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 31,
+    "greek_text": "καὶ δεηθέντων αὐτῶν ἐσαλεύθη ὁ τόπος ἐν ᾧ ἦσαν συνηγμένοι, καὶ ἐπλήσθησαν ἅπαντες τοῦ ἁγίου πνεύματος, καὶ ἐλάλουν τὸν λόγον τοῦ θεοῦ μετὰ παρρησίας.",
+    "translation": "Y habiendo ellos orado, el lugar en que estaban congregados tembló; y todos fueron llenos del Espíritu Santo, y proclamaban la palabra de Dios con audacia.",
+    "translation_notes": "Respuesta divina inmediata a la oración comunitaria: el genitivo absoluto δεηθέντων αὐτῶν concluye con una teofanía palpable; el verbo ἐσαλεύθη (aoristo pasivo de saleuō) describe el temblor físico del edificio, fenómeno que en el mundo bíblico acompaña la presencia augusta de Dios (Éx 19:18; Is 6:4). Se renueva la plenitud carismática de Pentecostés (ἐπλήσθησαν ἅπαντες τοῦ ἁγίου πνεύματος), cuyo fruto inmediato es la proclamación denodada e incesante de la palabra (ἐλάλουν... μετὰ παρρησίας)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 32,
+    "greek_text": "Τοῦ δὲ πλήθους τῶν πιστευσάντων ἦν καρδία καὶ ψυχὴ μία, καὶ οὐδὲ εἷς τι τῶν ὑπαρχόντων αὐτῷ ἔλεγεν ἴδιον εἶναι, ἀλλ’ ἦν αὐτοῖς ἅπαντα κοινά.",
+    "translation": "Y la multitud de los que habían creído era de un solo corazón y una sola alma; y ninguno decía ser suyo nada de lo que poseía, sino que tenían todas las cosas en común.",
+    "translation_notes": "Cuadro paradigmático de la espiritualidad y praxis de la iglesia de Jerusalén: la fórmula καρδία καὶ ψυχὴ μία ('un solo corazón y una sola alma') evoca el ideal supremo de la armonía cívica y comunitaria (cf. Aristóteles, Ética a Nicómaco 1168b: 'los amigos tienen una sola alma'). El desprendimiento radical se formula jurídicamente: nadie reclamaba la propiedad exclusiva egocéntrica de sus bienes (οὐδὲ εἷς... ἔλεγεν ἴδιον εἶναι), rigiéndose por la koinōnía voluntaria del amor fraterno (ἦν αὐτοῖς ἅπαντα κοινά)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 33,
+    "greek_text": "καὶ μεγάλῃ δυνάμει ἀπεδίδουν τὸ μαρτύριον οἱ ἀπόστολοι τῆς ἀναστάσεως τοῦ κυρίου Ἰησοῦ, χάρις τε μεγάλη ἦν ἐπὶ πάντας αὐτούς.",
+    "translation": "Y con gran poder los apóstoles daban testimonio de la resurrección del Señor Jesús, y abundante gracia reposaba sobre todos ellos.",
+    "translation_notes": "El doble fruto de la comunidad unida: 1) Poder kerygmático: el verbo técnico jurídico ἀπεδίδουν (imperfecto de apodidōmi: rendir cuentas o entregar formalmente una declaración debida) señala el testimonio ininterrumpido de la resurrección física de Jesús; 2) La χάρις μεγάλη ('abundante gracia y favor benevolente') que inundaba a la asamblea, haciéndolos respetados y amados en la sociedad."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 34,
+    "greek_text": "οὐδὲ γὰρ ἐνδεής τις ἦν ἐν αὐτοῖς· ὅσοι γὰρ κτήτορες χωρίων ἢ οἰκιῶν ὑπῆρχον, πωλοῦντες ἔφερον τὰς τιμὰς τῶν πιπρασκομένων",
+    "translation": "Pues no había entre ellos ningún necesitado; porque todos los que eran propietarios de terrenos o de casas los vendían, traían el importe de lo vendido",
+    "translation_notes": "Cumplimiento del ideal pactual de Deuteronomio 15:4 ('no habrá entre ti menesteroso'): οὐδὲ ἐνδεής τις ἦν. Lucas explica la base económica de este milagro social: los propietarios (κτήτορες) de bienes raíces rústicos (χωρίων) o fincas urbanas (οἰκιῶν) enajenaban voluntariamente su patrimonio inmobiliario y entregaban íntegramente las sumas líquidas recaudadas (τὰς τιμὰς τῶν πιπρασκομένων)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 35,
+    "greek_text": "καὶ ἐτίθουν παρὰ τοὺς πόδας τῶν ἀποστόλων· διεδίδετο δὲ ἑκάστῳ καθότι ἄν τις χρείαν εἶχεν.",
+    "translation": "y lo depositaban a los pies de los apóstoles; y se distribuía a cada uno según la necesidad que tuviera.",
+    "translation_notes": "El acto legal y simbólico de depositar el dinero 'a los pies de los apóstoles' (παρὰ τοὺς πόδας τῶν ἀποστόλων) expresaba la renuncia formal al dominio privado y la transferencia de la administración fiduciaria al liderazgo pastoral colegiado de la comunidad. El imperfecto pasivo διεδίδετο denota una distribución ordenada, metódica y personalizada para cubrir la indigencia fáctica (καθότι ἄν τις χρείαν εἶχεν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 36,
+    "greek_text": "Ἰωσὴφ δὲ ὁ ἐπικληθεὶς Βαρναβᾶς ἀπὸ τῶν ἀποστόλων, ὅ ἐστιν μεθερμηνευόμενον Υἱὸς Παρακλήσεως, Λευίτης, Κύπριος τῷ γένει,",
+    "translation": "Entonces José, a quien los apóstoles dieron por sobrenombre Bernabé (que traducido significa «Hijo de Consolación»), levita, natural de Chipre,",
+    "translation_notes": "Presentación biográfica de una figura estelar de la narrativa lucana: José, a quien los Doce apodan afectuosamente Βαρναβᾶς (del arameo Bar-nebu'ah o Bar-na'ama, traducido al griego como Υἱὸς Παρακλήσεως: 'hijo de exhortación, aliento y consolación profética'). Su origen sacerdotal pactual (Λευίτης, levita) y su procedencia geográfica de la diáspora insular grecorromana (Κύπριος τῷ γένει, oriundo de la isla de Chipre) anticipan su rol de puente entre el judaísmo jerosolimitano y las iglesias gentiles."
+  },
+  {
+    "book": "ACT",
+    "chapter": 4,
+    "verse": 37,
+    "greek_text": "ὑπάρχοντος αὐτῷ ἀγροῦ πωλήσας ἤνεγκεν τὸ χρῆμα καὶ ἔθηκεν πρὸς τοὺς πόδας τῶν ἀποστόλων.",
+    "translation": "como tenía un campo, lo vendió y trajo el dinero y lo puso a los pies de los apóstoles.",
+    "translation_notes": "Bernabé se convierte en el modelo paradigmático y positivo de mayordomía generosa y desprendida en contraste con el drama hipócrita que se narrará en el capítulo 5. Aunque la ley de Números 18:20-24 restringía tradicionalmente la propiedad de tierra tribal a los levitas en Canaán, los levitas de la época helenística y de la diáspora poseían propiedades privadas sin impedimento legal (cf. Jeremías 32:7-9). Bernabé liquida su propiedad rústica (ἀγρός) y consagra el monto total (τὸ χρῆμα) a los pies de los apóstoles."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 1,
+    "greek_text": "Ἀνὴρ δέ τις Ἁνανίας ὀνόματι σὺν Σαπφίρῃ τῇ γυναικὶ αὐτοῦ ἐπώλησεν κτῆμα",
+    "translation": "Pero cierto hombre llamado Ananías, junto con Safira su mujer, vendió una propiedad,",
+    "translation_notes": "Apertura contrastiva mediante la conjunción adversativa dé (Ἀνὴρ δέ τις) frente a la generosidad pura de Bernabé en 4:36-37. Los nombres hebreos y arameos son irónicamente significativos: Ἁνανίας (Jananías, 'Yahvé ha sido misericordioso') y Σαπφίρη (Safira, del arameo sappir, 'hermosa' o 'zafiro'). El sustantivo κτῆμα denota un bien inmueble o finca raíz de notable valor económico."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 2,
+    "greek_text": "καὶ ἐνοσφίσατο ἀπὸ τῆς τιμῆς, συνειδυίης καὶ τῆς γυναικός, καὶ ἐνέγκας μέρος τι παρὰ τοὺς πόδας τῶν ἀποστόλων ἔθηκεν.",
+    "translation": "y se apropió indebidamente de una parte del precio, con la complicidad de su mujer; y trayendo solo una parte, la puso a los pies de los apóstoles.",
+    "translation_notes": "El verbo clave es ἐνοσφίσατο (aoristo medio de nosphizomai: retener en secreto para provecho propio, desfalcar o sustraer ilícitamente). Es el mismo verbo técnico empleado en la Septuaginta en Josué 7:1 para describir el pecado de anatema cometido por Acán en la conquista de Jericó. El participio genitivo absoluto συνειδυίης (de synoida: tener conocimiento compartido de una falta, ser cómplice en secreto) confirma que el fraude fue concertado deliberadamente. El engaño no radicaba en retener dinero, sino en aparentar hipócritamente que entregaban la totalidad del precio de la venta."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 3,
+    "greek_text": "εἶπεν δὲ ὁ Πέτρος· Ἁνανία, διὰ τί ἐπλήρωσεν ὁ Σατανᾶς τὴν καρδίαν σου, ψεύσασθαί σε τὸ πνεῦμα τὸ ἅγιον καὶ νοσφίσασθαι ἀπὸ τῆς τιμῆς τοῦ χωρίου;",
+    "translation": "Pedro le dijo: «Ananías, ¿por qué llenó Satanás tu corazón para que mintieras al Espíritu Santo y te apropiaras indebidamente de una parte del precio del terreno?",
+    "translation_notes": "Pedro ejerce el don carismático de discernimiento profético y juicio eclesial. La expresión 'llenó Satanás tu corazón' (ἐπλήρωσεν ὁ Σατανᾶς τὴν καρδίαν σου, semitismo análogo a Ester 7:5) identifica la influencia del Adversario en la introducción de la hipocresía en la comunidad santa. La gravedad suprema del pecado se define en términos trinitarios: ψεύσασθαι τὸ πνεῦμα τὸ ἅγιον ('mentir o intentar engañar al Espíritu Santo'), manifestando que el Espíritu es una Persona divina consciente que preside la vida corporativa de la iglesia."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 4,
+    "greek_text": "οὐχὶ μένον σοὶ ἔμενεν καὶ πραθὲν ἐν τῇ σῇ ἐξουσίᾳ ὑπῆρχεν; τί ὅτι ἔθου ἐν τῇ καρδίᾳ σου τὸ πρᾶγμα τοῦτο; οὐκ ἐψεύσω ἀνθρώποις ἀλλὰ τῷ θεῷ.",
+    "translation": "Reteniéndolo, ¿no se te quedaba a ti? Y una vez vendido, ¿no estaba bajo tu propio control? ¿Por qué concebiste este hecho en tu corazón? No has mentido a los hombres, sino a Dios».",
+    "translation_notes": "Desarticulación jurídica y moral de la mentira: Pedro aclara que la comunidad no imponía un colectivismo forzoso; la propiedad antes de la venta pertenecía legítimamente a Ananías (μένον σοὶ ἔμενεν) y el importe económico tras la venta permanecía bajo su libre potestad potestativa (ἐν τῇ σῇ ἐξουσίᾳ). El pecado no fue financiero, sino la falsedad religiosa ante la congregación para ganar prestigio espiritual espurio. La frase culminante οὐκ ἐψεύσω ἀνθρώποις ἀλλὰ τῷ θεῷ ('no mentiste a hombres, sino a Dios') establece formalmente la plena divinidad del Espíritu Santo, en estricto paralelismo con el v. 3."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 5,
+    "greek_text": "ἀκούων δὲ ὁ Ἁνανίας τοὺς λόγους τούτους πεσὼν ἐξέψυξεν· καὶ ἐγένετο φόβος μέγας ἐπὶ πάντας τοὺς ἀκούοντας.",
+    "translation": "Y al oír Ananías estas palabras, cayó y expiró; y sobrevino gran temor reverente sobre todos los que oyeron esto.",
+    "translation_notes": "Sentencia y juicio judicial inmanente de Dios: el participio aoristo πεσών ('cayendo desplomado') y el verbo clínico ἐξέψυξεν (aoristo activo de ekpsychō: exhalar el último suspiro, expirar súbitamente). Este verbo es exclusivo de Lucas en el canon del Nuevo Testamento (aquí, en el v. 10 con Safira, y en Hch 12:23 con Herodes Agripa). El juicio preserva la pureza de la asamblea naciente ante la lepra de la hipocresía; la reacción comunitaria es φόβος μέγας (un pavor sagrado y santo asombro reverente ante la majestad divina)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 6,
+    "greek_text": "ἀναστάντες δὲ οἱ νεώτεροι συνέστειλαν αὐτὸν καὶ ἐξενέγκαντες ἔθαψαν.",
+    "translation": "Levantándose entonces los jóvenes, envolvieron su cuerpo, y sacándolo fuera, lo sepultaron.",
+    "translation_notes": "Los νεώτεροι (neōteroi, los varones más jóvenes de la congregación) actuaban como ministros auxiliares para tareas corporales y logísticas pesadas. El verbo συνέστειλαν (aoristo activo de systellō) es un tecnicismo del embalsamamiento y mortaja que denota plegar, vendar y ceñir el cadáver en lienzos mortuorios. Conforme a las ordenanzas sanitarias judías y el clima de Jerusalén, la sepultura (ἔθαψαν) debía realizarse de manera perentoria en el mismo día antes del anochecer fuera de los muros de la ciudad."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 7,
+    "greek_text": "Ἐγένετο δὲ ὡς ὡρῶν τριῶν διάστημα καὶ ἡ γυνὴ αὐτοῦ μὴ εἰδυῖα τὸ γεγονὸς εἰσῆλθεν.",
+    "translation": "Pasado un intervalo de unas tres horas, aconteció que entró su mujer, sin saber lo que había sucedido.",
+    "translation_notes": "Precisión cronológica lucana: ὡς ὡρῶν τριῶν διάστημα ('un intervalo de cerca de tres horas', tiempo empleado por los jóvenes en llevar el cuerpo a las afueras de la ciudad, depositarlo en una tumba de roca y regresar). El participio perfecto μὴ εἰδυῖα ('no sabiendo con certeza lo acaecido') prepara la escena probatoria procesal independiente para la mujer."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 8,
+    "greek_text": "ἀπεκρίθη δὲ πρὸς αὐτὴν Πέτρος· Εἰπέ μοι, εἰ τοσούτου τὸ χωρίον ἀπέδοσθε; ἡ δὲ εἶπεν· Ναί, τοσούτου.",
+    "translation": "Pedro entonces le preguntó: «Dime, ¿vendieron en tanto el terreno?». Y ella dijo: «Sí, en tanto».",
+    "translation_notes": "Pedro le ofrece una oportunidad procesal formal de confesar la verdad y distanciarse del fraude: Εἰπέ μοι, εἰ τοσούτου... ('Dime bajo interrogatorio si vendieron en tal suma'). El genitivo de precio τοσούτου alude a la cifra recortada que Ananías había entregado públicamente. La respuesta escueta e impenitente de Safira (Ναί, τοσούτου: 'Sí, en ese exacto precio') sella su complicidad voluntaria en el perjurio sacrílego."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 9,
+    "greek_text": "ὁ δὲ Πέτρος πρὸς αὐτήν· Τί ὅτι συνεφωνήθη ὑμῖν πειράσαι τὸ πνεῦμα κυρίου; ἰδοὺ οἱ πόδες τῶν θαψάντων τὸν ἄνδρα σου ἐπὶ τῇ θύρᾳ καὶ ἐξοίσουσίν σε.",
+    "translation": "Pedro le dijo: «¿Por qué se pusieron de acuerdo para poner a prueba al Espíritu del Señor? He aquí, los pies de los que sepultaron a tu marido están a la puerta, y te sacarán a ti».",
+    "translation_notes": "El verbo pasivo impersonal συνεφωνήθη (de symphōneō, 'sonar al unísono', acordar o confabular en coro) denuncia la conspiración deliberada. El verbo πειράσαι ('poner a prueba') evoca la tentación del desierto en Éxodo 17:2 y Deuteronomio 6:16: desafiar temerariamente la omnisciencia, justicia y paciencia de Dios. El anuncio profético judicial es fulminante: los pasos fúnebres de los jóvenes retornan a la puerta para dar sepultura inmediata a la cómplice."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 10,
+    "greek_text": "ἔπεσεν δὲ παραχρῆμα πρὸς τοὺς πόδας αὐτοῦ καὶ ἐξέψυξεν· εἰσελθόντες δὲ οἱ νεανίσκοι εὗρον αὐτὴν νεκράν, καὶ ἐξενέγκαντες ἔθαψαν πρὸς τὸν ἄνδρα αὐτῆς.",
+    "translation": "Al instante ella cayó a los pies de él y expiró; y cuando los jóvenes entraron, la hallaron muerta, y sacándola, la sepultaron junto a su marido.",
+    "translation_notes": "El adverbio παραχρῆμα ('inmediatamente') recalca la inmediatez del juicio divino. Se reitera el verbo clínico ἐξέψυξεν. Los jóvenes (aquí llamados νεανίσκοι, neaniskoi) ejecutan la inhumación compartida (πρὸς τὸν ἄνδρα αὐτῆς) en el mismo sepulcro familiar rústico."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 11,
+    "greek_text": "καὶ ἐγένετο φόβος μέγας ἐφ’ ὅλην τὴν ἐκκλησίαν καὶ ἐπὶ πάντας τοὺς ἀκούοντας ταῦτα.",
+    "translation": "Y sobrevino un gran temor sobre toda la iglesia y sobre todos los que oyeron estas cosas.",
+    "translation_notes": "Hito eclesiológico decisivo: primera aparición del vocablo ἐκκλησία (ekklēsia) en el texto crítico de Hechos para designar a la comunidad creyente (traduciendo el hebreo qahal Yahwéh: la congregación de Israel convocada por Dios en el pacto). La frase ἐφ’ ὅλην τὴν ἐκκλησίαν abarca a la comunidad interna en su totalidad, mientras que ἐπὶ πάντας τοὺς ἀκούοντας alude a la población judía de Jerusalén que contemplaba con reverente asombro el rigor moral y la santidad de Dios en medio de la asamblea mesiánica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 12,
+    "greek_text": "Διὰ δὲ τῶν χειρῶν τῶν ἀποστόλων ἐγίνετο σημεῖα καὶ τέρατα πολλὰ ἐν τῷ λαῷ· καὶ ἦσαν ὁμοθυμαδὸν ἅπαντες ἐν τῇ Στοᾷ Σολομῶντος·",
+    "translation": "Por mano de los apóstoles se realizaban muchas señales y prodigios en el pueblo; y estaban todos unánimes en el Pórtico de Salomón.",
+    "translation_notes": "Lucas resume el ministerio de la comunidad: la construcción semítica διὰ τῶν χειρῶν τῶν ἀποστόλων ('por las manos de los apóstoles') señala la imposición y contacto físico como canal de las señales (σημεῖα) y prodigios (τέρατα). La congregación mantiene su cohesión interna indivisible (ὁμοθυμαδὸν ἅπαντες) congregándose públicamente en el Pórtico de Salomón del complejo templario, demostrando valentía inquebrantable tras las amenazas del concilio."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 13,
+    "greek_text": "τῶν δὲ λοιπῶν οὐδεὶς ἐτόλμα κολλᾶσθαι αὐτοῖς, ἀλλ’ ἐμεγάλυνεν αὐτοὺς ὁ λαός·",
+    "translation": "De los demás, ninguno se atrevía a juntarse con ellos, pero el pueblo los elogiaba grandemente;",
+    "translation_notes": "Efecto paradójico de la santidad comunitaria: οἱ λοιποί ('los demás', los simpatizantes no convertidos o curiosos superficiales) no se atrevían a 'unirse en intimidad' (κολλᾶσθαι, término que denota adherirse estrechamente o afiliarse con ligereza), intimidados por el juicio estricto ocurrido contra el engaño de Ananías y Safira. No obstante, la opinión pública del pueblo llano (ὁ λαός) los honraba y ensalzaba con profunda admiración y respeto (ἐμεγάλυνεν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 14,
+    "greek_text": "μᾶλλον δὲ προσετίθεντο πιστεύοντες τῷ κυρίῳ πλήθη ἀνδρῶν τε καὶ γυναικῶν,",
+    "translation": "y en número cada vez mayor se añadían creyentes al Señor, multitudes tanto de hombres como de mujeres,",
+    "translation_notes": "Pese al temor reverencial, el crecimiento de los conversos genuinos se aceleraba: el imperfecto pasivo προσετίθεντο ('continuaban siendo incorporados sucesivamente'). Lucas especifica explícitamente la presencia de ambos sexos: πλήθη ἀνδρῶν τε καὶ γυναικῶν ('multitudes tanto de varones como de mujeres'), subrayando el lugar central que las mujeres ocupaban en la membresía de la iglesia del Espíritu."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 15,
+    "greek_text": "ὥστε καὶ εἰς τὰς πλατείας ἐκφέρειν τοὺς ἀσθενεῖς καὶ τιθέναι ἐπὶ κλιναρίων καὶ κραβάττων, ἵνα ἐρχομένου Πέτρου κἂν ἡ σκιὰ ἐπισκιάσῃ τινὶ αὐτῶν.",
+    "translation": "de modo que sacaban a los enfermos a las calles y los ponían en camillas y lechos, para que al pasar Pedro, al menos su sombra cubriera a alguno de ellos.",
+    "translation_notes": "Despliegue extraordinario de fe popular carismática: εἰς τὰς πλατείας ('a las avenidas anchas de la ciudad'). Lucas utiliza dos términos para las camas de los enfermos: 1) κλινάρια (camillas ligeras o catres); 2) κράβαττοι (krabattoi, término vulgar helenístico y latino para las esteras o camastros rústicos de los pobres). La expectativa popular en torno a la sombra de Pedro (ἡ σκιὰ ἐπισκιάσῃ) refleja la creencia antigua mediterránea en la emanación de la presencia de personajes sagrados. El verbo ἐπισκιάζω (episkiazō) posee una inmensa densidad teológica lucana: es el mismo vocablo usado para la sombra del poder divino del Altísimo que cubrió a María en la concepción (Lc 1:35) y la nube de la gloria en la transfiguración (Lc 9:34)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 16,
+    "greek_text": "συνήρχετο δὲ καὶ τὸ πλῆθος τῶν πέριξ πόλεων Ἰερουσαλήμ, φέροντες ἀσθενεῖς καὶ ὀχλουμένους ὑπὸ πνευμάτων ἀκαθάρτων, οἵτινες ἐθεραπεύοντο ἅπαντες.",
+    "translation": "También de las ciudades vecinas a Jerusalén acudía una multitud, trayendo enfermos y atormentados por espíritus inmundos; y todos ellos eran sanados.",
+    "translation_notes": "Expansión regional del ministerio hacia la provincia de Judea: el término τῶν πέριξ πόλεων alude a las aldeas y pueblos circundantes de Jerusalén. Se describe a los afligidos con dos categorías: 1) ἀσθενεῖς (personas con patologías fisiológicas); 2) ὀχλουμένους ὑπὸ πνευμάτων ἀκαθάρτων (participio presente de ochleō: hostigados, acosados o tiranizados violentamente por potestades demoníacas). La eficacia sanadora era absoluta y exhaustiva: ἐθεραπεύοντο ἅπαντες ('todos sin excepción recibían sanidad integral')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 17,
+    "greek_text": "Ἀναστὰς δὲ ὁ ἀρχιερεὺς καὶ πάντες οἱ σὺν αὐτῷ, ἡ οὖσα αἵρεσις τῶν Σαδδουκαίων, ἐπλήσθησαν ζήλου",
+    "translation": "Levantándose entonces el sumo sacerdote y todos los que estaban con él (esto es, la secta de los saduceos), se llenaron de celos,",
+    "translation_notes": "Reacción hostil de la oligarquía dominante: el participio Ἀναστάς ('levantándose con determinación beligerante') encabeza la ofensiva del sumo sacerdote y su círculo íntimo. Lucas identifica sociológicamente al grupo de poder: ἡ οὖσα αἵρεσις τῶν Σαδδουκαίων. El término αἵρεσις (hairesis, del que deriva 'herejía') denotaba en el mundo grecorromano y judío una escuela filosófica, partido político o facción religiosa estructurada (como los fariseos o esenios). Su motivación emocional profunda fue el 'celo' (ζῆλος, zēlos: envidia resentida mezclada con cólera defensiva ante la pérdida de control social y el crecimiento vertiginoso de los apóstoles)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 18,
+    "greek_text": "καὶ ἐπέβαλον τὰς χεῖρας ἐπὶ τοὺς ἀποστόλους καὶ ἔθεντο αὐτοὺς ἐν τηρήσει δημοσίᾳ.",
+    "translation": "y echaron mano a los apóstoles y los pusieron en la cárcel pública.",
+    "translation_notes": "Segundo encarcelamiento: esta vez no solo se apresa a Pedro y Juan, sino a 'los apóstoles' corporativamente (τοὺς ἀποστόλους). El encierro se ejecuta en la τήρησις δημοσία (la prisión municipal o cárcel pública común de la ciudad, un calabozo de mayor rigor y escarnio público)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 19,
+    "greek_text": "ἄγγελος δὲ κυρίου διὰ νυκτὸς ἤνοιξεν τὰς θύρας τῆς φυλακῆς, ἐξαγαγών τε αὐτοὺς εἶπεν·",
+    "translation": "Pero un ángel del Señor, durante la noche, abrió las puertas de la cárcel, y sacándolos, dijo:",
+    "translation_notes": "Intervención celestial milagrosa que ridiculiza el poder carcelario del tribunal humano: ἄγγελος κυρίου ('un ángel del Señor', el emisario providencial de la soberanía de Dios). La liberación nocturna (διὰ νυκτός) y la apertura de las puertas blindadas de la prisión (τὰς θύρας τῆς φυλακῆς) es un motivo recurrente de la historiografía lucana que ilustra la futilidad de encerrar la palabra de Dios (cf. Hch 12:6-11; 16:26)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 20,
+    "greek_text": "Πορεύεσθε καὶ σταθέντες λαλεῖτε ἐν τῷ ἱερῷ τῷ λαῷ πάντα τὰ ῥήματα τῆς ζωῆς ταύτης.",
+    "translation": "«Vayan, y puestos de pie en el templo, anuncien al pueblo todas las palabras de esta Vida».",
+    "translation_notes": "La orden angélica no es la huida clandestina hacia Galilea, sino el testimonio público en el corazón neurálgico del conflicto: σταθέντες λαλεῖτε ἐν τῷ ἱερῷ ('pónganse con firmeza en pie y proclamen abiertamente en el templo'). El mensaje del evangelio es definido con una fórmula insigne: πάντα τὰ ῥήματα τῆς ζωῆς ταύτης ('todas las palabras de esta Vida'). La fe cristiana no es concebida como un código abstracto de leyes rituales, sino como 'la Vida' (zoē) eterna y escatológica inaugurada en la resurrección de Jesucristo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 21,
+    "greek_text": "ἀκούσαντες δὲ εἰσῆλθον ὑπὸ τὸν ὄρθρον εἰς τὸ ἱερὸν καὶ ἐδίδασκον. παραγενόμενος δὲ ὁ ἀρχιερεὺς καὶ οἱ σὺν αὐτῷ συνεκάλεσαν τὸ συνέδριον καὶ πᾶσαν τὴν γερουσίαν τῶν υἱῶν Ἰσραήλ, καὶ ἀπέστειλαν εἰς τὸ δεσμωτήριον ἀχθῆναι αὐτούς.",
+    "translation": "Habiendo oído esto, entraron al amanecer en el templo y se pusieron a enseñar. Entretanto, el sumo sacerdote y los que estaban con él llegaron y convocaron al Sanedrín y a todo el senado de los hijos de Israel, y enviaron guardias a la prisión para que fueran traídos.",
+    "translation_notes": "Pronta obediencia de los apóstoles: entraron ὑπὸ τὸν ὄρθρον (justo al rayar el alba, a la hora más temprana en que se abrían los accesos al templo para las primeras oraciones y abluciones matutinas). Entretanto, las autoridades convocan a la máxima asamblea deliberativa: Lucas añade una fórmula de extrema solemnidad institucional judía: συνεκάλεσαν τὸ συνέδριον καὶ πᾶσαν τὴν γερουσίαν τῶν υἱῶν Ἰσραήλ. El término γερουσία (gerousia, el senado o asamblea de notables ancianos patricios) resalta que se citó a toda la aristocracia representativa de la nación ante el tribunal. Se comisiona a los alguaciles hacia el δεσμωτήριον (desmōtērion, la prisión de máxima seguridad)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 22,
+    "greek_text": "οἱ δὲ παραγενόμενοι ὑπηρέται οὐχ εὗρον αὐτοὺς ἐν τῇ φυλακῇ, ἀναστρέψαντες δὲ ἀπήγγειλαν",
+    "translation": "Pero cuando los alguaciles llegaron, no los hallaron en la cárcel; y regresando, dieron aviso,",
+    "translation_notes": "Los ὑπηρέται (hypēretai) eran los alguaciles o levitas armados de la policía templaria. La ausencia física de los prisioneros en un calabozo cerrado provoca un desconcierto institucional mayúsculo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 23,
+    "greek_text": "λέγοντες ὅτι Τὸ δεσμωτήριον εὕρομεν κεκλεισμένον ἐν πάσῃ ἀσφαλείᾳ καὶ τοὺς φύλακας ἑστῶτας ἐπὶ τῶν θυρῶν, ἀνοίξαντες δὲ ἔσω οὐδένα εὕρομεν.",
+    "translation": "diciendo: «Hallamos la prisión cerrada con toda seguridad y a los guardias apostados a las puertas; pero al abrir, a nadie hallamos dentro».",
+    "translation_notes": "Informe oficial pericial de los guardias: la cárcel permanecía cerrada con candados y cerrojos intactos (ἐν πάσῃ ἀσφαλείᾳ) y el piquete de centinelas militares vigilaba firmemente ante las puertas (ἑστῶτας ἐπὶ τῶν θυρῶν). La desaparición inexplicable de los reos sin violencia ni forcejeo físico expone la impotencia de los sistemas coactivos humanos frente a la intervención de Dios."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 24,
+    "greek_text": "ὡς δὲ ἤκουσαν τοὺς λόγους τούτους ὅ τε στρατηγὸς τοῦ ἱεροῦ καὶ οἱ ἀρχιερεῖς, διηπόρουν περὶ αὐτῶν τί ἂν γένοιτο τοῦτο.",
+    "translation": "Cuando oyeron estas palabras, tanto el comandante de la guardia del templo como los sumos sacerdotes estaban profundamente perplejos respecto a ellos, preguntándose en qué vendría a parar esto.",
+    "translation_notes": "Doble consternación de la jerarquía: el comandante del templo (responsable del orden policial) y los sumos sacerdotes. El verbo διηπόρουν (imperfecto de diaporeō: hallarse en perplejidad extrema sin salida conceptual) refleja su zozobra ante las repercusiones públicas: τί ἂν γένοιτο τοῦτο ('¿en qué desembocará todo esto?')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 25,
+    "greek_text": "παραγενόμενος δέ τις ἀπήγγειλεν αὐτοῖς ὅτι Ἰδοὺ οἱ ἄνδρες οὓς ἔθεσθε ἐν τῇ φυλακῇ εἰσὶν ἐν τῷ ἱερῷ ἑστῶτες καὶ διδάσκοντες τὸν λαόν.",
+    "translation": "Pero llegó alguien que les informó: «Miren, los hombres que ustedes pusieron en la cárcel están en pie en el templo, enseñando al pueblo».",
+    "translation_notes": "Contraste irónico supremo: los reos que debían estar encadenados en un calabozo subterráneo son hallados no huyendo del territorio, sino de pie en el lugar más público y vigilado del templo (ἐν τῷ ἱερῷ ἑστῶτες), ejerciendo precisamente la labor docente que se les había prohibido (διδάσκοντες τὸν λαόν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 26,
+    "greek_text": "τότε ἀπελθὼν ὁ στρατηγὸς σὺν τοῖς ὑπηρέταις ἦγεν αὐτούς, οὐ μετὰ βίας, ἐφοβοῦντο γὰρ τὸν λαόν, μὴ λιθασθῶσιν.",
+    "translation": "Entonces fue el comandante con los alguaciles y los trajo, pero sin violencia, porque temían al pueblo, no fuera que los apedrearan.",
+    "translation_notes": "Operación de arresto con extrema cautela política: el prefecto y la guardia evitan cualquier agresión física o uso de la fuerza (οὐ μετὰ βίας). El motivo se explicita con el temor al linchamiento popular: ἐφοβοῦντο τὸν λαόν, μὴ λιθασθῶσιν ('temían ser apedreados por la multitud'). El lapidamiento (lapidatio) era la reacción popular judía fulminante contra gobernantes que ultrajaban a figuras tenidas por proféticas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 27,
+    "greek_text": "ἀγαγόντες δὲ αὐτοὺς ἔστησαν ἐν τῷ συνεδρίῳ. καὶ ἐπηρώτησεν αὐτοὺς ὁ ἀρχιερεύς,",
+    "translation": "Habiéndolos traído, los presentaron ante el Sanedrín; y el sumo sacerdote los interrogó,",
+    "translation_notes": "Apertura formal de la segunda sesión judicial penal ante el tribunal supremo en pleno (ἔστησαν ἐν τῷ συνεδρίῳ), presidida directamente por el sumo sacerdote Caifás."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 28,
+    "greek_text": "λέγων· Παραγγελίᾳ παρηγγείλαμεν ὑμῖν μὴ διδάσκειν ἐπὶ τῷ ὀνόματι τούτῳ, καὶ ἰδοὺ πεπληρώκατε τὴν Ἰερουσαλὴμ τῆς διδαχῆς ὑμῶν, καὶ βούλεσθε ἐπαγαγεῖν ἐφ’ ἡμᾶς τὸ αἷμα τοῦ ἀνθρώπου τούτου.",
+    "translation": "diciendo: «Les ordenamos terminantemente que no enseñaran en este nombre; y he aquí, han llenado a Jerusalén con su doctrina, y pretenden hacer recaer sobre nosotros la sangre de este hombre».",
+    "translation_notes": "Acusación formal de desacato penal del concilio: la construcción semítica enfática Παραγγελίᾳ παρηγγείλαμεν ('con mandato estricto les prohibimos judicialmente'). El sumo sacerdote formula un involuntario y grandioso reconocimiento del éxito misionero: πεπληρώκατε τὴν Ἰερουσαλὴμ τῆς διδαχῆς ὑμῶν ('han saturado a toda la metrópoli con su doctrina'). En su discurso evita despectivamente pronunciar el nombre sagrado de Jesús, refiriéndose a él como 'este nombre' (τῷ ὀνόματι τούτῳ) y 'este hombre' (τοῦ ἀνθρώπου τούτου). El temor de la élite es que el pueblo les atribuya la culpabilidad penal y moral por su crucifixión injusta (ἐπαγαγεῖν ἐφ’ ἡμᾶς τὸ αἷμα, cf. Mt 27:25)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 29,
+    "greek_text": "ἀποκριθεὶς δὲ Πέτρος καὶ οἱ ἀπόστολοι εἶπαν· Πειθαρχεῖν δεῖ θεῷ μᾶλλον ἢ ἀνθρώποις.",
+    "translation": "Respondiendo Pedro y los apóstoles, dijeron: «Es necesario obedecer a Dios antes que a los hombres.",
+    "translation_notes": "La máxima clásica de la teología política del Nuevo Testamento y del derecho natural: el verbo compuesto πειθαρχεῖν (peitharchein, obedecer incondicionalmente a una autoridad suprema soberana legítima) rige aquí con el imperativo teológico impersonal δεῖ (dei): es una obligación absoluta, indeclinable e innegociable subordinar las prohibiciones de cualquier tribunal terrenal a los mandamientos revelados por Dios."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 30,
+    "greek_text": "ὁ θεὸς τῶν πατέρων ἡμῶν ἤγειρεν Ἰησοῦν, ὃν ὑμεῖς διεχειρίσασθε κρεμάσαντες ἐπὶ ξύλου·",
+    "translation": "El Dios de nuestros padres resucitó a Jesús, a quien ustedes mataron colgándolo en un madero.",
+    "translation_notes": "Pedro confronta de nuevo el veredicto del tribunal: el Dios del pacto nacional de Israel resucitó al Mesías. El verbo enérgica y violentamente acusatorio es διεχειρίσασθε (aoristo medio de diacheirizomai: dar muerte con las propias manos, despachar con violencia asesina). La frase κρεμάσαντες ἐπὶ ξύλου ('colgándolo de un poste de madera') alude directamente a la fórmula de execración de Deuteronomio 21:22-23 (el ajusticiado bajo maldición pública), recordando la ignominia de la cruz romana a la que ellos lo entregaron."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 31,
+    "greek_text": "τοῦτον ὁ θεὸς ἀρχηγὸν καὶ σωτῆρα ὕψωσεν τῇ δεξιᾷ αὐτοῦ, τοῦ δοῦναι μετάνοιαν τῷ Ἰσραὴλ καὶ ἄφεσιν ἁμαρτιῶν.",
+    "translation": "A este, Dios lo ha exaltado a su diestra como Príncipe y Salvador, para dar arrepentimiento a Israel y perdón de pecados.",
+    "translation_notes": "Exaltación cósmica y cristológica: Dios invistió a Jesús con dos títulos reales y salvíficos eminentes: 1) ἀρχηγός (archēgos: Caudillo supremo, Soberano de vanguardia y Guía de la vida); 2) σωτήρ (sōtēr: Salvador, título imperial y divino por excelencia). Fue elevado τῇ δεξιᾷ αὐτοῦ ('a su mano diestra de majestad'). La misión soberana de su reinado glorioso es conceder a Israel la gracia de la μετάνοια (metanoia, arrepentimiento como don sobrenatural) y la ἄφεσις ἁμαρτιῶν (la remisión y absolución legal de los pecados)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 32,
+    "greek_text": "καὶ ἡμεῖς ἐσμεν μάρτυρες τῶν ῥημάτων τούτων, καὶ τὸ πνεῦμα τὸ ἅγιον ὃ ἔδωκεν ὁ θεὸς τοῖς πειθαρχοῦσιν αὐτῷ.",
+    "translation": "Y nosotros somos testigos de estas cosas, y también el Espíritu Santo, el cual Dios ha dado a los que le obedecen».",
+    "translation_notes": "El doble testimonio legal divino y humano requerido por la Torá (Dt 19:15): 1) Los apóstoles como testigos oculares fácticos de los hechos históricos (ἡμεῖς ἐσμεν μάρτυρες τῶν ῥημάτων τούτων); 2) El Espíritu Santo como co-testigo divino supremo, cuyos dones milagrosos avalan el kerygma en la asamblea de quienes rinden obediencia soberana a Dios (τοῖς πειθαρχοῦσιν αὐτῷ)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 33,
+    "greek_text": "Οἱ δὲ ἀκούσαντες διεπρίοντο καὶ ἐβούλοντο ἀνελεῖν αὐτούς.",
+    "translation": "Ellos, al oír esto, se enfurecían hasta las entrañas y querían ejecutarlos.",
+    "translation_notes": "Reacción visceral de furor homicida en los magistrados del Sanedrín: el verbo διεπρίοντο (imperfecto pasivo de diapriō: ser aserrado o cortado de parte a parte con una sierra de dientes afilados; modismo que describe el ser desgarrado internamente por una ira homicida enloquecedora y furiosa). El imperfecto ἐβούλοντο ἀνελεῖν ('tomaban la determinación de ejecutarlos') marca la intención de condenarlos a la pena capital por blasfemia y desacato judicial."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 34,
+    "greek_text": "Ἀναστὰς δέ τις ἐν τῷ συνεδρίῳ Φαρισαῖος ὀνόματι Γαμαλιήλ, νομοδιδάσκαλος τίμιος παντὶ τῷ λαῷ, ἐκέλευσεν ἔξω βραχὺ τοὺς ἀνθρώπους ποιῆσαι,",
+    "translation": "Pero levantándose en el Sanedrín un fariseo llamado Gamaliel, doctor de la ley respetado por todo el pueblo, mandó que sacaran fuera a los hombres por un momento,",
+    "translation_notes": "Intervención histórica providencial: Rabbán Gamaliel I el Anciano, nieto del célebre rabino Hillel y presidente honorario del Sanedrín, una de las figuras más eminentes del judaísmo tanaíta (conocido en el Talmud por su moderación halájica y honrado con la sentencia: 'cuando murió Rabbán Gamaliel, cesó la gloria de la Torá'). Es calificado por Lucas como νομοδιδάσκαλος τίμιος παντὶ τῷ λαῷ (maestro de la Torá honrado por todo el pueblo). Siendo fariseo, no compartía el rencor saduceo contra la doctrina de la resurrección. Como estratega jurídico experimentado, ordena desalojar la sala para deliberar sin la presencia de los procesados."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 35,
+    "greek_text": "εἶπέν τε πρὸς αὐτούς· Ἄνδρες Ἰσραηλῖται, προσέχετε ἑαυτοῖς ἐπὶ τοῖς ἀνθρώποις τούτοις τί μέλλετε πράσσειν.",
+    "translation": "y les dijo: «Varones israelitas, tengan cuidado con respecto a lo que van a hacer con estos hombres.",
+    "translation_notes": "Discurso de moderación y prudencia política ante el cuerpo colegiado: el imperativo προσέχετε ἑαυτοῖς ('miren por ustedes mismos, anden con cautela jurídica') advierte contra decisiones precipitadas impulsadas por la cólera ciega de los saduceos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 36,
+    "greek_text": "πρὸ γὰρ τούτων τῶν ἡμερῶν ἀνέστη Θευδᾶς, λέγων εἶναί τινα ἑαυτόν, ᾧ προσεκλίθη ἀνδρῶν ἀριθμὸς ὡς τετρακοσίων· ὃς ἀνῃρέθη, καὶ πάντες ὅσοι ἐπείθοντο αὐτῷ διελύθησαν καὶ ἐγένοντο εἰς οὐδέν.",
+    "translation": "Porque antes de estos días se levantó Teudas, jactándose de ser alguien importante, al cual se unió un número como de cuatrocientos hombres; este fue muerto, y todos los que le obedecían fueron dispersados y reducidos a la nada.",
+    "translation_notes": "Primer precedente histórico de mesianismo insurreccional abortado: Teudas (Θευδᾶς), caudillo carismático que pretendía tener dotes proféticas (λέγων εἶναί τινα ἑαυτόν). Atrajo una milicia de cuatrocientos insurgentes armados; tras su ejecución militar, su facción se disolvió por completo (διελύθησαν καὶ ἐγένοντο εἰς οὐδέν), demostrando que carecía de respaldo divino."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 37,
+    "greek_text": "μετὰ τοῦτον ἀνέστη Ἰούδας ὁ Γαλιλαῖος ἐν ταῖς ἡμέραις τῆς ἀπογραφῆς καὶ ἀπέστησεν λαὸν ὀπίσω αὐτοῦ· κἀκεῖνος ἀπώλετο, καὶ πάντες ὅσοι ἐπείθοντο αὐτῷ διεσκορπίσθησαν.",
+    "translation": "Después de este se levantó Judas el Galileo, en los días del censo, y arrastró al pueblo en pos de sí; también aquel pereció, y todos los que le obedecían fueron dispersados.",
+    "translation_notes": "Segundo precedente histórico: Judas de Gamala o el Galileo (Ἰούδας ὁ Γαλιλαῖος), cabecilla que en el 6 d.C., durante el célebre censo imperial de Quirino (ἐν ταῖς ἡμέραις τῆς ἀπογραφῆς), lideró la rebelión armada teocrática contra el pago del tributo al César, fundando el movimiento de los zelotes (Josefo, Antigüedades 18.1-10). La sublevación fue sofocada militarmente por Roma, su líder ejecutado y sus seguidores desperdigados (διεσκορπίσθησαν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 38,
+    "greek_text": "καὶ τὰ νῦν λέγω ὑμῖν, ἀπόστητε ἀπὸ τῶν ἀνθρώπων τούτων καὶ ἄφετε αὐτούς· ὅτι ἐὰν ᾖ ἐξ ἀνθρώπων ἡ βουλὴ αὕτη ἢ τὸ ἔργον τοῦτο, καταλυθήσεται·",
+    "translation": "Y ahora les digo: apártense de estos hombres y déjenlos en paz; porque si este designio o esta obra proviene de los hombres, se desmoronará;",
+    "translation_notes": "El dictamen o consejo prudencial de Gamaliel formulado como un principio teológico de prueba histórica: 1) Si es de cuño meramente humano (ἐὰν ᾖ ἐξ ἀνθρώπων ἡ βουλὴ αὕτη ἢ τὸ ἔργον τοῦτο), seguirá la misma suerte de Teudas y Judas, desvaneciéndose por su propia debilidad intrínseca (καταλυθήσεται, futuro pasivo: 'será desmantelada / colapsará')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 39,
+    "greek_text": "εἰ δὲ ἐκ θεοῦ ἐστιν, οὐ δυνήσεσθε καταλῦσαι αὐτούς, μή ποτε καὶ θεομάχοι εὑρεθῆτε. ἐπείσθησαν δὲ αὐτῷ,",
+    "translation": "pero si procede de Dios, no podrán destruirlos; no sea que resulten incluso luchando contra Dios». Y se convencieron con él,",
+    "translation_notes": "La segunda cláusula del dilema: εἰ δὲ ἐκ θεοῦ ἐστιν, οὐ δυνήσεσθε καταλῦσαι αὐτούς ('pero si su origen es Dios, les resultará imposible aniquilarlos'). El Sanedrín correría el riesgo espantoso de quedar registrado como θεομάχοι (theomachoi, combatientes beligerantes en guerra contra Dios, término de la tragedia griega clásica aplicado al choque insolente del hombre contra la voluntad divina). El concilio acató su autoridad (ἐπείσθησαν δὲ αὐτῷ)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 40,
+    "greek_text": "καὶ προσκαλεσάμενοι τοὺς ἀποστόλους δείραντες παρήγγειλαν μὴ λαλεῖν ἐπὶ τῷ ὀνόματι τοῦ Ἰησοῦ καὶ ἀπέλυσαν.",
+    "translation": "y habiendo llamado a los apóstoles, tras azotarlos, les ordenaron que no hablaran en el nombre de Jesús, y los pusieron en libertad.",
+    "translation_notes": "Castigo penal corporal sustitutivo: aunque desisten de condenarlos a muerte, el Sanedrín les aplica el castigo de los azotes (δείραντες, participio aoristo de derō: desollar a golpes, aludiendo a los tradicionales treinta y nueve azotes con correas de cuero estipulados en Deuteronomio 25:1-3 y la Mishná Makot 3:10 para castigar el desacato a una orden de la corte). Reiteran inútilmente la prohibición de hablar en el nombre de Jesús antes de dejarlos libres."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 41,
+    "greek_text": "Οἱ μὲν οὖν ἐπορεύοντο χαίροντες ἀπὸ προσώπου τοῦ συνεδρίου, ὅτι κατηξιώθησαν ὑπὲρ τοῦ ὀνόματος ἀτιμασθῆναι·",
+    "translation": "Ellos, pues, salieron de la presencia del Sanedrín gozosos por haber sido tenidos por dignos de padecer afrenta por causa del Nombre.",
+    "translation_notes": "Paradoja suprema de la espiritualidad apostólica: salir de una flagelación judicial pública 'gozosos' (χαίροντες). La causa del júbilo se expresa mediante una antítesis verbal sublime: κατηξιώθησαν... ἀτιμασθῆναι ('fueron considerados dignos de ser deshonrados / ultrajados ignominiosamente'). Padecer afrenta física por causa del 'Nombre' (ὑπὲρ τοῦ ὀνόματος) era valorado como un galardón supremo de identificación con los sufrimientos del Mesías (cf. Mt 5:11-12)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 42,
+    "greek_text": "πᾶσάν τε ἡμέραν ἐν τῷ ἱερῷ καὶ κατ’ οἶκον οὐκ ἐπαύοντο διδάσκοντες καὶ εὐαγγελιζόμενοι τὸν Χριστὸν Ἰησοῦν.",
+    "translation": "Y todos los días, en el templo y por las casas, no cesaban de enseñar y proclamar el evangelio de Jesucristo.",
+    "translation_notes": "Inquebrantable perseverancia misionera frente a la persecución: la frecuencia era diaria y universal (πᾶσαν ἡμέραν), desplegada en las dos esferas complementarias: el recinto sagrado público (ἐν τῷ ἱερῷ) y la intimidad comunitaria de los hogares (κατ’ οἶκον). Los participios presentes continuativos διδάσκοντες (enseñar sistemáticamente a los conversos) y εὐαγγελιζόμενοι (anunciar las buenas nuevas al pueblo) se centran en un único contenido cristológico indivisible: τὸν Χριστὸν Ἰησοῦν ('a Jesús como el Cristo / Mesías prometido')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 1,
+    "greek_text": "Ἐν δὲ ταῖς ἡμέραις ταύταις πληθυνόντων τῶν μαθητῶν ἐγένετο γογγυσμὸς τῶν Ἑλληνιστῶν πρὸς τοὺς Ἑβραίους ὅτι παρεθεωροῦντο ἐν τῇ διακονίᾳ τῇ καθημερινῇ αἱ χῆραι αὐτῶν.",
+    "translation": "En aquellos días, como el número de los discípulos iba en aumento, se suscitó una murmuración de parte de los helenistas contra los hebreos, porque sus viudas eran desatendidas en la distribución diaria de alimentos.",
+    "translation_notes": "Aparición de la primera tensión cultural y administrativa interna de la comunidad mesiánica. Lucas introduce por vez primera el vocablo técnico μαθηταί (mathētai, 'discípulos'). El sustantivo γογγυσμός (goggysmos) evoca las quejas de Israel en el desierto (Éx 16:7-8). Se definen dos facciones socioculturales: 1) οἱ Ἑλληνισταί (los helenistas, judíos originarios de la diáspora que hablaban griego como lengua materna y leían las Escrituras en la Septuaginta); 2) οἱ Ἑβραῖοι (los hebreos, judíos locales palestinos de habla aramea o hebrea que preservaban las costumbres patrias). La queja afectaba a la διακονία καθημερινή (el reparto diario de alimentos y socorro para los pobres), donde las viudas de habla griega sufrían discriminación o desatención inadvertida (παρεθεωροῦντο, imperfecto pasivo de paratheōreō)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 2,
+    "greek_text": "προσκαλεσάμενοι δὲ οἱ δώδεκα τὸ πλῆθος τῶν μαθητῶν εἶπαν· Οὐκ ἀρεστόν ἐστιν ἡμᾶς καταλείψαντας τὸν λόγον τοῦ θεοῦ διακονεῖν τραπέζαις·",
+    "translation": "Entonces los Doce convocaron a la multitud de los discípulos y dijeron: «No es conveniente que nosotros descuidemos la palabra de Dios para servir a las mesas.",
+    "translation_notes": "Liderazgo colegiado apostólico: 'los Doce' (οἱ δώδεκα) convocan a la asamblea plenaria democrática (τὸ πλῆθος τῶν μαθητῶν). El adjetivo οὐκ ἀρεστόν significa no ser adecuado, recto ni conforme a la voluntad divina. Los apóstoles reconocen el riesgo de la distracción funcional: καταλείψαντας τὸν λόγον τοῦ θεοῦ ('abandonar la predicación de la palabra'). La expresión διακονεῖν τραπέζαις alude tanto a la administración de las mesas de comida para los menesterosos como a las mesas de contabilidad financiera comunitaria (análogas a las de los banqueros o cambistas, trapeza)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 3,
+    "greek_text": "ἐπισκέψασθε δέ, ἀδελφοί, ἄνδρας ἐξ ὑμῶν μαρτυρουμένους ἑπτὰ πλήρεις πνεύματος καὶ σοφίας, οὓς καταστήσομεν ἐπὶ τῆς χρείας ταύτης·",
+    "translation": "Busquen, pues, hermanos, de entre ustedes a siete varones de testimonio intachable, llenos del Espíritu y de sabiduría, a quienes designaremos para esta tarea necesaria;",
+    "translation_notes": "Criterios estrictos para el ministerio social y administrativo: el verbo imperativo aoristo medio ἐπισκέψασθε (del cual procede episkopos: inspeccionar críticamente para seleccionar). Se estipulan tres requisitos: 1) μαρτυρουμένους (con testimonio moral y ético acreditado públicamente); 2) πλήρεις πνεύματος (llenos de la unción y fruto del Espíritu Santo); 3) πλήρεις σοφίας (dotados de sabiduría práctica y administrativa). El número 'siete' (ἑπτά) evoca la plenitud y refleja la institución civil judía de los 'siete del pueblo' (shivat tuvei ha-ir), el consejo municipal de siete ancianos que administraba los fondos comunales en las ciudades judías de la época."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 4,
+    "greek_text": "ἡμεῖς δὲ τῇ προσευχῇ καὶ τῇ διακονίᾳ τοῦ λόγου προσκαρτερήσομεν.",
+    "translation": "mientras que nosotros persistiremos en la oración y en el ministerio de la palabra».",
+    "translation_notes": "La prioridad apostólica irrenunciable: el pronombre enfático ἡμεῖς ('nosotros'). El verbo προσκαρτερήσομεν (futuro de proskartereō: consagrarse con asiduidad, constancia y disciplina férrea). Se equilibran dos pilares: la intercesión continua ante Dios (τῇ προσευχῇ) y el servicio activo de proclamación de las Escrituras (τῇ διακονίᾳ τοῦ λόγου)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 5,
+    "greek_text": "καὶ ἤρεσεν ὁ λόγος ἐνώπιον παντὸς τοῦ πλήθους, καὶ ἐξελέξαντο Στέφανον, ἄνδρα πλήρης πίστεως καὶ πνεύματος ἁγίου, καὶ Φίλιππον καὶ Πρόχορον καὶ Νικάνορα καὶ Τίμωνα καὶ Παρμενᾶν καὶ Νικόλαον προσήλυτον Ἀντιοχέα,",
+    "translation": "Y la propuesta agradó a toda la multitud; y eligieron a Esteban, varón lleno de fe y del Espíritu Santo, y a Felipe, a Prócoro, a Nicanor, a Timón, a Pármenas y a Nicolás, prosélito de Antioquía;",
+    "translation_notes": "La asamblea ratifica la propuesta apostólica y elige a los Siete. Significativamente, los siete nombres seleccionados son de origen griego, lo que manifiesta una conmovedora sensibilidad pastoral y reconciliación: la asamblea encomendó el control financiero y asistencial precisamente al grupo cultural que se había sentido postergado (los helenistas). Se destaca a Στέφανος (Esteban, de stephanos, 'corona'), ensalzado como 'lleno de fe y del Espíritu Santo'. Destaca también Νικόλαος προσήλυτος Ἀντιοχεύς (Nicolás, un gentil originario de la metrópoli siria de Antioquía que se había convertido primero al judaísmo de la Torá y posteriormente al Mesías Jesús)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 6,
+    "greek_text": "οὓς ἔστησαν ἐνώπιον τῶν ἀποστόλων, καὶ προσευξάμενοι ἐπέθηκαν αὐτοῖς τὰς χεῖρας.",
+    "translation": "a los cuales presentaron delante de los apóstoles, quienes, habiendo orado, les impusieron las manos.",
+    "translation_notes": "Liturgia de ordenación eclesiástica: los elegidos comparecen ante el colegio apostólico. Tras la oración comunitaria (προσευξάμενοι), los Doce ejecutan el rito solemne de la imposición de manos (ἐπέθηκαν αὐτοῖς τὰς χεῖρας). En la tradición bíblica veterotestamentaria (la semijá, cf. Números 27:18.23; Deuteronomio 34:9), la imposición de manos transfería autoridad representativa, investidura legal de cargo y delegación funcional de poder espiritual ante la congregación."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 7,
+    "greek_text": "Καὶ ὁ λόγος τοῦ θεοῦ ηὔξανεν, καὶ ἐπληθύνετο ὁ ἀριθμὸς τῶν μαθητῶν ἐν Ἰερουσαλὴμ σφόδρα, πολύς τε ὄχλος τῶν ἱερέων ὑπήκουον τῇ πίστει.",
+    "translation": "Y la palabra de Dios crecía, y el número de los discípulos se multiplicaba grandemente en Jerusalén; e incluso una gran multitud de sacerdotes obedecía a la fe.",
+    "translation_notes": "Fórmula de progreso triunfal lucana que sella el final de la crisis: los imperfectos ηὔξανεν (la palabra crecía orgánicamente como semilla fértil) y ἐπληθύνετο (se multiplicaba exponencialmente con el adverbio σφόδρα: 'en grado sumo'). Lucas registra un dato sociorreligioso de impacto excepcional: πολὺς ὄχλος τῶν ἱερέων ('una gran multitud de sacerdotes', miembros del clero levítico humilde de las veinticuatro órdenes sacerdotales del templo) se adhería a la comunidad mediante la 'obediencia a la fe' (ὑπήκουον τῇ πίστει), mostrando la penetración del evangelio en las propias entrañas del culto oficial."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 8,
+    "greek_text": "Στέφανος δὲ πλήρης χάριτος καὶ δυνάμεως ἐποίει τέρατα καὶ σημεῖα μεγάλα ἐν τῷ λαῷ.",
+    "translation": "Y Esteban, lleno de gracia y de poder, hacía grandes prodigios y señales entre el pueblo.",
+    "translation_notes": "Transición narrativa hacia la figura monumental de Esteban: originalmente ordenado para la atención de las mesas caritativas, su investidura carismática lo proyecta como un poderoso evangelista y teólogo profético. Está 'lleno de gracia' (πλήρης χάριτος) y 'de poder taumatúrgico' (δυνάμεως), obrando milagros de calibre apostólico (τέρατα καὶ σημεῖα μεγάλα) a la vista de todo el pueblo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 9,
+    "greek_text": "ἀνέστησαν δέ τινες τῶν ἐκ τῆς συναγωγῆς τῆς λεγομένης Λιβερτίνων καὶ Κυρηναίων καὶ Ἀλεξανδρέων καὶ τῶν ἀπὸ Κιλικίας καὶ Ἀσίας συζητοῦντες τῷ Στεφάνῳ,",
+    "translation": "Se levantaron entonces algunos de la sinagoga llamada de los Libertos, y de los cireneos, de los alejandrinos y de los procedentes de Cilicia y de Asia, debatiendo con Esteban;",
+    "translation_notes": "Oposición dialéctica de los judíos helenistas de la diáspora. El término Λιβερτῖνοι (del latín libertini, libertos) se refiere a judíos o a sus descendientes que habían sido llevados a Roma como prisioneros y esclavos de guerra por Pompeyo en el 63 a.C., y que tras ser manumitidos por sus amos romanos, habían retornado a Jerusalén fundando su propia sinagoga de habla griega. Se unen a ellos las comunidades de Cirene y Alejandría (norte de África), así como de las provincias de Asia y Cilicia (donde se hallaba Tarso, sugiriendo la probable presencia activa del joven Saulo en este debate teológico). El verbo συζητοῦντες denota una acalorada controversia exegética y teológica formal."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 10,
+    "greek_text": "καὶ οὐκ ἴσχυον ἀντιστῆναι τῇ σοφίᾳ καὶ τῷ πνεύματι ᾧ ἐλάλει.",
+    "translation": "y no tenían fuerza para resistir a la sabiduría y al Espíritu con que él hablaba.",
+    "translation_notes": "Cumplimiento literal de la promesa escatológica hecha por Jesús en Lucas 21:15 ('porque yo les daré palabras y sabiduría que ninguno de sus adversarios podrá resistir ni contradecir'). La expresión οὐκ ἴσχυον ἀντιστῆναι ('carecían por completo de capacidad intelectual y dialéctica para oponerse') certifica que la oratoria de Esteban no se fundamentaba en retórica humana, sino en la inspiración directa del Espíritu de Dios."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 11,
+    "greek_text": "τότε ὑπέβαλον ἄνδρας λέγοντας ὅτι Ἀκηκόαμεν αὐτοῦ λαλοῦντος ῥήματα βλάσφημα εἰς Μωϋσῆν καὶ τὸν θεόν·",
+    "translation": "Entonces sobornaron a unos hombres para que dijeran: «Le hemos oído hablar palabras blasfemas contra Moisés y contra Dios».",
+    "translation_notes": "Giro perverso y conspirativo ante la derrota dialéctica: el verbo ὑπέβαλον (aoristo activo de hypoballō) es un tecnicismo legal y del hampa antigua que significa sobornar en secreto a testigos mercenarios, inducirlos mediante pago pecuniario o infiltrarlos para imputar un falso testimonio criminal. La acusación imputada es el delito capital supremo: 'blasfemia' (ῥήματα βλάσφημα) contra la autoridad sagrada de Moisés (la ley) y contra el propio Dios de Israel."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 12,
+    "greek_text": "συνεκίνησάν τε τὸν λαὸν καὶ τοὺς πρεσβυτέρους καὶ τοὺς γραμματεῖς, καὶ ἐπιστάντες συνήρπασαν αὐτὸν καὶ ἤγαγον εἰς τὸ συνέδριον,",
+    "translation": "Y soliviantaron al pueblo, a los ancianos y a los escribas; y viniendo sobre él, lo arrebataron con violencia y lo llevaron ante el Sanedrín,",
+    "translation_notes": "Estrategia de agitación de masas: el verbo συνεκίνησαν (de synkineō: conmover violentamente, soliviantar a una multitud mediante pánico o rencor religioso). Logran unir contra Esteban a la población civil y a los ancianos y escribas (que hasta entonces habían guardado cierta distancia del celo saduceo). El verbo compuesto συνήρπασαν (aoristo activo de synarpazō: apoderarse con violencia física intempestiva, arrebatar a viva fuerza) describe un arresto tumultuoso e ilegal que traslada a Esteban directamente a la sala de juicio del Sanedrín."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 13,
+    "greek_text": "ἔστησάν τε μάρτυρας ψευδεῖς λέγοντας· Ὁ ἄνθρωπος οὗτος οὐ παύεται λαλῶν ῥήματα κατὰ τοῦ τόπου τοῦ ἁγίου [τούτου] καὶ τοῦ νόμου·",
+    "translation": "y presentaron testigos falsos que decían: «Este hombre no cesa de hablar palabras contra este santo lugar y contra la ley;",
+    "translation_notes": "Apertura del juicio penal ante el Sanedrín con testigos cohechados (μάρτυρας ψευδεῖς), en exacto paralelismo procesal con el juicio contra Jesús ante Caifás (Mc 14:56-58). Los cargos atacan los dos pilares inmutables del judaísmo del Segundo Templo: 1) ὁ τόπος ὁ ἅγιος (este lugar santo, el complejo sagrado del templo de Jerusalén); 2) ὁ νόμος (la Torá mosaica escrita y oral)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 14,
+    "greek_text": "ἀκηκόαμεν γὰρ αὐτοῦ λέγοντος ὅτι Ἰησοῦς ὁ Ναζωραῖος οὗτος καταλύσει τὸν τόπον τοῦτον καὶ ἀλλάξει τὰ ἔθη ἃ παρέδωκεν ἡμῖν Μωϋσῆς.",
+    "translation": "porque le hemos oído decir que este Jesús el Nazareno destruirá este lugar y alterará las costumbres que nos transmitió Moisés».",
+    "translation_notes": "Concreción de la falsa acusación: tergiversan la profecía de Jesús sobre la destrucción escatológica del templo (cf. Lc 21:6; Jn 2:19). El término τὰ ἔθη (ta ethē, las costumbres, observancias y tradiciones cúlticas) alude al sistema de sacrificios, purezas y ritos ceremoniales que el sacerdocio atribuía directamente a Moisés. Esteban entendía con lucidez profética que la muerte redentora y exaltación de Cristo superaban y relativizaban el culto sacrificial del templo físico."
+  },
+  {
+    "book": "ACT",
+    "chapter": 6,
+    "verse": 15,
+    "greek_text": "καὶ ἀτενίσαντες εἰς αὐτὸν πάντες οἱ καθεζόμενοι ἐν τῷ συνεδρίῳ εἶδον τὸ πρόσωπον αὐτοῦ ὡσεὶ πρόσωπον ἀγγέλου.",
+    "translation": "Y fijando los ojos en él todos los que estaban sentados en el Sanedrín, vieron su rostro como el rostro de un ángel.",
+    "translation_notes": "El sobrecogedor epílogo de la escena judicial: todos los magistrados sentados en el semicírculo forense (οἱ καθεζόμενοι ἐν τῷ συνεδρίῳ) clavan su mirada absorta (ἀτενίσαντες) sobre el acusado. En lugar de advertir pánico, confusión o culpa criminal, contemplan un resplandor sobrenatural: 'su rostro como el rostro de un ángel' (ὡσεὶ πρόσωπον ἀγγέλου). Esta teofanía de gloria y majestad evoca el resplandor radiante del rostro de Moisés al descender de la comunión con Dios en el monte Sinaí (Éx 34:29-35), convirtiéndose en la vindicación visual divina y definitiva de Esteban: Dios mismo autentica a su siervo como su auténtico portavoz pactual frente a la corte que se dispone a juzgarlo."
+  }
+]

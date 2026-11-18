@@ -1,0 +1,43 @@
+{
+  "name": "biblia",
+  "version": "1.0.0",
+  "description": "Pipeline automatizado para traducir el Nuevo Testamento desde el griego koiné hacia un español latinoamericano fiel y moderno",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "download:mat": "tsx scripts/download-mat.ts",
+    "download:gal": "tsx scripts/download-gal.ts",
+    "download:act": "tsx scripts/download-act.ts",
+    "translate:pilot": "tsx scripts/translate-book.ts data/2JN.json",
+    "translate:mat": "tsx scripts/translate-book.ts data/MAT.json",
+    "insert:gal": "tsx scripts/insert-translated.ts data/GAL_translated.json",
+    "insert:act": "tsx scripts/insert-translated.ts data/ACT_ch1-3_translated.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^3.0.0",
+    "@supabase/supabase-js": "^2.119.0",
+    "@types/node": "^26.6.6",
+    "autoprefixer": "^10.6.2",
+    "clsx": "^2.1.1",
+    "dotenv": "^18.0.10",
+    "lucide-react": "^1.72.0",
+    "next": "^14.2.24",
+    "postcss": "^8.5.32",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^3.7.0",
+    "tailwindcss": "^3.4.19",
+    "tsx": "^4.23.15"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "typescript": "^5.9.3"
+  }
+}

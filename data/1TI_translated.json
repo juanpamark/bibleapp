@@ -1,0 +1,906 @@
+[
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 1,
+    "greek_text": "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ κατ’ ἐπιταγὴν θεοῦ σωτῆρος ἡμῶν καὶ Χριστοῦ Ἰησοῦ τῆς ἐλπίδος ἡμῶν",
+    "translation": "Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador y de Cristo Jesús nuestra esperanza,",
+    "translation_notes": "Prescripto solemne: κατ’ ἐπιταγὴν («por orden/mandato real») de «Dios nuestro Salvador» (θεοῦ σωτῆρος ἡμῶν, título frecuente en las Pastorales) y de Cristo Jesús, llamado aquí directamente «nuestra esperanza» (τῆς ἐλπίδος ἡμῶν)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 2,
+    "greek_text": "Τιμοθέῳ γνησίῳ τέκνῳ ἐν πίστει· χάρις, ἔλεος, εἰρήνη ἀπὸ θεοῦ πατρὸς καὶ Χριστοῦ Ἰησοῦ τοῦ κυρίου ἡμῶν.",
+    "translation": "a Timoteo, verdadero hijo en la fe: Gracia, misericordia y paz de parte de Dios Padre y de Cristo Jesús nuestro Señor.",
+    "translation_notes": "Saludo característico de las cartas a Timoteo (cf. 2 Ti 1:2): añade ἔλεος («misericordia» compasiva) entre «gracia» y «paz». Llama a Timoteo γνησίῳ τέκνῳ («hijo legítimo/genuino» en la fe)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 3,
+    "greek_text": "Καθὼς παρεκάλεσά σε προσμεῖναι ἐν Ἐφέσῳ, πορευόμενος εἰς Μακεδονίαν, ἵνα παραγγείλῃς τισὶν μὴ ἑτεροδιδασκαλεῖν",
+    "translation": "Como te rogué que te quedaras en Éfeso cuando iba hacia Macedonia, te encargo ahora que mandes a algunos que no enseñen doctrinas extrañas,",
+    "translation_notes": "Situación histórica (tras la primera liberación romana de Pablo): Timoteo permanece en Éfeso para frenar a ciertos maestros con ἑτεροδιδασκαλεῖν («enseñar una doctrina diferente/ajena al evangelio apostólico»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 4,
+    "greek_text": "μηδὲ προσέχειν μύθοις καὶ γενεαλογίαις ἀπεράντοις, αἵτινες ἐκζητήσεις παρέχουσι μᾶλλον ἢ οἰκονομίαν θεοῦ τὴν ἐν πίστει—",
+    "translation": "ni presten atención a mitos y genealogías interminables, que producen más bien especulaciones que la administración de Dios que es por fe.",
+    "translation_notes": "Contraste entre ἐκζητήσεις («disputas especulativas estériles» sobre leyendas y genealogías alegóricas del AT) y οἰκονομία θεοῦ («el plan/administración salvífica de Dios que opera por fe»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 5,
+    "greek_text": "τὸ δὲ τέλος τῆς παραγγελίας ἐστὶν ἀγάπη ἐκ καθαρᾶς καρδίας καὶ συνειδήσεως ἀγαθῆς καὶ πίστεως ἀνυποκρίτου,",
+    "translation": "Pero el propósito de este mandato es el amor que brota de un corazón limpio, de una buena conciencia y de una fe sincera;",
+    "translation_notes": "Meta positiva de la sana enseñanza: τὸ τέλος («el objetivo final») es ἀγάπη («amor») nacido de tres fuentes interiores: corazón puro, conciencia limpia y fe sin hipocresía (ἀνυποκρίτου)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 6,
+    "greek_text": "ὧν τινες ἀστοχήσαντες ἐξετράπησαν εἰς ματαιολογίαν,",
+    "translation": "de lo cual algunos, habiéndose desviado, se apartaron hacia una vana palabrería,",
+    "translation_notes": "Metáfora de arquería: ἀστοχήσαντες («erraron el blanco / perdieron la puntería», de στόχος, blanco) y acabaron en ματαιολογία («charla vacía/sin fruto»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 7,
+    "greek_text": "θέλοντες εἶναι νομοδιδάσκαλοι, μὴ νοοῦντες μήτε ἃ λέγουσιν μήτε περὶ τίνων διαβεβαιοῦνται.",
+    "translation": "queriendo ser maestros de la ley, sin entender ni lo que dicen ni aquello acerca de lo cual hacen afirmaciones categóricas.",
+    "translation_notes": "Ambicionaban el prestigio de νομοδιδάσκαλοι («doctores de la ley»), pero carecían de comprensión real de su propósito."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 8,
+    "greek_text": "Οἴδαμεν δὲ ὅτι καλὸς ὁ νόμος ἐάν τις αὐτῷ νομίμως χρῆται,",
+    "translation": "Ahora bien, sabemos que la ley es buena, si uno la usa legítimamente,",
+    "translation_notes": "Juego de palabras jurídico: καλὸς ὁ νόμος... νομίμως χρῆται («la ley es buena si alguien la usa conforme al verdadero propósito de la ley»), no como especulación ni medio de autojustificación."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 9,
+    "greek_text": "εἰδὼς τοῦτο, ὅτι δικαίῳ νόμος οὐ κεῖται, ἀνόμοις δὲ καὶ ἀνυποτάκτοις, ἀσεβέσι καὶ ἁμαρτωλοῖς, ἀνοσίοις καὶ βεβήλοις, πατρολῴαις καὶ μητρολῴαις, ἀνδροφόνοις,",
+    "translation": "conociendo esto: que la ley no está puesta para el justo, sino para los transgresores y rebeldes, para los impíos y pecadores, para los irreverentes y profanos, para los que matan a su padre o a su madre, para los homicidas,",
+    "translation_notes": "Función pedagógica y represiva de la ley (vv. 9–10): sigue el orden de la segunda tabla del Decálogo (Éx 20:12–16): contra los padres (quinto), homicidas (sexto), inmoralidad (séptimo), secuestradores/traficantes de esclavos (octavo), mentirosos y perjuros (noveno)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 10,
+    "greek_text": "πόρνοις, ἀρσενοκοίταις, ἀνδραποδισταῖς, ψεύσταις, ἐπιόρκοις, καὶ εἴ τι ἕτερον τῇ ὑγιαινούσῃ διδασκαλίᾳ ἀντίκειται,",
+    "translation": "para los inmorales sexuales, los que practican la homosexualidad, los traficantes de personas, los mentirosos, los perjuros, y para cuanto se oponga a la sana doctrina,",
+    "translation_notes": "Catálogo de vicios alineado al Decálogo: πόρνοις (inmorales sexuales), ἀρσενοκοίταις (compuesto de ἄρσην «varón» y κοίτη «lecho», cf. Lv 18:22; 20:13 LXX; 1 Co 6:9), ἀνδραποδισταῖς («secuestradores/traficantes de esclavos humanos»), mentirosos y perjuros."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 11,
+    "greek_text": "κατὰ τὸ εὐαγγέλιον τῆς δόξης τοῦ μακαρίου θεοῦ, ὃ ἐπιστεύθην ἐγώ.",
+    "translation": "conforme al evangelio de la gloria del Dios bienaventurado, que me ha sido confiado.",
+    "translation_notes": "El adjetivo μακάριος («feliz/bienaventurado en plenitud») aplicado a Dios (cf. 6:15) destaca su majestad serena que confía a Pablo el evangelio glorioso."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 12,
+    "greek_text": "Χάριν ἔχω τῷ ἐνδυναμώσαντί με Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν, ὅτι πιστόν με ἡγήσατο θέμενος εἰς διακονίαν,",
+    "translation": "Doy gracias al que me fortaleció, a Cristo Jesús nuestro Señor, porque me consideró fiel poniéndome en el servicio ministerial,",
+    "translation_notes": "Gratitud personal del apóstol: Χάριν ἔχω («tengo gratitud») a Cristo que lo capacitó (ἐνδυναμώσαντι) y lo puso en el ministerio (διακονία), no por méritos pasados sino por pura misericordia (v. 13)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 13,
+    "greek_text": "τὸ πρότερον ὄντα βλάσφημον καὶ διώκτην καὶ ὑβριστήν· ἀλλὰ ἠλεήθην, ὅτι ἀγνοῶν ἐποίησα ἐν ἀπιστίᾳ,",
+    "translation": "a mí, que antes era blasfemo, perseguidor e insolente; pero alcancé misericordia porque lo hice por ignorancia en incredulidad,",
+    "translation_notes": "Confesión sincera de su pasado como Saulo de Tarso: βλάσφημος (injuriaba el nombre de Jesús), διώκτης (perseguía a la iglesia) y ὑβριστής (arrogante violento). «Alcancé misericordia» (ἠλεήθην, pasivo teológico) porque su celo procedía de ignorancia (ἀγνοῶν) antes de conocer al Mesías."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 14,
+    "greek_text": "ὑπερεπλεόνασεν δὲ ἡ χάρις τοῦ κυρίου ἡμῶν μετὰ πίστεως καὶ ἀγάπης τῆς ἐν Χριστῷ Ἰησοῦ.",
+    "translation": "y la gracia de nuestro Señor sobreabundó con fe y amor que están en Cristo Jesús.",
+    "translation_notes": "Verbo compuesto característico de Pablo: ὑπερεπλεόνασεν («se desbordó sobreabundantemente por encima de todo pecado»), produciendo fe y amor donde antes había incredulidad y odio."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 15,
+    "greek_text": "πιστὸς ὁ λόγος καὶ πάσης ἀποδοχῆς ἄξιος, ὅτι Χριστὸς Ἰησοῦς ἦλθεν εἰς τὸν κόσμον ἁμαρτωλοὺς σῶσαι· ὧν πρῶτός εἰμι ἐγώ,",
+    "translation": "Fiel es esta palabra y digna de toda aceptación: que Cristo Jesús vino al mundo para salvar a los pecadores, de los cuales yo soy el primero.",
+    "translation_notes": "Primera de las cinco «palabras fieles» (Πιστὸς ὁ λόγος) en las Pastorales: resume la encarnación redentora («vino al mundo a salvar pecadores») con el humilde presente de Pablo: «de los cuales yo *soy* el primero/principal» (πρῶτος εἰμι)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 16,
+    "greek_text": "ἀλλὰ διὰ τοῦτο ἠλεήθην, ἵνα ἐν ἐμοὶ πρώτῳ ἐνδείξηται Χριστὸς Ἰησοῦς τὴν ἅπασαν μακροθυμίαν, πρὸς ὑποτύπωσιν τῶν μελλόντων πιστεύειν ἐπ’ αὐτῷ εἰς ζωὴν αἰώνιον.",
+    "translation": "Pero por esto alcancé misericordia, para que Cristo Jesús mostrara en mí el primero toda su paciencia, como ejemplo para los que habrían de creer en él para vida eterna.",
+    "translation_notes": "Ὑποτύπωσις (hypotypōsis, «bosquejo/modelo ejemplar»): si Cristo tuvo paciencia (μακροθυμία) con el perseguidor número uno, nadie está fuera del alcance de su gracia."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 17,
+    "greek_text": "τῷ δὲ βασιλεῖ τῶν αἰώνων, ἀφθάρτῳ, ἀοράτῳ, μόνῳ θεῷ, τιμὴ καὶ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.",
+    "translation": "Por tanto, al Rey de los siglos, inmortal, invisible, único Dios, sea honor y gloria por los siglos de los siglos. Amén.",
+    "translation_notes": "Doxología espontánea de adoración: τῷ βασιλεῖ τῶν αἰώνων («al Rey de las edades/eternidades»), incorruptible (ἀφθάρτῳ), invisible (ἀοράτῳ) y único Dios."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 18,
+    "greek_text": "Ταύτην τὴν παραγγελίαν παρατίθεμαί σοι, τέκνον Τιμόθεε, κατὰ τὰς προαγούσας ἐπὶ σὲ προφητείας, ἵνα στρατεύῃ ἐν αὐταῖς τὴν καλὴν στρατείαν,",
+    "translation": "Este mandato te encomiendo, hijo Timoteo, conforme a las profecías que antes se hicieron respecto a ti, para que por ellas pelees la buena batalla,",
+    "translation_notes": "Παρατίθεμαι («te confío en depósito»): alude a palabras proféticas pronunciadas cuando Timoteo fue comisionado (cf. 4:14), llamándolo a librar «la noble campaña militar» (τὴν καλὴν στρατείαν)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 19,
+    "greek_text": "ἔχων πίστιν καὶ ἀγαθὴν συνείδησιν, ἥν τινες ἀπωσάμενοι περὶ τὴν πίστιν ἐναυάγησαν·",
+    "translation": "manteniendo la fe y una buena conciencia, la cual algunos rechazaron y naufragaron en cuanto a la fe;",
+    "translation_notes": "Metáfora náutica contundente: desechar (ἀπωσάμενοι, «empujar violentamente lejos de sí») una buena conciencia provoca un naufragio doctrinal (ἐναυάγησαν, «se estrellaron contra las rocas en la fe»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 1,
+    "verse": 20,
+    "greek_text": "ὧν ἐστιν Ὑμέναιος καὶ Ἀλέξανδρος, οὓς παρέδωκα τῷ Σατανᾷ ἵνα παιδευθῶσι μὴ βλασφημεῖν.",
+    "translation": "entre los cuales están Himeneo y Alejandro, a quienes entregué a Satanás para que aprendan a no blasfemar.",
+    "translation_notes": "Disciplina apostólica correctiva (cf. 1 Co 5:5): «entregar a Satanás» (apartar de la protección de la comunión eclesial hacia el mundo exterior) tiene un propósito pedagógico restaurador: ἵνα παιδευθῶσι («para que sean disciplinados/corregidos»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 1,
+    "greek_text": "Παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις, προσευχάς, ἐντεύξεις, εὐχαριστίας, ὑπὲρ πάντων ἀνθρώπων,",
+    "translation": "Exhorto, pues, ante todo, a que se hagan súplicas, oraciones, peticiones y acciones de gracias por todos los hombres,",
+    "translation_notes": "Cuatro términos litúrgicos para la oración comunitaria (δεήσεις, προσευχάς, ἐντεύξεις, εὐχαριστίας), ampliando el horizonte intercesor frente a sectarismos elitistas: «por toda clase de personas» (ὑπὲρ πάντων ἀνθρώπων)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 2,
+    "greek_text": "ὑπὲρ βασιλέων καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων, ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι.",
+    "translation": "por los reyes y por todos los que están en eminencia, para que llevemos una vida tranquila y sosegada en toda piedad y dignidad.",
+    "translation_notes": "Oración por las autoridades civiles (incluso paganas, como el emperador romano) para propiciar estabilidad social (ἤρεμον καὶ ἡσύχιον βίον, «vida serena exterior e interiormente») que favorezca el testimonio y avance del evangelio."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 3,
+    "greek_text": "τοῦτο καλὸν καὶ ἀπόδεκτον ἐνώπιον τοῦ σωτῆρος ἡμῶν θεοῦ,",
+    "translation": "Porque esto es bueno y agradable delante de Dios nuestro Salvador,",
+    "translation_notes": "El culto intercesor universal agrada al Dios que se revela como Salvador."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 4,
+    "greek_text": "ὃς πάντας ἀνθρώπους θέλει σωθῆναι καὶ εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν.",
+    "translation": "el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento de la verdad.",
+    "translation_notes": "Deseo salvífico universal de Dios: θέλει («desea/quiere») que toda clase de personas sin distinción étnica ni social alcance salvación y conocimiento pleno de la verdad (ἐπίγνωσιν ἀληθείας)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 5,
+    "greek_text": "εἷς γὰρ θεός, εἷς καὶ μεσίτης θεοῦ καὶ ἀνθρώπων ἄνθρωπος Χριστὸς Ἰησοῦς,",
+    "translation": "Porque hay un solo Dios, y un solo mediador entre Dios y los hombres, Jesucristo hombre,",
+    "translation_notes": "Monoteísmo del Shemá unido a la mediación exclusiva de Cristo (μεσίτης, «árbitro/intermediario entre dos partes»): se destaca su humanidad real (ἄνθρωπος Χριστὸς Ἰησοῦς) para poder representar plenamente a la humanidad ante Dios."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 6,
+    "greek_text": "ὁ δοὺς ἑαυτὸν ἀντίλυτρον ὑπὲρ πάντων, τὸ μαρτύριον καιροῖς ἰδίοις·",
+    "translation": "quien se dio a sí mismo en rescate por todos, el testimonio dado a su debido tiempo;",
+    "translation_notes": "Término compuesto enfático: ἀντίλυτρον (antilytron, hapax legomenon, «rescate sustitutivo entregado en lugar de» muchos, eco de Mc 10:45). Su muerte en la cruz es el testimonio público dado en el tiempo señalado."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 7,
+    "greek_text": "εἰς ὃ ἐτέθην ἐγὼ κῆρυξ καὶ ἀπόστολος— ἀλήθειαν λέγω, οὐ ψεύδομαι— διδάσκαλος ἐθνῶν ἐν πίστει καὶ ἀληθείᾳ.",
+    "translation": "para lo cual yo fui constituido predicador y apóstol —digo la verdad, no miento—, maestro de los gentiles en fe y verdad.",
+    "translation_notes": "Triple oficio de Pablo: κῆρυξ («heraldo/proclamador»), ἀπόστολος («enviado») y διδάσκαλος ἐθνῶν («maestro de las naciones»), reafirmando la apertura universal del evangelio."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 8,
+    "greek_text": "Βούλομαι οὖν προσεύχεσθαι τοὺς ἄνδρας ἐν παντὶ τόπῳ, ἐπαίροντας ὁσίους χεῖρας χωρὶς ὀργῆς καὶ διαλογισμοῦ.",
+    "translation": "Quiero, pues, que los varones oren en todo lugar, levantando manos santas, sin ira ni contienda.",
+    "translation_notes": "Postura bíblica habitual de oración de pie con manos extendidas al cielo (ἐπαίροντας ὁσίους χεῖρας, cf. Sal 28:2; 141:2), exigiendo coherencia moral: sin rencor (ὀργή) ni discusiones contenciosas (διαλογισμοῦ)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 9,
+    "greek_text": "ὡσαύτως καὶ γυναῖκας ἐν καταστολῇ κοσμίῳ μετὰ αἰδοῦς καὶ σωφροσύνης κοσμεῖν ἑαυτάς, μὴ ἐν πλέγμασιν καὶ χρυσίῳ ἢ μαργαρίταις ἢ ἱματισμῷ πολυτελεῖ,",
+    "translation": "Asimismo, que las mujeres se vistan con decoro, con pudor y modestia, no con peinados ostentosos ni oro ni perlas ni vestidos costosos,",
+    "translation_notes": "Consejo contra la ostentación social y seductora propia de élites urbanas grecorromanas (donde las cortesanas y mujeres ricas exhibían trenzados elaborados con oro y perlas): recomienda καταστολῇ κοσμίῳ («vestimenta decorosa y ordenada») con pudor (αἰδώς) y sobriedad (σωφροσύνη)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 10,
+    "greek_text": "ἀλλ’ ὃ πρέπει γυναιξὶν ἐπαγγελλομέναις θεοσέβειαν, δι’ ἔργων ἀγαθῶν.",
+    "translation": "sino con buenas obras, como corresponde a mujeres que profesan reverencia a Dios.",
+    "translation_notes": "El verdadero adorno espiritual de quienes profesan piedad (θεοσέβειαν) son las buenas obras concretas (cf. 1 P 3:3–5)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 11,
+    "greek_text": "γυνὴ ἐν ἡσυχίᾳ μανθανέτω ἐν πάσῃ ὑποταγῇ·",
+    "translation": "La mujer aprenda en silencio, con toda sujeción.",
+    "translation_notes": "Afirmación contracultural positiva: en el judaísmo rabínico muchas veces se desanimaba instruir a la mujer en la Torá; aquí se ordena activamente que «aprenda» (μανθανέτω, imperativo), haciéndolo ἐν ἡσυχίᾳ («con actitud tranquila/sosegada», el mismo término de 2:2 y 2 Ts 3:12, no necesariamente mudez absoluta)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 12,
+    "greek_text": "διδάσκειν δὲ γυναικὶ οὐκ ἐπιτρέπω, οὐδὲ αὐθεντεῖν ἀνδρός, ἀλλ’ εἶναι ἐν ἡσυχίᾳ.",
+    "translation": "Porque no permito a la mujer enseñar, ni ejercer dominio sobre el hombre, sino estar en silencio.",
+    "translation_notes": "Pasaje pastoral específico para el orden docente de la asamblea en Éfeso (donde las falsas enseñanzas habían penetrado especialmente en redes domésticas, cf. 1 Ti 5:13; 2 Ti 3:6): el verbo raro αὐθεντεῖν (authentein, hapax legomenon en el NT) significa «ejercer autoridad dominante/asumir dominio» sobre el varón, contrastado con una actitud serena (ἐν ἡσυχίᾳ)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 13,
+    "greek_text": "Ἀδὰμ γὰρ πρῶτος ἐπλάσθη, εἶτα Εὕα·",
+    "translation": "Porque Adán fue formado primero, después Eva;",
+    "translation_notes": "Apelación al orden creacional de Génesis 2 (ἐπλάσθη, «fue modelado»): fundamenta la complementariedad ordenada dentro del diseño original."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 14,
+    "greek_text": "καὶ Ἀδὰμ οὐκ ἠπατήθη, ἡ δὲ γυνὴ ἐξαπατηθεῖσα ἐν παραβάσει γέγονεν.",
+    "translation": "y Adán no fue engañado, sino que la mujer, siendo engañada completamente, cayó en transgresión.",
+    "translation_notes": "Referencia a Génesis 3 (cf. 2 Co 11:3): Eva fue seducida por el engaño de la serpiente (ἐξαπατηθεῖσα), mientras que Adán pecó con plena conciencia deliberada (Ro 5:12–14)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 2,
+    "verse": 15,
+    "greek_text": "σωθήσεται δὲ διὰ τῆς τεκνογονίας, ἐὰν μείνωσιν ἐν πίστει καὶ ἀγάπῃ καὶ ἁγιασμῷ μετὰ σωφροσύνης.",
+    "translation": "Pero se salvará mediante la maternidad, si permanecen en fe, amor y santificación con modestia.",
+    "translation_notes": "Versículo interpretado de dos maneras principales entre comentaristas: 1) «será preservada/realizada espiritualmente en el camino ordinario de la maternidad y vida familiar» (frente a los falsos maestros de Éfeso que prohibían el matrimonio, 4:3, y prometían emancipación ascética), o 2) alusión a «el nacimiento del Hijo [el Mesías]» (τῆς τεκνογονίας, con artículo definido, eco de Gn 3:15). El verbo final cambia a plural («si *permanecen*», μίνωσιν/μείνωσιν), mostrando que la salvación exige perseverar en fe, amor y santidad."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 1,
+    "greek_text": "Πιστὸς ὁ λόγος· εἴ τις ἐπισκοπῆς ὀρέγεται, καλοῦ ἔργου ἐπιθυμεῖ.",
+    "translation": "Fiel es esta palabra: si alguno aspira al cargo de obispo, buena obra desea.",
+    "translation_notes": "Segunda «palabra fiel»: ὀρέγεται («extiende la mano/aspira») a la ἐπισκοπή («supervisión pastoral/episcopado»). El liderazgo eclesial no se define como prestigio social sino como καλοῦ ἔργου («una noble y ardua tarea de servicio»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 2,
+    "greek_text": "δεῖ οὖν τὸν ἐπίσκοπον ἀνεπίλημπτον εἶναι, μιᾶς γυναικὸς ἄνδρα, νηφάλιον, σώφρονα, κόσμιον, φιλόξενον, διδακτικόν,",
+    "translation": "Es necesario, pues, que el obispo sea irreprensible, marido de una sola mujer, sobrio, prudente, decoroso, hospitalario, apto para enseñar,",
+    "translation_notes": "Lista de carácter (vv. 2–7): ἀνεπίλημπτος («inobjetable/sin asidero para reproche moral»), μιᾶς γυναικὸς ἀνήρ (fidelidad conyugal), sobrio, sensato, ordenado (κόσμιος), hospitalario (φιλόξενος) y διδακτικός («capaz y dispuesto a enseñar la sana doctrina»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 3,
+    "greek_text": "μὴ πάροινον, μὴ πλήκτην, ἀλλὰ ἐπιεικῆ, ἄμαχον, ἀφιλάργυρον,",
+    "translation": "no dado al vino, no pendenciero, sino amable, apacible, no amante del dinero;",
+    "translation_notes": "Contraste de temperamento: evita exceso de alcohol (πάροινον) y violencia (πλήκτην), y cultiva dulzura considerada (ἐπιεικῆ), espíritu pacífico (ἄμαχον) y desprendimiento económico (ἀφιλάργυρον)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 4,
+    "greek_text": "τοῦ ἰδίου οἴκου καλῶς προϊστάμενον, τέκνα ἔχοντα ἐν ὑποταγῇ μετὰ πάσης σεμνότητος·",
+    "translation": "que gobierne bien su propia casa, manteniendo a sus hijos en sujeción con toda dignidad",
+    "translation_notes": "El hogar es el laboratorio del liderazgo: προϊστάμενον («que presida/cuide con solicitud») su casa con dignidad respetuosa (μετὰ πάσης σεμνότητος)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 5,
+    "greek_text": "(εἰ δέ τις τοῦ ἰδίου οἴκου προστῆναι οὐκ οἶδεν, πῶς ἐκκλησίας θεοῦ ἐπιμελήσεται;)",
+    "translation": "(pues si alguno no sabe gobernar su propia casa, ¿cómo cuidará de la iglesia de Dios?);",
+    "translation_notes": "Argumento de menor a mayor: el verbo para el cuidado pastoral de la iglesia es ἐπιμελήσεται («cuidará tiernamente», mismo verbo usado para el buen samaritano en Lc 10:34–35)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 6,
+    "greek_text": "μὴ νεόφυτον, ἵνα μὴ τυφωθεὶς εἰς κρίμα ἐμπέσῃ τοῦ διαβόλου.",
+    "translation": "no un recién convertido, no sea que envanecido caiga en la condenación del diablo.",
+    "translation_notes": "Νεόφυτος (neophytos, literalmente «recién plantado», de donde viene «neófito»): evita ascender prematuramente a un creyente nuevo para que el orgullo cegador (τυφωθείς, «envuelto en humo de soberbia») no lo haga caer en el mismo juicio en que cayó Satanás."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 7,
+    "greek_text": "δεῖ δὲ καὶ μαρτυρίαν καλὴν ἔχειν ἀπὸ τῶν ἔξωθεν, ἵνα μὴ εἰς ὀνειδισμὸν ἐμπέσῃ καὶ παγίδα τοῦ διαβόλου.",
+    "translation": "También debe tener buen testimonio de los de afuera, para que no caiga en descrédito y en la trampa del diablo.",
+    "translation_notes": "Reputación pública ante la sociedad no cristiana (ἀπὸ τῶν ἔξωθεν): protege el buen nombre de la iglesia frente a trampas y escándalos."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 8,
+    "greek_text": "Διακόνους ὡσαύτως σεμνούς, μὴ διλόγους, μὴ οἴνῳ πολλῷ προσέχοντας, μὴ αἰσχροκερδεῖς,",
+    "translation": "Los diáconos asimismo deben ser dignos, sin doblez de palabra, no dados a mucho vino, no codiciosos de ganancias deshonestas,",
+    "translation_notes": "Requisitos para los διάκονοι («servidores/diáconos», encargados especialmente del servicio práctico y administrativo): serios/respetables (σεμνούς), no de doble lengua (μὴ διλόγους, no decir una cosa aquí y otra allá) e íntegros en las finanzas."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 9,
+    "greek_text": "ἔχοντας τὸ μυστήριον τῆς πίστεως ἐν καθαρᾷ συνειδήσει.",
+    "translation": "manteniendo el misterio de la fe con limpia conciencia.",
+    "translation_notes": "Firmeza en la verdad del evangelio («el misterio de la fe») respaldada por integridad moral interior («limpia conciencia»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 10,
+    "greek_text": "καὶ οὗτοι δὲ δοκιμαζέσθωσαν πρῶτον, εἶτα διακονείτωσαν ἀνέγκλητοι ὄντες.",
+    "translation": "Y estos también sean puestos a prueba primero, y entonces ejerzan el diaconado si son irreprensibles.",
+    "translation_notes": "Evaluación previa en la vida comunitaria (δοκιμαζέσθωσαν πρῶτον) antes de asumir el servicio formal."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 11,
+    "greek_text": "γυναῖκας ὡσαύτως σεμνάς, μὴ διαβόλους, νηφαλίους, πιστὰς ἐν πᾶσιν.",
+    "translation": "Las mujeres asimismo sean dignas, no calumniadoras, sobrias, fieles en todo.",
+    "translation_notes": "Γυναῖκας («mujeres», sin artículo ni pronombre «sus» en griego): puede referirse bien a las esposas de los diáconos o —como sugiere la ausencia de mención similar para esposas de obispos y la estructura paralela con ὡσαύτως («asimismo», v. 8 y v. 11)— a mujeres que ejercían servicio diaconal (diaconisas, cf. Febe en Ro 16:1)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 12,
+    "greek_text": "διάκονοι ἔστωσαν μιᾶς γυναικὸς ἄνδρες, τέκνων καλῶς προϊστάμενοι καὶ τῶν ἰδίων οἴκων·",
+    "translation": "Los diáconos sean maridos de una sola mujer, que gobiernen bien sus hijos y sus propias casas.",
+    "translation_notes": "Mismo estándar de fidelidad familiar que los supervisores/ancianos."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 13,
+    "greek_text": "οἱ γὰρ καλῶς διακονήσαντες βαθμὸν ἑαυτοῖς καλὸν περιποιοῦνται καὶ πολλὴν παρρησίαν ἐν πίστει τῇ ἐν Χριστῷ Ἰησοῦ.",
+    "translation": "Porque los que ejercen bien el diaconado ganan para sí un grado honroso y mucha confianza en la fe que es en Cristo Jesús.",
+    "translation_notes": "Βαθμὸν καλόν («un peldaño/posición de honor y estima» ante Dios y la comunidad) y gran valentía espiritual (πολλὴν παρρησίαν) en la fe."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 14,
+    "greek_text": "Ταῦτά σοι γράφω, ἐλπίζων ἐλθεῖν πρὸς σὲ ἐν τάχει,",
+    "translation": "Esto te escribo, esperando ir pronto a ti,",
+    "translation_notes": "Propósito inmediato de la carta (vv. 14–15): orientar la vida eclesial mientras Pablo logra regresar a Éfeso."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 15,
+    "greek_text": "ἐὰν δὲ βραδύνω, ἵνα εἰδῇς πῶς δεῖ ἐν οἴκῳ θεοῦ ἀναστρέφεσθαι, ἥτις ἐστὶν ἐκκλησία θεοῦ ζῶντος, στῦλος καὶ ἑδραίωμα τῆς ἀληθείας·",
+    "translation": "pero si tardo, para que sepas cómo conviene conducirse en la casa de Dios, que es la iglesia del Dios vivo, columna y baluarte de la verdad.",
+    "translation_notes": "Definición majestuosa de la iglesia: «casa/familia de Dios» (οἴκῳ θεοῦ), «iglesia del Dios vivo» (opuesta al templo muerto de Artemisa en Éfeso), «columna y fundamento firme» (στῦλος καὶ ἑδραίωμα) que sostiene y exhibe públicamente la verdad del evangelio."
+  },
+  {
+    "book": "1TI",
+    "chapter": 3,
+    "verse": 16,
+    "greek_text": "καὶ ὁμολογουμένως μέγα ἐστὶν τὸ τῆς εὐσεβείας μυστήριον· Ὃς ἐφανερώθη ἐν σαρκί, ἐδικαιώθη ἐν πνεύματι, ὤφθη ἀγγέλοις, ἐκηρύχθη ἐν ἔθνεσιν, ἐπιστεύθη ἐν κόσμῳ, ἀνελήμφθη ἐν δόξῃ.",
+    "translation": "E indiscutiblemente, grande es el misterio de la piedad: Él fue manifestado en carne, justificado en el Espíritu, visto por ángeles, predicado entre las naciones, creído en el mundo, recibido arriba en gloria.",
+    "translation_notes": "Himno cristológico primitivo de seis líneas rítmicas en tres parejas antitéticas (carne/Espíritu, ángeles/naciones, mundo/gloria): 1) encarnación («manifestado en carne», Ὃς ἐφανερώθη ἐν σαρκί —SBLGNT lee Ὅς «Quien», referido a Cristo—), 2) vindicación en la resurrección por el Espíritu, 3) proclamación triunfal ante ángeles y naciones, y 4) acogida universal por la fe y ascensión gloriosa."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 1,
+    "greek_text": "Τὸ δὲ πνεῦμα ῥητῶς λέγει ὅτι ἐν ὑστέροις καιροῖς ἀποστήσονταί τινες τῆς πίστεως, προσέχοντες πνεύμασι πλάνοις καὶ διδασκαλίαις δαιμονίων",
+    "translation": "Pero el Espíritu dice expresamente que en los últimos tiempos algunos apostatarán de la fe, prestando atención a espíritus engañadores y a doctrinas de demonios,",
+    "translation_notes": "Advertencia profética explícita (ῥητῶς, «con claridad expresa»): el Espíritu señala la raíz espiritual detrás de las falsas doctrinas que desvían de la fe apostólica."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 2,
+    "greek_text": "ἐν ὑποκρίσει ψευδολόγων, κεκαυστηριασμένων τὴν ἰδίαν συνείδησιν,",
+    "translation": "mediante la hipocresía de mentirosos que tienen cauterizada su propia conciencia,",
+    "translation_notes": "Metáfora médica potente: κεκαυστηριασμένων (kekaustēriasmenōn, «marcados con hierro candente / cauterizados») en su conciencia (συνείδησιν), perdiendo toda sensibilidad moral al mentir hipócritamente."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 3,
+    "greek_text": "κωλυόντων γαμεῖν, ἀπέχεσθαι βρωμάτων ἃ ὁ θεὸς ἔκτισεν εἰς μετάλημψιν μετὰ εὐχαριστίας τοῖς πιστοῖς καὶ ἐπεγνωκόσι τὴν ἀλήθειαν.",
+    "translation": "quienes prohíben casarse y mandan abstenerse de alimentos que Dios creó para que con acción de gracias participen de ellos los creyentes y los que han conocido la verdad.",
+    "translation_notes": "Error ascético protognóstico: despreciar el cuerpo material prohibiendo el matrimonio y ciertos alimentos buenos, negando la bondad de la creación de Dios (Gn 1:31)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 4,
+    "greek_text": "ὅτι πᾶν κτίσμα θεοῦ καλόν, καὶ οὐδὲν ἀπόβλητον μετὰ εὐχαριστίας λαμβανόμενον,",
+    "translation": "Porque todo lo que Dios creó es bueno, y nada debe desecharse si se recibe con acción de gracias;",
+    "translation_notes": "Afirmación creacional contundente: πᾶν κτίσμα θεοῦ καλόν («toda criatura de Dios es buena»); la gratitud (μετὰ εὐχαριστίας) santifica el disfrute legítimo de los dones materiales."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 5,
+    "greek_text": "ἁγιάζεται γὰρ διὰ λόγου θεοῦ καὶ ἐντεύξεως.",
+    "translation": "porque es santificado por la palabra de Dios y la oración.",
+    "translation_notes": "Alude tanto a la declaración divina de bondad en la Escritura (Gn 1; Mc 7:19) como a la oración de bendición/acción de gracias antes de las comidas."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 6,
+    "greek_text": "Ταῦτα ὑποτιθέμενος τοῖς ἀδελφοῖς καλὸς ἔσῃ διάκονος Χριστοῦ Ἰησοῦ, ἐντρεφόμενος τοῖς λόγοις τῆς πίστεως καὶ τῆς καλῆς διδασκαλίας ᾗ παρηκολούθηκας,",
+    "translation": "Si enseñas estas cosas a los hermanos, serás un buen ministro de Cristo Jesús, nutrido con las palabras de la fe y de la buena doctrina que has seguido de cerca.",
+    "translation_notes": "El verbo ἐντρεφόμενος («alimentándote continuamente») indica que quien enseña debe primero nutrir su propia alma en las palabras de la fe."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 7,
+    "greek_text": "τοὺς δὲ βεβήλους καὶ γραώδεις μύθους παραιτοῦ. γύμναζε δὲ σεαυτὸν πρὸς εὐσέβειαν·",
+    "translation": "Pero desecha las fábulas profanas y de viejas. Más bien, ejercítate para la piedad;",
+    "translation_notes": "Contraste atlético: γύμναζε σεαυτόν (gymnaze seauton, de donde viene «gimnasia», «entrénate con disciplina constante») hacia la piedad auténtica (εὐσέβεια), rechazando leyendas absurdas."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 8,
+    "greek_text": "ἡ γὰρ σωματικὴ γυμνασία πρὸς ὀλίγον ἐστὶν ὠφέλιμος, ἡ δὲ εὐσέβεια πρὸς πάντα ὠφέλιμός ἐστιν, ἐπαγγελίαν ἔχουσα ζωῆς τῆς νῦν καὶ τῆς μελλούσης.",
+    "translation": "porque el ejercicio corporal aprovecha para poco, pero la piedad aprovecha para todo, pues tiene promesa de esta vida presente y de la venidera.",
+    "translation_notes": "No desprecia la salud física («aprovecha para algo/poco tiempo», πρὸς ὀλίγον), sino que la compara con el alcance eterno de la piedad (πρὸς πάντα, «para todo», aquí y en la eternidad)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 9,
+    "greek_text": "πιστὸς ὁ λόγος καὶ πάσης ἀποδοχῆς ἄξιος,",
+    "translation": "Fiel es esta palabra y digna de toda aceptación.",
+    "translation_notes": "Tercera «palabra fiel» (cf. 1:15; 3:1), reforzando la promesa del v. 8 y la esperanza del v. 10."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 10,
+    "greek_text": "εἰς τοῦτο γὰρ κοπιῶμεν καὶ ὀνειδιζόμεθα, ὅτι ἠλπίκαμεν ἐπὶ θεῷ ζῶντι, ὅς ἐστιν σωτὴρ πάντων ἀνθρώπων, μάλιστα πιστῶν.",
+    "translation": "Porque por esto trabajamos arduamente y sufrimos oprobios, ya que hemos puesto nuestra esperanza en el Dios vivo, que es Salvador de todos los hombres, especialmente de los que creen.",
+    "translation_notes": "Dios vivo es «Salvador de todos» (provisión universal y preservador de toda vida humana, ofreciendo salvación a todos), «especialmente (μάλιστα) de los creyentes» en quienes esa salvación se hace efectiva eternamente."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 11,
+    "greek_text": "Παράγγελλε ταῦτα καὶ δίδασκε.",
+    "translation": "Esto manda y enseña.",
+    "translation_notes": "Autoridad pastoral directa delegada a Timoteo."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 12,
+    "greek_text": "μηδείς σου τῆς νεότητος καταφρονείτω, ἀλλὰ τύπος γίνου τῶν πιστῶν ἐν λόγῳ, ἐν ἀναστροφῇ, ἐν ἀγάπῃ, ἐν πίστει, ἐν ἁγνείᾳ.",
+    "translation": "Ninguno tenga en poco tu juventud, sino sé ejemplo de los creyentes en palabra, en conducta, en amor, en fe, en pureza.",
+    "translation_notes": "Timoteo probablemente rondaba los 30–35 años (considerado «joven», νεότης, frente a ancianos mayores en una cultura que veneraba la edad). La autoridad moral se gana siendo τύπος («modelo») en cinco áreas: habla, vida diaria, amor, fe y pureza (ἁγνείᾳ)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 13,
+    "greek_text": "ἕως ἔρχομαι πρόσεχε τῇ ἀναγνώσει, τῇ παρακλήσει, τῇ διδασκαλίᾳ.",
+    "translation": "Entretanto que voy, ocúpate en la lectura pública, la exhortación y la enseñanza.",
+    "translation_notes": "Tres pilares del culto sinagogal adoptado por la iglesia: τῇ ἀναγνώσει («la lectura pública de las Escrituras»), τῇ παρακλήσει («la predicación/exhortación aplicada») y τῇ διδασκαλίᾳ («la enseñanza doctrinal»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 14,
+    "greek_text": "μὴ ἀμέλει τοῦ ἐν σοὶ χαρίσματος, ὃ ἐδόθη σοι διὰ προφητείας μετὰ ἐπιθέσεως τῶν χειρῶν τοῦ πρεσβυτερίου.",
+    "translation": "No descuides el don que hay en ti, que te fue dado mediante profecía con la imposición de manos del presbiterio.",
+    "translation_notes": "Ordenación de Timoteo: el don espiritual (χάρισμα) fue confirmado por palabra profética y la imposición de manos del cuerpo de ancianos (τοῦ πρεσβυτερίου, junto con Pablo, cf. 2 Ti 1:6)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 15,
+    "greek_text": "ταῦτα μελέτα, ἐν τούτοις ἴσθι, ἵνα σου ἡ προκοπὴ φανερὰ ᾖ πᾶσιν·",
+    "translation": "Ocúpate en estas cosas; dedícate por completo a ellas, para que tu aprovechamiento sea manifiesto a todos.",
+    "translation_notes": "Literalmente ἐν τούτοις ἴσθι («sé/vive inmerso en estas cosas»), buscando progreso visible (προκοπή) en madurez pastoral."
+  },
+  {
+    "book": "1TI",
+    "chapter": 4,
+    "verse": 16,
+    "greek_text": "ἔπεχε σεαυτῷ καὶ τῇ διδασκαλίᾳ· ἐπίμενε αὐτοῖς· τοῦτο γὰρ ποιῶν καὶ σεαυτὸν σώσεις καὶ τοὺς ἀκούοντάς σου.",
+    "translation": "Ten cuidado de ti mismo y de la enseñanza; persiste en ello, pues haciendo esto, te salvarás a ti mismo y a los que te escuchan.",
+    "translation_notes": "Doble vigilancia inseparable del ministro: vida personal («de ti mismo», σεαυτῷ) y doctrina («de la enseñanza»), perseverando hasta el fin."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 1,
+    "greek_text": "Πρεσβυτέρῳ μὴ ἐπιπλήξῃς, ἀλλὰ παρακάλει ὡς πατέρα, νεωτέρους ὡς ἀδελφούς,",
+    "translation": "No reprendas con dureza al anciano, sino exhórtalo como a padre; a los más jóvenes, como a hermanos;",
+    "translation_notes": "Trato familiar pastoral (vv. 1–2): frente a un hombre mayor (πρεσβυτέρῳ), evita la reprimenda áspera (μὴ ἐπιπλήξῃς, «no golpees verbalmente»), tratándolo con respeto filial como a un padre."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 2,
+    "greek_text": "πρεσβυτέρας ὡς μητέρας, νεωτέρας ὡς ἀδελφὰς ἐν πάσῃ ἁγνείᾳ.",
+    "translation": "a las ancianas, como a madres; a las más jóvenes, como a hermanas, con toda pureza.",
+    "translation_notes": "La iglesia entendida como familia redimida: respeto maternal a las mayores y trato fraterno irreprochable (ἐν πάσῃ ἁγνείᾳ) hacia las mujeres jóvenes."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 3,
+    "greek_text": "Χήρας τίμα τὰς ὄντως χήρας.",
+    "translation": "Honra a las viudas que verdaderamente son viudas.",
+    "translation_notes": "Τίμα («honra», incluyendo tanto respeto como respaldo económico, cf. v. 17) a las «viudas en verdad» (τὰς ὄντως χήρας), es decir, ancianas piadosas sin familia que las sostenga (v. 5)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 4,
+    "greek_text": "εἰ δέ τις χήρα τέκνα ἢ ἔκγονα ἔχει, μανθανέτωσαν πρῶτον τὸν ἴδιον οἶκον εὐσεβεῖν καὶ ἀμοιβὰς ἀποδιδόναι τοῖς προγόνοις, τοῦτο γάρ ἐστιν ἀπόδεκτον ἐνώπιον τοῦ θεοῦ.",
+    "translation": "Pero si alguna viuda tiene hijos o nietos, aprendan estos primero a practicar la piedad con su propia familia y a recompensar a sus padres, porque esto es agradable delante de Dios.",
+    "translation_notes": "Responsabilidad intergeneracional: el cuidado económico de padres y abuelos es «piedad práctica» (εὐσεβεῖν) y justa retribución (ἀμοιβὰς ἀποδιδόναι) por todo lo recibido de ellos."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 5,
+    "greek_text": "ἡ δὲ ὄντως χήρα καὶ μεμονωμένη ἤλπικεν ἐπὶ θεὸν καὶ προσμένει ταῖς δεήσεσιν καὶ ταῖς προσευχαῖς νυκτὸς καὶ ἡμέρας·",
+    "translation": "Mas la que verdaderamente es viuda y ha quedado sola, tiene puesta su esperanza en Dios y persevera en súplicas y oraciones noche y día;",
+    "translation_notes": "Retrato de la viuda consagrada a la oración constante (similar a Ana en Lc 2:37): al quedarse desamparada (μεμονωμένη), confía plenamente en Dios."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 6,
+    "greek_text": "ἡ δὲ σπαταλῶσα ζῶσα τέθνηκεν.",
+    "translation": "pero la que vive entregada a los placeres, viviendo está muerta.",
+    "translation_notes": "Σπαταλῶσα (spatalōsa, «viviendo en lujo disoluto/derroche sensual»): antítesis aguda («viviendo está espiritualmente muerta», ζῶσα τέθνηκεν)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 7,
+    "greek_text": "καὶ ταῦτα παράγγελλε, ἵνα ἀνεπίλημπτοι ὦσιν·",
+    "translation": "Manda también estas cosas, para que sean irreprensibles.",
+    "translation_notes": "Guía clara para evitar abusos y habladurías en el sistema de asistencia social de la iglesia."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 8,
+    "greek_text": "εἰ δέ τις τῶν ἰδίων καὶ μάλιστα οἰκείων οὐ προνοεῖ, τὴν πίστιν ἤρνηται καὶ ἔστιν ἀπίστου χείρων.",
+    "translation": "Porque si alguno no provee para los suyos, y mayormente para los de su casa, ha negado la fe y es peor que un incrédulo.",
+    "translation_notes": "Declaración ética contundente: la fe cristiana nunca sirve de excusa para desatender a la propia familia; hasta los paganos reconocían el deber de cuidar a los padres."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 9,
+    "greek_text": "Χήρα καταλεγέσθω μὴ ἔλαττον ἐτῶν ἑξήκοντα γεγονυῖα, ἑνὸς ἀνδρὸς γυνή,",
+    "translation": "Sea puesta en la lista la viuda que no tenga menos de sesenta años, que haya sido esposa de un solo marido,",
+    "translation_notes": "Registro oficial de viudas sostenidas y dedicadas al servicio diaconal/intercesor (καταλεγέσθω, «sea inscrita en la lista»): mayores de 60 años y de fidelidad conyugal probada."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 10,
+    "greek_text": "ἐν ἔργοις καλοῖς μαρτυρουμένη, εἰ ἐτεκνοτρόφησεν, εἰ ἐξενοδόχησεν, εἰ ἁγίων πόδας ἔνιψεν, εἰ θλιβομένοις ἐπήρκεσεν, εἰ παντὶ ἔργῳ ἀγαθῷ ἐπηκολούθησεν.",
+    "translation": "que tenga testimonio de buenas obras: si crio hijos, si practicó la hospitalidad, si lavó los pies de los santos, si socorrió a los afligidos, si se dedicó a toda buena obra.",
+    "translation_notes": "Cinco evidencias de servicio humilde: crianza fiel, hospitalidad (ἐξενοδόχησεν), servicio humilde a viajeros/santos («lavó los pies», cf. Jn 13:14), alivio a necesitados y constancia en el bien."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 11,
+    "greek_text": "νεωτέρας δὲ χήρας παραιτοῦ· ὅταν γὰρ καταστρηνιάσωσιν τοῦ Χριστοῦ, γαμεῖν θέλουσιν,",
+    "translation": "Pero a las viudas más jóvenes no las admitas en la lista; porque cuando sus deseos las apartan de Cristo, quieren casarse,",
+    "translation_notes": "Realismo pastoral: las viudas jóvenes (en edad fértil/activa) pueden desear volver a casarse y quedar atrapadas en un compromiso oficial prematuro de soltería de servicio (v. 12)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 12,
+    "greek_text": "ἔχουσαι κρίμα ὅτι τὴν πρώτην πίστιν ἠθέτησαν·",
+    "translation": "incurriendo en condenación por haber quebrantado su primer compromiso.",
+    "translation_notes": "Τὴν πρώτην πίστιν ἠθέτησαν («quebrantaron su primera promesa/voto de fidelidad» al alistarse en el servicio de viudas)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 13,
+    "greek_text": "ἅμα δὲ καὶ ἀργαὶ μανθάνουσιν, περιερχόμεναι τὰς οἰκίας, οὐ μόνον δὲ ἀργαὶ ἀλλὰ καὶ φλύαροι καὶ περίεργοι, λαλοῦσαι τὰ μὴ δέοντα.",
+    "translation": "Y al mismo tiempo aprenden a estar ociosas, andando de casa en casa; y no solo ociosas, sino también chismosas y entrometidas, hablando lo que no deben.",
+    "translation_notes": "Peligro del sostenimiento sin ocupación: ociosidad (ἀργαί), visitas indiscretas y chismorreo (φλύαροι καὶ περίεργοι) que dañan la paz de las familias."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 14,
+    "greek_text": "βούλομαι οὖν νεωτέρας γαμεῖν, τεκνογονεῖν, οἰκοδεσποτεῖν, μηδεμίαν ἀφορμὴν διδόναι τῷ ἀντικειμένῳ λοιδορίας χάριν·",
+    "translation": "Quiero, pues, que las viudas jóvenes se casen, tengan hijos, gobiernen su casa y no den al adversario ninguna ocasión de maledicencia;",
+    "translation_notes": "El matrimonio y el hogar son afirmados como vocación honorable frente al ascetismo falso de 4:3."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 15,
+    "greek_text": "ἤδη γάρ τινες ἐξετράπησαν ὀπίσω τοῦ Σατανᾶ.",
+    "translation": "porque ya algunas se han desviado en pos de Satanás.",
+    "translation_notes": "Confirmación de que el problema no era hipotético, sino real en Éfeso."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 16,
+    "greek_text": "εἴ τις πιστὴ ἔχει χήρας, ἐπαρκείτω αὐταῖς, καὶ μὴ βαρείσθω ἡ ἐκκλησία, ἵνα ταῖς ὄντως χήραις ἐπαρκέσῃ.",
+    "translation": "Si algún creyente o alguna creyente tiene viudas en su familia, manténgalas, y no sea gravada la iglesia, a fin de que pueda sostener a las que verdaderamente son viudas.",
+    "translation_notes": "Principio de subsidiariedad solidaria: las familias con recursos asumen a sus propias viudas para que el fondo común de la iglesia alcance para las viudas verdaderamente desamparadas (SBLGNT lee εἴ τις πιστή «si alguna mujer creyente»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 17,
+    "greek_text": "Οἱ καλῶς προεστῶτες πρεσβύτεροι διπλῆς τιμῆς ἀξιούσθωσαν, μάλιστα οἱ κοπιῶντες ἐν λόγῳ καὶ διδασκαλίᾳ·",
+    "translation": "Los ancianos que gobiernan bien sean tenidos por dignos de doble honor, mayormente los que trabajan arduamente en la palabra y en la enseñanza.",
+    "translation_notes": "Διπλῆς τιμῆς («doble honor»): incluye tanto estima respetuosa como remuneración económica justa (como demuestra el v. 18), especialmente para quienes se dedican con fatiga (κοπιῶντες) a predicar y enseñar."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 18,
+    "greek_text": "λέγει γὰρ ἡ γραφή· Βοῦν ἀλοῶντα οὐ φιμώσεις, καί· Ἄξιος ὁ ἐργάτης τοῦ μισθοῦ αὐτοῦ.",
+    "translation": "Porque la Escritura dice: «No pondrás bozal al buey que trilla»; y: «Digno es el obrero de su salario».",
+    "translation_notes": "Cita conjunta notable bajo el título común ἡ γραφή («la Escritura»): une Dt 25:4 con las palabras de Jesús registradas en Lc 10:7 («Digno es el obrero de su salario»), mostrando el reconocimiento temprano de la tradición evangélica como Escritura autoritativa."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 19,
+    "greek_text": "κατὰ πρεσβυτέρου κατηγορίαν μὴ παραδέχου, ἐκτὸς εἰ μὴ ἐπὶ δύο ἢ τριῶν μαρτύρων·",
+    "translation": "Contra un anciano no admitas acusación sino sobre la base de dos o tres testigos.",
+    "translation_notes": "Protección jurídica deuteronómica (Dt 19:15) contra calumnias infundadas hacia líderes expuestos públicamente."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 20,
+    "greek_text": "τοὺς ἁμαρτάνοντας ἐνώπιον πάντων ἔλεγχε, ἵνα καὶ οἱ λοιποὶ φόβον ἔχωσιν.",
+    "translation": "A los que persisten en pecar, repréndelos delante de todos, para que también los demás tengan temor.",
+    "translation_notes": "Si la falta probada persiste (τοὺς ἁμαρτάνοντας, participio presente), la corrección es pública para santidad y escarmiento saludable de toda la comunidad."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 21,
+    "greek_text": "διαμαρτύρομαι ἐνώπιον τοῦ θεοῦ καὶ Χριστοῦ Ἰησοῦ καὶ τῶν ἐκλεκτῶν ἀγγέλων, ἵνα ταῦτα φυλάξῃς χωρὶς προκρίματος, μηδὲν ποιῶν κατὰ πρόσκλισιν.",
+    "translation": "Te encargo solemnemente delante de Dios, de Cristo Jesús y de los ángeles escogidos, que guardes estas cosas sin prejuicios, no haciendo nada con parcialidad.",
+    "translation_notes": "Juramento ante el tribunal celestial (Dios, Cristo y los ángeles santos): exige imparcialidad total sin favoritismos (κατὰ πρόσκλισιν) ni juicios precipitados (χωρὶς προκρίματος)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 22,
+    "greek_text": "χεῖρας ταχέως μηδενὶ ἐπιτίθει, μηδὲ κοινώνει ἁμαρτίαις ἀλλοτρίαις· σεαυτὸν ἁγνὸν τήρει.",
+    "translation": "No impongas las manos a nadie con ligereza, ni participes en pecados ajenos; consérvate puro.",
+    "translation_notes": "Prudencia al ordenar líderes («no impongas las manos apresuradamente»): precipitar nombramientos hace corresponsable al pastor de futuros escándalos."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 23,
+    "greek_text": "μηκέτι ὑδροπότει, ἀλλὰ οἴνῳ ὀλίγῳ χρῶ διὰ τὸν στόμαχον καὶ τὰς πυκνάς σου ἀσθενείας.",
+    "translation": "Ya no bebas agua solamente, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.",
+    "translation_notes": "Nota pastoral y médica personal: quizá Timoteo practicaba abstinencia total por celo ascético o para no dar mal ejemplo; Pablo le aconseja medicinalmente «un poco de vino» (mezclado con agua, práctica higiénica antigua ante aguas contaminadas) para sus dolencias gástricas."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 24,
+    "greek_text": "Τινῶν ἀνθρώπων αἱ ἁμαρτίαι πρόδηλοί εἰσιν, προάγουσαι εἰς κρίσιν, τισὶν δὲ καὶ ἐπακολουθοῦσιν·",
+    "translation": "Los pecados de algunos hombres son evidentes de antemano, precediéndolos al juicio, pero a otros los siguen después.",
+    "translation_notes": "Justificación de la cautela del v. 22: ni las faltas ocultas ni el carácter real permanecen escondidos indefinidamente (v. 25)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 5,
+    "verse": 25,
+    "greek_text": "ὡσαύτως καὶ τὰ ἔργα τὰ καλὰ πρόδηλα, καὶ τὰ ἄλλως ἔχοντα κρυβῆναι οὐ δύνανται.",
+    "translation": "Asimismo también las buenas obras son evidentes de antemano, y las que son de otra manera no pueden permanecer ocultas.",
+    "translation_notes": "El tiempo y el examen paciente revelan tanto la fidelidad genuina como la hipocresía."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 1,
+    "greek_text": "Ὅσοι εἰσὶν ὑπὸ ζυγὸν δοῦλοι, τοὺς ἰδίους δεσπότας πάσης τιμῆς ἀξίους ἡγείσθωσαν, ἵνα μὴ τὸ ὄνομα τοῦ θεοῦ καὶ ἡ διδασκαλία βλασφημῆται.",
+    "translation": "Todos los que están bajo el yugo de la esclavitud tengan a sus propios amos por dignos de todo honor, para que no sea blasfemado el nombre de Dios y la doctrina.",
+    "translation_notes": "Testimonio social en el imperio romano: evita que el evangelio sea acusado de fomentar desorden irresponsable, protegiendo el honor del nombre de Dios y su enseñanza."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 2,
+    "greek_text": "οἱ δὲ πιστοὺς ἔχοντες δεσπότας μὴ καταφρονείτωσαν, ὅτι ἀδελφοί εἰσιν· ἀλλὰ μᾶλλον δουλευέτωσαν, ὅτι πιστοί εἰσιν καὶ ἀγαπητοὶ οἱ τῆς εὐεργεσίας ἀντιλαμβανόμενοι. Ταῦτα δίδασκε καὶ παρακάλει.",
+    "translation": "Y los que tienen amos creyentes, no los tengan en menos por ser hermanos, sino sírvanles aún mejor, por cuanto son fieles y amados los que participan de ese beneficio. Esto enseña y exhorta.",
+    "translation_notes": "Tensión fraterna en la iglesia primitiva: algunos esclavos cristianos caían en la tentación de descuidar su trabajo al descubrir que sus amos eran «hermanos» en Cristo; Pablo exhorta a servirles incluso con mayor esmero en amor."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 3,
+    "greek_text": "εἴ τις ἑτεροδιδασκαλεῖ καὶ μὴ προσέρχεται ὑγιαίνουσι λόγοις, τοῖς τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, καὶ τῇ κατ’ εὐσέβειαν διδασκαλίᾳ,",
+    "translation": "Si alguno enseña otra cosa y no se conforma a las sanas palabras de nuestro Señor Jesucristo y a la doctrina que es conforme a la piedad,",
+    "translation_notes": "Criterio de ortodoxia: las «palabras saludables» (ὑγιαίνουσι λόγοις) de Cristo y la enseñanza que produce piedad práctica (τῇ κατ’ εὐσέβειαν διδασκαλίᾳ)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 4,
+    "greek_text": "τετύφωται, μηδὲν ἐπιστάμενος, ἀλλὰ νοσῶν περὶ ζητήσεις καὶ λογομαχίας, ἐξ ὧν γίνεται φθόνος, ἔρις, βλασφημίαι, ὑπόνοιαι πονηραί,",
+    "translation": "está envanecido y nada entiende, sino que tiene una obsesión enfermiza por discusiones y contiendas de palabras, de las cuales nacen envidias, pleitos, maledicencias, malas sospechas,",
+    "translation_notes": "Diagnóstico psicológico del polémico: τετύφωται («hinchado de orgullo ciego») y νοσῶν («enfermo/obsesionado» por controversias verbales estériles, λογομαχίας) que solo engendran división comunitaria."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 5,
+    "greek_text": "διαπαρατριβαὶ διεφθαρμένων ἀνθρώπων τὸν νοῦν καὶ ἀπεστερημένων τῆς ἀληθείας, νομιζόντων πορισμὸν εἶναι τὴν εὐσέβειαν.",
+    "translation": "y altercados constantes de hombres corruptos de mente y privados de la verdad, que suponen que la piedad es fuente de ganancia.",
+    "translation_notes": "Motivación oculta de los falsos maestros: usar la religión como negocio o medio de enriquecimiento (πορισμός, «fuente de lucro»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 6,
+    "greek_text": "ἔστιν δὲ πορισμὸς μέγας ἡ εὐσέβεια μετὰ αὐταρκείας·",
+    "translation": "Pero gran ganancia es la piedad acompañada de contentamiento;",
+    "translation_notes": "Giro irónico con πορισμός (v. 5): la verdadera riqueza es la piedad unida a αὐτάρκεια (autarkeia, término filosófico estoico redefinido cristianamente como «contentamiento interior suficiente en Cristo», cf. Fil 4:11)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 7,
+    "greek_text": "οὐδὲν γὰρ εἰσηνέγκαμεν εἰς τὸν κόσμον, ὅτι οὐδὲ ἐξενεγκεῖν τι δυνάμεθα·",
+    "translation": "porque nada trajimos a este mundo, y es cierto que nada podemos sacar de él.",
+    "translation_notes": "Sabiduría bíblica clásica (Job 1:21; Ecl 5:15): la desnudez al nacer y al morir relativiza toda acumulación material."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 8,
+    "greek_text": "ἔχοντες δὲ διατροφὰς καὶ σκεπάσματα, τούτοις ἀρκεσθησόμεθα.",
+    "translation": "Así que, teniendo sustento y abrigo, con esto estaremos contentos.",
+    "translation_notes": "Διατροφάς («alimento») y σκεπάσματα («ropa y techo/abrigo»): lo básico suficiente para vivir con paz y gratitud."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 9,
+    "greek_text": "οἱ δὲ βουλόμενοι πλουτεῖν ἐμπίπτουσιν εἰς πειρασμὸν καὶ παγίδα καὶ ἐπιθυμίας πολλὰς ἀνοήτους καὶ βλαβεράς, αἵτινες βυθίζουσι τοὺς ἀνθρώπους εἰς ὄλεθρον καὶ ἀπώλειαν·",
+    "translation": "Pero los que quieren enriquecerse caen en tentación y lazo, y en muchos deseos necios y dañosos, que hunden a los hombres en destrucción y perdición;",
+    "translation_notes": "El verbo βυθίζουσι («sumergen/hunden en el fondo del mar como barco sobrecargado») advierte no contra poseer bienes legítimamente (cf. v. 17), sino contra la obsesión de hacerse rico (οἱ βουλόμενοι πλουτεῖν)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 10,
+    "greek_text": "ῥίζα γὰρ πάντων τῶν κακῶν ἐστιν ἡ φιλαργυρία, ἧς τινες ὀρεγόμενοι ἀπεπλανήθησαν ἀπὸ τῆς πίστεως καὶ ἑαυτοὺς περιέπειραν ὀδύναις πολλαῖς.",
+    "translation": "porque raíz de todos los males es el amor al dinero, el cual codiciando algunos, se extraviaron de la fe y se traspasaron a sí mismos con muchos dolores.",
+    "translation_notes": "Precisión famosa del texto griego: no dice «el dinero es la raíz», sino ἡ φιλαργυρία («el amor/apego codicioso al dinero»). Quienes lo persiguen «se atraviesan a sí mismos como con espada o asador» (περιέπειραν) con angustias."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 11,
+    "greek_text": "Σὺ δέ, ὦ ἄνθρωπε θεοῦ, ταῦτα φεῦγε· δίωκε δὲ δικαιοσύνην, εὐσέβειαν, πίστιν, ἀγάπην, ὑπομονήν, πραϋπαθίαν.",
+    "translation": "Mas tú, oh hombre de Dios, huye de estas cosas, y sigue la justicia, la piedad, la fe, el amor, la paciencia, la mansedumbre.",
+    "translation_notes": "Título profético del Antiguo Testamento (Moisés, Elías, Eliseo): ἄνθρωπε θεοῦ («hombre de Dios»). Dos imperativos continuos: φεῦγε («huye») de la codicia y δίωκε («persigue») seis virtudes cristianas."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 12,
+    "greek_text": "ἀγωνίζου τὸν καλὸν ἀγῶνα τῆς πίστεως, ἐπιλαβοῦ τῆς αἰωνίου ζωῆς, εἰς ἣν ἐκλήθης καὶ ὡμολόγησας τὴν καλὴν ὁμολογίαν ἐνώπιον πολλῶν μαρτύρων.",
+    "translation": "Pelea la buena batalla de la fe, echa mano de la vida eterna, a la cual fuiste llamado y confesaste la buena confesión delante de muchos testigos.",
+    "translation_notes": "Metáfora atlética/militar: ἀγωνίζου τὸν καλὸν ἀγῶνα («compite/lucha en el noble certamen de la fe»), aferrándose a la vida eterna prometida desde su confesión bautismal pública."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 13,
+    "greek_text": "παραγγέλλω σοι ἐνώπιον τοῦ θεοῦ τοῦ ζῳογονοῦντος τὰ πάντα καὶ Χριστοῦ Ἰησοῦ τοῦ μαρτυρήσαντος ἐπὶ Ποντίου Πιλάτου τὴν καλὴν ὁμολογίαν,",
+    "translation": "Te mando delante de Dios, que da vida a todas las cosas, y de Cristo Jesús, que dio testimonio de la buena confesión delante de Poncio Pilato,",
+    "translation_notes": "Estímulo al valor ante la persecución: así como Timoteo confesó ante testigos, Jesús mismo mantuvo su confesión real delante del gobernador romano Poncio Pilato (Jn 18:36–37)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 14,
+    "greek_text": "τηρῆσαί σε τὴν ἐντολὴν ἄσπιλον ἀνεπίλημπτον μέχρι τῆς ἐπιφανείας τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ,",
+    "translation": "que guardes el mandamiento sin mancha ni reproche hasta la manifestación de nuestro Señor Jesucristo,",
+    "translation_notes": "Fidelidad íntegra hasta la ἐπιφάνεια («aparición gloriosa») de Cristo."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 15,
+    "greek_text": "ἣν καιροῖς ἰδίοις δείξει ὁ μακάριος καὶ μόνος δυνάστης, ὁ βασιλεὺς τῶν βασιλευόντων καὶ κύριος τῶν κυριευόντων,",
+    "translation": "la cual a su debido tiempo mostrará el bienaventurado y único Soberano, Rey de reyes y Señor de señores,",
+    "translation_notes": "Doxología majestuosa (vv. 15–16): frente a los títulos del emperador romano («señor», «soberano»), Dios es ὁ μακάριος καὶ μόνος δυνάστης («el bienaventurado y único Potentado/Soberano»), Rey de los que reinan y Señor de los que señorean."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 16,
+    "greek_text": "ὁ μόνος ἔχων ἀθανασίαν, φῶς οἰκῶν ἀπρόσιτον, ὃν εἶδεν οὐδεὶς ἀνθρώπων οὐδὲ ἰδεῖν δύναται· ᾧ τιμὴ καὶ κράτος αἰώνιον· ἀμήν.",
+    "translation": "el único que tiene inmortalidad, que habita en luz inaccesible, a quien ninguno de los hombres ha visto ni puede ver. A él sea honor y dominio eterno. Amén.",
+    "translation_notes": "Trascendencia absoluta de Dios: posee inmortalidad por esencia propia (ὁ μόνος ἔχων ἀθανασίαν) y mora en luz deslumbrante e inaccesible (φῶς ἀπρόσιτον, cf. Sal 104:2; Éx 33:20)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 17,
+    "greek_text": "Τοῖς πλουσίοις ἐν τῷ νῦν αἰῶνι παράγγελλε μὴ ὑψηλοφρονεῖν μηδὲ ἠλπικέναι ἐπὶ πλούτου ἀδηλότητι, ἀλλ’ ἐπὶ θεῷ τῷ παρέχοντι ἡμῖν πάντα πλουσίως εἰς ἀπόλαυσιν,",
+    "translation": "A los ricos de este siglo manda que no sean altivos, ni pongan su esperanza en la incertidumbre de las riquezas, sino en Dios, quien nos provee abundantemente todas las cosas para que las disfrutemos;",
+    "translation_notes": "Instrucción equilibrada a creyentes con recursos: no condena su riqueza, sino dos peligros —la arrogancia (μὴ ὑψηλοφρονεῖν) y la falsa seguridad en algo incierto (πλούτου ἀδηλότητι)—. Dios mismo da con abundancia «para disfrute agradecido» (εἰς ἀπόλαυσιν)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 18,
+    "greek_text": "ἀγαθοεργεῖν, πλουτεῖν ἐν ἔργοις καλοῖς, εὐμεταδότους εἶναι, κοινωνικούς,",
+    "translation": "que hagan el bien, que sean ricos en buenas obras, generosos, dispuestos a compartir,",
+    "translation_notes": "Dos hermosos adjetivos de generosidad: εὐμεταδότους («prontos para dar/repartir») y κοινωνικούς («solidarios/dispuestos a compartir en comunidad»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 19,
+    "greek_text": "ἀποθησαυρίζοντας ἑαυτοῖς θεμέλιον καλὸν εἰς τὸ μέλλον, ἵνα ἐπιλάβωνται τῆς ὄντως ζωῆς.",
+    "translation": "atesorando para sí mismos buen fundamento para lo por venir, a fin de que echen mano de la vida verdadera.",
+    "translation_notes": "Eco de Mt 6:19–21: la generosidad invierte en el tesoro eterno para alcanzar τῆς ὄντως ζωῆς («la vida que es verdaderamente vida»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 20,
+    "greek_text": "Ὦ Τιμόθεε, τὴν παραθήκην φύλαξον, ἐκτρεπόμενος τὰς βεβήλους κενοφωνίας καὶ ἀντιθέσεις τῆς ψευδωνύμου γνώσεως,",
+    "translation": "Oh Timoteo, guarda lo que se te ha encomendado, evitando las profanas y vanas palabrerías, y los argumentos de la falsamente llamada ciencia,",
+    "translation_notes": "Cierre urgente y personal: τὴν παραθήκην φύλαξον («custodia el depósito apostólico», término bancario de confianza sagrada). Rechaza las contradicciones de la ψευδωνύμου γνώσεως («el falso conocimiento/gnosis»)."
+  },
+  {
+    "book": "1TI",
+    "chapter": 6,
+    "verse": 21,
+    "greek_text": "ἥν τινες ἐπαγγελλόμενοι περὶ τὴν πίστιν ἠστόχησαν. Ἡ χάρις μεθ’ ὑμῶν.",
+    "translation": "la cual profesando algunos, se desviaron de la fe. La gracia sea con ustedes.",
+    "translation_notes": "Despedida plural (μεθ’ ὑμῶν, «con ustedes»), mostrando que aunque la carta iba dirigida a Timoteo, toda la iglesia de Éfeso participaba de su lectura y respaldo."
+  }
+]

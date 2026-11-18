@@ -1,0 +1,866 @@
+[
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 1,
+    "greek_text": "Ἰάκωβος θεοῦ καὶ κυρίου Ἰησοῦ Χριστοῦ δοῦλος ταῖς δώδεκα φυλαῖς ταῖς ἐν τῇ διασπορᾷ χαίρειν.",
+    "translation": "Jacobo, siervo de Dios y del Señor Jesucristo, a las doce tribus que están en la dispersión: Saludos.",
+    "translation_notes": "Prescripto breve y clásico: Ἰάκωβος (Jacobo/Santiago, hermano del Señor y líder en Jerusalén, Hch 15) se presenta humildemente como δοῦλος («siervo/esclavo») de Dios y del Señor Jesucristo. Dirigido a creyentes judeocristianos esparcidos fuera de Judea (ἐν τῇ διασπορᾷ, «en la diáspora», aplicando el título de las doce tribus al pueblo mesiánico)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 2,
+    "greek_text": "Πᾶσαν χαρὰν ἡγήσασθε, ἀδελφοί μου, ὅταν πειρασμοῖς περιπέσητε ποικίλοις,",
+    "translation": "Hermanos míos, consideren como motivo de sumo gozo cuando se encuentren en diversas pruebas,",
+    "translation_notes": "Paradoja sapiencial: πᾶσαν χαρὰν ἡγήσασθε («ténganlo por alegría completa»). El verbo περιπέσητε («caigan en medio de / tropiecen inesperadamente con», mismo verbo usado en Lc 10:30 para el hombre que cayó entre ladrones) alude a pruebas externas variadas (πειρασμοῖς ποικίλοις)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 3,
+    "greek_text": "γινώσκοντες ὅτι τὸ δοκίμιον ὑμῶν τῆς πίστεως κατεργάζεται ὑπομονήν·",
+    "translation": "sabiendo que la prueba de su fe produce paciencia.",
+    "translation_notes": "Τὸ δοκίμιον («el crisol / proceso de purificación que demuestra autenticidad» de la fe, como oro en fuego, cf. 1 P 1:7) genera ὑπομονή (perseverancia firme bajo presión)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 4,
+    "greek_text": "ἡ δὲ ὑπομονὴ ἔργον τέλειον ἐχέτω, ἵνα ἦτε τέλειοι καὶ ὁλόκληροι, ἐν μηδενὶ λειπόμενοι.",
+    "translation": "Pero tenga la paciencia su obra completa, para que sean maduros e íntegros, sin que les falte nada.",
+    "translation_notes": "Juego verbal con τέλος: ἔργον τέλειον («obra acabada/completa») para formar creyentes τέλειοι («maduros/adultos») y ὁλόκληροι («completos en todas sus partes»), sin carencia alguna."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 5,
+    "greek_text": "Εἰ δέ τις ὑμῶν λείπεται σοφίας, αἰτείτω παρὰ τοῦ διδόντος θεοῦ πᾶσιν ἁπλῶς καὶ μὴ ὀνειδίζοντος, καὶ δοθήσεται αὐτῷ·",
+    "translation": "Y si alguno de ustedes tiene falta de sabiduría, pídala a Dios, quien da a todos generosamente y sin reproche, y le será dada.",
+    "translation_notes": "Sabiduría práctica (σοφία, tema central en Santiago) para navegar las pruebas: Dios da ἁπλῶς («con sencillez generosa / sin reservas ni segundas intenciones») y μὴ ὀνειδίζοντος («sin echar en cara ni humillar al que pide»)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 6,
+    "greek_text": "αἰτείτω δὲ ἐν πίστει, μηδὲν διακρινόμενος, ὁ γὰρ διακρινόμενος ἔοικεν κλύδωνι θαλάσσης ἀνεμιζομένῳ καὶ ῥιπιζομένῳ·",
+    "translation": "Pero pida con fe, no dudando nada; porque el que duda es semejante a la ola del mar que es agitada por el viento y echada de un lado a otro.",
+    "translation_notes": "El participio διακρινόμενος («dividido interiormente / vacilando entre confiar en Dios y apoyarse en el mundo») contrasta con la generosidad indivisa (ἁπλῶς) de Dios en el v. 5."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 7,
+    "greek_text": "μὴ γὰρ οἰέσθω ὁ ἄνθρωπος ἐκεῖνος ὅτι λήμψεταί τι παρὰ τοῦ κυρίου",
+    "translation": "No piense, pues, ese hombre que recibirá cosa alguna del Señor,",
+    "translation_notes": "Advertencia contra la oración sin compromiso real con la voluntad de Dios."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 8,
+    "greek_text": "ἀνὴρ δίψυχος, ἀκατάστατος ἐν πάσαις ταῖς ὁδοῖς αὐτοῦ.",
+    "translation": "siendo un hombre de doble ánimo, inconstante en todos sus caminos.",
+    "translation_notes": "Término característico acuñado probablemente por Santiago: δίψυχος (dipsychos, «de dos almas / corazón dividido», cf. 4:8), lo que provoca inestabilidad (ἀκατάστατος) en toda su vida."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 9,
+    "greek_text": "Καυχάσθω δὲ ὁ ἀδελφὸς ὁ ταπεινὸς ἐν τῷ ὕψει αὐτοῦ,",
+    "translation": "Pero el hermano de humilde condición gloríese en su exaltación,",
+    "translation_notes": "Inversión de valores del Reino (cf. Lc 1:52; Mt 5:3): el creyente pobre (ὁ ταπεινός) posee dignidad real como heredero del Reino (2:5)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 10,
+    "greek_text": "ὁ δὲ πλούσιος ἐν τῇ ταπεινώσει αὐτοῦ, ὅτι ὡς ἄνθος χόρτου παρελεύσεται.",
+    "translation": "y el rico en su humillación, porque él pasará como la flor de la hierba.",
+    "translation_notes": "El creyente rico aprende humildad (ταπεινώσει) reconociendo que la riqueza terrenal es efímera como la hierba del desierto (eco de Is 40:6–8)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 11,
+    "greek_text": "ἀνέτειλεν γὰρ ὁ ἥλιος σὺν τῷ καύσωνι καὶ ἐξήρανεν τὸν χόρτον, καὶ τὸ ἄνθος αὐτοῦ ἐξέπεσεν καὶ ἡ εὐπρέπεια τοῦ προσώπου αὐτοῦ ἀπώλετο· οὕτως καὶ ὁ πλούσιος ἐν ταῖς πορείαις αὐτοῦ μαρανθήσεται.",
+    "translation": "Pues el sol sale con calor abrasador y seca la hierba, y su flor se cae y perece su hermosa apariencia; así también se marchitará el rico en sus empresas.",
+    "translation_notes": "Σὺν τῷ καύσωνι («con el viento seco ardiente / siroco del oriente») que marchita las flores silvestres de Judea en cuestión de horas: así caducan las ambiciones comerciales (πορείαις) sin Dios."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 12,
+    "greek_text": "Μακάριος ἀνὴρ ὃς ὑπομένει πειρασμόν, ὅτι δόκιμος γενόμενος λήμψεται τὸν στέφανον τῆς ζωῆς, ὃν ἐπηγγείλατο τοῖς ἀγαπῶσιν αὐτόν.",
+    "translation": "Bienaventurado el hombre que soporta la prueba, porque cuando haya sido aprobado, recibirá la corona de la vida, que el Señor prometió a los que lo aman.",
+    "translation_notes": "Μακάριος («dichoso/bienaventurado»): quien resiste fielmente recibe la aprobación (δόκιμος γενόμενος) y «la corona que consiste en la vida eterna» (τὸν στέφανον τῆς ζωῆς, genitivo epexegético)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 13,
+    "greek_text": "μηδεὶς πειραζόμενος λεγέτω ὅτι Ἀπὸ θεοῦ πειράζομαι· ὁ γὰρ θεὸς ἀπείραστός ἐστιν κακῶν, πειράζει δὲ αὐτὸς οὐδένα.",
+    "translation": "Ninguno diga cuando es tentado: «Soy tentado por Dios»; porque Dios no puede ser tentado por el mal, ni él tienta a nadie.",
+    "translation_notes": "Distinción clave en el mismo sustantivo/verbo griego πειράζω: mientras Dios *prueba* la fe para fortalecerla (v. 2–3), jamás *tienta* seduciendo al pecado (v. 13), porque su carácter es ἀπείραστος κακῶν («inmune/intocable por el mal»)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 14,
+    "greek_text": "ἕκαστος δὲ πειράζεται ὑπὸ τῆς ἰδίας ἐπιθυμίας ἐξελκόμενος καὶ δελεαζόμενος·",
+    "translation": "Sino que cada uno es tentado cuando de su propio deseo es arrastrado y seducido.",
+    "translation_notes": "Metáfora de caza y pesca: ἐξελκόμενος («atraído hacia afuera de su refugio») y δελεαζόμενος («enganchado con cebo») por la propia concupiscencia interior (ἐπιθυμία)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 15,
+    "greek_text": "εἶτα ἡ ἐπιθυμία συλλαβοῦσα τίκτει ἁμαρτίαν, ἡ δὲ ἁμαρτία ἀποτελεσθεῖσα ἀποκύει θάνατον.",
+    "translation": "Después, cuando el deseo ha concebido, da a luz el pecado; y el pecado, una vez consumado, engendra la muerte.",
+    "translation_notes": "Alegoría sombría de concepción y nacimiento (contraste con el v. 18): deseo → concepción → parto del pecado → madurez mortal (ἀποκύει θάνατον)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 16,
+    "greek_text": "μὴ πλανᾶσθε, ἀδελφοί μου ἀγαπητοί.",
+    "translation": "No se engañen, amados hermanos míos.",
+    "translation_notes": "Transición afectuosa hacia la bondad inmutable de Dios."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 17,
+    "greek_text": "Πᾶσα δόσις ἀγαθὴ καὶ πᾶν δώρημα τέλειον ἄνωθέν ἐστιν, καταβαῖνον ἀπὸ τοῦ πατρὸς τῶν φώτων, παρ’ ᾧ οὐκ ἔνι παραλλαγὴ ἢ τροπῆς ἀποσκίασμα.",
+    "translation": "Toda buena dádiva y todo don perfecto desciende de lo alto, del Padre de las luces, en el cual no hay cambio ni sombra de variación.",
+    "translation_notes": "Léxico astronómico elegante: Dios es «el Padre de las luminarias celestes» (sol, luna, estrellas), pero a diferencia de los astros que rotan (τροπή) y proyectan eclipses o sombras (ἀποσκίασμα), en él no existe variación (παραλλαγή) en su bondad."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 18,
+    "greek_text": "βουληθεὶς ἀπεκύησεν ἡμᾶς λόγῳ ἀληθείας, εἰς τὸ εἶναι ἡμᾶς ἀπαρχήν τινα τῶν αὐτοῦ κτισμάτων.",
+    "translation": "Él, por su propia voluntad, nos hizo nacer mediante la palabra de verdad, para que seamos como primicias de sus criaturas.",
+    "translation_notes": "Nuevo nacimiento por pura voluntad divina (βουληθείς): usa el mismo verbo ἀπεκύησεν («nos dio a luz», contraste directo con el v. 15) por medio del evangelio («palabra de verdad»), haciendo de los creyentes ἀπαρχή («primicias consagradas», garantía de la redención total de la creación)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 19,
+    "greek_text": "Ἴστε, ἀδελφοί μου ἀγαπητοί. ἔστω δὲ πᾶς ἄνθρωπος ταχὺς εἰς τὸ ἀκοῦσαι, βραδὺς εἰς τὸ λαλῆσαι, βραδὺς εἰς ὀργήν,",
+    "translation": "Sepan esto, amados hermanos míos: todo hombre sea pronto para oír, tardo para hablar, tardo para la ira;",
+    "translation_notes": "Máxima sapiencial práctica (eco de Pr 10:19; 14:29; Ecl 5:2): escuchar con prontitud, medir el habla y frenar el enojo."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 20,
+    "greek_text": "ὀργὴ γὰρ ἀνδρὸς δικαιοσύνην θεοῦ οὐκ ἐργάζεται.",
+    "translation": "porque la ira del hombre no produce la justicia de Dios.",
+    "translation_notes": "El arrebato humano jamás cumple ni refleja la justicia recta que Dios aprueba."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 21,
+    "greek_text": "διὸ ἀποθέμενοι πᾶσαν ῥυπαρίαν καὶ περισσείαν κακίας ἐν πραΰτητι δέξασθε τὸν ἔμφυτον λόγον τὸν δυνάμενον σῶσαι τὰς ψυχὰς ὑμῶν.",
+    "translation": "Por lo tanto, desechando toda inmundicia y abundancia de malicia, reciban con mansedumbre la palabra implantada, la cual puede salvar sus almas.",
+    "translation_notes": "Τὸν ἔμφυτον λόγον («la palabra sembrada/arraigada en el corazón», eco de la parábola del sembrador y del Nuevo Pacto en Jer 31:33), recibida con docilidad humilde (ἐν πραΰτητι)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 22,
+    "greek_text": "Γίνεσθε δὲ ποιηταὶ λόγου καὶ μὴ ἀκροαταὶ μόνον παραλογιζόμενοι ἑαυτούς.",
+    "translation": "Pero sean hacedores de la palabra y no solamente oidores, engañándose a sí mismos.",
+    "translation_notes": "Παραλογιζόμενοι ἑαυτούς («engañándose con sofismas/autoengaño lógico»): pensar que basta con oír sermones o estudiar sin obedecer."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 23,
+    "greek_text": "ὅτι εἴ τις ἀκροατὴς λόγου ἐστὶν καὶ οὐ ποιητής, οὗτος ἔοικεν ἀνδρὶ κατανοοῦντι τὸ πρόσωπον τῆς γενέσεως αὐτοῦ ἐν ἐσόπτρῳ,",
+    "translation": "Porque si alguno es oidor de la palabra y no hacedor, este es semejante al hombre que mira su rostro natural en un espejo;",
+    "translation_notes": "Τὸ πρόσωπον τῆς γενέσεως αὐτοῦ («el rostro con que nació / su aspecto natural») reflejado en un espejo metálico de bronce pulido (ἐν ἐσόπτρῳ)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 24,
+    "greek_text": "κατενόησεν γὰρ ἑαυτὸν καὶ ἀπελήλυθεν καὶ εὐθέως ἐπελάθετο ὁποῖος ἦν.",
+    "translation": "pues se mira a sí mismo, se va, y al instante se olvida de cómo era.",
+    "translation_notes": "Ojeada superficial sin corrección práctica."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 25,
+    "greek_text": "ὁ δὲ παρακύψας εἰς νόμον τέλειον τὸν τῆς ἐλευθερίας καὶ παραμείνας, οὐκ ἀκροατὴς ἐπιλησμονῆς γενόμενος ἀλλὰ ποιητὴς ἔργου, οὗτος μακάριος ἐν τῇ ποιήσει αὐτοῦ ἔσται.",
+    "translation": "Pero el que mira atentamente en la ley perfecta, la de la libertad, y persevera en ella, no siendo oidor olvidadizo sino hacedor de la obra, este será bienaventurado en lo que hace.",
+    "translation_notes": "El verbo παρακύψας («inclinarse hacia adelante para mirar con atención detenida», mismo verbo usado en Lc 24:12; Jn 20:5, 11; 1 P 1:12) define la meditación obediente en la «ley perfecta de la libertad» (la Palabra del evangelio asumida en el corazón por el Espíritu)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 26,
+    "greek_text": "Εἴ τις δοκεῖ θρησκὸς εἶναι μὴ χαλιναγωγῶν γλῶσσαν αὐτοῦ ἀλλὰ ἀπατῶν καρδίαν αὐτοῦ, τούτου μάταιος ἡ θρησκεία.",
+    "translation": "Si alguno se cree religioso, pero no refrena su lengua, sino que engaña su propio corazón, la religión de tal persona es vana.",
+    "translation_notes": "Θρησκός / θρησκεία («observante religioso / culto práctico externo»): si no gobierna la lengua (χαλιναγωγῶν, «poner freno de caballo»), su religiosidad es estéril (μάταιος)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 1,
+    "verse": 27,
+    "greek_text": "θρησκεία καθαρὰ καὶ ἀμίαντος παρὰ τῷ θεῷ καὶ πατρὶ αὕτη ἐστίν, ἐπισκέπτεσθαι ὀρφανοὺς καὶ χήρας ἐν τῇ θλίψει αὐτῶν, ἄσπιλον ἑαυτὸν τηρεῖν ἀπὸ τοῦ κόσμου.",
+    "translation": "La religión pura y sin mancha delante de Dios y Padre es esta: visitar a los huérfanos y a las viudas en su aflicción, y guardarse sin mancha del mundo.",
+    "translation_notes": "Dos dimensiones inseparables de la piedad auténtica: misericordia activa hacia los más desprotegidos (huérfanos y viudas, eco de Dt 10:18; Is 1:17) e integridad moral frente a los valores corrompidos del mundo."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 1,
+    "greek_text": "Ἀδελφοί μου, μὴ ἐν προσωπολημψίαις ἔχετε τὴν πίστιν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῆς δόξης;",
+    "translation": "Hermanos míos, no tengan la fe de nuestro glorioso Señor Jesucristo haciendo acepción de personas.",
+    "translation_notes": "Incompatible con la fe en «nuestro Señor Jesucristo, [el Señor] de la gloria» (τῆς δόξης, cf. 1 Co 2:8): προσωπολημψίαι («favoritismos basados en apariencia social o riqueza»)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 2,
+    "greek_text": "ἐὰν γὰρ εἰσέλθῃ εἰς συναγωγὴν ὑμῶν ἀνὴρ χρυσοδακτύλιος ἐν ἐσθῆτι λαμπρᾷ, εἰσέλθῃ δὲ καὶ πτωχὸς ἐν ῥυπαρᾷ ἐσθῆτι,",
+    "translation": "Porque si entra en la congregación de ustedes un hombre con anillo de oro y ropa espléndida, y también entra un pobre con ropa sucia,",
+    "translation_notes": "Nótese el término judeocristiano temprano συναγωγὴν ὑμῶν («su asamblea/sinagoga»). Χρυσοδακτύλιος («con anillos de oro en los dedos», signo de rango ecuestre o gran riqueza romana) frente a ῥυπαρᾷ ἐσθῆτι («ropa raída/sucia de obrero»)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 3,
+    "greek_text": "ἐπιβλέψητε δὲ ἐπὶ τὸν φοροῦντα τὴν ἐσθῆτα τὴν λαμπρὰν καὶ εἴπητε· Σὺ κάθου ὧδε καλῶς, καὶ τῷ πτωχῷ εἴπητε· Σὺ στῆθι ἢ κάθου ἐκεῖ ὑπὸ τὸ ὑποπόδιόν μου,",
+    "translation": "y miran con agrado al que lleva la ropa espléndida y le dicen: «Siéntate tú aquí en un buen lugar», y al pobre le dicen: «Quédate tú allí de pie», o «Siéntate aquí junto a mi estrado»,",
+    "translation_notes": "Discriminación visible en la asamblea cristiana: ofrecer asiento preferencial al rico mientras se relega al pobre al suelo («debajo de mi escabel», ὑπὸ τὸ ὑποπόδιόν μου)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 4,
+    "greek_text": "οὐ διεκρίθητε ἐν ἑαυτοῖς καὶ ἐγένεσθε κριταὶ διαλογισμῶν πονηρῶν;",
+    "translation": "¿acaso no han hecho distinciones entre ustedes mismos, y han llegado a ser jueces con malos pensamientos?",
+    "translation_notes": "Usando criterios mundanos de estatus, se erigen en jueces injustos (κριταὶ διαλογισμῶν πονηρῶν)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 5,
+    "greek_text": "ἀκούσατε, ἀδελφοί μου ἀγαπητοί. οὐχ ὁ θεὸς ἐξελέξατο τοὺς πτωχοὺς τῷ κόσμῳ πλουσίους ἐν πίστει καὶ κληρονόμους τῆς βασιλείας ἧς ἐπηγγείλατο τοῖς ἀγαπῶσιν αὐτόν;",
+    "translation": "Oigan, amados hermanos míos: ¿No escogió Dios a los pobres de este mundo para que sean ricos en fe y herederos del reino que ha prometido a los que lo aman?",
+    "translation_notes": "Eco de las bienaventuranzas de Jesús (Lc 6:20; Mt 5:3): Dios elige frecuentemente a los socialmente despreciados para hacerlos «ricos en la esfera de la fe» (πλουσίους ἐν πίστει) y herederos de su Reino."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 6,
+    "greek_text": "ὑμεῖς δὲ ἠτιμάσατε τὸν πτωχόν. οὐχ οἱ πλούσιοι καταδυναστεύουσιν ὑμῶν, καὶ αὐτοὶ ἕλκουσιν ὑμᾶς εἰς κριτήρια;",
+    "translation": "Pero ustedes han deshonrado al pobre. ¿No son los ricos los que los oprimen a ustedes, y ellos mismos los arrastran a los tribunales?",
+    "translation_notes": "Ironía amarga: halagan precisamente a los poderosos que los explotan económicamente (καταδυναστεύουσιν) y los demandan injustamente."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 7,
+    "greek_text": "οὐκ αὐτοὶ βλασφημοῦσιν τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ’ ὑμᾶς;",
+    "translation": "¿No blasfeman ellos el buen nombre que fue invocado sobre ustedes?",
+    "translation_notes": "«El noble nombre invocado sobre ustedes» (τὸ καλὸν ὄνομα, alusión al nombre de Cristo en el bautismo, cf. Am 9:12; Hch 15:17)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 8,
+    "greek_text": "Εἰ μέντοι νόμον τελεῖτε βασιλικὸν κατὰ τὴν γραφήν Ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν, καλῶς ποιεῖτε·",
+    "translation": "Si en verdad cumplen la ley real conforme a la Escritura: «Amarás a tu prójimo como a ti mismo», bien hacen;",
+    "translation_notes": "Νόμος βασιλικός («la ley regia/suprema del Rey Mesías»): cita de Lv 19:18 (cf. Mt 22:39; Ro 13:9; Gál 5:14), que prohíbe todo clasismo."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 9,
+    "greek_text": "εἰ δὲ προσωπολημπτεῖτε, ἁμαρτίαν ἐργάζεσθε, ἐλεγχόμενοι ὑπὸ τοῦ νόμου ὡς παραβάται.",
+    "translation": "pero si hacen acepción de personas, cometen pecado, quedando convictos por la ley como transgresores.",
+    "translation_notes": "El favoritismo no es una simple descortesía social, sino pecado directo contra la ley del amor al prójimo."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 10,
+    "greek_text": "ὅστις γὰρ ὅλον τὸν νόμον τηρήσῃ, πταίσῃ δὲ ἐν ἑνί, γέγονεν πάντων ἔνοχος.",
+    "translation": "Porque cualquiera que guarde toda la ley, pero falle en un solo punto, se ha hecho culpable de todos.",
+    "translation_notes": "Unidad indivisible de la voluntad moral de Dios: no se pueden escoger los mandamientos cómodos (no matar, no adulterar) mientras se desprecia al pobre."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 11,
+    "greek_text": "ὁ γὰρ εἰπών Μὴ μοιχεύσῃς εἶπεν καί Μὴ φονεύσῃς· εἰ δὲ οὐ μοιχεύεις φονεύεις δέ, γέγονας παραβάτης νόμου.",
+    "translation": "Pues el que dijo: «No cometas adulterio», también dijo: «No mates». Ahora bien, si no cometes adulterio, pero matas, ya te has hecho transgresor de la ley.",
+    "translation_notes": "La autoridad detrás de cada mandamiento es la misma Persona divina («el que dijo... también dijo»)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 12,
+    "greek_text": "οὕτως λαλεῖτε καὶ οὕτως ποιεῖτε ὡς διὰ νόμου ἐλευθερίας μέλλοντες κρίνεσθαι.",
+    "translation": "Así hablen y así actúen, como quienes han de ser juzgados por la ley de la libertad.",
+    "translation_notes": "La «ley de la libertad» (1:25) nos libera de la esclavitud del pecado para amar, y será el estándar de nuestro examen final."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 13,
+    "greek_text": "ἡ γὰρ κρίσις ἀνέλεος τῷ μὴ ποιήσαντι ἔλεος· κατακαυχᾶται ἔλεος κρίσεως.",
+    "translation": "Porque juicio sin misericordia se hará con aquel que no hizo misericordia; la misericordia triunfa sobre el juicio.",
+    "translation_notes": "Eco de Mt 5:7 y 18:33–35: κατακαυχᾶται ἔλεος κρίσεως («la misericordia se gloría triunfante por encima del juicio»)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 14,
+    "greek_text": "Τί ὄφελος, ἀδελφοί μου, ἐὰν πίστιν λέγῃ τις ἔχειν ἔργα δὲ μὴ ἔχῃ; μὴ δύναται ἡ πίστις σῶσαι αὐτόν;",
+    "translation": "¿De qué sirve, hermanos míos, si alguno dice que tiene fe y no tiene obras? ¿Acaso puede esa fe salvarlo?",
+    "translation_notes": "Inicio de la famosa sección sobre fe y obras (vv. 14–26): nótese que Santiago cuestiona a quien «*dice* tener fe» (λέγῃ τις ἔχειν) sin evidencia práctica; el artículo griego ἡ πίστις («*esa* supuesta fe» estéril) es el objeto de la pregunta retórica negativa (μή)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 15,
+    "greek_text": "ἐὰν ἀδελφὸς ἢ ἀδελφὴ γυμνοὶ ὑπάρχωσιν καὶ λειπόμενοι τῆς ἐφημέρου τροφῆς,",
+    "translation": "Si un hermano o una hermana están desnudos y carecen del alimento diario,",
+    "translation_notes": "Γυμνοί («sin abrigo suficiente / mal vestidos») y sin el pan de cada día (τῆς ἐφημέρου τροφῆς)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 16,
+    "greek_text": "εἴπῃ δέ τις αὐτοῖς ἐξ ὑμῶν· Ὑπάγετε ἐν εἰρήνῃ, θερμαίνεσθε καὶ χορτάζεσθε, μὴ δῶτε δὲ αὐτοῖς τὰ ἐπιτήδεια τοῦ σώματος, τί ὄφελος;",
+    "translation": "y alguno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para el cuerpo, ¿de qué sirve?",
+    "translation_notes": "Ironía contra la piedad meramente verbal: despedir con buenos deseos religiosos sin proveer ropa ni comida es completamente inútil."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 17,
+    "greek_text": "οὕτως καὶ ἡ πίστις, ἐὰν μὴ ἔχῃ ἔργα, νεκρά ἐστιν καθ’ ἑαυτήν.",
+    "translation": "Así también la fe, si no tiene obras, está muerta en sí misma.",
+    "translation_notes": "Νεκρά ἐστιν καθ’ ἑαυτήν («está muerta en sí misma», no es fe salvadora viva sino un cadáver verbal)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 18,
+    "greek_text": "Ἀλλ’ ἐρεῖ τις· Σὺ πίστιν ἔχεις κἀγὼ ἔργα ἔχω. δεῖξόν μοι τὴν πίστιν σου χωρὶς τῶν ἔργων, κἀγώ σοι δείξω ἐκ τῶν ἔργων μου τὴν πίστιν.",
+    "translation": "Pero alguno dirá: «Tú tienes fe, y yo tengo obras». Muéstrame tu fe sin las obras, y yo te mostraré mi fe por mis obras.",
+    "translation_notes": "Diatriba viva: la fe invisible solo puede demostrarse (δεῖξόν μοι) a través de las acciones concretas que produce."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 19,
+    "greek_text": "σὺ πιστεύεις ὅτι εἷς ἐστιν ὁ θεός; καλῶς ποιεῖς· καὶ τὰ δαιμόνια πιστεύουσιν καὶ φρίσσουσιν.",
+    "translation": "¿Tú crees que Dios es uno? Bien haces. También los demonios lo creen, y tiemblan.",
+    "translation_notes": "Cita del Shemá (Dt 6:4, εἷς ἐστιν ὁ θεός): el mero asentimiento intelectual ortodoxo sin obediencia ni amor no supera lo que ya saben los demonios, quienes «tiemblan con espanto» (φρίσσουσιν, «se les erizan los cabellos», cf. Mc 1:24)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 20,
+    "greek_text": "θέλεις δὲ γνῶναι, ὦ ἄνθρωπε κενέ, ὅτι ἡ πίστις χωρὶς τῶν ἔργων ἀργή ἐστιν;",
+    "translation": "Pero ¿quieres saber, hombre vano, que la fe sin las obras es estéril?",
+    "translation_notes": "Ἀργή (argē, juego de palabras con ἔργα «obras»: literalmente «a-ergē / sin trabajo, improductiva, estéril»)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 21,
+    "greek_text": "Ἀβραὰμ ὁ πατὴρ ἡμῶν οὐκ ἐξ ἔργων ἐδικαιώθη, ἀνενέγκας Ἰσαὰκ τὸν υἱὸν αὐτοῦ ἐπὶ τὸ θυσιαστήριον;",
+    "translation": "¿No fue justificado por las obras nuestro padre Abraham cuando ofreció a su hijo Isaac sobre el altar?",
+    "translation_notes": "Complemento armónico con Pablo (Ro 4; Gál 3), no contradicción: Pablo usa «justificar» para la aceptación inicial del pecador ante Dios por fe aparte de obras de la ley (Gn 15:6); Santiago muestra que la fe genuina de Gn 15:6 quedó *demostrada y consumada* años después en la obediencia de Gn 22 (v. 22)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 22,
+    "greek_text": "βλέπεις ὅτι ἡ πίστις συνήργει τοῖς ἔργοις αὐτοῦ καὶ ἐκ τῶν ἔργων ἡ πίστις ἐτελειώθη,",
+    "translation": "Ves que la fe actuaba juntamente con sus obras, y que por las obras la fe fue perfeccionada;",
+    "translation_notes": "Clave hermenéutica explícita: la fe cooperaba con sus obras (συνήργει) y por ellas alcanzó su madurez/consumación (ἐτελειώθη)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 23,
+    "greek_text": "καὶ ἐπληρώθη ἡ γραφὴ ἡ λέγουσα· Ἐπίστευσεν δὲ Ἀβραὰμ τῷ θεῷ, καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην, καὶ φίλος θεοῦ ἐκλήθη.",
+    "translation": "y se cumplió la Escritura que dice: «Y creyó Abraham a Dios, y le fue contado por justicia», y fue llamado amigo de Dios.",
+    "translation_notes": "Cita de Gn 15:6 junto al título honorífico de 2 Cr 20:7 / Is 41:8: φίλος θεοῦ («amigo de Dios»)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 24,
+    "greek_text": "ὁρᾶτε ὅτι ἐξ ἔργων δικαιοῦται ἄνθρωπος καὶ οὐκ ἐκ πίστεως μόνον.",
+    "translation": "Ustedes ven, pues, que el hombre es justificado por las obras y no solamente por la fe.",
+    "translation_notes": "Conclusión práctica contra la fe meramente intelectual («solamente fe» en el sentido de confesión muerta y sola sin frutos, vv. 14–19)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 25,
+    "greek_text": "ὁμοίως δὲ καὶ Ῥαὰβ ἡ πόρνη οὐκ ἐξ ἔργων ἐδικαιώθη, ὑποδεξαμένη τοὺς ἀγγέλους καὶ ἑτέρᾳ ὁδῷ ἐκβαλοῦσα;",
+    "translation": "De igual manera, ¿no fue también Rahab la ramera justificada por las obras, cuando recibió a los mensajeros y los envió por otro camino?",
+    "translation_notes": "Segundo ejemplo contrastante con el patriarca Abraham: Rahab (Jos 2), una mujer gentil de pasado marginado, cuya fe genuina en el Dios de Israel se probó arriesgando su vida para proteger a los espías."
+  },
+  {
+    "book": "JAS",
+    "chapter": 2,
+    "verse": 26,
+    "greek_text": "ὥσπερ γὰρ τὸ σῶμα χωρὶς πνεύματος νεκρόν ἐστιν, οὕτως καὶ ἡ πίστις χωρὶς ἔργων νεκρά ἐστιν.",
+    "translation": "Porque así como el cuerpo sin el espíritu está muerto, así también la fe sin obras está muerta.",
+    "translation_notes": "Analogía final nítida: una fe carente de obras es como un cuerpo sin aliento vital (χωρὶς πνεύματος): conserva la apariencia externa, pero carece de vida."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 1,
+    "greek_text": "Μὴ πολλοὶ διδάσκαλοι γίνεσθε, ἀδελφοί μου, εἰδότες ὅτι μεῖζον κρίμα λημψόμεθα·",
+    "translation": "Hermanos míos, no se hagan maestros muchos de ustedes, sabiendo que recibiremos mayor condenación.",
+    "translation_notes": "Advertencia contra la ambición ligera de enseñar (διδάσκαλοι): quienes instruyen a la comunidad serán evaluados con mayor rigor (μεῖζον κρίμα) por el poder de la palabra (v. 2–12)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 2,
+    "greek_text": "πολλὰ γὰρ πταίομεν ἅπαντες. εἴ τις ἐν λόγῳ οὐ πταίει, οὗτος τέλειος ἀνήρ, δυνατὸς χαλιναγωγῆσαι καὶ ὅλον τὸ σῶμα.",
+    "translation": "Porque todos tropezamos muchas veces. Si alguno no tropieza en palabra, este es un hombre perfecto, capaz también de refrenar todo el cuerpo.",
+    "translation_notes": "Realismo universal (πολλὰ πταίομεν ἅπαντες): dominar la lengua (ἐν λόγῳ) exige tal madurez espiritual que capacita para gobernar todos los impulsos del cuerpo."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 3,
+    "greek_text": "εἰ δὲ τῶν ἵππων τοὺς χαλινοὺς εἰς τὰ στόματα βάλλομεν εἰς τὸ πείθεσθαι αὐτοὺς ἡμῖν, καὶ ὅλον τὸ σῶμα αὐτῶν μετάγομεν.",
+    "translation": "He aquí que ponemos frenos en la boca de los caballos para que nos obedezcan, y dirigimos así todo su cuerpo.",
+    "translation_notes": "Primera comparación de algo pequeño que gobierna algo grande: el bocado/freno (χαλινός) en la boca del caballo."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 4,
+    "greek_text": "ἰδοὺ καὶ τὰ πλοῖα, τηλικαῦτα ὄντα καὶ ὑπὸ ἀνέμων σκληρῶν ἐλαυνόμενα, μετάγεται ὑπὸ ἐλαχίστου πηδαλίου ὅπου ἡ ὁρμὴ τοῦ εὐθύνοντος βούλεται·",
+    "translation": "Miren también las naves: aunque son tan grandes y son impulsadas por recios vientos, son dirigidas por un timón muy pequeño adonde el impulso del piloto quiere.",
+    "translation_notes": "Segunda comparación: el diminuto timón (ἐλάχιστον πηδάλιον) frente a grandes barcos sacudidos por vendavales."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 5,
+    "greek_text": "οὕτως καὶ ἡ γλῶσσα μικρὸν μέλος ἐστὶν καὶ μεγάλα αὐχεῖ. Ἰδοὺ ἡλίκον πῦρ ἡλίκην ὕλην ἀνάπτει·",
+    "translation": "Así también la lengua es un miembro pequeño, y sin embargo se jacta de grandes cosas. Miren cuán grande bosque enciende un pequeño fuego.",
+    "translation_notes": "Transición de imágenes de control (freno/timón) a imagen de destrucción (una chispa incendiando un bosque entero, ὕλην)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 6,
+    "greek_text": "καὶ ἡ γλῶσσα πῦρ, ὁ κόσμος τῆς ἀδικίας ἡ γλῶσσα καθίσταται ἐν τοῖς μέλεσιν ἡμῶν, ἡ σπιλοῦσα ὅλον τὸ σῶμα καὶ φλογίζουσα τὸν τροχὸν τῆς γενέσεως καὶ φλογιζομένη ὑπὸ τῆς γεέννης.",
+    "translation": "Y la lengua es un fuego, un mundo de maldad. La lengua está puesta entre nuestros miembros, y contamina todo el cuerpo, e inflama la rueda de la existencia, y es inflamada por la gehena.",
+    "translation_notes": "Descripción densa del poder destructivo de la lengua: ὁ κόσμος τῆς ἀδικίας («un universo entero de injusticia»). Τὸν τροχὸν τῆς γενέσεως («la rueda/ciclo entero de la vida desde el nacimiento») es incendiado desde el mismo infierno (ὑπὸ τῆς γεέννης)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 7,
+    "greek_text": "πᾶσα γὰρ φύσις θηρίων τε καὶ πετεινῶν ἑρπετῶν τε καὶ ἐναλίων δαμάζεται καὶ δεδάμασται τῇ φύσει τῇ ἀνθρωπίνῃ·",
+    "translation": "Porque toda naturaleza de fieras, de aves, de reptiles y de animales marinos se doma y ha sido domada por la naturaleza humana;",
+    "translation_notes": "Contraste con el dominio creacional humano (Gn 1:26): las cuatro categorías de animales han sido domesticadas (δαμάζεται καὶ δεδάμασται)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 8,
+    "greek_text": "τὴν δὲ γλῶσσαν οὐδεὶς δαμάσαι δύναται ἀνθρώπων· ἀκατάστατον κακόν, μεστὴ ἰοῦ θανατηφόρου.",
+    "translation": "pero ningún hombre puede domar la lengua; es un mal incontrolable, llena de veneno mortal.",
+    "translation_notes": "Solo Dios puede transformar el corazón del cual brota el habla (cf. Mt 12:34; Sal 140:3): sin su gracia, la lengua es ἀκατάστατον κακόν («un mal inquieto e indomable») con veneno letal (ἰοῦ θανατηφόρου)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 9,
+    "greek_text": "ἐν αὐτῇ εὐλογοῦμεν τὸν κύριον καὶ πατέρα, καὶ ἐν αὐτῇ καταρώμεθα τοὺς ἀνθρώπους τοὺς καθ’ ὁμοίωσιν θεοῦ γεγονότας·",
+    "translation": "Con ella bendecimos al Señor y Padre, y con ella maldecimos a los hombres, que han sido hechos a la semejanza de Dios.",
+    "translation_notes": "Incoherencia moral radical: adorar a Dios y maldecir al prójimo que porta la imagen divina (καθ’ ὁμοίωσιν θεοῦ, Gn 1:26; 9:6)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 10,
+    "greek_text": "ἐκ τοῦ αὐτοῦ στόματος ἐξέρχεται εὐλογία καὶ κατάρα. οὐ χρή, ἀδελφοί μου, ταῦτα οὕτως γίνεσθαι.",
+    "translation": "De la misma boca proceden bendición y maldición. Hermanos míos, esto no debe ser así.",
+    "translation_notes": "Οὐ χρή («no conviene/no debe suceder jamás»): exhortación pastoral firme."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 11,
+    "greek_text": "μήτι ἡ πηγὴ ἐκ τῆς αὐτῆς ὀπῆς βρύει τὸ γλυκὺ καὶ τὸ πικρόν;",
+    "translation": "¿Acaso una fuente echa por la misma abertura agua dulce y amarga?",
+    "translation_notes": "Pregunta retórica tomada de la naturaleza (vv. 11–12): la fuente revela el manantial interior."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 12,
+    "greek_text": "μὴ δύναται, ἀδελφοί μου, συκῆ ἐλαίας ποιῆσαι ἢ ἄμπελος σῦκα; οὔτε ἁλυκὸν γλυκὺ ποιῆσαι ὕδωρ.",
+    "translation": "¿Acaso puede, hermanos míos, una higuera producir aceitunas, o una vid higos? Tampoco una fuente salada puede dar agua dulce.",
+    "translation_notes": "Eco directo de Jesús en el Sermón del Monte (Mt 7:16; Lc 6:44): el fruto del habla delata la raíz del corazón."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 13,
+    "greek_text": "Τίς σοφὸς καὶ ἐπιστήμων ἐν ὑμῖν; δειξάτω ἐκ τῆς καλῆς ἀναστροφῆς τὰ ἔργα αὐτοῦ ἐν πραΰτητι σοφίας.",
+    "translation": "¿Quién es sabio y entendido entre ustedes? Muestre por su buena conducta sus obras en mansedumbre de sabiduría.",
+    "translation_notes": "Definición práctica de sabiduría (vv. 13–18): no se mide por títulos ni debates brillantes, sino por buena vida (καλῆς ἀναστροφῆς) y humildad mansa (ἐν πραΰτητι σοφίας)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 14,
+    "greek_text": "εἰ δὲ ζῆλον πικρὸν ἔχετε καὶ ἐριθείαν ἐν τῇ καρδίᾳ ὑμῶν, μὴ κατακαυχᾶσθε καὶ ψεύδεσθε κατὰ τῆς ἀληθείας.",
+    "translation": "Pero si tienen envidia amarga y rivalidad egoísta en su corazón, no se jacten ni mientan contra la verdad.",
+    "translation_notes": "Ζῆλον πικρόν («celo/envidia amarga») y ἐριθείαν («ambición partidista/espíritu de facción»): quien presume de sabiduría mientras fomenta pleitos contradice la verdad."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 15,
+    "greek_text": "οὐκ ἔστιν αὕτη ἡ σοφία ἄνωθεν κατερχομένη, ἀλλὰ ἐπίγειος, ψυχική, δαιμονιώδης·",
+    "translation": "Esta no es la sabiduría que desciende de lo alto, sino que es terrenal, puramente natural y diabólica.",
+    "translation_notes": "Triple descenso moral de la falsa sabiduría: ἐπίγειος (limitada a criterios terrenales), ψυχική (meramente natural/animal sin el Espíritu, cf. Jud 19) y δαιμονιώδης (inspirada en orgullo demoníaco)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 16,
+    "greek_text": "ὅπου γὰρ ζῆλος καὶ ἐριθεία, ἐκεῖ ἀκαταστασία καὶ πᾶν φαῦλον πρᾶγμα.",
+    "translation": "Porque donde hay envidia y rivalidad egoísta, allí hay perturbación y toda obra perversa.",
+    "translation_notes": "Ἀκαταστασία («caos/desorden/inestabilidad comunitaria») y todo tipo de mal."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 17,
+    "greek_text": "ἡ δὲ ἄνωθεν σοφία πρῶτον μὲν ἁγνή ἐστιν, ἔπειτα εἰρηνική, ἐπιεικής, εὐπειθής, μεστὴ ἐλέους καὶ καρπῶν ἀγαθῶν, ἀδιάκριτος, ἀνυπόκριτος·",
+    "translation": "Pero la sabiduría que es de lo alto es primeramente pura, después pacífica, amable, dócil, llena de misericordia y de buenos frutos, imparcial y sin hipocresía.",
+    "translation_notes": "Ocho virtudes luminosas de la sabiduría celestial: ἁγνή (pura en motivos), εἰρηνική (pacificadora), ἐπιεικής (considerada/razonable), εὐπειθής (dispuesta a escuchar/persuasible), llena de misericordia y frutos buenos, ἀδιάκριτος (sin parcialidad ni doblez) y ἀνυπόκριτος (sincera)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 3,
+    "verse": 18,
+    "greek_text": "καρπὸς δὲ δικαιοσύνης ἐν εἰρήνῃ σπείρεται τοῖς ποιοῦσιν εἰρήνην.",
+    "translation": "Y el fruto de justicia se siembra en paz para aquellos que hacen la paz.",
+    "translation_notes": "Eco de la séptima bienaventuranza (Mt 5:9): solo un ambiente de paz cosecha justicia duradera."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 1,
+    "greek_text": "Πόθεν πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν; οὐκ ἐντεῦθεν, ἐκ τῶν ἡδονῶν ὑμῶν τῶν στρατευομένων ἐν τοῖς μέλεσιν ὑμῶν;",
+    "translation": "¿De dónde vienen las guerras y de dónde los pleitos entre ustedes? ¿No es precisamente de sus pasiones, las cuales combaten en sus miembros?",
+    "translation_notes": "Diagnóstico psicológico-espiritual de los conflictos comunitarios: πόλεμοι («guerras/conflictos») externos nacen de las ἡδοναί («placeres/deseos egoístas») que libran batalla militar (στρατευομένων) dentro del corazón."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 2,
+    "greek_text": "ἐπιθυμεῖτε, καὶ οὐκ ἔχετε· φονεύετε καὶ ζηλοῦτε, καὶ οὐ δύνασθε ἐπιτυχεῖν· μάχεσθε καὶ πολεμεῖτε. οὐκ ἔχετε διὰ τὸ μὴ αἰτεῖσθαι ὑμᾶς·",
+    "translation": "Codician y no tienen; matan y envidian, y no pueden alcanzar; combaten y hacen guerra. No tienen, porque no piden.",
+    "translation_notes": "El verbo φονεύετε («matan», sea literalmente en contextos de violencia social o en sentido espiritual de odio como en Mt 5:21–22; 1 Jn 3:15) muestra hasta dónde llega el deseo descontrolado sin oración."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 3,
+    "greek_text": "αἰτεῖτε καὶ οὐ λαμβάνετε, διότι κακῶς αἰτεῖσθε, ἵνα ἐν ταῖς ἡδοναῖς ὑμῶν δαπανήσητε.",
+    "translation": "Piden y no reciben, porque piden mal, para gastarlo en sus propios placeres.",
+    "translation_notes": "Κακῶς αἰτεῖσθε («piden con motivación torcida»): tratar la oración como instrumento para satisfacer placeres egoístas (δαπανήσητε, «derrochar»)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 4,
+    "greek_text": "μοιχαλίδες, οὐκ οἴδατε ὅτι ἡ φιλία τοῦ κόσμου ἔχθρα τοῦ θεοῦ ἐστιν; ὃς ἐὰν οὖν βουληθῇ φίλος εἶναι τοῦ κόσμου, ἐχθρὸς τοῦ θεοῦ καθίσταται.",
+    "translation": "¡Adúlteros! ¿No saben que la amistad del mundo es enemistad contra Dios? Por tanto, cualquiera que quiera ser amigo del mundo se constituye enemigo de Dios.",
+    "translation_notes": "Femenino profético enfático en SBLGNT: μοιχαλίδες («¡Adúlteras!», invocando la metáfora del AT de Israel como esposa infiel al pacto con Yahvé, Os 2; Jer 3). La «amistad con el mundo» significa complicidad moral con el sistema rebelde contra Dios."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 5,
+    "greek_text": "ἢ δοκεῖτε ὅτι κενῶς ἡ γραφὴ λέγει· Πρὸς φθόνον ἐπιποθεῖ τὸ πνεῦμα ὃ κατῴκισεν ἐν ἡμῖν;",
+    "translation": "¿O piensan que la Escritura dice en vano: «El Espíritu que él hizo habitar en nosotros nos anhela con celo»?",
+    "translation_notes": "Versículo complejo en sintaxis griega (Πρὸς φθόνον ἐπιποθεῖ τὸ πνεῦμα ὃ κατῴκισεν ἐν ἡμῖν): resume el tema veterotestamentario del celo santo de Dios por su pueblo (Éx 20:5; Zac 8:2): el Espíritu que Dios puso a morar en nosotros anhela con celo ardiente nuestra lealtad exclusiva."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 6,
+    "greek_text": "μείζονα δὲ δίδωσιν χάριν· διὸ λέγει· Ὁ θεὸς ὑπερηφάνοις ἀντιτάσσεται ταπεινοῖς δὲ δίδωσιν χάριν.",
+    "translation": "Pero él da mayor gracia. Por eso dice: «Dios resiste a los soberbios, pero da gracia a los humildes».",
+    "translation_notes": "Cita textual de Proverbios 3:34 LXX (cf. 1 P 5:5): ante la exigencia de fidelidad, Dios provee «mayor gracia» (μείζονα χάριν) a quien se humilla, mientras se opone en formación de batalla (ἀντιτάσσεται) al arrogante."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 7,
+    "greek_text": "ὑποτάγητε οὖν τῷ θεῷ· ἀντίστητε δὲ τῷ διαβόλῳ, καὶ φεύξεται ἀφ’ ὑμῶν·",
+    "translation": "Sométanse, pues, a Dios; resistan al diablo, y huirá de ustedes.",
+    "translation_notes": "Doble imperativo de arrepentimiento: primero rendición humilde ante Dios (ὑποτάγητε τῷ θεῷ), y desde esa posición resistir firmemente (ἀντίστητε) al acusador."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 8,
+    "greek_text": "ἐγγίσατε τῷ θεῷ, καὶ ἐγγιεῖ ὑμῖν. καθαρίσατε χεῖρας, ἁμαρτωλοί, καὶ ἁγνίσατε καρδίας, δίψυχοι.",
+    "translation": "Acérquense a Dios, y él se acercará a ustedes. Limpien sus manos, pecadores, y purifiquen sus corazones, ustedes de doble ánimo.",
+    "translation_notes": "Eco litúrgico del Salmo 24:4 («limpio de manos y puro de corazón»): limpieza de acciones externas («manos») y de intenciones divididas («corazones», δίψυχοι)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 9,
+    "greek_text": "ταλαιπωρήσατε καὶ πενθήσατε καὶ κλαύσατε· ὁ γέλως ὑμῶν εἰς πένθος μετατραπήτω καὶ ἡ χαρὰ εἰς κατήφειαν·",
+    "translation": "Aflíjanse, laméntense y lloren; su risa se convierta en llanto, y su gozo en tristeza.",
+    "translation_notes": "Llamado al quebrantamiento sincero del arrepentimiento frente a la frivolidad mundana (κατήφειαν, «abatimiento humilde con rostro inclinado»)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 10,
+    "greek_text": "ταπεινώθητε ἐνώπιον κυρίου, καὶ ὑψώσει ὑμᾶς.",
+    "translation": "Humíllense delante del Señor, y él los exaltará.",
+    "translation_notes": "Eco de las palabras de Jesús (Mt 23:12; Lc 14:11; 18:14): la verdadera exaltación viene únicamente de la mano del Señor."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 11,
+    "greek_text": "Μὴ καταλαλεῖτε ἀλλήλων, ἀδελφοί· ὁ καταλαλῶν ἀδελφοῦ ἢ κρίνων τὸν ἀδελφὸν αὐτοῦ καταλαλεῖ νόμου καὶ κρίνει νόμον· εἰ δὲ νόμον κρίνεις, οὐκ εἶ ποιητὴς νόμου ἀλλὰ κριτής.",
+    "translation": "Hermanos, no hablen mal unos de otros. El que habla mal de un hermano o juzga a su hermano, habla mal de la ley y juzga a la ley; y si juzgas a la ley, no eres hacedor de la ley, sino juez.",
+    "translation_notes": "Μὴ καταλαλεῖτε («no difamen/murmuren a espaldas»): quien condena con arrogancia al hermano se coloca por encima de la ley real del amor (2:8) pretendiendo ocupar el estrado de juez."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 12,
+    "greek_text": "εἷς ἐστιν νομοθέτης καὶ κριτής, ὁ δυνάμενος σῶσαι καὶ ἀπολέσαι· σὺ δὲ τίς εἶ, ὁ κρίνων τὸν πλησίον;",
+    "translation": "Uno solo es el dador de la ley y el juez, el que puede salvar y destruir; pero tú, ¿quién eres para que juzgues a tu prójimo?",
+    "translation_notes": "Solo Dios es νομοθέτης καὶ κριτής («Legislador y Juez soberano»); juzgar arrogantemente al prójimo usurpa una prerrogativa divina (cf. Ro 14:4)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 13,
+    "greek_text": "Ἄγε νῦν οἱ λέγοντες· Σήμερον ἢ αὔριον πορευσόμεθα εἰς τήνδε τὴν πόλιν καὶ ποιήσομεν ἐκεῖ ἐνιαυτὸν καὶ ἐμπορευσόμεθα καὶ κερδήσομεν·",
+    "translation": "¡Vamos ahora! los que dicen: «Hoy o mañana iremos a tal ciudad, y pasaremos allá un año, y haremos negocios y ganaremos»,",
+    "translation_notes": "Reprensión a la autosuficiencia comercial (vv. 13–17): los mercaderes judíos y cristianos planeaban rutas anuales dando por sentado el futuro sin contar con Dios."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 14,
+    "greek_text": "οἵτινες οὐκ ἐπίστασθε τὸ τῆς αὔριον ποία ἡ ζωὴ ὑμῶν· ἀτμὶς γάρ ἐστε ἡ πρὸς ὀλίγον φαινομένη, ἔπειτα καὶ ἀφανιζομένη·",
+    "translation": "cuando no saben lo que será mañana. Porque ¿qué es su vida? Ciertamente es neblina que aparece por un poco de tiempo, y luego se desvanece.",
+    "translation_notes": "Metáfora poética de fragilidad: ἀτμίς (atmis, «vapor/niebla matinal» que se disipa en minutos con el sol, cf. Job 7:7; Sal 39:5)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 15,
+    "greek_text": "ἀντὶ τοῦ λέγειν ὑμᾶς· Ἐὰν ὁ κύριος θελήσῃ, καὶ ζήσομεν καὶ ποιήσομεν τοῦτο ἢ ἐκεῖνο.",
+    "translation": "En lugar de eso deberían decir: «Si el Señor quiere, viviremos y haremos esto o aquello».",
+    "translation_notes": "Actitud de humildad teocéntrica (Ἐὰν ὁ κύριος θελήσῃ, latín *Deo volente*): no como fórmula mecánica vacía, sino reconocimiento real de que cada respiro y proyecto depende del Señor."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 16,
+    "greek_text": "νῦν δὲ καυχᾶσθε ἐν ταῖς ἀλαζονείαις ὑμῶν· πᾶσα καύχησις τοιαύτη πονηρά ἐστιν.",
+    "translation": "Pero ahora se jactan en sus arrogancias; toda jactancia semejante es mala.",
+    "translation_notes": "Ἀλαζονείαις («fanfarronerías presuntuosas» sobre un futuro que nadie controla)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 4,
+    "verse": 17,
+    "greek_text": "εἰδότι οὖν καλὸν ποιεῖν καὶ μὴ ποιοῦντι, ἁμαρτία αὐτῷ ἐστιν.",
+    "translation": "Y al que sabe hacer lo bueno y no lo hace, le es pecado.",
+    "translation_notes": "Definición clásica del pecado de omisión: la responsabilidad moral no solo prohíbe hacer el mal, sino que exige practicar el bien conocido."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 1,
+    "greek_text": "Ἄγε νῦν οἱ πλούσιοι, κλαύσατε ὀλολύζοντες ἐπὶ ταῖς ταλαιπωρίαις ὑμῶν ταῖς ἐπερχομέναις.",
+    "translation": "¡Vamos ahora, ricos! Lloren y den alaridos por las miserias que vienen sobre ustedes.",
+    "translation_notes": "Apóstrofe profético al estilo de Amós e Isaías contra terratenientes opresores (vv. 1–6): ὀλολύζοντες («aullando con gemidos», verbo onomatopéyico del juicio inminente, cf. Is 13:6 LXX)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 2,
+    "greek_text": "ὁ πλοῦτος ὑμῶν σέσηπεν, καὶ τὰ ἱμάτια ὑμῶν σητόβρωτα γέγονεν,",
+    "translation": "Sus riquezas están podridas, y sus ropas están comidas de polilla.",
+    "translation_notes": "Los bienes acumulados con avaricia (grano almacenado, σέσηπεν «se ha pudrido», y vestiduras lujosas apolilladas, σητόβρωτα) pierden su valor (cf. Mt 6:19)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 3,
+    "greek_text": "ὁ χρυσὸς ὑμῶν καὶ ὁ ἄργυρος κατίωται, καὶ ὁ ἰὸς αὐτῶν εἰς μαρτύριον ὑμῖν ἔσται καὶ φάγεται τὰς σάρκας ὑμῶν· ὡς πῦρ ἐθησαυρίσατε ἐν ἐσχάταις ἡμέραις.",
+    "translation": "Su oro y su plata están oxidados, y su herrumbre servirá de testimonio contra ustedes y devorará sus carnes como fuego. Han acumulado tesoros para los últimos días.",
+    "translation_notes": "Paradoja aguda: aunque el oro puro no se oxida químicamente, ὁ ἰός («el orín/herrumbre» metafórico de la riqueza acaparada) testificará contra ellos en el juicio final."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 4,
+    "greek_text": "ἰδοὺ ὁ μισθὸς τῶν ἐργατῶν τῶν ἀμησάντων τὰς χώρας ὑμῶν ὁ ἀφυστερημένος ἀφ’ ὑμῶν κράζει, καὶ αἱ βοαὶ τῶν θερισάντων εἰς τὰ ὦτα Κυρίου Σαβαὼθ εἰσεληλύθασιν·",
+    "translation": "He aquí, el jornal de los obreros que segaron sus campos, el cual ha sido retenido por fraude por ustedes, clama; y los clamores de los segadores han llegado a los oídos del Señor de los ejércitos.",
+    "translation_notes": "Eco de Dt 24:14–15 y Lv 19:13: retener el salario diario del jornalero es crimen que clama al cielo como la sangre de Abel (Gn 4:10). Usa el título hebreo transliterado Κυρίου Σαβαώθ («Señor Sabaoth / Señor de los ejércitos celestiales»), defensor de los oprimidos."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 5,
+    "greek_text": "ἐτρυφήσατε ἐπὶ τῆς γῆς καὶ ἐσπαταλήσατε, ἐθρέψατε τὰς καρδίας ὑμῶν ἐν ἡμέρᾳ σφαγῆς.",
+    "translation": "Han vivido en lujos sobre la tierra y se han entregado a los placeres; han engordado sus corazones como en día de matanza.",
+    "translation_notes": "Imagen dura de Jer 12:3: mientras oprimían a los jornaleros, se cebaban despreocupados como ganado engordado para el día del sacrificio (ἐν ἡμέρᾳ σφαγῆς)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 6,
+    "greek_text": "κατεδικάσατε, ἐφονεύσατε τὸν δίκαιον. οὐκ ἀντιτάσσεται ὑμῖν;",
+    "translation": "Han condenado y dado muerte al justo; él no les ofrece resistencia.",
+    "translation_notes": "«El justo» (τὸν δίκαιον): puede aludir colectivamente a los creyentes inocentes oprimidos en tribunales (2:6) y recuerda paradigmáticamente a Cristo el Justo (Hch 3:14; 7:52; 1 P 2:23)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 7,
+    "greek_text": "Μακροθυμήσατε οὖν, ἀδελφοί, ἕως τῆς παρουσίας τοῦ κυρίου. ἰδοὺ ὁ γεωργὸς ἐκδέχεται τὸν τίμιον καρπὸν τῆς γῆς, μακροθυμῶν ἐπ’ αὐτῷ ἕως λάβῃ πρόϊμον καὶ ὄψιμον.",
+    "translation": "Por tanto, hermanos, tengan paciencia hasta la venida del Señor. Miren cómo el labrador espera el precioso fruto de la tierra, aguardándolo con paciencia hasta que reciba la lluvia temprana y la tardía.",
+    "translation_notes": "Consuelo escatológico a los oprimidos (vv. 7–11): μακροθυμήσατε («tengan paciencia larga y serena») hasta la parusía (παρουσίας). En Palestina, el agricultor dependía de dos lluvias: temprana (octubre–noviembre, al sembrar) y tardía (marzo–abril, antes de la cosecha)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 8,
+    "greek_text": "μακροθυμήσατε καὶ ὑμεῖς, στηρίξατε τὰς καρδίας ὑμῶν, ὅτι ἡ παρουσία τοῦ κυρίου ἤγγικεν.",
+    "translation": "Tengan también ustedes paciencia, y afirmen sus corazones, porque la venida del Señor está cerca.",
+    "translation_notes": "La cercanía segura del regreso de Cristo (ἤγγικεν) fortalece el corazón (στηρίξατε) para no responder con venganza."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 9,
+    "greek_text": "μὴ στενάζετε, ἀδελφοί, κατ’ ἀλλήλων, ἵνα μὴ κριθῆτε· ἰδοὺ ὁ κριτὴς πρὸ τῶν θυρῶν ἕστηκεν.",
+    "translation": "Hermanos, no se quejen unos contra otros, para que no sean juzgados; he aquí que el juez está delante de las puertas.",
+    "translation_notes": "Μὴ στενάζετε («no giman/murmuren con amargura» unos contra otros bajo la presión de las pruebas): el Juez justo ya está en el umbral."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 10,
+    "greek_text": "ὑπόδειγμα λάβετε, ἀδελφοί, τῆς κακοπαθίας καὶ τῆς μακροθυμίας τοὺς προφήτας, οἳ ἐλάλησαν ἐν τῷ ὀνόματι κυρίου.",
+    "translation": "Hermanos míos, tomen como ejemplo de sufrimiento y de paciencia a los profetas que hablaron en el nombre del Señor.",
+    "translation_notes": "Eco de Mt 5:12: los profetas antiguos sufrieron rechazo precisamente por hablar fielmente en nombre de Dios."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 11,
+    "greek_text": "ἰδοὺ μακαρίζομεν τοὺς ὑπομείναντας· τὴν ὑπομονὴν Ἰὼβ ἠκούσατε, καὶ τὸ τέλος κυρίου εἴδετε, ὅτι πολύσπλαγχνός ἐστιν ὁ κύριος καὶ οἰκτίρμων.",
+    "translation": "He aquí, tenemos por bienaventurados a los que perseveraron. Han oído de la paciencia de Job, y han visto el fin que le dio el Señor, porque el Señor es muy compasivo y misericordioso.",
+    "translation_notes": "Ejemplo clásico de Job: destaca su perseverancia fiel (ὑπομονήν) en medio del sufrimiento y τὸ τέλος κυρίου («el propósito/desenlace final que el Señor obró»), revelando dos atributos tiernos de Dios: πολύσπλαγχνος («de entrañas sumamente compasivas») y οἰκτίρμων («misericordioso»)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 12,
+    "greek_text": "Πρὸ πάντων δέ, ἀδελφοί μου, μὴ ὀμνύετε, μήτε τὸν οὐρανὸν μήτε τὴν γῆν μήτε ἄλλον τινὰ ὅρκον· ἤτω δὲ ὑμῶν τὸ Ναὶ ναὶ καὶ τὸ Οὒ οὔ, ἵνα μὴ ὑπὸ κρίσιν πέσητε.",
+    "translation": "Pero sobre todo, hermanos míos, no juren ni por el cielo, ni por la tierra, ni por ningún otro juramento; sino que su «sí» sea sí, y su «no» sea no, para que no caigan bajo juicio.",
+    "translation_notes": "Eco directo de Jesús en el Sermón del Monte (Mt 5:34–37): la integridad veraz del creyente hace innecesarios los juramentos evasivos."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 13,
+    "greek_text": "Κακοπαθεῖ τις ἐν ὑμῖν; προσευχέσθω· εὐθυμεῖ τις; ψαλλέτω.",
+    "translation": "¿Está alguno entre ustedes afligido? Haga oración. ¿Está alguno alegre? Cante alabanzas.",
+    "translation_notes": "Toda emoción humana —dolor (κακοπαθεῖ) o alegría (εὐθυμεῖ)— encuentra su cauce sano delante de Dios mediante oración y canto (ψαλλέτω)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 14,
+    "greek_text": "ἀσθενεῖ τις ἐν ὑμῖν; προσκαλεσάσθω τοὺς πρεσβυτέρους τῆς ἐκκλησίας, καὶ προσευξάσθωσαν ἐπ’ αὐτὸν ἀλείψαντες αὐτὸν ἐλαίῳ ἐν τῷ ὀνόματι τοῦ κυρίου·",
+    "translation": "¿Está alguno enfermo entre ustedes? Llame a los ancianos de la iglesia, y oren por él, ungiéndolo con aceite en el nombre del Señor.",
+    "translation_notes": "Práctica pastoral de sanidad y consuelo: los ancianos (τοὺς πρεσβυτέρους) oran sobre el enfermo postrado, ungiéndolo con aceite (ἀλείψαντες ἐλαίῳ, gesto simbólico de consagración y alivio medicinal, cf. Mc 6:13; Lc 10:34) bajo la autoridad de Cristo."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 15,
+    "greek_text": "καὶ ἡ εὐχὴ τῆς πίστεως σώσει τὸν κάμνοντα, καὶ ἐγερεῖ αὐτὸν ὁ κύριος· κἂν ἁμαρτίας ᾖ πεποιηκώς, ἀφεθήσεται αὐτῷ.",
+    "translation": "Y la oración de fe salvará al enfermo, y el Señor lo levantará; y si hubiera cometido pecados, le serán perdonados.",
+    "translation_notes": "La oración confiada (ἡ εὐχὴ τῆς πίστεως) trae sanidad/restauración física y espiritual («lo levantará el Señor», ἐγερεῖ), con perdón de pecados si la enfermedad estuviera ligada a falta moral (cf. 1 Co 11:30)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 16,
+    "greek_text": "ἐξομολογεῖσθε οὖν ἀλλήλοις τὰς ἁμαρτίας καὶ εὔχεσθε ὑπὲρ ἀλλήλων, ὅπως ἰαθῆτε. πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη.",
+    "translation": "Por tanto, confiesen sus pecados unos a otros, y oren unos por otros, para que sean sanados. La oración eficaz del justo puede mucho.",
+    "translation_notes": "Confesión mutua transparente (ἀλλήλοις) para restauración comunitaria y espiritual. Πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη («tiene gran fuerza/poder la súplica ferviente del justo en acción»)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 17,
+    "greek_text": "Ἠλίας ἄνθρωπος ἦν ὁμοιοπαθὴς ἡμῖν, καὶ προσευχῇ προσηύξατο τοῦ μὴ βρέξαι, καὶ οὐκ ἔβρεξεν ἐπὶ τῆς γῆς ἐνιαυτοὺς τρεῖς καὶ μῆνας ἕξ·",
+    "translation": "Elías era hombre sujeto a pasiones semejantes a las nuestras, y oró fervientemente para que no lloviera, y no llovió sobre la tierra por tres años y seis meses.",
+    "translation_notes": "Ὁμοιοπαθὴς ἡμῖν («de la misma naturaleza humana frágil que nosotros», cf. Hch 14:15): Elías (1 R 17–18) no era un semidiós sino un mortal que oró con fe (hebraísmo προσευχῇ προσηύξατο, «oró con oración» = fervientemente)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 18,
+    "greek_text": "καὶ πάλιν προσηύξατο, καὶ ὁ οὐρανὸς ὑετὸν ἔδωκεν καὶ ἡ γῆ ἐβλάστησεν τὸν καρπὸν αὐτῆς.",
+    "translation": "Y otra vez oró, y el cielo dio lluvia, y la tierra produjo su fruto.",
+    "translation_notes": "Alude a la oración humilde e insistente de Elías en el monte Carmelo (1 R 18:42–45)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 19,
+    "greek_text": "Ἀδελφοί μου, ἐάν τις ἐν ὑμῖν πλανηθῇ ἀπὸ τῆς ἀληθείας καὶ ἐπιστρέψῃ τις αὐτόν,",
+    "translation": "Hermanos míos, si alguno entre ustedes se ha extraviado de la verdad, y alguno lo hace volver,",
+    "translation_notes": "Cierre pastoral sin despedida formal (como 1 Juan): enfoca la responsabilidad fraterna de buscar y restaurar al hermano que se desvía (πλανηθῇ)."
+  },
+  {
+    "book": "JAS",
+    "chapter": 5,
+    "verse": 20,
+    "greek_text": "γινωσκέτω ὅτι ὁ ἐπιστρέψας ἁμαρτωλὸν ἐκ πλάνης ὁδοῦ αὐτοῦ σώσει ψυχὴν αὐτοῦ ἐκ θανάτου καὶ καλύψει πλῆθος ἁμαρτιῶν.",
+    "translation": "sepa que el que hace volver al pecador del error de su camino salvará su alma de muerte y cubrirá multitud de pecados.",
+    "translation_notes": "Eco de Pr 10:12 (cf. 1 P 4:8): restaurar al extraviado lo libra de la muerte espiritual y cubre multitud de pecados mediante el perdón restaurador de Dios."
+  }
+]

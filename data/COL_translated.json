@@ -1,0 +1,762 @@
+[
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 1,
+    "greek_text": "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ καὶ Τιμόθεος ὁ ἀδελφὸς",
+    "translation": "Pablo, apóstol de Cristo Jesús por la voluntad de Dios, y el hermano Timoteo,",
+    "translation_notes": "Prescripto apostólico: Pablo invoca su autoridad como ἀπόστολος Χριστοῦ Ἰησοῦ («enviado comisionado de Cristo Jesús») no por ambición humana sino διὰ θελήματος θεοῦ («por la voluntad de Dios»), asociando a Timoteo como «el hermano» (ὁ ἀδελφός)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 2,
+    "greek_text": "τοῖς ἐν Κολοσσαῖς ἁγίοις καὶ πιστοῖς ἀδελφοῖς ἐν Χριστῷ· χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν.",
+    "translation": "a los santos y fieles hermanos en Cristo que están en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre.",
+    "translation_notes": "Colosas (Κολοσσαί) era una ciudad del valle del Lico en Frigia (actual Turquía). Los destinatarios son ἁγίοις («consagrados/santos») y πιστοῖς («fieles/creyentes»). El saludo combina χάρις (gracia) y εἰρήνη (paz/shālôm)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 3,
+    "greek_text": "Εὐχαριστοῦμεν τῷ θεῷ πατρὶ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ πάντοτε περὶ ὑμῶν προσευχόμενοι,",
+    "translation": "Damos gracias a Dios, Padre de nuestro Señor Jesucristo, orando siempre por ustedes,",
+    "translation_notes": "Acción de gracias plural (Εὐχαριστοῦμεν, incluyendo a Timoteo). La oración constante (πάντοτε... προσευχόμενοι) brota de noticias recibidas sobre una iglesia que Pablo aún no había visitado personalmente (cf. 2:1)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 4,
+    "greek_text": "ἀκούσαντες τὴν πίστιν ὑμῶν ἐν Χριστῷ Ἰησοῦ καὶ τὴν ἀγάπην ἣν ἔχετε εἰς πάντας τοὺς ἁγίους",
+    "translation": "al haber oído de su fe en Cristo Jesús y del amor que tienen hacia todos los santos,",
+    "translation_notes": "Tríada paulina (vv. 4–5): fe en Cristo (πίστις), amor hacia todos los creyentes (ἀγάπη) y esperanza guardada en los cielos (ἐλπίς). El amor cristiano no es selectivo, sino εἰς πάντας τοὺς ἁγίους («hacia todos los santos»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 5,
+    "greek_text": "διὰ τὴν ἐλπίδα τὴν ἀποκειμένην ὑμῖν ἐν τοῖς οὐρανοῖς, ἣν προηκούσατε ἐν τῷ λόγῳ τῆς ἀληθείας τοῦ εὐαγγελίου",
+    "translation": "a causa de la esperanza reservada para ustedes en los cielos, de la cual oyeron antes en la palabra verdadera del evangelio",
+    "translation_notes": "El participio τὴν ἀποκειμένην (tēn apokeimenēn, «la que está depositada/guardada con seguridad») indica una herencia escatológica intacta en los cielos que motiva la fe y el amor presentes. Fue anunciada ἐν τῷ λόγῳ τῆς ἀληθείας («en el mensaje verdadero del evangelio»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 6,
+    "greek_text": "τοῦ παρόντος εἰς ὑμᾶς, καθὼς καὶ ἐν παντὶ τῷ κόσμῳ ἐστὶν καρποφορούμενον καὶ αὐξανόμενον καθὼς καὶ ἐν ὑμῖν, ἀφ’ ἧς ἡμέρας ἠκούσατε καὶ ἐπέγνωτε τὴν χάριν τοῦ θεοῦ ἐν ἀληθείᾳ·",
+    "translation": "que ha llegado hasta ustedes; así como también está dando fruto y creciendo en todo el mundo, tal como sucede entre ustedes desde el día en que oyeron y conocieron verdaderamente la gracia de Dios,",
+    "translation_notes": "Fecundidad universal del evangelio: los participios presentes καρποφορούμενον («dando fruto») y αὐξανόμενον («creciendo en expansión») evocan la bendición creacional de Gn 1:28 aplicada ahora a la nueva creación en Cristo. Subraya que el mensaje recibido por ellos es auténtica gracia divina (ἐν ἀληθείᾳ)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 7,
+    "greek_text": "καθὼς ἐμάθετε ἀπὸ Ἐπαφρᾶ τοῦ ἀγαπητοῦ συνδούλου ἡμῶν, ὅς ἐστιν πιστὸς ὑπὲρ ἡμῶν διάκονος τοῦ Χριστοῦ,",
+    "translation": "tal como lo aprendieron de Epafras, nuestro querido consiervo, quien es un fiel ministro de Cristo a favor de ustedes,",
+    "translation_notes": "Aval apostólico para el fundador local: Ἐπαφρᾶς (abreviatura de Epafrodito, nativo de Colosas, 4:12) es llamado σύνδουλος («compañero de servicio/esclavo») y πιστὸς διάκονος («fiel servidor/ministro») de Cristo, confirmando que el evangelio que predicó es íntegro."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 8,
+    "greek_text": "ὁ καὶ δηλώσας ἡμῖν τὴν ὑμῶν ἀγάπην ἐν πνεύματι.",
+    "translation": "quien también nos dio a conocer el amor de ustedes en el Espíritu.",
+    "translation_notes": "El amor comunitario de los colosenses es calificado como ἀγάπην ἐν πνεύματι («amor suscitado por el Espíritu Santo»), fruto auténtico de su regeneración."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 9,
+    "greek_text": "Διὰ τοῦτο καὶ ἡμεῖς, ἀφ’ ἧς ἡμέρας ἠκούσαμεν, οὐ παυόμεθα ὑπὲρ ὑμῶν προσευχόμενοι καὶ αἰτούμενοι ἵνα πληρωθῆτε τὴν ἐπίγνωσιν τοῦ θελήματος αὐτοῦ ἐν πάσῃ σοφίᾳ καὶ συνέσει πνευματικῇ,",
+    "translation": "Por esto también nosotros, desde el día en que lo oímos, no cesamos de orar por ustedes y pedir que sean llenos del conocimiento pleno de su voluntad en toda sabiduría y entendimiento espiritual,",
+    "translation_notes": "Oración por madurez ante las enseñanzas falsas: ἐπίγνωσις (epignōsis, «conocimiento profundo y relacional») contrasta con la supuesta «sabiduría» elitista que amenazaba a Colosas. Συνέσει πνευματικῇ («discernimiento/comprensión espiritual») alude a la capacidad dada por el Espíritu para aplicar la verdad."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 10,
+    "greek_text": "περιπατῆσαι ἀξίως τοῦ κυρίου εἰς πᾶσαν ἀρεσκείαν ἐν παντὶ ἔργῳ ἀγαθῷ καρποφοροῦντες καὶ αὐξανόμενοι τῇ ἐπιγνώσει τοῦ θεοῦ,",
+    "translation": "para que anden como es digno del Señor, agradándole en todo, dando fruto en toda buena obra y creciendo en el conocimiento pleno de Dios,",
+    "translation_notes": "Propósito práctico del conocimiento: el infinitivo περιπατῆσαι ἀξίως τοῦ κυρίου («caminar/vivir de manera digna del Señor») busca la plena ἀρεσκεία («agrado» a Dios), reflejada en cuatro participios: dando fruto, creciendo en conocer a Dios, siendo fortalecidos (v. 11) y dando gracias (v. 12)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 11,
+    "greek_text": "ἐν πάσῃ δυνάμει δυναμούμενοι κατὰ τὸ κράτος τῆς δόξης αὐτοῦ εἰς πᾶσαν ὑπομονὴν καὶ μακροθυμίαν μετὰ χαρᾶς,",
+    "translation": "fortalecidos con todo poder según la potencia de su gloria, para toda perseverancia y paciencia con alegría,",
+    "translation_notes": "Doble sinónimo de fortaleza: ἐν πάσῃ δυνάμει δυναμούμενοι («capacitados con toda fuerza») conforme al κράτος τῆς δόξης («poder glorioso y soberano» de Dios). Se distinguen ὑπομονή (perseverancia firme ante las pruebas) y μακροθυμία (paciencia magnánima hacia las personas), vividas μετὰ χαρᾶς («con gozo»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 12,
+    "greek_text": "εὐχαριστοῦντες τῷ πατρὶ τῷ ἱκανώσαντι ὑμᾶς εἰς τὴν μερίδα τοῦ κλήρου τῶν ἁγίων ἐν τῷ φωτί,",
+    "translation": "dando gracias al Padre, quien los capacitó para participar de la herencia de los santos en la luz;",
+    "translation_notes": "Lenguaje de éxodo e herencia: ἱκανώσαντι (hikanōsanti, «habilitó/hizo aptos») muestra que la entrada al pueblo de Dios es obra exclusiva del Padre. Εἰς τὴν μερίδα τοῦ κλήρου («para la porción de la herencia asignada por suerte») evoca la repartición de la tierra prometida (Jos 13–19; Hch 26:18) ahora en el reino de la luz."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 13,
+    "greek_text": "ὃς ἐρρύσατο ἡμᾶς ἐκ τῆς ἐξουσίας τοῦ σκότους καὶ μετέστησεν εἰς τὴν βασιλείαν τοῦ υἱοῦ τῆς ἀγάπης αὐτοῦ,",
+    "translation": "él nos libró del dominio de las tinieblas y nos trasladó al reino del Hijo de su amor,",
+    "translation_notes": "Rescate y traslado de soberanía: ἐρρύσατο («arrancó/rescató del peligro») de la ἐξουσία τοῦ σκότους («autoridad/potestad de las tinieblas») y μετέστησεν («trasladó/reubicó», verbo usado en la antigüedad para deportar o reasentar poblaciones bajo un nuevo rey) al reino de «su Hijo amado» (hebraísmo genitivo: τοῦ υἱοῦ τῆς ἀγάπης αὐτοῦ)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 14,
+    "greek_text": "ἐν ᾧ ἔχομεν τὴν ἀπολύτρωσιν, τὴν ἄφεσιν τῶν ἁμαρτιῶν·",
+    "translation": "en quien tenemos la redención, el perdón de los pecados.",
+    "translation_notes": "Ἀπολύτρωσις (apolytrōsis, «redención/liberación mediante pago de rescate») explicada inmediatamente por ἄφεσις τῶν ἁμαρτιῶν («perdón/remisión de los pecados»). Prepara el gran himno cristológico de los vv. 15–20."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 15,
+    "greek_text": "ὅς ἐστιν εἰκὼν τοῦ θεοῦ τοῦ ἀοράτου, πρωτότοκος πάσης κτίσεως,",
+    "translation": "Él es la imagen del Dios invisible, el primogénito de toda la creación,",
+    "translation_notes": "Inicio del himno cristológico supremo (vv. 15–20). Εἰκὼν τοῦ θεοῦ τοῦ ἀοράτου («imagen visible y exacta del Dios invisible»): en Cristo se revela plenamente la naturaleza divina. Πρωτότοκος πάσης κτίσεως («primogénito sobre toda la creación») no significa «el primer ser creado» (que en griego sería πρωτόκτιστος), sino rango de supremacía, preeminencia y derecho de heredero sobre todo lo creado (cf. Sal 89:27 LXX), como demuestra el v. 16."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 16,
+    "greek_text": "ὅτι ἐν αὐτῷ ἐκτίσθη τὰ πάντα ἐν τοῖς οὐρανοῖς καὶ ἐπὶ τῆς γῆς, τὰ ὁρατὰ καὶ τὰ ἀόρατα, εἴτε θρόνοι εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι· τὰ πάντα δι’ αὐτοῦ καὶ εἰς αὐτὸν ἔκτισται·",
+    "translation": "porque en él fueron creadas todas las cosas en los cielos y sobre la tierra, las visibles y las invisibles, sean tronos, sean dominios, sean principados o autoridades; todo fue creado por medio de él y para él.",
+    "translation_notes": "Soberanía absoluta sobre el universo y los seres angélicos: Pablo usa tres preposiciones respecto a Cristo y toda la creación (τὰ πάντα): ἐν αὐτῷ («en él», esfera), δι’ αὐτοῦ («por medio de él», agente mediador) y εἰς αὐτόν («hacia/para él», meta final). Los «tronos, dominios, principados y autoridades» refutan cualquier culto a ángeles o poderes cósmicos en Colosas."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 17,
+    "greek_text": "καὶ αὐτός ἐστιν πρὸ πάντων καὶ τὰ πάντα ἐν αὐτῷ συνέστηκεν,",
+    "translation": "Y él existe antes de todas las cosas, y todas las cosas en él subsisten unidas.",
+    "translation_notes": "Preexistencia y cohesión cósmica: αὐτός ἐστιν πρὸ πάντων («él es —presente atemporal— antes de todo»). El perfecto συνέστηκεν (synestēken, de συνίστημι) expresa que Cristo es el principio cohesivo que mantiene el orden y la existencia continua del universo."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 18,
+    "greek_text": "καὶ αὐτός ἐστιν ἡ κεφαλὴ τοῦ σώματος τῆς ἐκκλησίας· ὅς ἐστιν ἀρχή, πρωτότοκος ἐκ τῶν νεκρῶν, ἵνα γένηται ἐν πᾶσιν αὐτὸς πρωτεύων,",
+    "translation": "Además, él es la cabeza del cuerpo, que es la iglesia; él es el principio, el primogénito de entre los muertos, para que en todo llegue a tener el primer lugar.",
+    "translation_notes": "Segunda estrofa del himno (la nueva creación/redención): Cristo es ἡ κεφαλή («la cabeza» rectora y fuente vital) del cuerpo eclesial, ἀρχή («principio/origen» de la nueva humanidad resucitada) y πρωτότοκος ἐκ τῶν νεκρῶν («primogénito de entre los muertos», primero en resucitar para no morir jamás), a fin de ser ἐν πᾶσιν πρωτεύων («preeminente/supremo en absolutamente todo»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 19,
+    "greek_text": "ὅτι ἐν αὐτῷ εὐδόκησεν πᾶν τὸ πλήρωμα κατοικῆσαι",
+    "translation": "Porque agradó al Padre que en él habitara toda la plenitud,",
+    "translation_notes": "El verbo εὐδόκησεν («se complació/determinó con agrado») tiene como sujeto implícito a Dios Padre (cf. 2:9). Πᾶν τὸ πλήρωμα (pan to plērōma, «toda la plenitud» de la deidad) habita (κατοικῆσαι, morada permanente) plenamente en Cristo, no fragmentada entre intermediarios cósmicos."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 20,
+    "greek_text": "καὶ δι’ αὐτοῦ ἀποκαταλλάξαι τὰ πάντα εἰς αὐτόν, εἰρηνοποιήσας διὰ τοῦ αἵματος τοῦ σταυροῦ αὐτοῦ, [δι’ αὐτοῦ] εἴτε τὰ ἐπὶ τῆς γῆς εἴτε τὰ ἐν τοῖς οὐρανοῖς·",
+    "translation": "y por medio de él reconciliar consigo todas las cosas, haciendo la paz mediante la sangre de su cruz, tanto las que están sobre la tierra como las que están en los cielos.",
+    "translation_notes": "Reconciliación cósmica en la cruz: ἀποκαταλλάξαι (apokatallaxai, verbo compuesto enfático: «reconciliar plenamente/restaurar de raíz») mediante un hecho histórico concreto: «la sangre de su cruz» (διὰ τοῦ αἵματος τοῦ σταυροῦ αὐτοῦ). Abarca la tierra y los cielos, pacificando la rebelión espiritual bajo el señorío de Cristo."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 21,
+    "greek_text": "καὶ ὑμᾶς ποτε ὄντας ἀπηλλοτριωμένους καὶ ἐχθροὺς τῇ διανοίᾳ ἐν τοῖς ἔργοις τοῖς πονηροῖς—",
+    "translation": "Y a ustedes, que en otro tiempo estaban alejados y eran enemigos en su mente a causa de las malas obras,",
+    "translation_notes": "Aplicación personal del himno: ἀπηλλοτριωμένους (apēllotriōmenous, perfecto pasivo: «extrañados/alienados» de la vida de Dios) y ἐχθροὺς τῇ διανοίᾳ («hostiles en el pensamiento/actitud mental»), manifestado en prácticas perversas."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 22,
+    "greek_text": "νυνὶ δὲ ἀποκατηλλάγητε ἐν τῷ σώματι τῆς σαρκὸς αὐτοῦ διὰ τοῦ θανάτου— παραστῆσαι ὑμᾶς ἁγίους καὶ ἀμώμους καὶ ἀνεγκλήτους κατενώπιον αὐτοῦ,",
+    "translation": "ahora los ha reconciliado en su cuerpo físico por medio de la muerte, para presentarlos santos, sin mancha e irreprensibles delante de él,",
+    "translation_notes": "Realidad de la encarnación frente a espiritualismos que despreciaban la materia: ἐν τῷ σώματι τῆς σαρκὸς αὐτοῦ («en el cuerpo de su carne», es decir, su cuerpo humano real) mediante su muerte real. La meta es presentarlos como ofrenda pura: ἁγίους («santos»), ἀμώμους («sin defecto») y ἀνεγκλήτους («sin cargo legal/irreprensibles»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 23,
+    "greek_text": "εἴ γε ἐπιμένετε τῇ πίστει τεθεμελιωμένοι καὶ ἑδραῖοι καὶ μὴ μετακινούμενοι ἀπὸ τῆς ἐλπίδος τοῦ εὐαγγελίου οὗ ἠκούσατε, τοῦ κηρυχθέντος ἐν πάσῃ κτίσει τῇ ὑπὸ τὸν οὐρανόν, οὗ ἐγενόμην ἐγὼ Παῦλος διάκονος.",
+    "translation": "si en verdad permanecen cimentados y firmes en la fe, sin apartarse de la esperanza del evangelio que oyeron, el cual ha sido predicado en toda la creación debajo del cielo, y del cual yo, Pablo, llegué a ser ministro.",
+    "translation_notes": "Perseverancia y alcance universal: τεθεμελιωμένοι («cimentados» como edificio) y ἑδραῖοι («asentados con solidez»), sin dejarse mover (μὴ μετακινούμενοι) de la esperanza del único evangelio ya proclamado por todo el mundo conocido (retórica de expansión universal)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 24,
+    "greek_text": "Νῦν χαίρω ἐν τοῖς παθήμασιν ὑπὲρ ὑμῶν, καὶ ἀνταναπληρῶ τὰ ὑστερήματα τῶν θλίψεων τοῦ Χριστοῦ ἐν τῇ σαρκί μου ὑπὲρ τοῦ σώματος αὐτοῦ, ὅ ἐστιν ἡ ἐκκλησία,",
+    "translation": "Ahora me alegro en lo que padezco por ustedes, y completo en mi carne lo que falta de las aflicciones de Cristo a favor de su cuerpo, que es la iglesia;",
+    "translation_notes": "Pasaje clave sobre el sufrimiento apostólico: ἀνταναπληρῶ τὰ ὑστερήματα τῶν θλίψεων τοῦ Χριστοῦ no significa que el sacrificio redentor de Cristo en la cruz fuera insuficiente (cf. vv. 14, 20, 22), sino que Pablo participa de las tribulaciones mesiánicas (θλίψεις) necesarias para llevar el evangelio a las naciones en favor del cuerpo de Cristo, la iglesia."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 25,
+    "greek_text": "ἧς ἐγενόμην ἐγὼ διάκονος κατὰ τὴν οἰκονομίαν τοῦ θεοῦ τὴν δοθεῖσάν μοι εἰς ὑμᾶς πληρῶσαι τὸν λόγον τοῦ θεοῦ,",
+    "translation": "de la cual llegué a ser ministro conforme a la administración de Dios que me fue dada para ustedes, a fin de cumplir plenamente la palabra de Dios:",
+    "translation_notes": "Οἰκονομία τοῦ θεοῦ (oikonomia tou theou, «mayordomía/plan administrativo asignado por Dios»). El verbo πληρῶσαι («completar/proclamar en toda su plenitud») describe el encargo misionero de Pablo hacia los gentiles."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 26,
+    "greek_text": "τὸ μυστήριον τὸ ἀποκεκρυμμένον ἀπὸ τῶν αἰώνων καὶ ἀπὸ τῶν γενεῶν,— νῦν δὲ ἐφανερώθη τοῖς ἁγίοις αὐτοῦ,",
+    "translation": "el misterio que había estado oculto desde los siglos y las generaciones, pero que ahora ha sido manifestado a sus santos,",
+    "translation_notes": "Μυστήριον (mystērion) en Pablo no es un enigma esotérico para iniciados, sino el designio salvífico de Dios antes oculto (ἀποκεκρυμμένον) y ahora revelado públicamente a todos sus santos."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 27,
+    "greek_text": "οἷς ἠθέλησεν ὁ θεὸς γνωρίσαι τί τὸ πλοῦτος τῆς δόξης τοῦ μυστηρίου τούτου ἐν τοῖς ἔθνεσιν, ὅ ἐστιν Χριστὸς ἐν ὑμῖν, ἡ ἐλπὶς τῆς δόξης·",
+    "translation": "a quienes Dios quiso dar a conocer cuál es la riqueza de la gloria de este misterio entre los gentiles, el cual es Cristo en ustedes, la esperanza de gloria.",
+    "translation_notes": "Definición cristológica del misterio: Χριστὸς ἐν ὑμῖν («Cristo en/entre ustedes [los gentiles]»), presencia personal del Mesías glorificado en creyentes no judíos como garantía (ἡ ἐλπὶς τῆς δόξης) de la gloria venidera."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 28,
+    "greek_text": "ὃν ἡμεῖς καταγγέλλομεν νουθετοῦντες πάντα ἄνθρωπον καὶ διδάσκοντες πάντα ἄνθρωπον ἐν πάσῃ σοφίᾳ, ἵνα παραστήσωμεν πάντα ἄνθρωπον τέλειον ἐν Χριστῷ·",
+    "translation": "A él anunciamos nosotros, amonestando a todo hombre y enseñando a todo hombre con toda sabiduría, a fin de presentar a todo hombre perfecto en Cristo.",
+    "translation_notes": "Triple universalidad («a todo hombre», πάντα ἄνθρωπον repetido tres veces): frente a círculos elitistas, el evangelio busca que cada creyente llegue a ser τέλειος (teleios, «maduro/completo/pleno») en Cristo mediante la amonestación (νουθετοῦντες) y la enseñanza (διδάσκοντες)."
+  },
+  {
+    "book": "COL",
+    "chapter": 1,
+    "verse": 29,
+    "greek_text": "εἰς ὃ καὶ κοπιῶ ἀγωνιζόμενος κατὰ τὴν ἐνέργειαν αὐτοῦ τὴν ἐνεργουμένην ἐν ἐμοὶ ἐν δυνάμει.",
+    "translation": "Para lo cual también trabajo con fatiga, luchando según la operación suya que actúa poderosamente en mí.",
+    "translation_notes": "Sinergia de gracia y esfuerzo: κοπιῶ («me fatigo trabajando arduamente») y ἀγωνιζόμενος («compitiendo/luchando como atleta»), sostenido por la ἐνέργεια («fuerza operante divina») de Cristo que obra (ἐνεργουμένην) con poder en el apóstol."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 1,
+    "greek_text": "Θέλω γὰρ ὑμᾶς εἰδέναι ἡλίκον ἀγῶνα ἔχω ὑπὲρ ὑμῶν καὶ τῶν ἐν Λαοδικείᾳ καὶ ὅσοι οὐχ ἑόρακαν τὸ πρόσωπόν μου ἐν σαρκί,",
+    "translation": "Porque quiero que sepan cuán grande lucha sostengo por ustedes, por los que están en Laodicea y por todos los que no han visto mi rostro en persona,",
+    "translation_notes": "Pablo extiende su ἀγών (agōn, «lucha intensa», en oración e intercesión epistolar) a Colosas y la vecina Laodicea, iglesias del valle del Lico que no lo conocían personalmente (οὐχ ἑόρακαν τὸ πρόσωπόν μου ἐν σαρκί)."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 2,
+    "greek_text": "ἵνα παρακληθῶσιν αἱ καρδίαι αὐτῶν, συμβιβασθέντες ἐν ἀγάπῃ καὶ εἰς πᾶν πλοῦτος τῆς πληροφορίας τῆς συνέσεως, εἰς ἐπίγνωσιν τοῦ μυστηρίου τοῦ θεοῦ, Χριστοῦ,",
+    "translation": "para que sean consolados sus corazones, unidos en amor y enriquecidos con toda la plenitud de la certeza que da el entendimiento, para conocer plenamente el misterio de Dios, que es Cristo,",
+    "translation_notes": "El participio συμβιβασθέντες («unidos/entretejidos firmemente») apunta a cohesión comunitaria frente a divisiones. Τῆς πληροφορίας τῆς συνέσεως («plena seguridad/certeza que da el entendimiento») culmina en Cristo mismo como el misterio de Dios (τοῦ μυστηρίου τοῦ θεοῦ, Χριστοῦ)."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 3,
+    "greek_text": "ἐν ᾧ εἰσιν πάντες οἱ θησαυροὶ τῆς σοφίας καὶ γνώσεως ἀπόκρυφοι.",
+    "translation": "en quien están escondidos todos los tesoros de la sabiduría y del conocimiento.",
+    "translation_notes": "Refutación frontal de la especulación colosense: los términos θησαυροί («tesoros»), σοφία («sabiduría») y γνῶσις («conocimiento») están todos escondidos —o depositados por completo— (ἀπόκρυφοι) en Cristo, no en tratados secretos ni visiones angélicas."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 4,
+    "greek_text": "τοῦτο λέγω ἵνα μηδεὶς ὑμᾶς παραλογίζηται ἐν πιθανολογίᾳ.",
+    "translation": "Esto lo digo para que nadie los engañe con argumentos persuasivos.",
+    "translation_notes": "Advertencia retórica: παραλογίζηται (paralogizētai, «engañe con razonamientos falsos/sofismas») mediante πιθανολογία (pithanologia, «discurso plausible o elocuencia persuasiva» que aparenta sabiduría)."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 5,
+    "greek_text": "εἰ γὰρ καὶ τῇ σαρκὶ ἄπειμι, ἀλλὰ τῷ πνεύματι σὺν ὑμῖν εἰμι, χαίρων καὶ βλέπων ὑμῶν τὴν τάξιν καὶ τὸ στερέωμα τῆς εἰς Χριστὸν πίστεως ὑμῶν.",
+    "translation": "Porque aunque estoy ausente en el cuerpo, sin embargo en el espíritu estoy con ustedes, alegrándome al ver el orden de ustedes y la firmeza de su fe en Cristo.",
+    "translation_notes": "Metáfora militar de firmeza: τάξις (taxis, «formación ordenada») y στερέωμα (stereōma, «baluarte/línea sólida e impenetrable») describen la estabilidad de la fe de los colosenses."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 6,
+    "greek_text": "Ὡς οὖν παρελάβετε τὸν Χριστὸν Ἰησοῦν τὸν κύριον, ἐν αὐτῷ περιπατεῖτε,",
+    "translation": "Por lo tanto, de la manera que recibieron a Cristo Jesús el Señor, anden en él,",
+    "translation_notes": "Principio cardinal de la carta: παρελάβετε («recibieron» como tradición apostólica fiel, cf. 1 Co 15:1–3) a Cristo Jesús «el Señor» (τὸν κύριον). La vida cristiana progresa en la misma esfera en que comenzó: ἐν αὐτῷ περιπατεῖτε («caminen en él»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 7,
+    "greek_text": "ἐρριζωμένοι καὶ ἐποικοδομούμενοι ἐν αὐτῷ καὶ βεβαιούμενοι τῇ πίστει καθὼς ἐδιδάχθητε, περισσεύοντες ἐν εὐχαριστίᾳ.",
+    "translation": "arraigados y sobreedificados en él, y confirmados en la fe así como fueron enseñados, abundando en acción de gracias.",
+    "translation_notes": "Cuatro imágenes de madurez: ἐρριζωμένοι (perfecto pasivo, «arraigados» de modo permanente como árbol), ἐποικοδομούμενοι (presente pasivo, «siendo edificados continuamente» como templo), βεβαιούμενοι («consolidados/afianzados») y περισσεύοντες ἐν εὐχαριστίᾳ («desbordando en gratitud»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 8,
+    "greek_text": "Βλέπετε μή τις ὑμᾶς ἔσται ὁ συλαγωγῶν διὰ τῆς φιλοσοφίας καὶ κενῆς ἀπάτης κατὰ τὴν παράδοσιν τῶν ἀνθρώπων, κατὰ τὰ στοιχεῖα τοῦ κόσμου καὶ οὐ κατὰ Χριστόν·",
+    "translation": "Miren que nadie los lleve cautivos por medio de la filosofía y vanas sutilezas, según la tradición de los hombres, conforme a los principios elementales del mundo y no según Cristo.",
+    "translation_notes": "El verbo συλαγωγῶν (sylagōgōn, «llevar como botín de guerra/esclavizar») advierte contra el secuestro espiritual mediante «filosofía y vano engaño» (φιλοσοφίας καὶ κενῆς ἀπάτης). Τὰ στοιχεῖα τοῦ κόσμου (ta stoicheia tou kosmou, «los elementos/principios básicos del mundo», también asociados en la antigüedad a espíritus cósmicos o prácticas rudimentarias) se oponen a «según Cristo»."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 9,
+    "greek_text": "ὅτι ἐν αὐτῷ κατοικεῖ πᾶν τὸ πλήρωμα τῆς θεότητος σωματικῶς,",
+    "translation": "Porque en él habita corporalmente toda la plenitud de la Deidad,",
+    "translation_notes": "Declaración cristológica decisiva: en Cristo mora (κατοικεῖ, presente continuo) πᾶν τὸ πλήρωμα τῆς θεότητος («toda la plenitud de la naturaleza divina», θεότης = deidad esencial) σωματικῶς («corporalmente», en su humanidad encarnada y glorificada)."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 10,
+    "greek_text": "καὶ ἐστὲ ἐν αὐτῷ πεπληρωμένοι, ὅς ἐστιν ἡ κεφαλὴ πάσης ἀρχῆς καὶ ἐξουσίας,",
+    "translation": "y en él ustedes han sido hechos completos; él es la cabeza de todo principado y autoridad.",
+    "translation_notes": "Juego verbal con el v. 9: en Cristo habita la plenitud (πλήρωμα) y ustedes están πεπληρωμένοι («colmados/hechos completos» en él, perfecto pasivo). No les falta nada que deban buscar en ángeles o ritos ascéticos, pues Cristo es la cabeza soberana sobre toda potestad."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 11,
+    "greek_text": "ἐν ᾧ καὶ περιετμήθητε περιτομῇ ἀχειροποιήτῳ ἐν τῇ ἀπεκδύσει τοῦ σώματος τῆς σαρκός, ἐν τῇ περιτομῇ τοῦ Χριστοῦ,",
+    "translation": "En él también fueron circuncidados con una circuncisión no hecha por manos, al despojarse del cuerpo de la carne, en la circuncisión de Cristo,",
+    "translation_notes": "Circuncisión espiritual interior: ἀχειροποιήτῳ («no hecha por manos humanas», cf. Dt 30:6; Jer 4:4). Consiste en ἀπέκδυσις («despojo completo como de un vestido viejo») del dominio de la naturaleza pecaminosa («el cuerpo de la carne»), realizada por la muerte y resurrección de Cristo."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 12,
+    "greek_text": "συνταφέντες αὐτῷ ἐν τῷ βαπτισμῷ, ἐν ᾧ καὶ συνηγέρθητε διὰ τῆς πίστεως τῆς ἐνεργείας τοῦ θεοῦ τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶν·",
+    "translation": "habiendo sido sepultados juntamente con él en el bautismo, en el cual también fueron resucitados con él mediante la fe en el poder de Dios que lo levantó de entre los muertos.",
+    "translation_notes": "Unión sacramental y por la fe: συνταφέντες («sepultados con él») y συνηγέρθητε («resucitados con él») en el bautismo, operando por medio de la fe en la eficacia (ἐνέργεια) de Dios Padre que levantó a Jesús."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 13,
+    "greek_text": "καὶ ὑμᾶς νεκροὺς ὄντας ἐν τοῖς παραπτώμασιν καὶ τῇ ἀκροβυστίᾳ τῆς σαρκὸς ὑμῶν, συνεζωοποίησεν ὑμᾶς σὺν αὐτῷ· χαρισάμενος ἡμῖν πάντα τὰ παραπτώματα,",
+    "translation": "Y a ustedes, que estaban muertos en los delitos y en la incircuncisión de su carne, les dio vida juntamente con él, perdonándonos todos los delitos,",
+    "translation_notes": "De la muerte espiritual a la vida compartida: συνεζωοποίησεν (synezōopoiēsen, «dio vida juntamente con él»). Χαρισάμενος (de χάρις) subraya el perdón gratuito e incondicional de todas las transgresiones (παραπτώματα)."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 14,
+    "greek_text": "ἐξαλείψας τὸ καθ’ ἡμῶν χειρόγραφον τοῖς δόγμασιν ὃ ἦν ὑπεναντίον ἡμῖν, καὶ αὐτὸ ἦρκεν ἐκ τοῦ μέσου προσηλώσας αὐτὸ τῷ σταυρῷ·",
+    "translation": "anulando el acta de deuda que había contra nosotros en sus decretos, la cual nos era contraria, y la quitó de en medio clavándola en la cruz;",
+    "translation_notes": "Metáfora jurídica y financiera vibrante: χειρόγραφον (cheirographon) era un pagaré o reconocimiento escrito de deuda de puño y letra del deudor. Dios lo borró por completo (ἐξαλείψας, «lavó la tinta/canceló»), lo quitó de en medio y lo clavó (προσηλώσας) en la cruz de Cristo, cancelando toda condenación legal."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 15,
+    "greek_text": "ἀπεκδυσάμενος τὰς ἀρχὰς καὶ τὰς ἐξουσίας ἐδειγμάτισεν ἐν παρρησίᾳ, θριαμβεύσας αὐτοὺς ἐν αὐτῷ.",
+    "translation": "y despojando a los principados y a las autoridades, los exhibió públicamente, triunfando sobre ellos en la cruz.",
+    "translation_notes": "Desfile triunfal romano: ἀπεκδυσάμενος («habiendo desarmado/despojado» a los poderes espirituales hostiles) los expuso públicamente (ἐδειγμάτισεν ἐν παρρησίᾳ) como prisioneros vencidos en el cortejo de victoria (θριαμβεύσας) mediante la obra de la cruz (ἐν αὐτῷ: «en él» o «en ella [la cruz]»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 16,
+    "greek_text": "Μὴ οὖν τις ὑμᾶς κρινέτω ἐν βρώσει ἢ ἐν πόσει ἢ ἐν μέρει ἑορτῆς ἢ νουμηνίας ἢ σαββάτων,",
+    "translation": "Por tanto, que nadie los juzgue en cuanto a comida o bebida, o respecto a días festivos, luna nueva o días de reposo,",
+    "translation_notes": "Libertad frente al legalismo ritual: prohíbe someter la conciencia a juicios humanos sobre dieta (βρώσει / πόσει) o calendario ceremonial veterotestamentario (fiestas anuales, novilunios y sábados, cf. 1 Cr 23:31; Os 2:11)."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 17,
+    "greek_text": "ἅ ἐστιν σκιὰ τῶν μελλόντων, τὸ δὲ σῶμα τοῦ Χριστοῦ.",
+    "translation": "todo lo cual es sombra de lo que había de venir, pero el cuerpo es de Cristo.",
+    "translation_notes": "Contraste platónico-bíblico entre σκιὰ τῶν μελλόντων («sombra proyectada de las realidades futuras») y τὸ σῶμα τοῦ Χριστοῦ («el cuerpo/la realidad sustancial pertenece a Cristo»): una vez que llega la realidad misma, no se vuelve a la sombra."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 18,
+    "greek_text": "μηδεὶς ὑμᾶς καταβραβευέτω θέλων ἐν ταπεινοφροσύνῃ καὶ θρησκείᾳ τῶν ἀγγέλων, ἃ ἑόρακεν ἐμβατεύων, εἰκῇ φυσιούμενος ὑπὸ τοῦ νοὸς τῆς σαρκὸς αὐτοῦ,",
+    "translation": "Que nadie los prive del premio deleitándose en una falsa humildad y en el culto a los ángeles, entrometiéndose en lo que ha visto, vanamente hinchado por su mente carnal,",
+    "translation_notes": "El verbo καταβραβευέτω (katabrabeuetō) significa «descalificar como árbitro injusto / privar del trofeo». Describe a falsos maestros que alardean de una supuesta «humildad» ascética (ταπεινοφροσύνη) y veneración angélica (θρησκείᾳ τῶν ἀγγέλων), jactándose de visiones místicas (ἃ ἑόρακεν ἐμβατεύων) desde una mente carnal (νοὸς τῆς σαρκός)."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 19,
+    "greek_text": "καὶ οὐ κρατῶν τὴν κεφαλήν, ἐξ οὗ πᾶν τὸ σῶμα διὰ τῶν ἁφῶν καὶ συνδέσμων ἐπιχορηγούμενον καὶ συμβιβαζόμενον αὔξει τὴν αὔξησιν τοῦ θεοῦ.",
+    "translation": "y no aferrándose a la Cabeza, de la cual todo el cuerpo, nutrido y unido por medio de las coyunturas y ligamentos, crece con el crecimiento que da Dios.",
+    "translation_notes": "El error fundamental de los falsos maestros: no retener firmemente (οὐ κρατῶν) a Cristo, la Cabeza. Solo unidos a ella, el cuerpo entero recibe suministro vital (ἐπιχορηγούμενον) y cohesión (συμβιβαζόμενον) para crecer espiritualmente según Dios."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 20,
+    "greek_text": "Εἰ ἀπεθάνετε σὺν Χριστῷ ἀπὸ τῶν στοιχείων τοῦ κόσμου, τί ὡς ζῶντες ἐν κόσμῳ δογματίζεσθε·",
+    "translation": "Si han muerto con Cristo respecto a los principios elementales del mundo, ¿por qué, como si aún vivieran en el mundo, se someten a decretos tales como:",
+    "translation_notes": "Ironía paulina: al morir con Cristo en su crucifixión, quedaron desligados de los στοιχεῖα τοῦ κόσμου. El verbo δογματίζεσθε («se dejan imponer reglas/dogmas humanos») cuestiona su vuelta a una religiosidad meramente mundana."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 21,
+    "greek_text": "Μὴ ἅψῃ μηδὲ γεύσῃ μηδὲ θίγῃς,",
+    "translation": "«No toques, no pruebes, no manipules»",
+    "translation_notes": "Cita probable de los lemas ascéticos de los falsos maestros: tres prohibiciones escalonadas (μὴ ἅψῃ μηδὲ γεύσῃ μηδὲ θίγῃς) sobre contacto físico o alimentos prohibidos."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 22,
+    "greek_text": "ἅ ἐστιν πάντα εἰς φθορὰν τῇ ἀποχρήσει, κατὰ τὰ ἐντάλματα καὶ διδασκαλίας τῶν ἀνθρώπων;",
+    "translation": "—cosas que todas están destinadas a perecer con el uso—, conforme a mandamientos y enseñanzas de hombres?",
+    "translation_notes": "Paréntesis realista (con eco de Is 29:13 y Mc 7:7): esos alimentos y objetos materiales se consumen y desaparecen al usarse (εἰς φθορὰν τῇ ἀποχρήσει), por lo que jamás pueden producir santidad eterna; son meras reglas humanas."
+  },
+  {
+    "book": "COL",
+    "chapter": 2,
+    "verse": 23,
+    "greek_text": "ἅτινά ἐστιν λόγον μὲν ἔχοντα σοφίας ἐν ἐθελοθρησκίᾳ καὶ ταπεινοφροσύνῃ καὶ ἀφειδίᾳ σώματος, οὐκ ἐν τιμῇ τινι πρὸς πλησμονὴν τῆς σαρκός.",
+    "translation": "Tales cosas tienen a la verdad apariencia de sabiduría en culto voluntario, humildad afectada y duro trato del cuerpo, pero no tienen valor alguno contra los apetitos de la carne.",
+    "translation_notes": "Balance final del ascetismo legalista: aunque luce sabio mediante ἐθελοθρησκία («religiosidad autoimpuesta»), falsa humildad y ἀφειδία σώματος («severidad/descuido duro del cuerpo»), carece de eficacia real (οὐκ ἐν τιμῇ τινι) para refrenar la gratificación de la carne (πρὸς πλησμονὴν τῆς σαρκός)."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 1,
+    "greek_text": "Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος·",
+    "translation": "Si pues han resucitado con Cristo, busquen las cosas de arriba, donde está Cristo sentado a la derecha de Dios.",
+    "translation_notes": "Giro ético basado en la unión con Cristo: Εἰ οὖν συνηγέρθητε («puesto que fueron resucitados con Cristo»). El imperativo presente ζητεῖτε («busquen continuamente») dirige la orientación vital hacia el cielo donde Cristo reina entronizado (Sal 110:1)."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 2,
+    "greek_text": "τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς,",
+    "translation": "Pongan la mente en las cosas de arriba, no en las de la tierra.",
+    "translation_notes": "El verbo φρονεῖτε (phroneite, presente continuo) abarca la disposición mental, afectiva y valorativa: no basta un interés intelectual ocasional, sino enfocar la mente en la realidad del reino de Cristo."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 3,
+    "greek_text": "ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ θεῷ·",
+    "translation": "Porque ustedes han muerto, y su vida está escondida con Cristo en Dios.",
+    "translation_notes": "Fundamento de la nueva identidad: ἀπεθάνετε (aoristo: «murieron» definitivamente con Cristo al viejo orden), y la vida verdadera del creyente está κέκρυπται (perfecto pasivo: «guardada/oculta con seguridad») junto con Cristo en Dios."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 4,
+    "greek_text": "ὅταν ὁ Χριστὸς φανερωθῇ, ἡ ζωὴ ὑμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ.",
+    "translation": "Cuando Cristo, nuestra vida, sea manifestado, entonces también ustedes serán manifestados con él en gloria.",
+    "translation_notes": "Cristo es llamado directamente «nuestra vida» (ἡ ζωὴ ὑμῶν —en algunos manuscritos «nuestra», SBLGNT lee ὑμῶν «la vida de ustedes»—). Su parusía (φανερωθῇ) revelará públicamente la gloria compartida de los creyentes."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 5,
+    "greek_text": "Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία,",
+    "translation": "Hagan morir, pues, lo terrenal en ustedes: inmoralidad sexual, impureza, pasiones desordenadas, malos deseos y la avaricia, que es idolatría;",
+    "translation_notes": "Imperativo aoristo contundente: Νεκρώσατε («den muerte decididamente») a «los miembros que están sobre la tierra» (τὰ μέλη τὰ ἐπὶ τῆς γῆς, es decir, las prácticas de la naturaleza caída). Incluye cinco vicios culminando en πλεονεξία (pleonexia, «codicia/afán insaciable de tener más»), identificada como idolatría porque sustituye a Dios por bienes o deseos."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 6,
+    "greek_text": "δι’ ἃ ἔρχεται ἡ ὀργὴ τοῦ θεοῦ ἐπὶ τοὺς υἱοὺς τῆς ἀπειθείας·",
+    "translation": "cosas por las cuales viene la ira de Dios sobre los hijos de desobediencia,",
+    "translation_notes": "La expresión semítica τοὺς υἱοὺς τῆς ἀπειθείας («los hijos de desobediencia», presente en SBLGNT aunque omitida en algunos manuscritos) designa a quienes viven caracterizados por la rebeldía obstinada contra Dios."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 7,
+    "greek_text": "ἐν οἷς καὶ ὑμεῖς περιεπατήσατέ ποτε ὅτε ἐζῆτε ἐν τούτοις·",
+    "translation": "en las cuales ustedes también anduvieron en otro tiempo, cuando vivían en ellas.",
+    "translation_notes": "Contraste temporal típico («antes / ahora», cf. Ef 2:1–4): esas conductas pertenecen al pasado en que vivían sumergidos en ese estilo de vida (ἐζῆτε ἐν τούτοις)."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 8,
+    "greek_text": "νυνὶ δὲ ἀπόθεσθε καὶ ὑμεῖς τὰ πάντα, ὀργήν, θυμόν, κακίαν, βλασφημίαν, αἰσχρολογίαν ἐκ τοῦ στόματος ὑμῶν·",
+    "translation": "Pero ahora dejen también ustedes todas estas cosas: ira, enojo, malicia, maledicencia y palabras obscenas de su boca.",
+    "translation_notes": "Metáfora del vestuario (vv. 8–12): ἀπόθεσθε («quítense/desháganse como de ropa sucia») cinco pecados relacionales y verbales: ὀργή (ira arraigada), θυμός (estallido de furia), κακία (maldad/rencor), βλασφημία (calumnia/injuria contra otros) y αἰσχρολογία (lenguaje vulgar o hiriente)."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 9,
+    "greek_text": "μὴ ψεύδεσθε εἰς ἀλλήλους· ἀπεκδυσάμενοι τὸν παλαιὸν ἄνθρωπον σὺν ταῖς πράξεσιν αὐτοῦ,",
+    "translation": "No se mientan los unos a los otros, habiéndose despojado del viejo hombre con sus prácticas,",
+    "translation_notes": "Prohibición presente (μὴ ψεύδεσθε, «dejen de mentirse» o «no se mientan») fundamentada en un hecho ya consumado en Cristo: ἀπεκδυσάμενοι τὸν παλαιὸν ἄνθρωπον («habiéndose desvestido del viejo Adán/vieja humanidad»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 10,
+    "greek_text": "καὶ ἐνδυσάμενοι τὸν νέον τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατ’ εἰκόνα τοῦ κτίσαντος αὐτόν,",
+    "translation": "y habiéndose revestido del nuevo, el cual se va renovando hacia un conocimiento pleno conforme a la imagen de aquel que lo creó;",
+    "translation_notes": "Tensión dinámica entre el «ya» y el proceso continuo: el creyente ya se revistió (ἐνδυσάμενοι) del hombre nuevo (τὸν νέον), pero este se renueva día a día (ἀνακαινούμενον, participio presente) restaurando la imagen divina original de Gn 1:26–27."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 11,
+    "greek_text": "ὅπου οὐκ ἔνι Ἕλλην καὶ Ἰουδαῖος, περιτομὴ καὶ ἀκροβυστία, βάρβαρος, Σκύθης, δοῦλος, ἐλεύθερος, ἀλλὰ τὰ πάντα καὶ ἐν πᾶσιν Χριστός.",
+    "translation": "donde no hay griego ni judío, circuncisión ni incircuncisión, bárbaro, escita, esclavo ni libre, sino que Cristo es todo y en todos.",
+    "translation_notes": "Igualdad radical en la nueva humanidad: caen las barreras religiosas (judío/circunciso), culturales (griego/bárbaro/escita —pueblo nómada considerado el más inculto del mundo antiguo—) y sociales (esclavo/libre), porque Cristo lo llena todo y habita en todos los creyentes."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 12,
+    "greek_text": "Ἐνδύσασθε οὖν ὡς ἐκλεκτοὶ τοῦ θεοῦ, ἅγιοι καὶ ἠγαπημένοι, σπλάγχνα οἰκτιρμοῦ, χρηστότητα, ταπεινοφροσύνην, πραΰτητα, μακροθυμίαν,",
+    "translation": "Por lo tanto, como escogidos de Dios, santos y amados, vístanse de entrañable misericordia, bondad, humildad, mansedumbre y paciencia,",
+    "translation_notes": "Identidad antes del deber: primero recuerda tres títulos de Israel aplicados ahora a la iglesia —ἐκλεκτοὶ τοῦ θεοῦ («elegidos»), ἅγιοι («santos») y ἠγαπημένοι («amados»)—; luego ordena revestirse de cinco virtudes comunitarias comenzando por σπλάγχνα οἰκτιρμοῦ («entrañas de compasión/misericordia»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 13,
+    "greek_text": "ἀνεχόμενοι ἀλλήλων καὶ χαριζόμενοι ἑαυτοῖς ἐάν τις πρός τινα ἔχῃ μομφήν· καθὼς καὶ ὁ κύριος ἐχαρίσατο ὑμῖν οὕτως καὶ ὑμεῖς·",
+    "translation": "soportándose unos a otros y perdonándose unos a otros si alguno tiene queja contra otro; así como el Señor los perdonó, así también háganlo ustedes.",
+    "translation_notes": "El verbo χαριζόμενοι (charizomenoi, de χάρις) significa «perdonar graciosamente/regalar perdón». El modelo y medida del perdón mutuo entre hermanos es el perdón mismo recibido del Señor (ὁ κύριος ἐχαρίσατο ὑμῖν)."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 14,
+    "greek_text": "ἐπὶ πᾶσιν δὲ τούτοις τὴν ἀγάπην, ὅ ἐστιν σύνδεσμος τῆς τελειότητος.",
+    "translation": "Y sobre todas estas cosas, vístanse de amor, que es el vínculo perfecto.",
+    "translation_notes": "Metáfora del cinturón o manto exterior que sujeta todo el atuendo: sobre todas las virtudes va ἡ ἀγάπη («el amor»), llamado σύνδεσμος τῆς τελειότητος («el lazo/vínculo que une y lleva a la madurez perfecta»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 15,
+    "greek_text": "καὶ ἡ εἰρήνη τοῦ Χριστοῦ βραβευέτω ἐν ταῖς καρδίαις ὑμῶν, εἰς ἣν καὶ ἐκλήθητε ἐν ἑνὶ σώματι· καὶ εὐχάριστοι γίνεσθε.",
+    "translation": "Y la paz de Cristo reine en sus corazones, a la cual asimismo fueron llamados en un solo cuerpo; y sean agradecidos.",
+    "translation_notes": "Imagen deportiva/judicial: el verbo βραβευέτω (brabeuetō, de βραβεύω) significa «actúe como árbitro / decida / gobierne» en sus corazones (opuesto a las condenas de 2:18). La gratitud (εὐχάριστοι) cierra el llamado a la unidad en un solo cuerpo."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 16,
+    "greek_text": "ὁ λόγος τοῦ Χριστοῦ ἐνοικείτω ἐν ὑμῖν πλουσίως ἐν πάσῃ σοφίᾳ· διδάσκοντες καὶ νουθετοῦντες ἑαυτοὺς ψαλμοῖς, ὕμνοις, ᾠδαῖς πνευματικαῖς ἐν χάριτι, ᾄδοντες ἐν ταῖς καρδίαις ὑμῶν τῷ θεῷ·",
+    "translation": "Que la palabra de Cristo habite en abundancia en ustedes, enseñándose y exhortándose unos a otros con toda sabiduría, cantando con gracia en sus corazones a Dios con salmos, himnos y cánticos espirituales.",
+    "translation_notes": "Culto cristiano centrado en la Palabra: ὁ λόγος τοῦ Χριστοῦ («el mensaje acerca de/procedente de Cristo») debe residir en casa (ἐνοικείτω) ricamente (πλουσίως). La adoración musical comunitaria (salmos del AT, himnos cristológicos y cánticos inspirados por el Espíritu) cumple una función tanto vertical (a Dios) como horizontal (enseñar y animar mutuamente)."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 17,
+    "greek_text": "καὶ πᾶν ὅ τι ἐὰν ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ, πάντα ἐν ὀνόματι κυρίου Ἰησοῦ, εὐχαριστοῦντες τῷ θεῷ πατρὶ δι’ αὐτοῦ.",
+    "translation": "Y todo lo que hagan, de palabra o de hecho, háganlo todo en el nombre del Señor Jesús, dando gracias a Dios Padre por medio de él.",
+    "translation_notes": "Consagración total de la vida cotidiana: ninguna esfera queda fuera del señorío de Jesús; actuar «en el nombre del Señor Jesús» implica hacerlo bajo su autoridad, carácter y gratitud continua al Padre."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 18,
+    "greek_text": "Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ.",
+    "translation": "Esposas, sométanse a sus esposos, como conviene en el Señor.",
+    "translation_notes": "Inicio del código doméstico cristiano (3:18–4:1, paralelo a Ef 5:22–6:9). La sujeción mutua y ordenada se califica «como conviene en el Señor» (ὡς ἀνῆκεν ἐν κυρίῳ), motivada por fidelidad voluntaria a Cristo, no por inferioridad."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 19,
+    "greek_text": "οἱ ἄνδρες, ἀγαπᾶτε τὰς γυναῖκας καὶ μὴ πικραίνεσθε πρὸς αὐτάς.",
+    "translation": "Esposos, amen a sus esposas y no sean ásperos con ellas.",
+    "translation_notes": "Exhortación contracultural al marido grecorromano: en lugar de autoritarismo patriarcal, se exige amor abnegado (ἀγαπᾶτε, presente continuo) y se prohíbe la amargura o dureza (μὴ πικραίνεσθε, «no se vuelvan amargos/resentidos contra ellas»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 20,
+    "greek_text": "Τὰ τέκνα, ὑπακούετε τοῖς γονεῦσιν κατὰ πάντα, τοῦτο γὰρ εὐάρεστόν ἐστιν ἐν κυρίῳ.",
+    "translation": "Hijos, obedezcan a sus padres en todo, porque esto agrada al Señor.",
+    "translation_notes": "El adjetivo εὐάρεστον («bien agradable/aceptable») sitúa la obediencia filial dentro de la piedad vivida en el Señor."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 21,
+    "greek_text": "οἱ πατέρες, μὴ ἐρεθίζετε τὰ τέκνα ὑμῶν, ἵνα μὴ ἀθυμῶσιν.",
+    "translation": "Padres, no exasperen a sus hijos, para que no se desanimen.",
+    "translation_notes": "Protección emocional de los hijos: μὴ ἐρεθίζετε («no provoquen/irriten constantemente» con rigor injusto o críticas constantes) para evitar que caigan en ἀθυμία (μὴ ἀθυμῶσιν, «se quiebren en ánimo/pierdan el espíritu»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 22,
+    "greek_text": "οἱ δοῦλοι, ὑπακούετε κατὰ πάντα τοῖς κατὰ σάρκα κυρίοις, μὴ ἐν ὀφθαλμοδουλίαις, ὡς ἀνθρωπάρεσκοι, ἀλλ’ ἐν ἁπλότητι καρδίας, φοβούμενοι τὸν κύριον.",
+    "translation": "Siervos, obedezcan en todo a sus amos terrenales, no sirviendo solo cuando los ven, como quienes buscan agradar a los hombres, sino con sencillez de corazón, temiendo al Señor.",
+    "translation_notes": "Dignidad del trabajador/esclavo cristiano (en vista del caso de Onésimo): evita la ὀφθαλμοδουλία (ophthalmodoulia, «servicio de ojo», trabajar solo bajo vigilancia) y actúa en ἁπλότητι καρδίας («integridad/sinceridad de corazón») por reverencia al Señor."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 23,
+    "greek_text": "ὃ ἐὰν ποιῆτε, ἐκ ψυχῆς ἐργάζεσθε, ὡς τῷ κυρίῳ καὶ οὐκ ἀνθρώποις,",
+    "translation": "Y todo lo que hagan, háganlo de corazón, como para el Señor y no para los hombres,",
+    "translation_notes": "Literalmente ἐκ ψυχῆς ἐργάζεσθε («trabajen desde el alma/con todo el ser»), transformando cualquier labor ordinaria en servicio directo ofrecido a Cristo."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 24,
+    "greek_text": "εἰδότες ὅτι ἀπὸ κυρίου ἀπολήμψεσθε τὴν ἀνταπόδοσιν τῆς κληρονομίας· τῷ κυρίῳ Χριστῷ δουλεύετε·",
+    "translation": "sabiendo que del Señor recibirán la recompensa de la herencia; porque a Cristo el Señor sirven.",
+    "translation_notes": "Paradoja liberadora: bajo el derecho romano, los esclavos no heredaban; Pablo asegura a los creyentes siervos que recibirán del Señor la recompensa de su herencia celestial (τὴν ἀνταπόδοσιν τῆς κληρονομίας), pues su verdadero Amo es Cristo."
+  },
+  {
+    "book": "COL",
+    "chapter": 3,
+    "verse": 25,
+    "greek_text": "ὁ γὰρ ἀδικῶν κομίσεται ὃ ἠδίκησεν, καὶ οὐκ ἔστιν προσωπολημψία.",
+    "translation": "Porque el que comete injusticia recibirá el pago de la injusticia que hizo, y no hay acepción de personas.",
+    "translation_notes": "Advertencia imparcial tanto para siervos deshonestos como para amos abusivos: Dios juzga sin favoritismo social (οὐκ ἔστιν προσωπολημψία, «no mira apariencias ni estatus»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 1,
+    "greek_text": "οἱ κύριοι, τὸ δίκαιον καὶ τὴν ἰσότητα τοῖς δούλοις παρέχεσθε, εἰδότες ὅτι καὶ ὑμεῖς ἔχετε κύριον ἐν οὐρανῷ.",
+    "translation": "Amos, den a sus siervos lo que es justo y equitativo, sabiendo que también ustedes tienen un Señor en el cielo.",
+    "translation_notes": "Cierre del código doméstico: exige a los amos τὸ δίκαιον καὶ τὴν ἰσότητα («lo justo y la equidad/trato digno»), recordándoles que rinden cuentas ante un Amo supremo en el cielo (κύριον ἐν οὐρανῷ)."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 2,
+    "greek_text": "Τῇ προσευχῇ προσκαρτερεῖτε, γρηγοροῦντες ἐν αὐτῇ ἐν εὐχαριστίᾳ,",
+    "translation": "Perseveren en la oración, velando en ella con acción de gracias,",
+    "translation_notes": "El verbo προσκαρτερεῖτε (proskartereite) indica constancia firme y dedicación sostenida. La vigilancia espiritual (γρηγοροῦντες, «manteniéndose despiertos/alerta») va unida a la gratitud (ἐν εὐχαριστίᾳ)."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 3,
+    "greek_text": "προσευχόμενοι ἅμα καὶ περὶ ἡμῶν, ἵνα ὁ θεὸς ἀνοίξῃ ἡμῖν θύραν τοῦ λόγου, λαλῆσαι τὸ μυστήριον τοῦ Χριστοῦ, δι’ ὃ καὶ δέδεμαι,",
+    "translation": "orando al mismo tiempo también por nosotros, para que Dios nos abra una puerta para la palabra, a fin de hablar del misterio de Cristo, por el cual también estoy encadenado,",
+    "translation_notes": "Petición misionera desde la cárcel: Pablo no pide primero su liberación física, sino θύραν τοῦ λόγου («una puerta abierta para proclamar el mensaje») acerca del misterio de Cristo (1:26–27)."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 4,
+    "greek_text": "ἵνα φανερώσω αὐτὸ ὡς δεῖ με λαλῆσαι.",
+    "translation": "para darlo a conocer como debo hablar.",
+    "translation_notes": "El verbo φανερώσω («manifieste con claridad») acompañado de ὡς δεῖ με λαλῆσαι («como es necesario que hable») pide denuedo y claridad evangelística en su defensa judicial."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 5,
+    "greek_text": "Ἐν σοφίᾳ περιπατεῖτε πρὸς τοὺς ἔξω, τὸν καιρὸν ἐξαγοραζόμενοι.",
+    "translation": "Anden sabiamente para con los de afuera, aprovechando al máximo el tiempo.",
+    "translation_notes": "Testimonio ante no creyentes (τοὺς ἔξω, «los de afuera»): el participio ἐξαγοραζόμενοι (exagorazomenoi, literalmente «comprando/rescatando del mercado») urge a aprovechar cada momento oportuno (τὸν καιρόν) con sabiduría práctica."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 6,
+    "greek_text": "ὁ λόγος ὑμῶν πάντοτε ἐν χάριτι, ἅλατι ἠρτυμένος, εἰδέναι πῶς δεῖ ὑμᾶς ἑνὶ ἑκάστῳ ἀποκρίνεσθαι.",
+    "translation": "Que su conversación sea siempre con gracia, sazonada con sal, para que sepan cómo deben responder a cada uno.",
+    "translation_notes": "Ética del diálogo: palabra llena de gracia (ἐν χάριτι, amable, atractiva y verdadera) y ἅλατι ἠρτυμένος («condimentada con sal», metáfora griega de ingenio sano, pureza y sabor espiritual), adaptada a cada interlocutor (ἑνὶ ἑκάστῳ)."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 7,
+    "greek_text": "Τὰ κατ’ ἐμὲ πάντα γνωρίσει ὑμῖν Τυχικὸς ὁ ἀγαπητὸς ἀδελφὸς καὶ πιστὸς διάκονος καὶ σύνδουλος ἐν κυρίῳ,",
+    "translation": "Todo lo referente a mí se lo hará saber Tíquico, querido hermano, fiel ministro y consiervo en el Señor,",
+    "translation_notes": "Tíquico (originario de Asia, Hch 20:4; Ef 6:21) fue el portador de Colosenses, Efesios y acompañante de Onésimo. Recibe tres elogios: hermano amado, fiel servidor (διάκονος) y compañero de esclavitud (σύνδουλος) en el Señor."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 8,
+    "greek_text": "ὃν ἔπεμψα πρὸς ὑμᾶς εἰς αὐτὸ τοῦτο ἵνα γνῶτε τὰ περὶ ἡμῶν καὶ παρακαλέσῃ τὰς καρδίας ὑμῶν,",
+    "translation": "a quien les envié precisamente para esto: para que sepan cómo estamos y él anime sus corazones,",
+    "translation_notes": "El verbo παρακαλέσῃ («consuele/anime/fortalezca») muestra el propósito pastoral de enviar noticias personales vivas junto con la carta."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 9,
+    "greek_text": "σὺν Ὀνησίμῳ τῷ πιστῷ καὶ ἀγαπητῷ ἀδελφῷ, ὅς ἐστιν ἐξ ὑμῶν· πάντα ὑμῖν γνωρίσουσιν τὰ ὧδε.",
+    "translation": "junto con Onésimo, el fiel y querido hermano, que es uno de ustedes; ellos les harán saber todo lo de aquí.",
+    "translation_notes": "Rehabilitación pública de Onésimo (cf. Filemón): Pablo lo presenta ante toda la iglesia colosense no como esclavo fugitivo, sino como «el hermano fiel y amado» y «uno de ustedes» (ὅς ἐστιν ἐξ ὑμῶν), protegiendo su regreso."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 10,
+    "greek_text": "Ἀσπάζεται ὑμᾶς Ἀρίσταρχος ὁ συναιχμάλωτός μου, καὶ Μᾶρκος ὁ ἀνεψιὸς Βαρναβᾶ (περὶ οὗ ἐλάβετε ἐντολάς, ἐὰν ἔλθῃ πρὸς ὑμᾶς δέξασθε αὐτόν),",
+    "translation": "Los saluda Aristarco, mi compañero de prisión, y Marcos, el primo de Bernabé (acerca de quien recibieron instrucciones: si va a ustedes, recíbanlo),",
+    "translation_notes": "Aristarco de Tesalónica acompañó a Pablo en viajes y arresto (Hch 19:29; 27:2). Marcos es identificado como ὁ ἀνεψιὸς Βαρναβᾶ («el primo de Bernabé»), explicando quizá la antigua disputa en Hch 15:36–39, ya totalmente superada con esta recomendación expresa de acogida."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 11,
+    "greek_text": "καὶ Ἰησοῦς ὁ λεγόμενος Ἰοῦστος, οἱ ὄντες ἐκ περιτομῆς, οὗτοι μόνοι συνεργοὶ εἰς τὴν βασιλείαν τοῦ θεοῦ, οἵτινες ἐγενήθησάν μοι παρηγορία.",
+    "translation": "y Jesús, el llamado Justo, los cuales son de los circuncisos; solo estos son mis colaboradores para el reino de Dios, y ellos han sido un consuelo para mí.",
+    "translation_notes": "Último saludo de los colaboradores judeocristianos (οἱ ὄντες ἐκ περιτομῆς): de los creyentes de origen judío presentes junto a Pablo, solo estos tres permanecieron fieles como συνεργοί y παρηγορία (parēgoria, «alivio/consuelo médico o moral»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 12,
+    "greek_text": "ἀσπάζεται ὑμᾶς Ἐπαφρᾶς ὁ ἐξ ὑμῶν, δοῦλος Χριστοῦ, πάντοτε ἀγωνιζόμενος ὑπὲρ ὑμῶν ἐν ταῖς προσευχαῖς, ἵνα σταθῆτε τέλειοι καὶ πεπληροφορημένοι ἐν παντὶ θελήματι τοῦ θεοῦ.",
+    "translation": "Los saluda Epafras, que es uno de ustedes, siervo de Cristo, luchando siempre por ustedes en las oraciones, para que estén firmes, maduros y plenamente convencidos en toda la voluntad de Dios.",
+    "translation_notes": "Retrato de intercesión pastoral: Epafras «lucha/agoniza» (ἀγωνιζόμενος) en oración por su iglesia natal para que permanezcan τέλειοι («maduros/completos») y πεπληροφορημένοι («plenamente seguros/convencidos»), refutando toda duda sembrada por los falsos maestros."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 13,
+    "greek_text": "μαρτυρῶ γὰρ αὐτῷ ὅτι ἔχει πολὺν πόνον ὑπὲρ ὑμῶν καὶ τῶν ἐν Λαοδικείᾳ καὶ τῶν ἐν Ἱεραπόλει.",
+    "translation": "Porque doy testimonio de él de que tiene mucho afán por ustedes, por los que están en Laodicea y por los que están en Hierápolis.",
+    "translation_notes": "Triángulo urbano del valle del Lico: Colosas, Laodicea y Hierápolis eran ciudades vecinas separadas por pocos kilómetros, probablemente evangelizadas por el ministerio de Epafras (πόνον, «esfuerzo intenso/preocupación amorosa»)."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 14,
+    "greek_text": "ἀσπάζεται ὑμᾶς Λουκᾶς ὁ ἰατρὸς ὁ ἀγαπητὸς καὶ Δημᾶς.",
+    "translation": "Los saluda Lucas, el médico amado, y Demas.",
+    "translation_notes": "Mención explícita de la profesión de Lucas (ὁ ἰατρός, «el médico»), autor del tercer evangelio y Hechos, junto a Demas (cf. Flm 24; 2 Ti 4:10)."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 15,
+    "greek_text": "ἀσπάσασθε τοὺς ἐν Λαοδικείᾳ ἀδελφοὺς καὶ Νύμφαν καὶ τὴν κατ’ οἶκον αὐτῆς ἐκκλησίαν.",
+    "translation": "Saluden a los hermanos que están en Laodicea, y a Ninfa y a la iglesia que se reúne en su casa.",
+    "translation_notes": "Iglesia doméstica en Laodicea: SBLGNT acentúa Νύμφαν en femenino y lee τὴν κατ’ οἶκον αὐτῆς ἐκκλησίαν («la iglesia en su casa [de ella]»), destacando a Ninfa como anfitriona y lideresa local en Laodicea."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 16,
+    "greek_text": "καὶ ὅταν ἀναγνωσθῇ παρ’ ὑμῖν ἡ ἐπιστολή, ποιήσατε ἵνα καὶ ἐν τῇ Λαοδικέων ἐκκλησίᾳ ἀναγνωσθῇ, καὶ τὴν ἐκ Λαοδικείας ἵνα καὶ ὑμεῖς ἀναγνῶτε.",
+    "translation": "Y cuando esta carta haya sido leída entre ustedes, hagan que se lea también en la iglesia de los laodicenses, y que la de Laodicea la lean también ustedes.",
+    "translation_notes": "Circulación temprana de las epístolas apostólicas: Pablo ordena el intercambio público de lectura entre iglesias vecinas. «La de Laodicea» suele asociarse con una carta circular (posiblemente Efesios o una epístola hoy perdida)."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 17,
+    "greek_text": "καὶ εἴπατε Ἀρχίππῳ· Βλέπε τὴν διακονίαν ἣν παρέλαβες ἐν κυρίῳ, ἵνα αὐτὴν πληροῖς.",
+    "translation": "Y díganle a Arquipo: «Mira el ministerio que recibiste en el Señor, para que lo cumplas».",
+    "translation_notes": "Exhortación comunitaria a Arquipo (cf. Flm 2): βλέπε τὴν διακονίαν («cuida/atiende el servicio ministerial que recibiste»), animándolo a llevarlo a pleno cumplimiento (πληροῖς)."
+  },
+  {
+    "book": "COL",
+    "chapter": 4,
+    "verse": 18,
+    "greek_text": "Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου. μνημονεύετέ μου τῶν δεσμῶν. ἡ χάρις μεθ’ ὑμῶν.",
+    "translation": "El saludo es de mi propia mano, Pablo. Acuérdense de mis cadenas. La gracia sea con ustedes.",
+    "translation_notes": "Firma autógrafa de autenticación al final del dictado: τῇ ἐμῇ χειρὶ Παύλου («de mi propia mano, de Pablo», cf. 2 Ts 3:17; 1 Co 16:21), con la conmovedora súplica «acuérdense de mis cadenas» (μνημονεύετέ μου τῶν δεσμῶν) y la bendición final."
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 1,
+    "greek_text": "Πέτρος ἀπόστολος Ἰησοῦ Χριστοῦ ἐκλεκτοῖς παρεπιδήμοις διασπορᾶς Πόντου, Γαλατίας, Καππαδοκίας, Ἀσίας, καὶ Βιθυνίας,",
+    "translation": "Pedro, apóstol de Jesucristo, a los peregrinos escogidos de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia,",
+    "translation_notes": "Prescripto dirigido a iglesias mayormente gentiles del norte y centro de Asia Menor: los llama ἐκλεκτοῖς παρεπιδήμοις («escogidos por Dios, pero residentes extranjeros/peregrinos en el mundo»), aplicando el lenguaje de la diáspora judía a la iglesia cristiana."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 2,
+    "greek_text": "κατὰ πρόγνωσιν θεοῦ πατρός, ἐν ἁγιασμῷ πνεύματος, εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ· χάρις ὑμῖν καὶ εἰρήνη πληθυνθείη.",
+    "translation": "escogidos según el previo conocimiento de Dios Padre, en la santificación del Espíritu, para obedecer y ser rociados con la sangre de Jesucristo: Gracia y paz les sean multiplicadas.",
+    "translation_notes": "Saludo trinitario completo: elección según la πρόγνωσις («conocimiento amoroso previo») del Padre, realizada en la santificación del Espíritu (ἐν ἁγιασμῷ πνεύματος), con miras a la obediencia y aspersión de la sangre de Cristo (eco del pacto en el Sinaí, Éx 24:6–8)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 3,
+    "greek_text": "Εὐλογητὸς ὁ θεὸς καὶ πατὴρ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὁ κατὰ τὸ πολὺ αὐτοῦ ἔλεος ἀναγεννήσας ἡμᾶς εἰς ἐλπίδα ζῶσαν δι’ ἀναστάσεως Ἰησοῦ Χριστοῦ ἐκ νεκρῶν,",
+    "translation": "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, quien según su gran misericordia nos hizo nacer de nuevo a una esperanza viva mediante la resurrección de Jesucristo de entre los muertos,",
+    "translation_notes": "Doxología de apertura (vv. 3–5): ἀναγεννήσας («nos engendró de nuevo», verbo exclusivo de 1 Pedro en el NT, vv. 3 y 23) por su abundante misericordia hacia una «esperanza viva» (ἐλπίδα ζῶσαν), garantizada por la resurrección histórica de Jesús."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 4,
+    "greek_text": "εἰς κληρονομίαν ἄφθαρτον καὶ ἀμίαντον καὶ ἀμάραντον, τετηρημένην ἐν οὐρανοῖς εἰς ὑμᾶς",
+    "translation": "para una herencia incorruptible, incontaminada e inmarchitable, reservada en los cielos para ustedes,",
+    "translation_notes": "Tres adjetivos con alfa privativa para describir la herencia eterna frente a las posesiones terrenales caducas: ἄφθαρτον («no sujeta a deterioro/muerte»), ἀμίαντον («sin mancha/contaminación») y ἀμάραντον («que jamás se marchita como una flor»), guardada (τετηρημένην, perfecto pasivo) en el cielo."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 5,
+    "greek_text": "τοὺς ἐν δυνάμει θεοῦ φρουρουμένους διὰ πίστεως εἰς σωτηρίαν ἑτοίμην ἀποκαλυφθῆναι ἐν καιρῷ ἐσχάτῳ.",
+    "translation": "quienes son guardados por el poder de Dios mediante la fe para alcanzar la salvación que está lista para ser revelada en el tiempo postrero.",
+    "translation_notes": "Doble seguridad: la herencia está guardada arriba (v. 4) y los creyentes están custodiados abajo (φρουρουμένους, término militar de guarnición protectora) por el poder de Dios a través de la fe."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 6,
+    "greek_text": "ἐν ᾧ ἀγαλλιᾶσθε, ὀλίγον ἄρτι εἰ δέον λυπηθέντες ἐν ποικίλοις πειρασμοῖς,",
+    "translation": "En lo cual ustedes se alegran grandemente, aunque ahora por un poco de tiempo, si es necesario, tengan que ser afligidos en diversas pruebas,",
+    "translation_notes": "Contraste realista: ἀγαλλιᾶσθε («se regocijan con júbilo desbordante») aunque por un breve lapso (ὀλίγον ἄρτι) atraviesen pruebas variadas (ποικίλοις πειρασμοῖς, cf. Stg 1:2)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 7,
+    "greek_text": "ἵνα τὸ δοκίμιον ὑμῶν τῆς πίστεως πολυτιμότερον χρυσίου τοῦ ἀπολλυμένου διὰ πυρὸς δὲ δοκιμαζομένου εὑρεθῇ εἰς ἔπαινον καὶ δόξαν καὶ τιμὴν ἐν ἀποκαλύψει Ἰησοῦ Χριστοῦ.",
+    "translation": "para que la prueba de su fe —mucho más preciosa que el oro, el cual aunque perecedero es probado por fuego— sea hallada en alabanza, gloria y honra cuando sea manifestado Jesucristo;",
+    "translation_notes": "Metáfora del crisol refinador: el fuego no destruye la fe auténtica, sino que purifica su escoria (δοκίμιον) para recibir aprobación en la revelación final de Cristo."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 8,
+    "greek_text": "ὃν οὐκ ἰδόντες ἀγαπᾶτε, εἰς ὃν ἄρτι μὴ ὁρῶντες πιστεύοντες δὲ ἀγαλλιᾶσθε χαρᾷ ἀνεκλαλήτῳ καὶ δεδοξασμένῃ,",
+    "translation": "a quien aman sin haberlo visto; en quien creyendo, aunque ahora no lo ven, se alegran con gozo inefable y glorioso,",
+    "translation_notes": "Pedro —testigo ocular de Jesús— elogia a los lectores de Asia Menor que aman a Cristo sin haberlo visto físicamente (ὃν οὐκ ἰδόντες ἀγαπᾶτε, cf. Jn 20:29), llenos de χαρᾷ ἀνεκλαλήτῳ («gozo que rebasa toda palabra»)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 9,
+    "greek_text": "κομιζόμενοι τὸ τέλος τῆς πίστεως ὑμῶν σωτηρίαν ψυχῶν.",
+    "translation": "obteniendo el fin de su fe, que es la salvación de sus almas.",
+    "translation_notes": "Τὸ τέλος («la meta consumada») de la fe perseverante: la salvación plena e integral de sus vidas (σωτηρίαν ψυχῶν)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 10,
+    "greek_text": "Περὶ ἧς σωτηρίας ἐξεζήτησαν καὶ ἐξηραύνησαν προφῆται οἱ περὶ τῆς εἰς ὑμᾶς χάριτος προφητεύσαντες,",
+    "translation": "Acerca de esta salvación inquirieron e indagaron diligentemente los profetas que profetizaron de la gracia destinada a ustedes,",
+    "translation_notes": "Doble verbo de investigación intensa (ἐξεζήτησαν καὶ ἐξηραύνησαν): los profetas del Antiguo Testamento estudiaban sus propios oráculos acerca de la era mesiánica de gracia."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 11,
+    "greek_text": "ἐραυνῶντες εἰς τίνα ἢ ποῖον καιρὸν ἐδήλου τὸ ἐν αὐτοῖς πνεῦμα Χριστοῦ προμαρτυρόμενον τὰ εἰς Χριστὸν παθήματα καὶ τὰς μετὰ ταῦτα δόξας·",
+    "translation": "escudriñando qué persona o qué tiempo señalaba el Espíritu de Cristo que estaba en ellos, el cual predecía los sufrimientos de Cristo y las glorias que vendrían después de ellos.",
+    "translation_notes": "Cristología trinitaria del Antiguo Testamento: el Espíritu inspirador de los profetas es llamado τὸ ἐν αὐτοῖς πνεῦμα Χριστοῦ («el Espíritu de Cristo en ellos»), revelando el patrón mesiánico clave: primero sufrimientos (παθήματα) y luego glorias (δόξας, cf. Lc 24:26)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 12,
+    "greek_text": "οἷς ἀπεκαλύφθη ὅτι οὐχ ἑαυτοῖς ὑμῖν δὲ διηκόνουν αὐτά, ἃ νῦν ἀνηγγέλη ὑμῖν διὰ τῶν εὐαγγελισαμένων ὑμᾶς πνεύματι ἁγίῳ ἀποσταλέντι ἀπ’ οὐρανοῦ, εἰς ἃ ἐπιθυμοῦσιν ἄγγελοι παρακύψαι.",
+    "translation": "A ellos les fue revelado que no para sí mismos, sino para ustedes administraban estas cosas que ahora les han sido anunciadas por los que les predicaron el evangelio por el Espíritu Santo enviado del cielo; cosas en las cuales anhelan mirar los ángeles.",
+    "translation_notes": "Privilegio histórico del Nuevo Pacto: aquello que los profetas sirvieron y que incluso los ángeles «se inclinan con asombro a contemplar» (παρακύψαι, cf. Jn 20:5) ya fue predicado a ustedes por el Espíritu."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 13,
+    "greek_text": "Διὸ ἀναζωσάμενοι τὰς ὀσφύας τῆς διανοίας ὑμῶν, νήφοντες τελείως, ἐλπίσατε ἐπὶ τὴν φερομένην ὑμῖν χάριν ἐν ἀποκαλύψει Ἰησοῦ Χριστοῦ.",
+    "translation": "Por tanto, ciñan los lomos de su entendimiento, sean sobrios y pongan su esperanza por completo en la gracia que se les traerá cuando Jesucristo sea manifestado.",
+    "translation_notes": "Metáfora del Éxodo (Éx 12:11) y enseñanza de Jesús (Lc 12:35): ἀναζωσάμενοι τὰς ὀσφύας τῆς διανοίας («recójanse la túnica larga de la mente para estar listos para la marcha»), manteniendo lucidez mental (νήφοντες) y esperanza firme (ἐλπίσατε, imperativo principal)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 14,
+    "greek_text": "ὡς τέκνα ὑπακοῆς, μὴ συσχηματιζόμενοι ταῖς πρότερον ἐν τῇ ἀγνοίᾳ ὑμῶν ἐπιθυμίαις,",
+    "translation": "Como hijos obedientes, no se conformen a los deseos que antes tenían estando en su ignorancia,",
+    "translation_notes": "Τέκνα ὑπακοῆς («hijos caracterizados por obediencia»): no se amolden (μὴ συσχηματιζόμενοι, mismo verbo de Ro 12:2) a la vida anterior."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 15,
+    "greek_text": "ἀλλὰ κατὰ τὸν καλέσαντα ὑμᾶς ἅγιον καὶ αὐτοὶ ἅγιοι ἐν πάσῃ ἀναστροφῇ γενήθητε,",
+    "translation": "sino que, así como aquel que los llamó es santo, también ustedes sean santos en toda su manera de vivir;",
+    "translation_notes": "La santidad abarca toda esfera cotidiana (ἐν πάσῃ ἀναστροφῇ, «en toda conducta»)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 16,
+    "greek_text": "διότι γέγραπται ὅτι Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος.",
+    "translation": "porque escrito está: «Sean santos, porque yo soy santo».",
+    "translation_notes": "Cita textual de Levítico 11:44; 19:2 (LXX): el carácter de Dios es la norma ética de su pueblo."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 17,
+    "greek_text": "Καὶ εἰ πατέρα ἐπικαλεῖσθε τὸν ἀπροσωπολήμπτως κρίνοντα κατὰ τὸ ἑκάστου ἔργον, ἐν φόβῳ τὸν τῆς παροικίας ὑμῶν χρόνον ἀναστράφητε·",
+    "translation": "Y si invocan como Padre a aquel que sin acepción de personas juzga según la obra de cada uno, condúzcanse en temor todo el tiempo de su peregrinación;",
+    "translation_notes": "Equilibrio entre intimidad filial («invocan como Padre») y reverencia sagrada (ἐν φόβῳ) durante nuestra estancia extranjera en la tierra (παροικίας)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 18,
+    "greek_text": "εἰδότες ὅτι οὐ φθαρτοῖς, ἀργυρίῳ ἢ χρυσίῳ, ἐλυτρώθητε ἐκ τῆς ματαίας ὑμῶν ἀναστροφῆς πατροπαραδότου,",
+    "translation": "sabiendo que fueron rescatados de su vana manera de vivir, heredada de sus padres, no con cosas corruptibles como oro o plata,",
+    "translation_notes": "Ἐλυτρώθητε («fueron redimidos mediante pago de rescate», lenguaje de manumisión de esclavos y del Éxodo) de una conducta estéril heredada por tradición (πατροπαραδότου)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 19,
+    "greek_text": "ἀλλὰ τιμίῳ αἵματι ὡς ἀμνοῦ ἀμώμου καὶ ἀσπίλου Χριστοῦ,",
+    "translation": "sino con la sangre preciosa de Cristo, como de un cordero sin mancha y sin contaminación,",
+    "translation_notes": "El Cordero pascual y el Siervo sufriente (Éx 12:5; Is 53:7): ἄμωμος y ἄσπιλος («sin defecto físico ni mancha moral»)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 20,
+    "greek_text": "προεγνωσμένου μὲν πρὸ καταβολῆς κόσμου, φανερωθέντος δὲ ἐπ’ ἐσχάτου τῶν χρόνων δι’ ὑμᾶς",
+    "translation": "ya destinado desde antes de la fundación del mundo, pero manifestado en los últimos tiempos por amor a ustedes,",
+    "translation_notes": "La cruz no fue un plan de emergencia improvisado: Cristo fue conocido y designado de antemano (προεγνωσμένου) antes de la creación (πρὸ καταβολῆς κόσμου)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 21,
+    "greek_text": "τοὺς δι’ αὐτοῦ πιστοὺς εἰς θεὸν τὸν ἐγείραντα αὐτὸν ἐκ νεκρῶν καὶ δόξαν αὐτῷ δόντα, ὥστε τὴν πίστιν ὑμῶν καὶ ἐλπίδα εἶναι εἰς θεόν.",
+    "translation": "quienes por medio de él creen en Dios, el cual lo resucitó de entre los muertos y le dio gloria, de modo que la fe y la esperanza de ustedes estén en Dios.",
+    "translation_notes": "La resurrección y exaltación de Cristo fundamentan la fe y la esperanza directamente en Dios."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 22,
+    "greek_text": "Τὰς ψυχὰς ὑμῶν ἡγνικότες ἐν τῇ ὑπακοῇ τῆς ἀληθείας εἰς φιλαδελφίαν ἀνυπόκριτον ἐκ καρδίας ἀλλήλους ἀγαπήσατε ἐκτενῶς,",
+    "translation": "Habiendo purificado sus almas por la obediencia a la verdad para un amor fraternal sincero, ámense unos a otros entrañablemente, de corazón puro,",
+    "translation_notes": "Amor intenso y perseverante: ἐκτενῶς (ektenōs, «estirado al máximo/ferviente y constante», sin hipocresía, ἀνυπόκριτον)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 23,
+    "greek_text": "ἀναγεγεννημένοι οὐκ ἐκ σπορᾶς φθαρτῆς ἀλλὰ ἀφθάρτου, διὰ λόγου ζῶντος θεοῦ καὶ μένοντος·",
+    "translation": "siendo renacidos, no de simiente corruptible, sino de incorruptible, por medio de la palabra de Dios que vive y permanece.",
+    "translation_notes": "El nuevo nacimiento proviene de semilla imperecedera (σπορᾶς ἀφθάρτου): la palabra viva y eterna de Dios (cf. Stg 1:18)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 24,
+    "greek_text": "διότι πᾶσα σὰρξ ὡς χόρτος, καὶ πᾶσα δόξα αὐτῆς ὡς ἄνθος χόρτου· ἐξηράνθη ὁ χόρτος, καὶ τὸ ἄνθος ἐξέπεσεν·",
+    "translation": "Porque «toda carne es como hierba, y toda su gloria como flor de la hierba; la hierba se seca, y la flor se cae,",
+    "translation_notes": "Cita de Isaías 40:6–8 LXX (vv. 24–25): todo esplendor humano es pasajero frente a la eternidad de la palabra divina."
+  },
+  {
+    "book": "1PE",
+    "chapter": 1,
+    "verse": 25,
+    "greek_text": "τὸ δὲ ῥῆμα κυρίου μένει εἰς τὸν αἰῶνα. τοῦτο δέ ἐστιν τὸ ῥῆμα τὸ εὐαγγελισθὲν εἰς ὑμᾶς.",
+    "translation": "mas la palabra del Señor permanece para siempre». Y esta es la palabra que por el evangelio les ha sido anunciada.",
+    "translation_notes": "Identificación directa: la palabra eterna de Is 40:8 es exactamente «el mensaje que les fue anunciado como evangelio» (τὸ ῥῆμα τὸ εὐαγγελισθέν)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 1,
+    "greek_text": "Ἀποθέμενοι οὖν πᾶσαν κακίαν καὶ πάντα δόλον καὶ ὑποκρίσεις καὶ φθόνους καὶ πάσας καταλαλιάς,",
+    "translation": "Desechando, pues, toda malicia, todo engaño, hipocresía, envidias y toda maledicencia,",
+    "translation_notes": "Cinco pecados que destruyen la comunión fraterna (κακία, δόλος, ὑποκρίσεις, φθόνοι, καταλαλιαί), que deben quitarse como ropa vieja (ἀποθέμενοι)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 2,
+    "greek_text": "ὡς ἀρτιγέννητα βρέφη τὸ λογικὸν ἄδολον γάλα ἐπιποθήσατε, ἵνα ἐν αὐτῷ αὐξηθῆτε εἰς σωτηρίαν,",
+    "translation": "deseen con ansia, como niños recién nacidos, la leche espiritual no adulterada, para que por ella crezcan para salvación,",
+    "translation_notes": "Τὸ λογικὸν ἄδολον γάλα («la leche espiritual/racional pura y sin engaño», juego verbal con δόλος «engaño» del v. 1 y λόγος «palabra» de 1:23): todos los creyentes, nuevos o maduros, deben anhelar (ἐπιποθήσατε) la Palabra como un recién nacido la leche."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 3,
+    "greek_text": "εἰ ἐγεύσασθε ὅτι χρηστὸς ὁ κύριος.",
+    "translation": "si es que han probado que el Señor es bueno.",
+    "translation_notes": "Eco de Salmo 34:8 LXX (χρηστός, «bondadoso/benigno», con leve asonancia en griego con Χριστός, «Cristo»)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 4,
+    "greek_text": "Πρὸς ὃν προσερχόμενοι, λίθον ζῶντα, ὑπὸ ἀνθρώπων μὲν ἀποδεδοκιμασμένον παρὰ δὲ θεῷ ἐκλεκτὸν ἔντιμον",
+    "translation": "Acercándose a él, piedra viva, desechada ciertamente por los hombres, pero para Dios escogida y preciosa,",
+    "translation_notes": "Paradoja poética: λίθος ζῶν («piedra viva» —Cristo resucitado—), rechazada por los constructores humanos pero elegida y de altísimo valor (ἔντιμον) delante de Dios."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 5,
+    "greek_text": "καὶ αὐτοὶ ὡς λίθοι ζῶντες οἰκοδομεῖσθε οἶκος πνευματικὸς εἰς ἱεράτευμα ἅγιον, ἀνενέγκαι πνευματικὰς θυσίας εὐπροσδέκτους θεῷ διὰ Ἰησοῦ Χριστοῦ·",
+    "translation": "también ustedes, como piedras vivas, sean edificados como casa espiritual para un sacerdocio santo, a fin de ofrecer sacrificios espirituales aceptables a Dios por medio de Jesucristo.",
+    "translation_notes": "La iglesia reemplaza al templo físico de piedra: cada creyente es «piedra viva» edificada en una «casa espiritual» (οἶκος πνευματικός) y un «sacerdocio santo» (ἱεράτευμα ἅγιον) que ofrece sacrificios espirituales de alabanza, amor y servicio (Ro 12:1; Heb 13:15–16)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 6,
+    "greek_text": "διότι περιέχει ἐν γραφῇ· Ἰδοὺ τίθημι ἐν Σιὼν λίθον ἀκρογωνιαῖον ἐκλεκτὸν ἔντιμον, καὶ ὁ πιστεύων ἐπ’ αὐτῷ οὐ μὴ καταισχυνθῇ.",
+    "translation": "Por lo cual también contiene la Escritura: «He aquí, pongo en Sion la principal piedra del ángulo, escogida, preciosa; y el que cree en ella no será avergonzado».",
+    "translation_notes": "Cita de Isaías 28:16 LXX (vv. 6–8 enlazan tres textos mesiánicos del AT sobre la Piedra: Is 28:16, Sal 118:22 e Is 8:14)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 7,
+    "greek_text": "ὑμῖν οὖν ἡ τιμὴ τοῖς πιστεύουσιν· ἀπιστοῦσιν δὲ λίθος ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας",
+    "translation": "Para ustedes, pues, los que creen, ella es preciosa; pero para los que no creen, «la piedra que desecharon los edificadores ha venido a ser la cabeza del ángulo»,",
+    "translation_notes": "Cita del Salmo 118:22 (LXX 117:22), aplicada por Jesús mismo a su rechazo y vindicación (Mt 21:42): ἡ τιμή («el honor/valor precioso») pertenece a quienes confían en él."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 8,
+    "greek_text": "καὶ λίθος προσκόμματος καὶ πέτρα σκανδάλου· οἳ προσκόπτουσιν τῷ λόγῳ ἀπειθοῦντες· εἰς ὃ καὶ ἐτέθησαν.",
+    "translation": "y «piedra de tropiezo y roca que hace caer»; porque tropiezan al desobedecer la palabra, para lo cual también fueron destinados.",
+    "translation_notes": "Cita de Isaías 8:14: quienes rechazan persistentemente la palabra tropiezan con la Piedra angular, cumpliendo la consecuencia decretada por Dios para la incredulidad obstinada (εἰς ὃ καὶ ἐτέθησαν)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 9,
+    "greek_text": "Ὑμεῖς δὲ γένος ἐκλεκτόν, βασίλειον ἱεράτευμα, ἔθνος ἅγιον, λαὸς εἰς περιποίησιν, ὅπως τὰς ἀρετὰς ἐξαγγείλητε τοῦ ἐκ σκότους ὑμᾶς καλέσαντος εἰς τὸ θαυμαστὸν αὐτοῦ φῶς·",
+    "translation": "Pero ustedes son linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios, para que anuncien las virtudes de aquel que los llamó de las tinieblas a su luz admirable;",
+    "translation_notes": "Cumbre teológica de 1 Pedro: aplica a la iglesia (incluidos gentiles) los cuatro títulos pactales de Israel en Éx 19:5–6 e Is 43:20–21: γένος ἐκλεκτόν («linaje elegido»), βασίλειον ἱεράτευμα («sacerdocio real» —reyes y sacerdotes pertenecientes al Rey—), ἔθνος ἅγιον («nación consagrada») y λαὸς εἰς περιποίησιν («pueblo de propiedad exclusiva de Dios»), con la misión de proclamar sus obras maravillosas (τὰς ἀρετάς)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 10,
+    "greek_text": "οἵ ποτε οὐ λαὸς νῦν δὲ λαὸς θεοῦ, οἱ οὐκ ἠλεημένοι νῦν δὲ ἐλεηθέντες.",
+    "translation": "ustedes, que en otro tiempo no eran pueblo, pero ahora son pueblo de Dios; que no habían alcanzado misericordia, pero ahora han alcanzado misericordia.",
+    "translation_notes": "Alusión directa a Oseas 1:6, 9; 2:23 (cf. Ro 9:25): de «Lo-ammí» («no pueblo mío») a pueblo amado y perdonado por pura misericordia."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 11,
+    "greek_text": "Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπέχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν, αἵτινες στρατεύονται κατὰ τῆς ψυχῆς·",
+    "translation": "Amados, les ruego como a extranjeros y peregrinos que se abstengan de los deseos carnales que batallan contra el alma,",
+    "translation_notes": "Inicio de la segunda sección ética (2:11–4:11): «extranjeros y residentes temporales» (παροίκους καὶ παρεπιδήμους). Los deseos desordenados hacen guerra militar (στρατεύονται) contra la vida interior."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 12,
+    "greek_text": "τὴν ἀναστροφὴν ὑμῶν ἐν τοῖς ἔθνεσιν ἔχοντες καλήν, ἵνα, ἐν ᾧ καταλαλοῦσιν ὑμῶν ὡς κακοποιῶν, ἐκ τῶν καλῶν ἔργων ἐποπτεύοντες δοξάσωσι τὸν θεὸν ἐν ἡμέρᾳ ἐπισκοπῆς.",
+    "translation": "manteniendo buena su manera de vivir entre los gentiles, para que en aquello en que murmuran de ustedes como de malhechores, al observar sus buenas obras, glorifiquen a Dios en el día de la visitación.",
+    "translation_notes": "Apologética mediante la vida diaria: la conducta íntegra silencia calumnias paganas y lleva a muchos a glorificar a Dios «en el día de su visitación» (ἐν ἡμέρᾳ ἐπισκοπῆς, al ser visitados por la gracia salvadora o en el día final, eco de Mt 5:16)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 13,
+    "greek_text": "Ὑποτάγητε πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον· εἴτε βασιλεῖ ὡς ὑπερέχοντι,",
+    "translation": "Sométanse por causa del Señor a toda institución humana, ya sea al rey como superior,",
+    "translation_notes": "Deber cívico (vv. 13–17): πάσῃ ἀνθρωπίνῃ κτίσει («toda autoridad/institución establecida entre los hombres», incluso el emperador romano, βασιλεῖ), motivado «por causa del Señor» (διὰ τὸν κύριον)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 14,
+    "greek_text": "εἴτε ἡγεμόσιν ὡς δι’ αὐτοῦ πεμπομένοις εἰς ἐκδίκησιν κακοποιῶν ἔπαινον δὲ ἀγαθοποιῶν",
+    "translation": "ya a los gobernadores, como enviados por él para castigo de los malhechores y alabanza de los que hacen el bien.",
+    "translation_notes": "Reconoce la función providencial del gobierno civil de frenar el crimen y proteger el bien (cf. Ro 13:3–4)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 15,
+    "greek_text": "(ὅτι οὕτως ἐστὶν τὸ θέλημα τοῦ θεοῦ, ἀγαθοποιοῦντας φιμοῦν τὴν τῶν ἀφρόνων ἀνθρώπων ἀγνωσίαν)·",
+    "translation": "Porque esta es la voluntad de Dios: que haciendo el bien, hagan callar la ignorancia de los hombres insensatos;",
+    "translation_notes": "El verbo φιμοῦν («poner bozal/amordazar», cf. Mt 22:34; Mc 1:25) muestra que el bien activo silencia los prejuicios infundados mejor que las discusiones airadas."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 16,
+    "greek_text": "ὡς ἐλεύθεροι, καὶ μὴ ὡς ἐπικάλυμμα ἔχοντες τῆς κακίας τὴν ἐλευθερίαν, ἀλλ’ ὡς θεοῦ δοῦλοι.",
+    "translation": "como libres, pero no usando la libertad como pretexto para la maldad, sino como siervos de Dios.",
+    "translation_notes": "Paradoja cristiana: verdaderamente libres en Cristo, pero usando esa libertad como «esclavos/siervos de Dios» (θεοῦ δοῦλοι), no como excusa (ἐπικάλυμμα, «velo encubridor») para el mal."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 17,
+    "greek_text": "πάντας τιμήσατε, τὴν ἀδελφότητα ἀγαπᾶτε, τὸν θεὸν φοβεῖσθε, τὸν βασιλέα τιμᾶτε.",
+    "translation": "Honren a todos, amen a la hermandad, teman a Dios, honren al rey.",
+    "translation_notes": "Cuatro mandatos breves con distinción teológica sutil: honra (τιμή) a todos los hombres y al emperador, amor fraternal (ἀγάπη) a la iglesia, pero temor reverente (φόβος) **únicamente a Dios** (opuesto al culto divino al César)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 18,
+    "greek_text": "Οἱ οἰκέται ὑποτασσόμενοι ἐν παντὶ φόβῳ τοῖς δεσπόταις, οὐ μόνον τοῖς ἀγαθοῖς καὶ ἐπιεικέσιν ἀλλὰ καὶ τοῖς σκολιοῖς.",
+    "translation": "Siervos domésticos, estén sujetos con todo respeto a sus amos, no solamente a los buenos y amables, sino también a los difíciles.",
+    "translation_notes": "Οἱ οἰκέται («criados/siervos domésticos», muy numerosos en las iglesias urbanas): σκολιοῖς («torcidos/ásperos/injustos»)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 19,
+    "greek_text": "τοῦτο γὰρ χάρις εἰ διὰ συνείδησιν θεοῦ ὑποφέρει τις λύπας πάσχων ἀδίκως·",
+    "translation": "Porque esto merece aprobación, si alguno, por causa de su conciencia delante de Dios, soporta aflicciones padeciendo injustamente.",
+    "translation_notes": "Τοῦτο γὰρ χάρις («esto es gracia/hace grato a Dios»): sufrir injusticia manteniendo limpia la conciencia ante Dios (διὰ συνείδησιν θεοῦ)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 20,
+    "greek_text": "ποῖον γὰρ κλέος εἰ ἁμαρτάνοντες καὶ κολαφιζόμενοι ὑπομενεῖτε; ἀλλ’ εἰ ἀγαθοποιοῦντες καὶ πάσχοντες ὑπομενεῖτε, τοῦτο χάρις παρὰ θεῷ.",
+    "translation": "Pues ¿qué mérito hay si, pecando y siendo abofeteados, lo soportan? Pero si haciendo el bien y sufriendo lo soportan, esto ciertamente es aprobado delante de Dios.",
+    "translation_notes": "No se elogia el sufrimiento merecido por faltas, sino la paciencia mansa al sufrir injustamente por hacer el bien."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 21,
+    "greek_text": "εἰς τοῦτο γὰρ ἐκλήθητε, ὅτι καὶ Χριστὸς ἔπαθεν ὑπὲρ ὑμῶν, ὑμῖν ὑπολιμπάνων ὑπογραμμὸν ἵνα ἐπακολουθήσητε τοῖς ἴχνεσιν αὐτοῦ·",
+    "translation": "Pues para esto fueron llamados; porque también Cristo padeció por ustedes, dejándoles ejemplo para que sigan sus pisadas,",
+    "translation_notes": "Dos palabras gráficas preciosas: ὑπογραμμόν (hypogrammon, «muestra caligráfica de letras trazadas para que el escolar las calque encima») y τοῖς ἴχνεσιν («las huellas exactas» de los pasos de Cristo)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 22,
+    "greek_text": "ὃς ἁμαρτίαν οὐκ ἐποίησεν οὐδὲ εὑρέθη δόλος ἐν τῷ στόματι αὐτοῦ·",
+    "translation": "el cual no cometió pecado, ni se halló engaño en su boca;",
+    "translation_notes": "Inicio de la meditación sobre el Siervo Sufriente de Isaías 53 (vv. 22–25): cita textual de Is 53:9 LXX."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 23,
+    "greek_text": "ὃς λοιδορούμενος οὐκ ἀντελοιδόρει, πάσχων οὐκ ἠπείλει, παρεδίδου δὲ τῷ κρίνοντι δικαίως·",
+    "translation": "quien cuando lo ultrajaban, no respondía con ultrajes; cuando padecía, no amenazaba, sino que encomendaba la causa al que juzga justamente;",
+    "translation_notes": "Pedro fue testigo ocular de la pasión de Jesús (Mt 26–27): Jesús no devolvió insultos ni amenazas, sino que siguió entregándose (παρεδίδου, imperfecto continuo) al Padre justo."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 24,
+    "greek_text": "ὃς τὰς ἁμαρτίας ἡμῶν αὐτὸς ἀνήνεγκεν ἐν τῷ σώματι αὐτοῦ ἐπὶ τὸ ξύλον, ἵνα ταῖς ἁμαρτίαις ἀπογενόμενοι τῇ δικαιοσύνῃ ζήσωμεν· οὗ τῷ μώλωπι ἰάθητε.",
+    "translation": "quien llevó él mismo nuestros pecados en su cuerpo sobre el madero, para que nosotros, habiendo muerto a los pecados, vivamos a la justicia; por cuya herida fueron sanados.",
+    "translation_notes": "Expiación sustitutiva (Is 53:4–5, 11–12): ἀνήνεγκεν («llevó hacia arriba como sacrificio sobre el altar») nuestros pecados sobre «el madero» (τὸ ξύλον, alusión a la maldición de Dt 21:23 cargada por Cristo en la cruz). Τῷ μώλωπι («por su llaga/herida de azote» en singular) fuimos sanados espiritualmente."
+  },
+  {
+    "book": "1PE",
+    "chapter": 2,
+    "verse": 25,
+    "greek_text": "ἦτε γὰρ ὡς πρόβατα πλανώμενοι, ἀλλὰ ἐπεστράφητε νῦν ἐπὶ τὸν ποιμένα καὶ ἐπίσκοπον τῶν ψυχῶν ὑμῶν.",
+    "translation": "Porque ustedes eran como ovejas descarriadas, pero ahora han vuelto al Pastor y Obispo de sus almas.",
+    "translation_notes": "Eco de Is 53:6 y Ez 34: llama a Cristo «Pastor y Guardián/Obispo» (ποιμένα καὶ ἐπίσκοπον) de nuestras vidas."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 1,
+    "greek_text": "Ὁμοίως γυναῖκες ὑποτασσόμεναι τοῖς ἰδίοις ἀνδράσιν, ἵνα καὶ εἴ τινες ἀπειθοῦσιν τῷ λόγῳ διὰ τῆς τῶν γυναικῶν ἀναστροφῆς ἄνευ λόγου κερδηθήσονται",
+    "translation": "Asimismo ustedes, esposas, estén sujetas a sus propios esposos, para que también, si algunos no creen a la palabra, sean ganados sin palabra por la conducta de sus esposas,",
+    "translation_notes": "Situación misionera real en matrimonios mixtos (esposa creyente con esposo aún incrédulo): mediante una vida respetuosa y serena pueden ser «ganados» (κερδηθήσονται, cf. 1 Co 9:19) sin sermones insistentes (ἄνευ λόγου)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 2,
+    "greek_text": "ἐποπτεύσαντες τὴν ἐν φόβῳ ἁγνὴν ἀναστροφὴν ὑμῶν.",
+    "translation": "al observar la conducta casta y respetuosa de ustedes.",
+    "translation_notes": "Τὴν ἐν φόβῳ ἁγνὴν ἀναστροφήν («su conducta pura acompañada de respeto reverente»)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 3,
+    "greek_text": "ὧν ἔστω οὐχ ὁ ἔξωθεν ἐμπλοκῆς τριχῶν καὶ περιθέσεως χρυσίων ἢ ἐνδύσεως ἱματίων κόσμος,",
+    "translation": "El adorno de ustedes no sea el externo de peinados ostentosos, de atavío de oro o de vestiduras lujosas,",
+    "translation_notes": "Κόσμος («adorno/arreglo»): contrasta la apariencia externa perecedera (cf. 1 Ti 2:9) con la belleza interior incorruptible (v. 4)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 4,
+    "greek_text": "ἀλλ’ ὁ κρυπτὸς τῆς καρδίας ἄνθρωπος ἐν τῷ ἀφθάρτῳ τοῦ πραέως καὶ ἡσυχίου πνεύματος, ὅ ἐστιν ἐνώπιον τοῦ θεοῦ πολυτελές.",
+    "translation": "sino el hombre interior del corazón, en el adorno incorruptible de un espíritu afable y apacible, lo cual es de gran valor delante de Dios.",
+    "translation_notes": "Ὁ κρυπτὸς τῆς καρδίας ἄνθρωπος («la persona escondida del corazón»): un espíritu manso (πραέως) y sereno (ἡσυχίου) es «sumamente costoso/precioso» (πολυτελές) a los ojos de Dios."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 5,
+    "greek_text": "οὕτως γάρ ποτε καὶ αἱ ἅγιαι γυναῖκες αἱ ἐλπίζουσαι εἰς θεὸν ἐκόσμουν ἑαυτάς, ὑποτασσόμεναι τοῖς ἰδίοις ἀνδράσιν,",
+    "translation": "Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios, estando sujetas a sus propios esposos,",
+    "translation_notes": "La verdadera fortaleza de las matriarcas del AT radicaba en que «esperaban en Dios» (αἱ ἐλπίζουσαι εἰς θεόν)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 6,
+    "greek_text": "ὡς Σάρρα ὑπήκουσεν τῷ Ἀβραάμ, κύριον αὐτὸν καλοῦσα· ἧς ἐγενήθητε τέκνα ἀγαθοποιοῦσαι καὶ μὴ φοβούμεναι μηδεμίαν πτόησιν.",
+    "translation": "como Sara obedeció a Abraham, llamándolo señor; de la cual ustedes han venido a ser hijas si hacen el bien sin temer ninguna amenaza.",
+    "translation_notes": "Alusión a Gn 18:12: el llamado a vivir como hijas de Sara haciendo el bien sin miedo paralizante (μὴ φοβούμεναι μηδεμίαν πτόησιν, muy necesario cuando el esposo pagano podía reaccionar con hostilidad)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 7,
+    "greek_text": "Οἱ ἄνδρες ὁμοίως συνοικοῦντες κατὰ γνῶσιν, ὡς ἀσθενεστέρῳ σκεύει τῷ γυναικείῳ ἀπονέμοντες τιμήν, ὡς καὶ συγκληρονόμοις χάριτος ζωῆς, εἰς τὸ μὴ ἐγκόπτεσθαι τὰς προσευχὰς ὑμῶν.",
+    "translation": "Ustedes, esposos, igualmente vivan con ellas con comprensión, dando honor a la mujer como a vaso más frágil, y como a coherederas de la gracia de la vida, para que sus oraciones no tengan estorbo.",
+    "translation_notes": "Mandato contracultural al marido: convivir «conforme a conocimiento/comprensión» (κατὰ γνῶσιν), tratándola con honor (τιμήν) reconociendo tanto su vulnerabilidad física media en el hogar antiguo (ἀσθενεστέρῳ σκεύει, no inferioridad espiritual ni intelectual) como su plena igualdad espiritual: «coherederas de la gracia de la vida» (συγκληρονόμοις χάριτος ζωῆς). El trato injusto bloquea literalmente las oraciones (ἐγκόπτεσθαι)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 8,
+    "greek_text": "Τὸ δὲ τέλος πάντες ὁμόφρονες, συμπαθεῖς, φιλάδελφοι, εὔσπλαγχνοι, ταπεινόφρονες,",
+    "translation": "En resumen, sean todos de un mismo sentir, compasivos, amándose fraternalmente, misericordiosos, humildes;",
+    "translation_notes": "Cinco adjetivos en orden concéntrico que resumen la vida comunitaria: ὁμόφρονες (armonía de mente), συμπαθεῖς (empatía compartida), φιλάδελφοι (afecto fraterno), εὔσπλαγχνοι (compasivos de entrañas) y ταπεινόφρονες (humildes)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 9,
+    "greek_text": "μὴ ἀποδιδόντες κακὸν ἀντὶ κακοῦ ἢ λοιδορίαν ἀντὶ λοιδορίας τοὐναντίον δὲ εὐλογοῦντες, ὅτι εἰς τοῦτο ἐκλήθητε ἵνα εὐλογίαν κληρονομήσητε.",
+    "translation": "no devolviendo mal por mal, ni insulto por insulto, sino al contrario, bendiciendo, sabiendo que para esto fueron llamados, para heredar bendición.",
+    "translation_notes": "Eco de Lc 6:28 y Ro 12:14: responder al insulto (λοιδορία) con bendición (εὐλογοῦντες), pues los creyentes están destinados a heredar bendición."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 10,
+    "greek_text": "ὁ γὰρ θέλων ζωὴν ἀγαπᾶν καὶ ἰδεῖν ἡμέρας ἀγαθὰς παυσάτω τὴν γλῶσσαν ἀπὸ κακοῦ καὶ χείλη τοῦ μὴ λαλῆσαι δόλον,",
+    "translation": "Porque «el que quiere amar la vida y ver días buenos, refrene su lengua del mal y sus labios no hablen engaño;",
+    "translation_notes": "Cita extensa del Salmo 34:12–16 LXX (vv. 10–12) como fundamento escritural de la paz y la paciencia bajo persecución."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 11,
+    "greek_text": "ἐκκλινάτω δὲ ἀπὸ κακοῦ καὶ ποιησάτω ἀγαθόν, ζητησάτω εἰρήνην καὶ διωξάτω αὐτήν·",
+    "translation": "apártese del mal y haga el bien; busque la paz y sígala.",
+    "translation_notes": "Continuación del Salmo 34:14 LXX: la paz no se espera pasivamente, se busca y persigue (διωξάτω)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 12,
+    "greek_text": "ὅτι ὀφθαλμοὶ κυρίου ἐπὶ δικαίους καὶ ὦτα αὐτοῦ εἰς δέησιν αὐτῶν, πρόσωπον δὲ κυρίου ἐπὶ ποιοῦντας κακά.",
+    "translation": "Porque los ojos del Señor están sobre los justos, y sus oídos atentos a sus oraciones; pero el rostro del Señor está contra los que hacen el mal».",
+    "translation_notes": "Promesa de cuidado atento de Dios hacia los justos perseguidos (Sal 34:15–16 LXX)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 13,
+    "greek_text": "Καὶ τίς ὁ κακώσων ὑμᾶς ἐὰν τοῦ ἀγαθοῦ ζηλωταὶ γένησθε;",
+    "translation": "¿Y quién es aquel que les podrá hacer daño, si ustedes son celosos por lo bueno?",
+    "translation_notes": "Pregunta retórica consoladora (eco de Is 50:9; Ro 8:31): nadie puede causar daño eterno a quien hace el bien."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 14,
+    "greek_text": "ἀλλ’ εἰ καὶ πάσχοιτε διὰ δικαιοσύνην, μακάριοι. τὸν δὲ φόβον αὐτῶν μὴ φοβηθῆτε μηδὲ ταραχθῆτε,",
+    "translation": "Pero aun si padecen por causa de la justicia, bienaventurados son. No tengan temor de lo que ellos temen ni se turben,",
+    "translation_notes": "Eco de Mt 5:10 e Is 8:12–13 LXX: en medio de hostilidad social, no se dejen intimidar por amenazas humanas."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 15,
+    "greek_text": "κύριον δὲ τὸν Χριστὸν ἁγιάσατε ἐν ταῖς καρδίαις ὑμῶν, ἕτοιμοι ἀεὶ πρὸς ἀπολογίαν παντὶ τῷ αἰτοῦντι ὑμᾶς λόγον περὶ τῆς ἐν ὑμῖν ἐλπίδος,",
+    "translation": "sino santifiquen a Cristo como Señor en sus corazones, estando siempre preparados para presentar defensa ante todo el que les demande razón de la esperanza que hay en ustedes,",
+    "translation_notes": "Cristología explícita: Pedro toma «al Señor de los ejércitos santificad» de Is 8:13 y lo aplica directamente a Cristo: κύριον τὸν Χριστὸν ἁγιάσατε («consagren a Cristo como el Señor santo en sus corazones»). Ἀπολογία (apologia, «defensa razonada y serena») de nuestra esperanza."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 16,
+    "greek_text": "ἀλλὰ μετὰ πραΰτητος καὶ φόβου, συνείδησιν ἔχοντες ἀγαθήν, ἵνα ἐν ᾧ καταλαλεῖσθε καταισχυνθῶσιν οἱ ἐπηρεάζοντες ὑμῶν τὴν ἀγαθὴν ἐν Χριστῷ ἀναστροφήν.",
+    "translation": "pero háganlo con mansedumbre y respeto, teniendo buena conciencia, para que en aquello en que los calumnian, sean avergonzados los que difaman su buena conducta en Cristo.",
+    "translation_notes": "El tono importa tanto como el argumento: μετὰ πραΰτητος καὶ φόβου («con mansedumbre humilde y respeto reverente»), respaldado por una conciencia limpia."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 17,
+    "greek_text": "κρεῖττον γὰρ ἀγαθοποιοῦντας, εἰ θέλοι τὸ θέλημα τοῦ θεοῦ, πάσχειν ἢ κακοποιοῦντας.",
+    "translation": "Porque mejor es que padezcan haciendo el bien, si la voluntad de Dios así lo quiere, que haciendo el mal.",
+    "translation_notes": "Principio ético de 2:20 aplicado a toda la iglesia."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 18,
+    "greek_text": "ὅτι καὶ Χριστὸς ἅπαξ περὶ ἁμαρτιῶν ἔπαθεν, δίκαιος ὑπὲρ ἀδίκων, ἵνα ὑμᾶς προσαγάγῃ τῷ θεῷ, θανατωθεὶς μὲν σαρκὶ ζῳοποιηθεὶς δὲ πνεύματι·",
+    "translation": "Porque también Cristo padeció una sola vez por los pecados, el justo por los injustos, para llevarnos a Dios; habiendo muerto en la carne, pero vivificado en el espíritu;",
+    "translation_notes": "Fórmula redentora central: ἅπαξ («una sola vez para siempre», irrepetible), δίκαιος ὑπὲρ ἀδίκων («el Justo en lugar de los injustos») para darnos acceso a Dios (προσαγάγῃ τῷ θεῷ). Contrastado: muerto en su existencia física humana (σαρκί) y resucitado por el poder del Espíritu (ζῳοποιηθεὶς πνεύματι)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 19,
+    "greek_text": "ἐν ᾧ καὶ τοῖς ἐν φυλακῇ πνεύμασιν πορευθεὶς ἐκήρυξεν,",
+    "translation": "en el cual también fue y predicó a los espíritus encarcelados,",
+    "translation_notes": "Pasaje célebre y debatido (vv. 19–20): «los espíritus en prisión» (τοῖς ἐν φυλακῇ πνεύμασιν) han sido interpretados principalmente como: 1) los ángeles rebeldes de los días de Noé (Gn 6; cf. 2 P 2:4; Jud 6) a quienes Cristo resucitado proclamó (ἐκήρυξεν) su victoria triunfal tras la cruz, o 2) el Espíritu de Cristo predicando por medio de Noé a sus contemporáneos ahora en juicio."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 20,
+    "greek_text": "ἀπειθήσασίν ποτε ὅτε ἀπεξεδέχετο ἡ τοῦ θεοῦ μακροθυμία ἐν ἡμέραις Νῶε κατασκευαζομένης κιβωτοῦ εἰς ἣν ὀλίγοι, τοῦτ’ ἔστιν ὀκτὼ ψυχαί, διεσώθησαν δι’ ὕδατος.",
+    "translation": "los que en otro tiempo desobedecieron, cuando una vez esperaba la paciencia de Dios en los días de Noé, mientras se preparaba el arca, en la cual pocas personas, es decir, ocho, fueron salvadas a través del agua.",
+    "translation_notes": "Δι’ ὕδατος («atravesando las aguas» del diluvio en el arca, que separó a los ocho salvados del mundo juzgado)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 21,
+    "greek_text": "ὃ καὶ ὑμᾶς ἀντίτυπον νῦν σῴζει βάπτισμα, οὐ σαρκὸς ἀπόθεσις ῥύπου ἀλλὰ συνειδήσεως ἀγαθῆς ἐπερώτημα εἰς θεόν, δι’ ἀναστάσεως Ἰησοῦ Χριστοῦ,",
+    "translation": "El bautismo, que corresponde a esto, ahora los salva a ustedes también —no quitando las inmundicias de la carne, sino como la petición de una buena conciencia hacia Dios— por medio de la resurrección de Jesucristo,",
+    "translation_notes": "Tipología bautismal clave: ἀντίτυπον («correspondencia simbólica cumplida» del diluvio/arca). Pedro aclara de inmediato que el agua externa no limpia mágicamente el pecado (οὐ σαρκὸς ἀπόθεσις ῥύπου), sino que el bautismo salva en cuanto expresa el compromiso/súplica de una buena conciencia ante Dios (συνειδήσεως ἀγαθῆς ἐπερώτημα) unida a la resurrección de Cristo."
+  },
+  {
+    "book": "1PE",
+    "chapter": 3,
+    "verse": 22,
+    "greek_text": "ὅς ἐστιν ἐν δεξιᾷ θεοῦ πορευθεὶς εἰς οὐρανὸν ὑποταγέντων αὐτῷ ἀγγέλων καὶ ἐξουσιῶν καὶ δυνάμεων.",
+    "translation": "quien habiendo subido al cielo está a la derecha de Dios, habiéndosele sometido ángeles, autoridades y potestades.",
+    "translation_notes": "Triunfo cósmico de Cristo entronizado sobre toda jerarquía espiritual (Sal 110:1), garantía absoluta para los creyentes que sufren en el mundo."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 1,
+    "greek_text": "Χριστοῦ οὖν παθόντος σαρκὶ καὶ ὑμεῖς τὴν αὐτὴν ἔννοιαν ὁπλίσασθε, ὅτι ὁ παθὼν σαρκὶ πέπαυται ἁμαρτίας,",
+    "translation": "Puesto que Cristo padeció en la carne, ármense también ustedes del mismo pensamiento; pues el que ha padecido en la carne ha terminado con el pecado,",
+    "translation_notes": "Metáfora militar: ὁπλίσασθε («ármense» con la misma resolución firme de Cristo de obedecer hasta el sufrimiento). «Ha cesado del pecado» (πέπαυται ἁμαρτίας) indica que quien está dispuesto a sufrir antes que transigir rompe decisivamente con la vida de pecado (cf. Ro 6:7)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 2,
+    "greek_text": "εἰς τὸ μηκέτι ἀνθρώπων ἐπιθυμίαις ἀλλὰ θελήματι θεοῦ τὸν ἐπίλοιπον ἐν σαρκὶ βιῶσαι χρόνον.",
+    "translation": "para no vivir el tiempo que resta en la carne conforme a las pasiones humanas, sino conforme a la voluntad de Dios.",
+    "translation_notes": "Contraste entre dos señores del tiempo restante de vida: deseos humanos (ἀνθρώπων ἐπιθυμίαις) frente a la voluntad de Dios (θελήματι θεοῦ)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 3,
+    "greek_text": "ἀρκετὸς γὰρ ὁ παρεληλυθὼς χρόνος τὸ βούλημα τῶν ἐθνῶν κατειργάσθαι, πεπορευμένους ἐν ἀσελγείαις, ἐπιθυμίαις, οἰνοφλυγίαις, κώμοις, πότοις, καὶ ἀθεμίτοις εἰδωλολατρίαις.",
+    "translation": "Porque ya basta el tiempo pasado para haber hecho la voluntad de los gentiles, andando en lascivias, pasiones, borracheras, orgías, disipaciones e ilícitas idolatrías.",
+    "translation_notes": "Catálogo de seis prácticas paganas habituales en fiestas grecorromanas (οἰνοφλυγίαις «embriagueces habituales», κώμοις «juergas nocturnas», ἀθεμίτοις εἰδωλολατρίαις «idolatrías abominables»)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 4,
+    "greek_text": "ἐν ᾧ ξενίζονται μὴ συντρεχόντων ὑμῶν εἰς τὴν αὐτὴν τῆς ἀσωτίας ἀνάχυσιν, βλασφημοῦντες·",
+    "translation": "En esto se sorprenden de que ustedes no corran con ellos en el mismo desenfreno de disolución, y los injurian;",
+    "translation_notes": "El verbo ξενίζονται («se quedan atónitos/desconcertados como ante algo extraño») explica el origen social de la persecución: al apartarse los cristianos del desbordamiento pagano (ἀνάχυσιν, «desborde de lodo/inundación»), sus antiguos amigos los difaman (βλασφημοῦντες)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 5,
+    "greek_text": "οἳ ἀποδώσουσιν λόγον τῷ ἑτοίμως ἔχοντι κρῖναι ζῶντας καὶ νεκρούς·",
+    "translation": "pero ellos darán cuenta al que está listo para juzgar a los vivos y a los muertos.",
+    "translation_notes": "Consuelo judicial: quienes calumnian tendrán que rendir cuentas ante Cristo, el Juez preparado para juzgar a vivos y muertos."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 6,
+    "greek_text": "εἰς τοῦτο γὰρ καὶ νεκροῖς εὐηγγελίσθη ἵνα κριθῶσι μὲν κατὰ ἀνθρώπους σαρκὶ ζῶσι δὲ κατὰ θεὸν πνεύματι.",
+    "translation": "Porque por esto también ha sido predicado el evangelio a los muertos, para que sean juzgados en la carne según los hombres, pero vivan en el espíritu según Dios.",
+    "translation_notes": "Generalmente entendido en relación con los creyentes ya fallecidos («ahora muertos») a quienes se les predicó el evangelio en vida: aunque ante los hombres sufrieron el juicio común de la muerte física («juzgados en la carne»), viven eternamente delante de Dios en el Espíritu."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 7,
+    "greek_text": "Πάντων δὲ τὸ τέλος ἤγγικεν. σωφρονήσατε οὖν καὶ νήψατε εἰς προσευχάς·",
+    "translation": "Mas el fin de todas las cosas se ha acercado; sean, pues, sensatos y sobrios para orar.",
+    "translation_notes": "La cercanía del fin escatológico (ἤγγικεν) no produce histeria, sino lucidez equilibrada (σωφρονήσατε καὶ νήψατε) orientada a la oración."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 8,
+    "greek_text": "πρὸ πάντων τὴν εἰς ἑαυτοὺς ἀγάπην ἐκτενῆ ἔχοντες, ὅτι ἀγάπη καλύπτει πλῆθος ἁμαρτιῶν·",
+    "translation": "Y ante todo, tengan entre ustedes un amor ferviente, porque el amor cubre multitud de pecados.",
+    "translation_notes": "Cita de Proverbios 10:12 (cf. Stg 5:20): un amor constante y tenso (ἐκτενῆ) no oculta el pecado con complicidad, sino que perdona y reconcilia ofensas mutuas en vez de airearlas."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 9,
+    "greek_text": "φιλόξενοι εἰς ἀλλήλους ἄνευ γογγυσμοῦ·",
+    "translation": "Sean hospitalarios unos con otros sin murmuraciones.",
+    "translation_notes": "Hospitalidad alegre (ἄνευ γογγυσμοῦ, «sin quejas por el gasto o molestia») vital para cristianos itinerantes y perseguidos."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 10,
+    "greek_text": "ἕκαστος καθὼς ἔλαβεν χάρισμα, εἰς ἑαυτοὺς αὐτὸ διακονοῦντες ὡς καλοὶ οἰκονόμοι ποικίλης χάριτος θεοῦ·",
+    "translation": "Cada uno según el don que ha recibido, minístrelo a los otros como buenos administradores de la multiforme gracia de Dios.",
+    "translation_notes": "Todo creyente ha recibido algún don (χάρισμα) para servir (διακονοῦντες) como fiel mayordomo (οἰκονόμοι) de la «multiforme gracia» (ποικίλης χάριτος, «gracia multicolor y variada»)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 11,
+    "greek_text": "εἴ τις λαλεῖ, ὡς λόγια θεοῦ· εἴ τις διακονεῖ, ὡς ἐξ ἰσχύος ἧς χορηγεῖ ὁ θεός· ἵνα ἐν πᾶσιν δοξάζηται ὁ θεὸς διὰ Ἰησοῦ Χριστοῦ, ᾧ ἐστιν ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.",
+    "translation": "Si alguno habla, hable conforme a las palabras de Dios; si alguno sirve, hágalo conforme al poder que Dios provee, para que en todo sea Dios glorificado por medio de Jesucristo, a quien pertenecen la gloria y el dominio por los siglos de los siglos. Amén.",
+    "translation_notes": "Dos grandes categorías de dones (habla y servicio práctico), ejercidos con conciencia de hablar «oráculos de Dios» (λόγια θεοῦ) y servir con la fuerza que Dios suministra (χορηγεῖ), culminando en doxología cristocéntrica."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 12,
+    "greek_text": "Ἀγαπητοί, μὴ ξενίζεσθε τῇ ἐν ὑμῖν πυρώσει πρὸς πειρασμὸν ὑμῖν γινομένῃ ὡς ξένου ὑμῖν συμβαίνοντος,",
+    "translation": "Amados, no se sorprendan del fuego de prueba que ha venido sobre ustedes para ponerlos a prueba, como si alguna cosa extraña les aconteciera,",
+    "translation_notes": "Πύρωσις («horno ardiente / prueba de fuego»): no es un accidente extraño, sino el crisol esperado del discipulado."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 13,
+    "greek_text": "ἀλλὰ καθὸ κοινωνεῖτε τοῖς τοῦ Χριστοῦ παθήμασιν χαίρετε, ἵνα καὶ ἐν τῇ ἀποκαλύψει τῆς δόξης αὐτοῦ χαρῆτε ἀγαλλιώμενοι.",
+    "translation": "sino gócense en la medida en que participan de los padecimientos de Cristo, para que también en la revelación de su gloria se gocen con gran alegría.",
+    "translation_notes": "Comunión profunda (κοινωνεῖτε) con los sufrimientos de Cristo, anticipo del júbilo en su revelación gloriosa."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 14,
+    "greek_text": "εἰ ὀνειδίζεσθε ἐν ὀνόματι Χριστοῦ, μακάριοι, ὅτι τὸ τῆς δόξης καὶ τὸ τοῦ θεοῦ πνεῦμα ἐφ’ ὑμᾶς ἀναπαύεται.",
+    "translation": "Si son insultados por el nombre de Cristo, bienaventurados son, porque el glorioso Espíritu de Dios reposa sobre ustedes.",
+    "translation_notes": "Alusión a Isaías 11:2 y Mateo 5:11: el Espíritu de gloria y de Dios descansa (ἀναπαύεται) sobre el creyente calumniado por llevar el nombre de Cristo."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 15,
+    "greek_text": "μὴ γάρ τις ὑμῶν πασχέτω ὡς φονεὺς ἢ κλέπτης ἢ κακοποιὸς ἢ ὡς ἀλλοτριεπίσκοπος·",
+    "translation": "Así que ninguno de ustedes padezca como homicida, ladrón, malhechor, o por entrometerse en asuntos ajenos;",
+    "translation_notes": "Término raro acuñado o usado aquí por Pedro: ἀλλοτριεπίσκοπος (allotriepiskopos, literalmente «supervisor/metiche en asuntos ajenos»): no hay gloria espiritual en sufrir por delitos o indiscreciones."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 16,
+    "greek_text": "εἰ δὲ ὡς Χριστιανός, μὴ αἰσχυνέσθω, δοξαζέτω δὲ τὸν θεὸν ἐν τῷ ὀνόματι τούτῳ.",
+    "translation": "pero si alguno padece como cristiano, no se avergüence, sino glorifique a Dios por este nombre.",
+    "translation_notes": "Una de las tres únicas apariciones de Χριστιανός («cristiano») en el NT (cf. Hch 11:26; 26:28): originalmente un apodo despectivo pagano que los creyentes asumen con honor."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 17,
+    "greek_text": "ὅτι ὁ καιρὸς τοῦ ἄρξασθαι τὸ κρίμα ἀπὸ τοῦ οἴκου τοῦ θεοῦ· εἰ δὲ πρῶτον ἀφ’ ἡμῶν, τί τὸ τέλος τῶν ἀπειθούντων τῷ τοῦ θεοῦ εὐαγγελίῳ;",
+    "translation": "Porque es tiempo de que el juicio comience por la casa de Dios; y si primero comienza por nosotros, ¿cuál será el fin de aquellos que no obedecen al evangelio de Dios?",
+    "translation_notes": "Eco de Ezequiel 9:6 y Malaquías 3:1–3: el crisol purificador comienza en el santuario/familia de Dios («la casa de Dios»), anunciando cuánto más severo será el juicio final para los rebeldes."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 18,
+    "greek_text": "καὶ εἰ ὁ δίκαιος μόλις σῴζεται, ὁ ἀσεβὴς καὶ ἁμαρτωλὸς ποῦ φανεῖται;",
+    "translation": "Y «si el justo con dificultad se salva, ¿en dónde aparecerá el impío y el pecador?»",
+    "translation_notes": "Cita literal de Proverbios 11:31 LXX: «con dificultad» (μόλις) no expresa duda sobre la fidelidad de Dios, sino la intensidad de las pruebas que atraviesa el justo en este mundo."
+  },
+  {
+    "book": "1PE",
+    "chapter": 4,
+    "verse": 19,
+    "greek_text": "ὥστε καὶ οἱ πάσχοντες κατὰ τὸ θέλημα τοῦ θεοῦ πιστῷ κτίστῃ παρατιθέσθωσαν τὰς ψυχὰς αὐτῶν ἐν ἀγαθοποιΐᾳ.",
+    "translation": "Por lo cual, también los que sufren según la voluntad de Dios, encomienden sus almas al fiel Creador, haciendo el bien.",
+    "translation_notes": "El verbo παρατιθέσθωσαν («depositen en custodia segura», cf. Lc 23:46) confía la propia vida al «fiel Creador» (πιστῷ κτίστῃ, único uso de κτίστης para Dios en el NT) mientras se persevera en hacer el bien."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 1,
+    "greek_text": "Πρεσβυτέρους οὖν ἐν ὑμῖν παρακαλῶ ὁ συμπρεσβύτερος καὶ μάρτυς τῶν τοῦ Χριστοῦ παθημάτων, ὁ καὶ τῆς μελλούσης ἀποκαλύπτεσθαι δόξης κοινωνός,",
+    "translation": "A los ancianos que están entre ustedes, yo, anciano también con ellos, testigo de los padecimientos de Cristo y copartícipe de la gloria que ha de ser revelada, los exhorto:",
+    "translation_notes": "Humildad pastoral de Pedro: en vez de imponer jerarquía, se llama συμπρεσβύτερος («co-anciano / compañero anciano») y «testigo» (μάρτυς, testigo ocular y pronto mártir) de los padecimientos de Cristo."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 2,
+    "greek_text": "ποιμάνατε τὸ ἐν ὑμῖν ποίμνιον τοῦ θεοῦ, ἐπισκοποῦντες μὴ ἀναγκαστῶς ἀλλὰ ἑκουσίως κατὰ θεόν, μηδὲ αἰσχροκερδῶς ἀλλὰ προθύμως,",
+    "translation": "Apacienten el rebaño de Dios que está entre ustedes, cuidando de él, no por obligación, sino voluntariamente según Dios; no por ganancia deshonesta, sino con ánimo pronto;",
+    "translation_notes": "Eco directo del mandato de Jesús a Pedro en Jn 21:15–17 (ποιμάνατε, «pastoreen», y ἐπισκοποῦντες, «ejerciendo cuidado vigilante»). Tres contrastes para el pastor: no por obligación sino voluntariamente, no por lucro vil (αἰσχροκερδῶς) sino con entrega entusiasta (προθύμως), y no con tiranía (v. 3)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 3,
+    "greek_text": "μηδ’ ὡς κατακυριεύοντες τῶν κλήρων ἀλλὰ τύποι γινόμενοι τοῦ ποιμνίου·",
+    "translation": "no como teniendo señorío sobre los que están a su cuidado, sino siendo ejemplos del rebaño.",
+    "translation_notes": "Rechazo del autoritarismo clerical (eco de Mc 10:42–45): μὴ κατακυριεύοντες («sin enseñorearse despóticamente») de las porciones del rebaño confiadas (τῶν κλήρων), sino liderando mediante el ejemplo vivo (τύποι)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 4,
+    "greek_text": "καὶ φανερωθέντος τοῦ ἀρχιποίμενος κομιεῖσθε τὸν ἀμαράντινον τῆς δόξης στέφανον.",
+    "translation": "Y cuando aparezca el Príncipe de los pastores, recibirán la corona incorruptible de gloria.",
+    "translation_notes": "Του ἀρχιποίμενος («del Pastor Supremo», Cristo Jesús): otorga «la corona de gloria hecha de amaranto que jamás se marchita» (τὸν ἀμαράντινον στέφανον), frente a las coronas vegetales de laurel que se secaban en pocos días."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 5,
+    "greek_text": "ὁμοίως, νεώτεροι, ὑποτάγητε πρεσβυτέροις. πάντες δὲ ἀλλήλοις τὴν ταπεινοφροσύνην ἐγκομβώσασθε, ὅτι Ὁ θεὸς ὑπερηφάνοις ἀντιτάσσεται ταπεινοῖς δὲ δίδωσιν χάριν.",
+    "translation": "Igualmente, jóvenes, estén sujetos a los ancianos; y todos, unos para con otros, revístanse de humildad, porque «Dios resiste a los soberbios, pero da gracia a los humildes».",
+    "translation_notes": "Verbo plástico único: ἐγκομβώσασθε (enkombōsasthe, «átense con nudo el delantal de servicio de un esclavo»), probable recuerdo vívido de Jesús ciñéndose la toalla para lavar los pies en Jn 13:4–5, seguido de Pr 3:34 LXX."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 6,
+    "greek_text": "Ταπεινώθητε οὖν ὑπὸ τὴν κραταιὰν χεῖρα τοῦ θεοῦ, ἵνα ὑμᾶς ὑψώσῃ ἐν καιρῷ,",
+    "translation": "Humíllense, pues, bajo la poderosa mano de Dios, para que él los exalte a su debido tiempo,",
+    "translation_notes": "Τὴν κραταιὰν χεῖρα τοῦ θεοῦ («la mano poderosa de Dios», fórmula del Éxodo que recuerda tanto la disciplina como la liberación soberana de Israel) exaltará a los humildes ἐν καιρῷ («en el momento oportuno»)."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 7,
+    "greek_text": "πᾶσαν τὴν μέριμναν ὑμῶν ἐπιρίψαντες ἐπ’ αὐτόν, ὅτι αὐτῷ μέλει περὶ ὑμῶν.",
+    "translation": "echando toda su ansiedad sobre él, porque él tiene cuidado de ustedes.",
+    "translation_notes": "Participio subordinado al v. 6 (ἐπιρίψαντες, «arrojando de una vez por todas», eco de Sal 55:22): la verdadera humildad entrega toda preocupación (πᾶσαν τὴν μέριμναν) al Padre que se ocupa personalmente (αὐτῷ μέλει) de nosotros."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 8,
+    "greek_text": "νήψατε, γρηγορήσατε. ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν τινα καταπιεῖν·",
+    "translation": "Sean sobrios y velen; porque su adversario el diablo, como león rugiente, anda alrededor buscando a quién devorar;",
+    "translation_notes": "Alerta espiritual frente a la persecución: ὁ ἀντίδικος («el adversario legal / fiscal acusador») merodea como león hambriento para intimidar y hacer apostatar."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 9,
+    "greek_text": "ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν τῷ κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι.",
+    "translation": "al cual resistan firmes en la fe, sabiendo que los mismos padecimientos se van cumpliendo en sus hermanos en todo el mundo.",
+    "translation_notes": "Solidaridad global de la iglesia: no están solos; toda la hermandad cristiana mundial (τῇ ἐν τῷ κόσμῳ ἀδελφότητι) atraviesa pruebas semejantes."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 10,
+    "greek_text": "ὁ δὲ θεὸς πάσης χάριτος, ὁ καλέσας ὑμᾶς εἰς τὴν αἰώνιον αὐτοῦ δόξαν ἐν Χριστῷ, ὀλίγον παθόντας αὐτὸς καταρτίσει, στηρίξει, σθενώσει, θεμελιώσει.",
+    "translation": "Pero el Dios de toda gracia, que nos llamó a su gloria eterna en Cristo, después que hayan padecido un poco de tiempo, él mismo los perfeccionará, afirmará, fortalecerá y establecerá.",
+    "translation_notes": "Cuatro verbos futuros de promesa divina (καταρτίσει «restaurará/completará», στηρίξει «afirmará», σθενώσει «llenará de vigor», θεμελιώσει «cimentará sobre roca»), sostenidos por «el Dios de toda gracia»."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 11,
+    "greek_text": "αὐτῷ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.",
+    "translation": "A él sea el dominio por los siglos de los siglos. Amén.",
+    "translation_notes": "Doxología breve que sella la promesa de victoria."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 12,
+    "greek_text": "Διὰ Σιλουανοῦ ὑμῖν τοῦ πιστοῦ ἀδελφοῦ, ὡς λογίζομαι, δι’ ὀλίγων ἔγραψα, παρακαλῶν καὶ ἐπιμαρτυρῶν ταύτην εἶναι ἀληθῆ χάριν τοῦ θεοῦ· εἰς ἣν στῆτε.",
+    "translation": "Por medio de Silvano, a quien tengo por hermano fiel, les he escrito brevemente, exhortándolos y testificando que esta es la verdadera gracia de Dios, en la cual deben permanecer firmes.",
+    "translation_notes": "Silvano (Silas, colaborador de Pablo en 1–2 Tesalonicenses y Hechos) actúa aquí como secretario/amanuense o portador de la carta de Pedro, confirmando la unidad doctrinal apostólica."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 13,
+    "greek_text": "ἀσπάζεται ὑμᾶς ἡ ἐν Βαβυλῶνι συνεκλεκτὴ καὶ Μᾶρκος ὁ υἱός μου.",
+    "translation": "La iglesia que está en Babilonia, elegida juntamente con ustedes, los saluda, y también Marcos, mi hijo.",
+    "translation_notes": "«La co-elegida en Babilonia» (ἡ ἐν Βαβυλῶνι συνεκλεκτή): designación simbólica ampliamente reconocida de la iglesia en **Roma** (como en Ap 14:8; 17–18, la capital imperial vista desde la perspectiva del exilio). Marcos (Juan Marcos, colaborador cercano de Pedro según la tradición temprana) aparece como «mi hijo»."
+  },
+  {
+    "book": "1PE",
+    "chapter": 5,
+    "verse": 14,
+    "greek_text": "ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἀγάπης. εἰρήνη ὑμῖν πᾶσιν τοῖς ἐν Χριστῷ.",
+    "translation": "Salúdense unos a otros con un beso de amor. Paz sea con todos ustedes los que están en Cristo.",
+    "translation_notes": "Equivalente al «beso santo» de Pablo (1 Ts 5:26; Ro 16:16), llamado aquí ἐν φιλήματι ἀγάπης («beso de amor fraternal»), seguido de la bendición de paz."
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 1,
+    "greek_text": "ἀτενίσας δὲ ὁ Παῦλος τῷ συνεδρίῳ εἶπεν· Ἄνδρες ἀδελφοί, ἐγὼ πάσῃ συνειδήσει ἀγαθῇ πεπολίτευμαι τῷ θεῷ ἄχρι ταύτης τῆς ἡμέρας.",
+    "translation": "Fijando intensamente la mirada en el Sanedrín, Pablo dijo: «Varones hermanos: yo he vivido como ciudadano ante Dios con toda buena conciencia hasta el día de hoy».",
+    "translation_notes": "Apertura oratoria y postura cívico-teológica de Pablo: El participio ἀτενίσας (atenisas, de ἀτενίζω, mirar fijamente o escudriñar sin vacilación) denota firmeza procesal e integridad moral ante el tribunal supremo judío (συνέδριον). En lugar de la fórmula sumisa usual, emplea el tratamiento de pares Ἄνδρες ἀδελφοί ('Varones hermanos'). El verbo πεπολίτευμαι (pepoliteumai, perfecto medio/pasivo de πολιτεύομαι) es de gran densidad conceptual: connota cumplir los deberes de ciudadano en una pólis o comunidad política organizada; Pablo afirma haber vivido su pertenencia teocrática al pacto divino con absoluta lealtad ciudadana ante Dios (τῷ θεῷ). La expresión πάσῃ συνειδήσει ἀγαθῇ ('con toda buena conciencia', συνείδησις) subraya una autoevaluación interna sin fractura moral ni deslealtad a la alianza de Israel."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 2,
+    "greek_text": "ὁ δὲ ἀρχιερεὺς Ἁνανίας ἐπέταξεν τοῖς παρεστῶσιν αὐτῷ τύπτειν αὐτοῦ τὸ στόμα.",
+    "translation": "Pero el sumo sacerdote Ananías ordenó a los que estaban de pie junto a él que lo golpearan en la boca.",
+    "translation_notes": "La orden violenta del sumo sacerdote: Ananías, hijo de Nedebeo (nombrado por Herodes de Calcis hacia el 47 d.C. y destituido en el 59 d.C., recordado en Flavio Josefo, Ant. 20.103, 131, 205-207, como un pontífice venal, codicioso y brutal, asesinado por los sicarios en el 66 d.C.), percibe la declaración de inocencia absoluta de Pablo como un desacato flagrante. El mandato de golpear la boca (τύπτειν αὐτοῦ τὸ στόμα) busca silenciar físicamente una apología que no reconocía culpa previa ante la autoridad sacerdotal."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 3,
+    "greek_text": "τότε ὁ Παῦλος πρὸς αὐτὸν εἶπεν· Τύπτειν σε μέλλει ὁ θεός, τοῖχε κεκονιαμένε· καὶ σὺ κάθῃ κρίνων με κατὰ τὸν νόμον, καὶ παρανομῶν κελεύεις με τύπτεσθαι;",
+    "translation": "Entonces Pablo le dijo: «¡Dios te va a golpear a ti, pared blanqueada! ¿Y tú estás sentado allí para juzgarme según la ley, y en violación de la ley ordenas que me golpeen?».",
+    "translation_notes": "Denuncia profética y principio de legalidad procesal: La imprecación Τύπτειν σε μέλλει ὁ θεός ('Dios está a punto de golpearte') tiene tono profético (cumplido históricamente en el trágico asesinato de Ananías). El calificativo τοῖχε κεκονιαμένε ('pared enjalbegada / blanqueada', participio perfecto pasivo de κονιάω) evoca la imagen veterotestamentaria de Ezequiel 13:10-15 (muros agrietados recubiertos de cal para aparentar solidez) y el reproche de Jesús en Mt 23:27; denuncia la hipocresía de una fachada de pureza ritual que oculta putrefacción estructural. Pablo señala la antinomia judicial: Ananías usurpa la sede del juicio formal conforme a la Torá (κατὰ τὸν νόμον), pero actúa en abierta transgresión procesal (παρανομῶν, participio de παρανομέω, violar la ley), pues el derecho rabínico y bíblico (Lv 19:15; Dt 19:15-18; Mishná Sanedrín) prohibía castigar físicamente a un acusado antes de que mediara sentencia condenatoria en forma."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 4,
+    "greek_text": "οἱ δὲ παρεστῶτες εἶπαν· Τὸν ἀρχιερέα τοῦ θεοῦ λοιδορεῖς;",
+    "translation": "Los que estaban de pie junto a él dijeron: «¿Al sumo sacerdote de Dios insultas?».",
+    "translation_notes": "El delito de difamación jerárquica: Los asistentes interpelan a Pablo mediante el verbo λοιδορέω (loidoreō, injuriar, insultar o vilipendiar). La objeción invoca la investidura sacra del pontífice como representante teocrático (Τὸν ἀρχιερέα τοῦ θεοῦ), independientemente de la conducta inmoral del individuo que ocupara el cargo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 5,
+    "greek_text": "ἔφη τε ὁ Παῦλος· Οὐκ ᾔδειν, ἀδελφοί, ὅτι ἐστὶν ἀρχιερεύς· γέγραπται γὰρ ὅτι Ἄρχοντα τοῦ λαοῦ σου οὐκ ἐρεῖς κακῶς.",
+    "translation": "Y Pablo dijo: «No sabía, hermanos, que era sumo sacerdote; pues escrito está: “No hablarás mal de un gobernante de tu pueblo”».",
+    "translation_notes": "Cita legal de Éxodo 22:28 y exégesis de la respuesta paulina: Pablo cita con precisión Éxodo 22:28 LXX (22:27 en TM: ἄρχοντα τοῦ λαοῦ σου οὐκ ἐρεῖς κακῶς). La declaración Οὐκ ᾔδειν ('No sabía') ha sido interpretada filológicamente de tres formas: 1) Ignorancia fáctica real debido a sus años de ausencia de Jerusalén, la vestimenta común de Ananías fuera de la liturgia del Templo o la afección visual del apóstol; 2) Una amarga ironía forense: 'No reconocí en ese comportamiento violento al legítimo sumo sacerdote de Dios'; 3) Un reconocimiento formal del precepto constitucional de la Torá que descalifica el agravio verbal contra la investidura pública institucional."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 6,
+    "greek_text": "Γνοὺς δὲ ὁ Παῦλος ὅτι τὸ ἓν μέρος ἐστὶν Σαδδουκαίων τὸ δὲ ἕτερον Φαρισαίων ἔκραζεν ἐν τῷ συνεδρίῳ· Ἄνδρες ἀδελφοί, ἐγὼ Φαρισαῖός εἰμι, υἱὸς Φαρισαίων· περὶ ἐλπίδος καὶ ἀναστάσεως νεκρῶν ἐγὼ κρίνομαι.",
+    "translation": "Al darse cuenta Pablo de que una parte era de saduceos y la otra de fariseos, clamó en el Sanedrín: «Varones hermanos, yo soy fariseo, hijo de fariseos; ¡por la esperanza y la resurrección de los muertos es que estoy siendo juzgado!».",
+    "translation_notes": "Maniobra procesal y anclaje escatológico: Pablo detecta la composición bipartita del tribunal: los saduceos (aristocracia sacerdotal conservadora y pro-romana) y los fariseos (teólogos populares del laicado devoto). Su grito ἔκραζεν no es mero oportunismo retórico, sino la redefinición del debate en términos de la ortodoxia judía: se autoidentifica genealógica y doctrinalmente como fariseo (ἐγὼ Φαρισαῖός εἰμι, υἱὸς Φαρισαίων) y reduce el núcleo del conflicto al gran dilema teológico nacional: la esperanza de Israel en la resurrección de los muertos (περὶ ἐλπίδος καὶ ἀναστάσεως νεκρῶν), cumplimiento definitivo prometido por Dios que él afirma haberse inaugurado en la resurrección de Jesús."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 7,
+    "greek_text": "τοῦτο δὲ αὐτοῦ λαλοῦντος ἐγένετο στάσις τῶν Φαρισαίων καὶ Σαδδουκαίων, καὶ ἐσχίσθη τὸ πλῆθος.",
+    "translation": "Cuando dijo esto, se produjo una discordia entre los fariseos y los saduceos, y la asamblea quedó dividida.",
+    "translation_notes": "Fractura de la asamblea: El término στάσις (stasis) denota discordia civil, faccionalismo agudo o insurrección interna. El verbo ἐσχίσθη (eschisthē, aoristo pasivo de σχίζω, hender, desgarrar, de donde proviene 'cisma') ilustra gráficamente cómo el Sanedrín se polarizó al tocarse la línea doctrinal divisoria fundamental del judaísmo del Segundo Templo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 8,
+    "greek_text": "Σαδδουκαῖοι μὲν γὰρ λέγουσιν μὴ εἶναι ἀνάστασιν μήτε ἄγγελον μήτε πνεῦμα, Φαρισαῖοι δὲ ὁμολογοῦσιν τὰ ἀμφότερα.",
+    "translation": "Porque los saduceos dicen que no hay resurrección, ni ángel, ni espíritu; mientras que los fariseos confiesan ambas cosas.",
+    "translation_notes": "Nota teológica lucana sobre las dos escuelas: Lucas sintetiza con rigor las divergencias dogmáticas documentadas también por Josefo (Guerra 2.162-166; Ant. 18.12-17). Los saduceos, apegados exclusivamente a una lectura estricta y literal de los cinco libros de Moisés (Pentateuco/Torá) y rechazando la tradición oral ancestral (halajá farisea), negaban la supervivencia post mortem del alma, la retribución futura y la escatología corporal (μὴ εἶναι ἀνάστασιν), así como el desarrollo angelológico y pneumatológico tardío (μήτε ἄγγελον μήτε πνεῦμα). Los fariseos, por el contrario, confesaban abiertamente estas doctrinas escatológicas (ὁμολογοῦσιν τὰ ἀμφότερα; 'ambas cosas' agrupa aquí conceptualmente la resurrección escatológica por un lado y la realidad del reino espiritual incorpóreo por el otro)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 9,
+    "greek_text": "ἐγένετο δὲ κραυγὴ μεγάλη, καὶ ἀναστάντες τινὲς τῶν γραμματέων τοῦ μέρους τῶν Φαρισαίων διεμάχοντο λέγοντες· Οὐδὲν κακὸν εὑρίσκομεν ἐν τῷ ἀνθρώπῳ τούτῳ· εἰ δὲ πνεῦμα ἐλάλησεν αὐτῷ ἢ ἄγγελος—",
+    "translation": "Se produjo entonces un gran clamor; y levantándose algunos de los escribas del sector de los fariseos, contendían enérgicamente diciendo: «Ningún mal hallamos en este hombre. ¿Y qué si un espíritu o un ángel le habló...?».",
+    "translation_notes": "Intervención de los escribas fariseos y aposiopesis: El verbo διεμάχοντο (diemachonto, imperfecto de διαμάχομαι) denota una lucha verbal encarnizada y obstinada. Los escribas (γραμματεῖς) del partido fariseo emiten un dictamen exculpatorio (Οὐδὲν κακὸν εὑρίσκομεν, análogo a las conclusiones de Pilato y Herodes en el Evangelio lucano). La frase se interrumpe abruptamente en una clásica aposiopesis retórica: εἰ δὲ πνεῦμα ἐλάλησεν αὐτῷ ἢ ἄγγελος— ('pero si un espíritu o un ángel le habló...'), omitiendo deliberadamente la conclusión ('no nos opongamos a Dios', tal como sugería Gamaliel en Hch 5:39), lo que añade viveza y tensión dramática al relato."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 10,
+    "greek_text": "πολλῆς δὲ γινομένης στάσεως φοβηθεὶς ὁ χιλίαρχος μὴ διασπασθῇ ὁ Παῦλος ὑπ’ αὐτῶν ἐκέλευσεν τὸ στράτευμα καταβὰν ἁρπάσαι αὐτὸν ἐκ μέσου αὐτῶν, ἄγειν τε εἰς τὴν παρεμβολήν.",
+    "translation": "Como la discordia aumentaba con tanta violencia, el tribuno, temiendo que Pablo fuera despedazado por ellos, ordenó que la tropa descendiera, lo arrebatara de en medio de ellos y lo llevara al cuartel.",
+    "translation_notes": "Evacuación militar de urgencia: El tribuno Claudio Lisias presencia la degradación violenta del debate legal en agresión física incontrolable; el verbo διασπασθῇ (aoristo pasivo subjuntivo de διασπάω, desgarrar miembro a miembro, despedazar) subraya la inminencia del linchamiento. Para proteger a un ciudadano romano cuya vida estaba bajo su custodia legal, ordena descender a la tropa (τὸ στράτευμα) desde la Fortaleza Antonia mediante el verbo enérgico ἁρπάσαι (arpasai, arrebatar con presteza) para resguardarlo en el acantonamiento militar (παρεμβολή)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 11,
+    "greek_text": "Τῇ δὲ ἐπιούσῃ νυκτὶ ἐπιστὰς αὐτῷ ὁ κύριος εἶπεν· Θάρσει, ὡς γὰρ διεμαρτύρω τὰ περὶ ἐμοῦ εἰς Ἰερουσαλὴμ οὕτω σε δεῖ καὶ εἰς Ῥώμην μαρτυρῆσαι.",
+    "translation": "A la noche siguiente, el Señor se puso a su lado y le dijo: «¡Ten ánimo! Porque así como testificaste con solemnidad acerca de mí en Jerusalén, así es necesario que des testimonio también en Roma».",
+    "translation_notes": "Cristofanía y necesidad teológica de la misión en Roma: En la soledad del calabozo de la fortaleza, Jesús resucitado se presenta junto a Pablo (ἐπιστὰς αὐτῷ, de ἐφίστημι, colocarse al lado). El imperativo Θάρσει ('¡Ten ánimo!' / '¡Cobra valor!') infunde consolación soberana. El imperativo divino δεῖ (dei, es moral y providentemente necesario) establece el eje programático de la teología lucana: el testimonio solemne (διαμαρτύρομαι / μαρτυρέω) debe culminar en la capital del Imperio (εἰς Ῥώμην), trazando el itinerario desde el Templo de Jerusalén hasta el corazón de la urbe romana."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 12,
+    "greek_text": "Γενομένης δὲ ἡμέρας ποιήσαντες συστροφὴν οἱ Ἰουδαῖοι ἀνεθεμάτισαν ἑαυτοὺς λέγοντες μήτε φαγεῖν μήτε πιεῖν ἕως οὗ ἀποκτείνωσιν τὸν Παῦλον.",
+    "translation": "Al amanecer, algunos judíos tramaron una conspiración y se comprometieron bajo anatema, diciendo que no comerían ni beberían hasta que hubieran matado a Pablo.",
+    "translation_notes": "El complot bajo juramento de anatema: El sustantivo συστροφή (systrophē) denota una confabulación clandestina, un motín o conjura sediciosa. El giro idiomático semítico ἀνεθεμάτισαν ἑαυτούς ('se anatematizaron a sí mismos', de ἀναθεματίζω y ἀνάθεμα, herem hebreo) implica invocar la maldición y destrucción divina sobre sus propias vidas si quebrantaban el voto de no ingerir alimento ni bebida hasta consumar el magnicidio de Pablo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 13,
+    "greek_text": "ἦσαν δὲ πλείους τεσσεράκοντα οἱ ταύτην τὴν συνωμοσίαν ποιησάμενοι·",
+    "translation": "Eran más de cuarenta los que hicieron esta conspiración;",
+    "translation_notes": "Magnitud numérica de la conjura: Lucas cuantifica el contingente (πλείους τεσσεράκοντα, más de cuarenta hombres). El término συνωμοσία (synōmosia, conspiración juramentada, de σύν y ὄμνυμι, jurar juntos) era un término técnico del derecho helenístico y romano para calificar alianzas criminales clandestinas unidas por un juramento vinculante."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 14,
+    "greek_text": "οἵτινες προσελθόντες τοῖς ἀρχιερεῦσιν καὶ τοῖς πρεσβυτέροις εἶπαν· Ἀναθέματι ἀνεθεματίσαμεν ἑαυτοὺς μηδενὸς γεύσασθαι ἕως οὗ ἀποκτείνωμεν τὸν Παῦλον.",
+    "translation": "los cuales se presentaron ante los principales sacerdotes y los ancianos y dijeron: «Nosotros nos hemos ligado bajo severo anatema a no probar nada de comer hasta que hayamos matado a Pablo.",
+    "translation_notes": "Colusión con la jerarquía saducea: Los conjurados acuden a los ἀρχιερεῖς (sumos sacerdotes en ejercicio y ex-pontífices) y los πρεσβύτεροι (ancianos del ala aristocrática), omitiendo significativamente a los escribas fariseos que habían mostrado reserva en el versículo 9. El políptoton con dativo enfático Ἀναθέματι ἀνεθεματίσαμεν (anēthemati anēthematisamen, 'bajo anatema nos hemos anatematizado') es un calco semítico del infinitivo absoluto hebreo que intensifica la irrevocabilidad religiosa y fanática de la promesa de ayuno mortal (μηδενὸς γεύσασθαι)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 15,
+    "greek_text": "νῦν οὖν ὑμεῖς ἐμφανίσατε τῷ χιλιάρχῳ σὺν τῷ συνεδρίῳ ὅπως καταγάγῃ αὐτὸν εἰς ὑμᾶς ὡς μέλλοντας διαγινώσκειν ἀκριβέστερον τὰ περὶ αὐτοῦ· ἡμεῖς δὲ πρὸ τοῦ ἐγγίσαι αὐτὸν ἕτοιμοί ἐσμεν τοῦ ἀνελεῖν αὐτόν.",
+    "translation": "Ahora, pues, ustedes junto con el Sanedrín hagan una solicitud formal al tribuno para que lo haga comparecer ante ustedes, con el pretexto de que van a examinar su caso con mayor exactitud; nosotros, por nuestra parte, estamos listos para eliminarlo antes de que se acerque».",
+    "translation_notes": "Estratagema jurídica y emboscada homicida: El verbo ἐμφανίζω (emphanizō, en aoristo imperativo ἐμφανίσατε) posee aquí significado forense técnico: presentar una petición oficial o comparecencia legal ante un magistrado. La estratagema utiliza el lenguaje formal de la justicia romana: fingir que necesitan examinar el expediente con mayor rigor procesal (διαγινώσκειν ἀκριβέστερον, de διαγινώσκω, examen pericial o judicial minucioso). Mientras el reo es trasladado desde la Fortaleza Antonia hacia la sala de sesiones del Sanedrín, el comando de sicarios emboscado (ἕτοιμοί ἐσμεν τοῦ ἀνελεῖν αὐτόν, de ἀναιρέω, liquidar, dar muerte) consumaría el asesinato extrajudicial."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 16,
+    "greek_text": "Ἀκούσας δὲ ὁ υἱὸς τῆς ἀδελφῆς Παύλου τὴν ἐνέδραν παραγενόμενος καὶ εἰσελθὼν εἰς τὴν παρεμβολὴν ἀπήγγειλεν τῷ Παύλῳ.",
+    "translation": "Pero el hijo de la hermana de Pablo se enteró de la emboscada; y fue, entró en el cuartel y se lo avisó a Pablo.",
+    "translation_notes": "El sobrino de Pablo y la red familiar en Jerusalén: Este es el único dato biográfico explícito en todo el Nuevo Testamento sobre la familia inmediata de Pablo de Tarso. El hijo de su hermana (ὁ υἱὸς τῆς ἀδελφῆς Παύλου), probablemente un joven de familia patricia o con acceso a los círculos sacerdotales de Jerusalén, detecta la conspiración (ἐνέδρα, emboscada, celada armada). Se beneficia del régimen de custodia militar romana relativamente abierto (custodia militaris), que permitía el acceso de parientes y amigos para asistir al detenido en la fortaleza (παρεμβολή)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 17,
+    "greek_text": "προσκαλεσάμενος δὲ ὁ Παῦλος ἕνα τῶν ἑκατονταρχῶν ἔφη· Τὸν νεανίαν τοῦτον ἄπαγε πρὸς τὸν χιλίαρχον, ἔχει γὰρ ἀπαγγεῖλαί τι αὐτῷ.",
+    "translation": "Pablo llamó a uno de los centuriones y le dijo: «Lleva a este joven ante el tribuno, porque tiene algo que informarle».",
+    "translation_notes": "Uso de los derechos y jerarquía militar: Aunque Pablo descansaba en la promesa divina de protección (v. 11), recurre diligentemente a los mecanismos legales de seguridad. Da instrucciones a un centurión (ἑκατοντάρχης) para que escolte al joven (νεανίας) directamente ante el comandante de la cohorte (χιλίαρχος)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 18,
+    "greek_text": "ὁ μὲν οὖν παραλαβὼν αὐτὸν ἤγαγεν πρὸς τὸν χιλίαρχον καὶ φησίν· Ὁ δέσμιος Παῦλος προσκαλεσάμενός με ἠρώτησεν τοῦτον τὸν νεανίαν ἀγαγεῖν πρὸς σέ, ἔχοντά τι λαλῆσαί σοι.",
+    "translation": "Este, tomándolo consigo, lo condujo ante el tribuno y dijo: «El prisionero Pablo me llamó y me pidió que trajera a este joven ante ti, pues tiene algo que decirte».",
+    "translation_notes": "El título de prisionero: El centurión se refiere a Pablo como ὁ δέσμιος Παῦλος ('el prisionero Pablo'), estatus legal que el propio apóstol adoptará teológicamente en sus epístolas de la cautividad (Ef 3:1; Flm 1:9). Se constata el respeto que los oficiales subalternos dispensaban a Pablo debido a su ciudadanía romana confirmada."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 19,
+    "greek_text": "ἐπιλαβόμενος δὲ τῆς χειρὸς αὐτοῦ ὁ χιλίαρχος καὶ ἀναχωρήσας κατ’ ἰδίαν ἐπυνθάνετο· Τί ἐστιν ὃ ἔχεις ἀπαγγεῖλαί μοι;",
+    "translation": "El tribuno, tomándolo de la mano y apartándose con él en privado, le preguntó: «¿Qué es lo que tienes que informarme?».",
+    "translation_notes": "Gesto paternal y confidencialidad procesal: El detalle de Claudio Lisias tomando al joven de la mano (ἐπιλαβόμενος τῆς χειρὸς αὐτοῦ) refleja cortesía, tacto y condescendencia protectora hacia un muchacho que traía información de seguridad de Estado. La retirada en privado (κατ’ ἰδίαν) garantiza la confidencialidad necesaria ante posibles infiltrados o simpatizantes de los zelotes y saduceos en la guarnición."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 20,
+    "greek_text": "εἶπεν δὲ ὅτι Οἱ Ἰουδαῖοι συνέθεντο τοῦ ἐρωτῆσαί σε ὅπως αὔριον τὸν Παῦλον καταγάγῃς εἰς τὸ συνέδριον ὡς μέλλον τι ἀκριβέστερον πυνθάνεσθαι περὶ αὐτοῦ·",
+    "translation": "Y él respondió: «Los judíos se han concertado para pedirte que mañana hagas bajar a Pablo ante el Sanedrín, con el pretexto de indagar algo con mayor exactitud acerca de él.",
+    "translation_notes": "Revelación formal de la trampa: El joven desenmascara la conspiración ante el oficial romano usando términos análogos a los del versículo 15: συνέθεντο (de συντίθημι, concertar un pacto criminal) y el fingimiento procedimental (ὡς μέλλον τι ἀκριβέστερον πυνθάνεσθαι, simulando que desean una instrucción pericial más exhaustiva)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 21,
+    "greek_text": "σὺ οὖν μὴ πεισθῇς αὐτοῖς, ἐνεδρεύουσιν γὰρ αὐτὸν ἐξ αὐτῶν ἄνδρες πλείους τεσσεράκοντα, οἵτινες ἀνεθεμάτισαν ἑαυτοὺς μήτε φαγεῖν μήτε πιεῖν ἕως οὗ ἀνέλωσιν αὐτόν, καὶ νῦν εἰσιν ἕτοιμοι προσδεχόμενοι τὴν ἀπὸ σοῦ ἐπαγγελίαν.",
+    "translation": "Tú, por tanto, no te dejes convencer por ellos; porque más de cuarenta hombres de entre ellos le han tendido una emboscada, los cuales se han comprometido bajo anatema a no comer ni beber hasta eliminarlo; y ahora están listos, a la espera de tu consentimiento».",
+    "translation_notes": "Advertencia urgente y riesgo institucional: El imperativo prohibitivo μὴ πεισθῇς (aoristo pasivo subjuntivo de πείθω, 'no te dejes persuadir / convencer') apela al juicio estratégico del magistrado. El término ἐπαγγελία (epangelia) significa aquí el consentimiento oficial, promesa o confirmación afirmativa del tribuno militar a la solicitud formal del Sanedrín."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 22,
+    "greek_text": "ὁ μὲν οὖν χιλίαρχος ἀπέλυσε τὸν νεανίσκον παραγγείλας μηδενὶ ἐκλαλῆσαι ὅτι ταῦτα ἐνεφάνισας πρὸς ἐμέ.",
+    "translation": "Entonces el tribuno despidió al joven, ordenándole: «No le reveles a nadie que me has informado de estas cosas».",
+    "translation_notes": "Instrucción de estricto secreto operativo: El verbo παραγγέλλω (parangellō) denota una orden militar vinculante; ἐκλαλέω (eklaleō) connota divulgar imprudentemente, hablar de más o filtrar información de seguridad. El tribuno comprende que si los conjurados se enteran de la fuga de información, abortarían el plan o desatarían represalias inmediatas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 23,
+    "greek_text": "Καὶ προσκαλεσάμενός τινας δύο τῶν ἑκατονταρχῶν εἶπεν· Ἑτοιμάσατε στρατιώτας διακοσίους ὅπως πορευθῶσιν ἕως Καισαρείας, καὶ ἱππεῖς ἑβδομήκοντα καὶ δεξιολάβους διακοσίους, ἀπὸ τρίτης ὥρας τῆς νυκτός,",
+    "translation": "Y llamando a dos de los centuriones, dijo: «Alisten a doscientos soldados para que marchen hasta Cesarea, junto con setenta jinetes y doscientos lanceros, a partir de la tercera hora de la noche;",
+    "translation_notes": "Despliegue de escolta militar táctica: Claudio Lisias moviliza un impresionante destacamento de 470 efectivos de la cohorte para garantizar la vida del ciudadano romano: 200 soldados de infantería pesada legionaria o auxiliar (στρατιῶται), 70 de caballería montada (ἱππεῖς) y 200 δεξιολάβοι (dexiolaboi). Este último es un término militar griego muy poco común en la literatura clásica; etimológicamente designa a 'los que toman con la diestra' o 'portadores de armas a la derecha', identificado por los lexicógrafos militares con honderos, jabalineros, arqueros o tropas ligeras de vanguardia y flanco (lanceros). La 'tercera hora de la noche' (ἀπὸ τρίτης ὥρας τῆς νυκτός) corresponde aproximadamente a las 21:00 horas (las nueve de la noche), aprovechando la oscuridad total para evitar tumultos urbanos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 24,
+    "greek_text": "κτήνη τε παραστῆσαι ἵνα ἐπιβιβάσαντες τὸν Παῦλον διασώσωσι πρὸς Φήλικα τὸν ἡγεμόνα,",
+    "translation": "provean también cabalgaduras para que, montando a Pablo, lo lleven sano y salvo ante Félix el gobernador».",
+    "translation_notes": "Provisión de monturas y destino al procurador provincial: Se ordena suministrar κτήνη (ktēnē, cabalgaduras, mulas o caballos de relevo y carga para un viaje rápido y extenuante de más de 100 kilómetros). El verbo διασῴζω (diasōzō, compuesto con διά que denota rescate y traslado seguro a través de peligros) tiene como destino a Antonio Félix, procurador de Judea (gobernador, ἡγεμών, término griego habitual para prefectos y procuradores romanos ecuestres entre los años 52 y 60 d.C.)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 25,
+    "greek_text": "γράψας ἐπιστολὴν ἔχουσαν τὸν τύπον τοῦτον·",
+    "translation": "Y escribió una carta redactada en estos términos:",
+    "translation_notes": "La correspondencia epistolar burocrática romana: Lucas transcribe o sintetiza el elogium o despacho oficial remitido por el oficial subalterno a la autoridad judicial superior provincial. La frase ἔχουσαν τὸν τύπον τοῦτον ('que tenía este tenor / tenor literal aproximado') reproduce las convenciones notariales de la correspondencia legal grecorromana."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 26,
+    "greek_text": "Κλαύδιος Λυσίας τῷ κρατίστῳ ἡγεμόνι Φήλικι χαίρειν.",
+    "translation": "«Claudio Lisias, al excelentísimo gobernador Félix: saludos.",
+    "translation_notes": "Fórmula de salutación grecorromana y títulos: La fórmula estándar del remitente al destinatario en dativo seguida del saludo infinitivo χαίρειν (chairein, desear gozo/salud). El remitente revela por fin su nombre completo: Claudio Lisias (Lisias era su nombre griego originario; adoptó el nomen imperial 'Claudio' al adquirir la ciudadanía romana por dinero bajo Claudio, cf. Hch 22:28). El título honorífico κράτιστος (kratistos, 'excelentísimo') era el tratamiento formal y protocolario asignado a los miembros del orden ecuestre y senatorial (procuradores imperiales)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 27,
+    "greek_text": "τὸν ἄνδρα τοῦτον συλλημφθέντα ὑπὸ τῶν Ἰουδαίων καὶ μέλλοντα ἀναιρεῖσθαι ὑπ’ αὐτῶν ἐπιστὰς σὺν τῷ στρατεύματι ἐξειλάμην, μαθὼν ὅτι Ῥωμαῖός ἐστιν,",
+    "translation": "A este hombre, que fue aprehendido por los judíos y estaba a punto de ser linchado por ellos, lo rescaté presentándome con la tropa, al enterarme de que era ciudadano romano.",
+    "translation_notes": "Retórica autojustificatoria y distorsión cronológica del tribuno: Claudio Lisias redacta un informe oficial diplomáticamente embellecido. Afirma que intervino con la guarnición para rescatarlo (ἐξειλάμην, aoristo medio de ἐξαιρέω) porque se enteró de su condición de ciudadano romano (μαθὼν ὅτι Ῥωμαῖός ἐστιν). En realidad, como Lucas documentó en 21:31-33 y 22:24-29, Lisias intervino para sofocar una revuelta callejera sin saber quién era, arrestó a Pablo y estuvo a punto de torturarlo bajo flagelación sin juicio; el tribuno acomoda la cronología para destacar su celo protector por el derecho de ciudadanía romana y encubrir su negligencia previa."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 28,
+    "greek_text": "βουλόμενός τε ἐπιγνῶναι τὴν αἰτίαν δι’ ἣν ἐνεκάλουν αὐτῷ, κατήγαγον εἰς τὸ συνέδριον αὐτῶν.",
+    "translation": "Y queriendo averiguar con exactitud la causa por la cual lo acusaban, lo llevé ante el Sanedrín de ellos.",
+    "translation_notes": "Instrucción de cargos preliminares: El verbo ἐπιγνῶναι (epignōnai, infinitivo aoristo de ἐπιγινώσκω) indica indagar pericialmente la imputación criminal formal (αἰτία). El verbo ἐνεκάλουν (imperfecto de ἐγκαλέω) es el término judicial técnico para formular una acusación o querella criminal en el marco procesal."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 29,
+    "greek_text": "ὃν εὗρον ἐγκαλούμενον περὶ ζητημάτων τοῦ νόμου αὐτῶν, μηδὲν δὲ ἄξιον θανάτου ἢ δεσμῶν ἔχοντα ἔγκλημα.",
+    "translation": "Hallé que lo acusaban por cuestiones relativas a la ley de ellos, pero que no tenía ninguna imputación digna de muerte o de prisión.",
+    "translation_notes": "Exoneración pericial conforme al derecho romano: Este versículo es cardinal en la apologética lucana: el máximo oficial militar romano de Jerusalén testifica por escrito que Pablo no ha cometido ningún delito tipificado bajo las leyes del Imperio (ἔγκλημα) que merezca pena capital o encarcelamiento (μηδὲν ἄξιον θανάτου ἢ δεσμῶν). Reduce todo el litigio a disputas teológicas y hermenéuticas internas del judaísmo (περὶ ζητημάτων τοῦ νόμου αὐτῶν), situando al cristianismo primitivo bajo el amparo legal de la religio licita judía."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 30,
+    "greek_text": "μηνυθείσης δέ μοι ἐπιβουλῆς εἰς τὸν ἄνδρα ἔσεσθαι ἐξαυτῆς ἔπεμψα πρὸς σέ, παραγγείλας καὶ τοῖς κατηγόροις λέγειν πρὸς αὐτὸν ἐπὶ σοῦ.",
+    "translation": "Habiéndoseme informado de que se tramaba un complot contra este hombre, te lo envío de inmediato, ordenando también a sus acusadores que expongan sus cargos contra él en tu presencia».",
+    "translation_notes": "Remisión procesal al tribunal procuratorial: Ante la noticia de un atentado terrorista extrajudicial (ἐπιβουλή), el tribuno transfiere la jurisdicción de la causa a la máxima instancia judicial civil de la provincia romana: la cognitio extra ordinem ante el procurador (ἐπὶ σοῦ, en tu presencia / tribunal). Ordena formalmente a los querellantes (κατήγοροι) trasladarse a Cesarea para presentar sus acusaciones."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 31,
+    "greek_text": "Οἱ μὲν οὖν στρατιῶται κατὰ τὸ διατεταγμένον αὐτοῖς ἀναλαβόντες τὸν Παῦλον ἤγαγον διὰ νυκτὸς εἰς τὴν Ἀντιπατρίδα·",
+    "translation": "Los soldados, conforme a lo que les había sido ordenado, tomaron a Pablo y lo condujeron de noche hasta Antípatris.",
+    "translation_notes": "La marcha nocturna forzada a Antípatris: Antípatris (antigua Tel Afek / Cafarsaba, reedificada por Herodes el Grande en honor a su padre Antípatro) distaba unos 60 kilómetros de Jerusalén a través del descenso escarpado de Judea hacia la llanura de Sarón. Una marcha nocturna tan extenuante (διὰ νυκτός) demuestra la celeridad militar para evacuar al reo fuera del alcance de los sicarios y conjurados de Jerusalén."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 32,
+    "greek_text": "τῇ δὲ ἐπαύριον ἐάσαντες τοὺς ἱππεῖς ἀπέρχεσθαι σὺν αὐτῷ ὑπέστρεψαν εἰς τὴν παρεμβολήν·",
+    "translation": "Al día siguiente, dejando que los jinetes continuaran con él, ellos regresaron al cuartel.",
+    "translation_notes": "Reorganización táctica en terreno seguro: Una vez alcanzada la llanura costera, el terreno dejaba de ser propicio para emboscadas guerrilleras en desfiladeros de montaña. Por consiguiente, los 400 soldados de infantería pesada y lanceros regresan a la Fortaleza Antonia en Jerusalén (παρεμβολή), dejando la escolta final en manos de la caballería rápida (ἱππεῖς)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 33,
+    "greek_text": "οἵτινες εἰσελθόντες εἰς τὴν Καισάρειαν καὶ ἀναδόντες τὴν ἐπιστολὴν τῷ ἡγεμόνι παρέστησαν καὶ τὸν Παῦλον αὐτῷ.",
+    "translation": "Cuando estos llegaron a Cesarea y entregaron la carta al gobernador, presentaron también a Pablo ante él.",
+    "translation_notes": "Llegada a la capital administrativa romana: Cesarea Marítima era la sede oficial del prefecto/procurador romano y de la administración imperial de la provincia de Judea. La caballería entrega formalmente el despacho oficial (ἀναδόντες τὴν ἐπιστολήν) y presenta al prisionero ante el tribunal gubernativo (παρέστησαν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 34,
+    "greek_text": "ἀναγνοὺς δὲ καὶ ἐπερωτήσας ἐκ ποίας ἐπαρχείας ἐστὶν καὶ πυθόμενος ὅτι ἀπὸ Κιλικίας,",
+    "translation": "Después de leerla, preguntó de qué provincia era; y al enterarse de que era de Cilicia,",
+    "translation_notes": "Determinación de competencia y jurisdicción territorial: El gobernador inicia el protocolo legal de la cognitio examinando la procedencia geográfica del acusado (ἐπαρχεία, provincia romana). En el derecho penal romano, el juez debía determinar si correspondía juzgar al acusado según el forum delicti (lugar donde se cometió el presunto delito, Judea) o según el forum domicilii (provincia de origen del ciudadano, Cilicia). Cilicia estaba entonces bajo administración imperial proconsular vinculada administrativamente a Siria, por lo que Félix tenía competencia legal plena para asumir la causa en Judea."
+  },
+  {
+    "book": "ACT",
+    "chapter": 23,
+    "verse": 35,
+    "greek_text": "Διακούσομαί σου, ἔφη, ὅταν καὶ οἱ κατήγοροί σου παραγένωνται· κελεύσας ἐν τῷ πραιτωρίῳ τοῦ Ἡρῴδου φυλάσσεσθαι αὐτόν.",
+    "translation": "le dijo: «Te oiré con atención cuando se presenten también tus acusadores». Y ordenó que quedara bajo custodia en el pretorio de Herodes.",
+    "translation_notes": "Admisión del caso y prisión en el pretorio de Herodes: El verbo διακούομαι (diakouomai) es el término judicial técnico para celebrar una audiencia formal completa donde se escuchan las partes procesales. Félix ordena recluir a Pablo en el πραιτώριον τοῦ Ἡρῴδου (el suntuoso palacio construido por Herodes el Grande en la costa de Cesarea, acondicionado por Roma como palacio de gobierno y cuartel general procuratorial). Esto garantizaba una custodia segura, digna y separada de las cárceles comunes de presos sentenciados."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 1,
+    "greek_text": "Μετὰ δὲ πέντε ἡμέρας κατέβη ὁ ἀρχιερεὺς Ἁνανίας μετὰ πρεσβυτέρων τινῶν καὶ ῥήτορος Τερτύλλου τινός, οἵτινες ἐνεφάνισαν τῷ ἡγεμόνι κατὰ τοῦ Παύλου.",
+    "translation": "Cinco días después, descendió el sumo sacerdote Ananías con algunos ancianos y cierto orador profesional llamado Tértulo, los cuales presentaron acusación formal ante el gobernador contra Pablo.",
+    "translation_notes": "Apertura del juicio formal en Cesarea: El plazo de cinco días (Μετὰ δὲ πέντε ἡμέρας) refleja la celeridad con que la delegación del Sanedrín se desplazó de Jerusalén a Cesarea Marítima (descenso geográfico: κατέβη). Para litigar ante el tribunal del procurador romano bajo las reglas de la cognitio extra ordinem, contratan a un ῥήτωρ (rhētōr, abogado y orador forense profesional capacitado en retórica jurídica helenística y derecho procesal romano), llamado Tértulo (diminutivo latino de Tertius, probablemente un helenista o judío de la diáspora versado en oratoria forense latina y griega). El verbo ἐνεφάνισαν (aoristo de ἐμφανίζω) es el término judicial técnico para la formalización documental y oral de cargos (in ius vocare / postulare) ante el magistrado provincial (ἡγεμών)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 2,
+    "greek_text": "κληθέντος δὲ αὐτοῦ ἤρξατο κατηγορεῖν ὁ Τέρτυλλος λέγων· Πολλῆς εἰρήνης τυγχάνοντες διὰ σοῦ καὶ διορθωμάτων γινομένων τῷ ἔθνει τούτῳ διὰ τῆς σῆς προνοίας",
+    "translation": "Habiendo sido llamado Pablo, Tértulo comenzó su acusación diciendo: «Puesto que disfrutamos de mucha paz por medio de ti y gracias a tu previsión se han llevado a cabo reformas a favor de esta nación,",
+    "translation_notes": "El exordio forense y la adulación retórica: Iniciado el procedimiento con la citación formal del reo (κληθέντος αὐτοῦ), el abogado Tértulo inicia su discurso con una clásica captatio benevolentiae (técnica retórica para granjearse la simpatía del juez). La alabanza a Félix por la 'mucha paz' (Πολλῆς εἰρήνης) y las 'reformas' (διορθώματα, mejoras institucionales y pacificación) gracias a su providencia o previsión administrativa (πρόνοια, término político habitual para honrar a emperadores y gobernadores) contrasta dramáticamente con el registro histórico real: tanto Tácito (Historias 5.9: 'ejerció la autoridad regia con el servilismo de un esclavo, recurriendo a toda clase de crueldades y licencias') como Josefo (Ant. 20.160-163) atestiguan que la brutalidad corrupta de Félix multiplicó las bandas de sicarios, sublevaciones y la inestabilidad social en Judea."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 3,
+    "greek_text": "πάντῃ τε καὶ πανταχοῦ ἀποδεχόμεθα, κράτιστε Φῆλιξ, μετὰ πάσης εὐχαριστίας.",
+    "translation": "lo reconocemos en todo momento y en todo lugar, excelentísimo Félix, con la más profunda gratitud.",
+    "translation_notes": "Tratamiento protocolario cortesano: La fórmula enfática πάντῃ τε καὶ πανταχοῦ ('en todo sentido y por doquier') refuerza la lisonja aduladora. El orador emplea el título honorífico oficial del orden ecuestre romano: κράτιστε Φῆλιξ ('excelentísimo Félix', egregius / clarissimus), acompañado de la expresión de pública gratitud cívica (μετὰ πάσης εὐχαριστίας)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 4,
+    "greek_text": "ἵνα δὲ μὴ ἐπὶ πλεῖόν σε ἐγκόπτω, παρακαλῶ ἀκοῦσαί σε ἡμῶν συντόμως τῇ σῇ ἐπιεικείᾳ.",
+    "translation": "Pero para no importunarte más, te ruego que por tu clemencia nos escuches brevemente.",
+    "translation_notes": "Promesa oratoria de brevedad y apelación a la clemencia: El verbo ἐγκόπτω (enkoptō) significa estorbar, interrumpir o gravar la apretada agenda del gobernador. Tértulo promete un alegato conciso (συντόμως) y apela a la ἐπιείκεια (epieikeia, cualidad romana de clementia y equidad judicial: la moderación benévola de un magistrado que atiende con paciencia las causas públicas legítimas)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 5,
+    "greek_text": "εὑρόντες γὰρ τὸν ἄνδρα τοῦτον λοιμὸν καὶ κινοῦντα στάσεις πᾶσι τοῖς Ἰουδαίοις τοῖς κατὰ τὴν οἰκουμένην πρωτοστάτην τε τῆς τῶν Ναζωραίων αἱρέσεως,",
+    "translation": "Porque hemos hallado que este hombre es una verdadera plaga, un agitador de revueltas entre todos los judíos por todo el mundo habitado, y cabecilla de la secta de los nazarenos;",
+    "translation_notes": "La triple imputación penal y política: Tértulo estructura una acusación sumamente hábil para incriminar a Pablo tanto bajo el derecho penal romano como bajo el estatuto de autonomía religiosa judía: 1) Calificación moral y social de peste pública (λοιμός, loimos, literalmente 'plaga' o peste endémica); 2) Delito político de sedición contra la Pax Romana: κινοῦντα στάσεις ('provocador de insurrecciones / motines') en toda la oikouménē (el mundo civilizado imperial), acusación de gravísimo calibre que rozaba el crimen maiestatis o perturbación armada del orden público provincial; 3) Liderazgo de un movimiento disidente: πρωτοστάτης (prōtostatēs, originalmente el soldado que lucha en primera fila en la falange militar; por extensión, cabecilla o líder principal) de la αἵρεσις (hairesis, facción, partido o secta) de los Nazarenos (τῶν Ναζωραίων, primera vez en los Hechos que los discípulos de Jesús son formalmente denominados así en un proceso judicial grecorromano, intentando presentarlos no como parte del judaísmo legítimo, sino como una secta clandestina e ilícita: collegium illicitum)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 6,
+    "greek_text": "ὃς καὶ τὸ ἱερὸν ἐπείρασεν βεβηλῶσαι, ὃν καὶ ἐκρατήσαμεν,",
+    "translation": "quien además intentó profanar el templo, y por eso lo arrestamos.",
+    "translation_notes": "Imputación de sacrilegio contra el Templo: La tercera acusación es el delito de profanación del recinto sagrado (τὸ ἱερὸν ἐπείρασεν βεβηλῶσαι, con el verbo βεβηλόω, desacralizar, profanar). El derecho público romano reconocía formalmente la soberanía religiosa del Templo de Jerusalén, autorizando a las autoridades judías a ejecutar incluso a ciudadanos romanos que traspasaran la barrera divisoria hacia los atrios interiores (como demostraban las inscripciones griegas del Balustre o Soreg desenterradas en Jerusalén). Los acusadores omiten el conato de linchamiento callejero y afirman haber actuado en legítimo arresto cautelar (ὃν καὶ ἐκρατήσαμεν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 8,
+    "greek_text": "παρ’ οὗ δυνήσῃ αὐτὸς ἀνακρίνας περὶ πάντων τούτων ἐπιγνῶναι ὧν ἡμεῖς κατηγοροῦμεν αὐτοῦ.",
+    "translation": "De él mismo tú, al someterlo a interrogatorio, podrás comprobar la verdad sobre todas estas cosas de las cuales lo acusamos».",
+    "translation_notes": "Omisión crítica del versículo 7 y examen judicial: El versículo 7 ('Pero intervino el tribuno Lisias y con gran violencia lo quitó de nuestras manos, ordenando a sus acusadores que vinieran ante ti') es una adición occidental (Codex Bezae, Textus Receptus) ausente de los manuscritos griegos más antiguos y autorizados (P74, Sinaítico, Vaticano, Alejandrino), omitida con certeza en las ediciones críticas NA28 y SBLGNT. Tértulo concluye instando al magistrado a proceder al interrogatorio directo del acusado: ἀνακρίνας (de ἀνακρίνω, término técnico para la investigación judicial instructora previa a la sentencia; en el caso de ciudadanos romanos se realizaba mediante careo e interrogatorio formal sin tortura)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 9,
+    "greek_text": "συνεπέθεντο δὲ καὶ οἱ Ἰουδαῖοι φάσκοντες ταῦτα οὕτως ἔχειν.",
+    "translation": "Los judíos también se unieron al ataque, afirmando categóricamente que estas cosas eran exactamente así.",
+    "translation_notes": "Respaldación unánime de los acusadores: El verbo συνεπέθεντο (aoristo medio de συνεπιτίθημι, unirse conjuntamente al ataque acusador o querella legal) describe el testimonio formal de la delegación del Sanedrín encabezada por el sumo sacerdote Ananías, ratificando como testigos oculares y parte demandante la veracidad de los cargos presentados por su abogado."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 10,
+    "greek_text": "Ἀπεκρίθη τε ὁ Παῦλος νεύσαντος αὐτῷ τοῦ ἡγεμόνος λέγειν· Ἐκ πολλῶν ἐτῶν ὄντα σε κριτὴν τῷ ἔθνει τούτῳ ἐπιστάμενος εὐθύμως τὰ περὶ ἐμαυτοῦ ἀπολογοῦμαι,",
+    "translation": "Habiéndole hecho una señal con la cabeza el gobernador para que hablara, Pablo respondió: «Sabiendo que desde hace muchos años eres juez de esta nación, con buen ánimo presento mi defensa;",
+    "translation_notes": "Apertura sobria de la apología paulina: El gesto del gobernador (νεύσαντος, de νεύω, hacer una inclinación de cabeza concediendo la venia oratoria) abre el turno procesal de la defensa. En contraste con la zalamería de Tértulo, la captatio benevolentiae de Pablo es sobria y factual: no alaba las virtudes morales del magistrado, sino su experiencia prolongada como magistrado judicial de la provincia (Ἐκ πολλῶν ἐτῶν ὄντα σε κριτήν; Félix llevaba ejerciendo en Samaria y Judea desde c. 52 d.C., unos 6 o 7 años, lo que le confería amplio conocimiento de las facciones y sensibilidades religiosas judías). Consecuentemente, Pablo asume su defensa (ἀπολογοῦμαι) con ánimo confiado y sereno (εὐθύμως)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 11,
+    "greek_text": "δυναμένου σου ἐπιγνῶναι, ὅτι οὐ πλείους εἰσίν μοι ἡμέραι δώδεκα ἀφ’ ἧς ἀνέβην προσκυνήσων εἰς Ἰερουσαλήμ,",
+    "translation": "pues tú mismo puedes comprobar fácilmente que no han transcurrido más de doce días desde que subí a Jerusalén a adorar;",
+    "translation_notes": "Cronología forense incontestable: Pablo expone una coartada temporal concreta: apenas doce días (οὐ πλείους εἰσίν μοι ἡμέραι δώδεκα). La brevedad del tiempo imposibilita materialmente haber organizado una conspiración clandestina de amplio alcance o un motín armado en la ciudad. El propósito exclusivo de su peregrinación a Jerusalén fue religioso y pacífico: adorar en el Templo (προσκυνήσων, participio de futuro que denota propósito devocional)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 12,
+    "greek_text": "καὶ οὔτε ἐν τῷ ἱερῷ εὗρόν με πρός τινα διαλεγόμενον ἢ ἐπίστασιν ποιοῦντα ὄχλου οὔτε ἐν ταῖς συναγωγαῖς οὔτε κατὰ τὴν πόλιν,",
+    "translation": "y ni en el templo me hallaron discutiendo con nadie ni provocando un alboroto de la multitud, ni en las sinagogas, ni por la ciudad;",
+    "translation_notes": "Refutación sistemática de los cargos de sedición: Pablo desmantela la acusación de sedición punto por punto en los tres espacios públicos neurálgicos: 1) En el recinto sagrado del Templo (ἐν τῷ ἱερῷ), donde jamás disputó públicamente (διαλεγόμενον) ni congregó una multitud revoltosa (ἐπίστασιν ποιοῦντα ὄχλου, de ἐπίστασις, aglomeración sediciosa); 2) En las casas de oración comunales (ἐν ταῖς συναγωγαῖς); 3) En el espacio civil y las plazas públicas (κατὰ τὴν πόλιν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 13,
+    "greek_text": "οὐδὲ παραστῆσαι δύνανταί σοι περὶ ὧν νυνὶ κατηγοροῦσίν μου.",
+    "translation": "ni tampoco pueden presentar ante ti pruebas concluyentes sobre las cosas de las que ahora me acusan.",
+    "translation_notes": "Falta de pruebas materiales y testificales: El verbo παραστῆσαι (infinitivo aoristo de παρίστημι) tiene valor forense específico: aportar pruebas fehacientes, presentar testigos oculares acreditados o demostrar con evidencia jurídica (probatio) la culpabilidad del reo. Pablo denuncia que la parte acusadora solo presenta afirmaciones difamatorias sin sustento probatorio."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 14,
+    "greek_text": "ὁμολογῶ δὲ τοῦτό σοι ὅτι κατὰ τὴν ὁδὸν ἣν λέγουσιν αἵρεσιν οὕτως λατρεύω τῷ πατρῴῳ θεῷ, πιστεύων πᾶσι τοῖς κατὰ τὸν νόμον καὶ τοῖς ἐν τοῖς προφήταις γεγραμμένοις,",
+    "translation": "Pero esto sí confieso ante ti: que según el Camino que ellos llaman secta, así sirvo y rindo culto al Dios de nuestros antepasados, creyendo todo lo que concuerda con la Ley y lo que está escrito en los Profetas,",
+    "translation_notes": "La confesión de fe dentro del marco de la religio licita: Pablo admite abiertamente (ὁμολογῶ) su pertenencia al movimiento denominado 'el Camino' (τὴν ὁδόν), pero rechaza la connotación despectiva y disidente que los saduceos le imputan al llamarlo secta (αἵρεσις). Argumenta con suprema precisión legal y teológica: afirma rendir culto sacerdotal (λατρεύω) al 'Dios de los padres' (τῷ πατρῴῳ θεῷ, fórmula venerable grecorromana que designaba a las divinidades ancestrales amparadas por el derecho consuetudinario). Lejos de apartarse de la tradición patria, declara su plena sumisión escrituraria a la totalidad del canon hebreo: la Torá (τὸν νόμον) y los libros proféticos (τοῖς ἐν τοῖς προφήταις γεγραμμένοις), situando al cristianismo no como una herejía extranjera destructiva, sino como el auténtico cumplimiento del pacto de Israel."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 15,
+    "greek_text": "ἐλπίδα ἔχων εἰς τὸν θεόν, ἣν καὶ αὐτοὶ οὗτοι προσδέχονται, ἀνάστασιν μέλλειν ἔσεσθαι δικαίων τε καὶ ἀδίκων·",
+    "translation": "teniendo en Dios la misma esperanza que estos mismos hombres también albergan: que va a haber una resurrección tanto de justos como de injustos.",
+    "translation_notes": "La esperanza compartida de la resurrección general: Pablo insiste en la continuidad teológica: su esperanza escatológica (ἐλπίς) coincide con la fe bíblica mayoritaria del pueblo judío (ἣν καὶ αὐτοὶ οὗτοι προσδέχονται, aludiendo a los fariseos e israelitas piadosos). Declara la doctrina de la resurrección universal y escatológica: ἀνάστασιν δικαίων τε καὶ ἀδίκων ('resurrección tanto de justos como de injustos', cf. Dn 12:2; Jn 5:28-29), principio fundamental de la retribución divina final."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 16,
+    "greek_text": "ἐν τούτῳ καὶ αὐτὸς ἀσκῶ ἀπρόσκοπον συνείδησιν ἔχειν πρὸς τὸν θεὸν καὶ τοὺς ἀνθρώπους διὰ παντός.",
+    "translation": "Por esta razón, yo también me esfuerzo con disciplina por mantener siempre una conciencia limpia de tropiezo delante de Dios y de los hombres.",
+    "translation_notes": "La disciplina ética de la conciencia: El verbo ἀσκῶ (askō, de donde deriva 'ascesis') denota un entrenamiento riguroso, continuo y deliberado de la conducta moral. El adjetivo ἀπρόσκοπος (aproskopos, compuesto del privativo ἀ- y προσκόπτω, tropezar) significa libre de culpa, que no tropieza ni hace tropezar a otros. Pablo procura conservar una συνείδησις (syneidēsis, conciencia moral rectora) diáfana e irreprochable en su doble relación: vertical hacia el Creador (πρὸς τὸν θεόν) y horizontal hacia la sociedad (καὶ τοὺς ἀνθρώπους) de manera constante (διὰ παντός)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 17,
+    "greek_text": "δι’ ἐτῶν δὲ πλειόνων ἐλεημοσύνας ποιήσων εἰς τὸ ἔθνος μου παρεγενόμην καὶ προσφοράς,",
+    "translation": "Después de varios años de ausencia, vine a traer limosnas para los necesitados de mi nación y a presentar ofrendas;",
+    "translation_notes": "El motivo histórico y benéfico del viaje: Pablo revela el propósito real de su retorno tras años de ministerio misionero en el Egeo: la entrega de la gran colecta de las iglesias gentiles (Macedonia, Acaya, Galacia) para socorrer a la comunidad empobrecida de Jerusalén (ἐλεημοσύνας ποιήσων εἰς τὸ ἔθνος μου; cf. Ro 15:25-28; 1Co 16:1-4; 2Co 8-9). Asimismo, acudió a presentar ofrendas rituales (προσφοράς) para sufragar los sacrificios de los votos nazareos en el Templo (Hch 21:26), demostrando su benevolencia patriótica y su veneración cultual."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 18,
+    "greek_text": "ἐν αἷς εὗρόν με ἡγνισμένον ἐν τῷ ἱερῷ, οὐ μετὰ ὄχλου οὐδὲ μετὰ θορύβου,",
+    "translation": "en medio de las cuales me hallaron purificado conforme al rito en el templo, no con multitud ni con alboroto.",
+    "translation_notes": "Estado de pureza levítica en el arresto: El participio perfecto pasivo ἡγνισμένον (hēgnismenon, de ἁγνίζω, purificar ritualmente) refuta directamente el cargo de profanación: lejos de contaminar el recinto, Pablo se encontraba cumpliendo escrupulosamente los ritos de purificación del voto. Además, recalca que su presencia estaba desprovista de aglomeraciones (οὐ μετὰ ὄχλου) o disturbios escandalosos (οὐδὲ μετὰ θορύβου)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 19,
+    "greek_text": "τινὲς δὲ ἀπὸ τῆς Ἀσίας Ἰουδαῖοι, οὓς ἔδει ἐπὶ σοῦ παρεῖναι καὶ κατηγορεῖν εἴ τι ἔχοιεν πρὸς ἐμέ,",
+    "translation": "Sino que fueron ciertos judíos de la provincia de Asia, quienes debían estar aquí presentes delante de ti y formular su acusación si es que tenían algo contra mí.",
+    "translation_notes": "Defecto procesal por ausencia de acusadores originarios: Pablo asesta un argumento jurídico demoledor conforme a las estrictas normas del derecho penal imperial: la regla de la cognitio romana exigía que los denunciantes originales que presenciaron el supuesto delito comparecieran en persona como acusadores formales ante el tribunal (delatores / accusatores). Los instigadores del tumulto en el Templo fueron los judíos de la provincia senatorial de Asia (τινὲς ἀπὸ τῆς Ἀσίας Ἰουδαῖοι, cf. 21:27). El uso del verbo ἔδει (imperfecto de δεῖ, 'era procesalmente indispensable / obligatorio que estuvieran presentes') evidencia la invalidez jurídica del caso: al haberse ausentado los únicos testigos materiales, la acusación carecía de valor probatorio."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 20,
+    "greek_text": "ἢ αὐτοὶ οὗτοι εἰπάτωσαν τί εὗρον ἀδίκημα στάντος μου ἐπὶ τοῦ συνεδρίου",
+    "translation": "O si no, que digan estos mismos qué delito hallaron en mí cuando comparecí de pie ante el Sanedrín,",
+    "translation_notes": "Emplazamiento a los miembros presentes del Sanedrín: Ante la incomparecencia de los testigos de Asia, Pablo desafía a los miembros del Sanedrín allí congregados (αὐτοὶ οὗτοι). Utiliza el imperativo de tercera persona εἰπάτωσαν ('que digan') y demanda que especifiquen qué ἀδίκημα (adikēma, acto delictivo, transgresión legal positiva) comprobaron objetivamente durante la audiencia que tuvo lugar ante su propio tribunal en Jerusalén (ἐπὶ τοῦ συνεδρίου)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 21,
+    "greek_text": "ἢ περὶ μιᾶς ταύτης φωνῆς ἧς ἐκέκραξα ἐν αὐτοῖς ἑστὼς ὅτι Περὶ ἀναστάσεως νεκρῶν ἐγὼ κρίνομαι σήμερον ἐφ’ ὑμῶν.",
+    "translation": "a menos que sea por esta sola exclamación que proferí en medio de ellos mientras estaba de pie: “¡Por la resurrección de los muertos es que hoy estoy siendo juzgado ante ustedes!”».",
+    "translation_notes": "La única declaración sustancial: Pablo identifica con precisión la única frase pronunciada en el Sanedrín (Hch 23:6): Περὶ ἀναστάσεως νεκρῶν ἐγὼ κρίνομαι. Al señalar esto, evidencia que su procesamiento no obedece a crímenes contra el Estado ni a profanaciones del santuario, sino a una controversia teológica interna del judaísmo respecto a la doctrina de la resurrección corporal, asunto totalmente ajeno a la jurisdicción penal romana."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 22,
+    "greek_text": "Ἀνεβάλετο δὲ αὐτοὺς ὁ Φῆλιξ, ἀκριβέστερον εἰδὼς τὰ περὶ τῆς ὁδοῦ, εἴπας· Ὅταν Λυσίας ὁ χιλίαρχος καταβῇ διαγνώσομαι τὰ καθ’ ὑμᾶς·",
+    "translation": "Félix, que tenía un conocimiento más exacto acerca del Camino, aplazó la audiencia diciendo: «Cuando baje el tribuno Lisias, examinaré y decidiré su causa».",
+    "translation_notes": "Aplazamiento procesal (ampliatio) de Félix: El verbo Ἀνεβάλετο (aoristo medio de ἀναβάλλω) es el término procesal técnico correspondiente a la ampliatio del derecho romano: diferir la resolución judicial para un momento posterior. Lucas observa agudamente que Félix poseía ya una información considerable y detallada (ἀκριβέστερον εἰδώς) sobre el movimiento cristiano ('el Camino', τῆς ὁδοῦ), debido a sus largos años de mandato en Cesarea y su matrimonio con Drusilla. Conociendo la inocencia legal de Pablo pero no queriendo enemistarse con la élite sacerdotal judía, dilata el proceso poniendo como pretexto la comparecencia del tribuno militar Claudio Lisias para una decisión definitiva (διαγνώσομαι, de διαγινώσκω, emitir juicio pericial o sentencia)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 23,
+    "greek_text": "διαταξάμενος τῷ ἑκατοντάρχῃ τηρεῖσθαι αὐτὸν ἔχειν τε ἄνεσιν καὶ μηδένα κωλύειν τῶν ἰδίων αὐτοῦ ὑπηρετεῖν αὐτῷ.",
+    "translation": "Y dio órdenes al centurión de que mantuviera a Pablo bajo custodia, pero concediéndole alivio y libertad, y sin impedir a ninguno de sus allegados atender a sus necesidades.",
+    "translation_notes": "Régimen de custodia libera y privilegios: Félix dispone que Pablo sea sometido a un régimen carcelario atenuado conocido en el derecho romano como custodia militaris / libera: se encarga la vigilancia a un centurión, pero con ἄνεσις (anesis, desahogo, relajación de ataduras o cadenas rigurosas, trato benigno) y pleno permiso para que sus colaboradores y amigos íntimos (τῶν ἰδίων αὐτοῦ, como Lucas, Aristarco y creyentes de Cesarea) lo asistan materialmente y se comuniquen con él (ὑπηρετεῖν αὐτῷ)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 24,
+    "greek_text": "Μετὰ δὲ ἡμέρας τινὰς παραγενόμενος ὁ Φῆλιξ σὺν Δρουσίλλῃ τῇ ἰδίᾳ γυναικὶ οὔσῃ Ἰουδαίᾳ μετεπέμψατο τὸν Παῦλον καὶ ἤκουσεν αὐτοῦ περὶ τῆς εἰς Χριστὸν Ἰησοῦν πίστεως.",
+    "translation": "Algunos días después, presentándose Félix con su esposa Drusila, que era judía, mandó llamar a Pablo y lo escuchó hablar acerca de la fe en Cristo Jesús.",
+    "translation_notes": "Audiencia privada ante Félix y Drusila: Drusila era la hija menor de Herodes Agripa I y hermana de Herodes Agripa II y Berenice. Famosa por su deslumbrante belleza, había estado casada con Aziz, rey de Émesa; Félix, fascinado por ella, recurrió al mago chipriota Simón para persuadirla de abandonar a su esposo y casarse con él (Josefo, Ant. 20.141-144), quebrantando la ley judía de matrimonios consanguíneos e interreligiosos. Siendo judía (οὔσῃ Ἰουδαίᾳ), Drusila sentía curiosidad por el evangelio mesiánico; Félix manda llamar al apóstol para una audiencia sobre la fe en el Mesías Jesús (περὶ τῆς εἰς Χριστὸν Ἰησοῦν πίστεως)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 25,
+    "greek_text": "διαλεγομένου δὲ αὐτοῦ περὶ δικαιοσύνης καὶ ἐγκρατείας καὶ τοῦ κρίματος τοῦ μέλλοντος ἔμφοβος γενόμενος ὁ Φῆλιξ ἀπεκρίθη· Τὸ νῦν ἔχον πορεύου, καιρὸν δὲ μεταλαβὼν μετακαλέσομαί σε·",
+    "translation": "Pero al disertar Pablo acerca de la justicia, del dominio propio y del juicio venidero, Félix, lleno de temor, respondió: «Por ahora puedes retirarte; cuando encuentre una oportunidad oportuna, te mandaré llamar».",
+    "translation_notes": "El discurso ético-escatológico y el pánico del magistrado: Pablo no adapta su mensaje para halagar al gobernante, sino que aborda con parresía apostólica tres temas candentes de directa interpelación moral: 1) δικαιοσύνη (dikaiosynē, rectitud y justicia judicial, en reproche implícito a la venalidad y crueldad del gobernador); 2) ἐγκράτεια (enkrateia, dominio propio, continencia y templanza ética, incidiendo frontalmente sobre la escandalosa relación adúltera de Félix y Drusila); 3) τὸ κρῖμα τὸ μέλλον (to krima to mellon, el ineludible juicio divino escatológico donde comparecerán tanto reyes como siervos). El impacto psicológico es fulminante: Félix queda sobrecogido de pánico (ἔμφοβος γενόμενος, aterrorizado en su conciencia) y da por terminada la sesión con una evasiva diplomática (Τὸ νῦν ἔχον πορεύου, 'por el presente vete')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 26,
+    "greek_text": "ἅμα καὶ ἐλπίζων ὅτι χρήματα δοθήσεται αὐτῷ ὑπὸ τοῦ Παύλου· διὸ καὶ πυκνότερον αὐτὸν μεταπεμπόμενος ὡμίλει αὐτῷ.",
+    "translation": "Al mismo tiempo, abrigaba la esperanza de que Pablo le diera dinero; por lo cual también lo mandaba llamar con mucha frecuencia y conversaba con él.",
+    "translation_notes": "La corrupción venal de Félix: Lucas devela la motivación pecuniaria del procurador: esperaba recibir un soborno o cohecho (χρήματα δοθήσεται). Como Pablo había mencionado en el v. 17 que administraba cuantiosas limosnas colectadas en las iglesias gentiles, Félix dedujo astutamente que el apóstol disponía de importantes recursos financieros o benefactores adinerados dispuestos a pagar una fuerte suma por su libertad. Esta expectativa monetaria motivó frecuentes coloquios personales (πυκνότερον μεταπεμπόμενος ὡμίλει αὐτῷ)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 24,
+    "verse": 27,
+    "greek_text": "Διετίας δὲ πληρωθείσης ἔλαβεν διάδοχον ὁ Φῆλιξ Πόρκιον Φῆστον· θέλων τε χάριτα καταθέσθαι τοῖς Ἰουδαίοις ὁ Φῆλιξ κατέλιπε τὸν Παῦλον δεδεμένον.",
+    "translation": "Transcurridos dos años completos, Félix tuvo por sucesor a Porcio Festo; y queriendo congraciarse con los judíos, Félix dejó a Pablo encarcelado.",
+    "translation_notes": "Transición gubernativa y cálculo político final: El período de dos años de cautiverio en Cesarea (Διετίας δὲ πληρωθείσης, c. 58-60 d.C.) concluye con la destitución y relevo de Félix por orden del emperador Nerón. Porcio Festo (procurador aristócrata del clan senatorial Porcia) asume el mando en medio de graves disturbios entre judíos y sirios en Cesarea. A fin de aminorar la indignación popular judía y evitar que las acusaciones de tiranía y malversación prosperaran en Roma, Félix incurre en una flagrante prevaricación por cálculo político: deja a un ciudadano inocente retenido en prisión (θέλων χάριτα καταθέσθαι, literalmente 'deseando depositar un favor / congraciarse políticamente', κατέλιπε δεδεμένον, lo dejó confinado en prisión)."
+  }
+]

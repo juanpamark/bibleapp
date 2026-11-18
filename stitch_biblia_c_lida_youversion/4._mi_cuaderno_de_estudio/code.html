@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+
+<html class="light" lang="es"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Sagradas Escrituras - Mi Cuaderno de Estudio</title>
+<!-- Google Fonts: Inter & Merriweather -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&amp;display=swap" rel="stylesheet"/>
+<!-- Material Symbols Outlined -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<!-- Tailwind CSS with configuration -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          "colors": {
+            "primary-fixed": "#ffdbce",
+            "secondary-fixed": "#ffdea8",
+            "on-secondary-container": "#785817",
+            "on-tertiary": "#ffffff",
+            "surface-container-high": "#f0e6e1",
+            "tertiary-container": "#b75a37",
+            "surface-dim": "#e2d8d3",
+            "secondary-container": "#fdd184",
+            "surface-container-lowest": "#ffffff",
+            "surface-tint": "#9a4522",
+            "on-primary-fixed-variant": "#7b2f0c",
+            "on-error": "#ffffff",
+            "inverse-surface": "#352f2c",
+            "on-tertiary-fixed": "#380d00",
+            "outline": "#88726b",
+            "primary-fixed-dim": "#ffb59a",
+            "secondary-fixed-dim": "#ebc075",
+            "surface-container-highest": "#ebe0dc",
+            "surface-variant": "#ebe0dc",
+            "secondary": "#795918",
+            "inverse-primary": "#ffb59a",
+            "on-secondary": "#ffffff",
+            "on-secondary-fixed": "#271900",
+            "on-surface": "#1f1b18",
+            "on-surface-variant": "#55433c",
+            "surface-container-low": "#fcf2ec",
+            "on-error-container": "#93000a",
+            "background": "#fff8f5",
+            "error-container": "#ffdad6",
+            "on-primary": "#ffffff",
+            "on-tertiary-fixed-variant": "#7c2e0e",
+            "on-primary-fixed": "#370e00",
+            "on-background": "#1f1b18",
+            "on-primary-container": "#fffbff",
+            "tertiary": "#984221",
+            "surface-bright": "#fff8f5",
+            "surface": "#fff8f5",
+            "inverse-on-surface": "#f9efea",
+            "primary-container": "#b65b35",
+            "surface-container": "#f6ece7",
+            "tertiary-fixed-dim": "#ffb59b",
+            "outline-variant": "#dbc1b8",
+            "error": "#ba1a1a",
+            "tertiary-fixed": "#ffdbcf",
+            "on-tertiary-container": "#fffbff",
+            "on-secondary-fixed-variant": "#5e4200",
+            "primary": "#974320"
+          },
+          "borderRadius": {
+            "DEFAULT": "0.25rem",
+            "lg": "0.5rem",
+            "xl": "0.75rem",
+            "full": "9999px"
+          },
+          "spacing": {
+            "space-md": "1rem",
+            "space-lg": "1.5rem",
+            "space-xl": "2.25rem",
+            "margin": "1.25rem",
+            "space-sm": "0.5rem",
+            "space-xs": "0.25rem",
+            "gutter": "1rem"
+          },
+          "fontFamily": {
+            "label-sm": ["Inter"],
+            "headline-lg": ["Merriweather"],
+            "label-lg": ["Inter"],
+            "label-md": ["Inter"],
+            "scripture-verse-num": ["Inter"],
+            "scripture-body": ["Merriweather"],
+            "headline-sm": ["Merriweather"],
+            "body-lg": ["Inter"],
+            "body-md": ["Inter"],
+            "headline-md": ["Merriweather"],
+            "headline-xl": ["Merriweather"],
+            "headline-xl-mobile": ["Merriweather"]
+          },
+          "fontSize": {
+            "label-sm": ["10px", { "lineHeight": "14px", "letterSpacing": "0.04em", "fontWeight": "600" }],
+            "headline-lg": ["24px", { "lineHeight": "32px", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+            "label-lg": ["14px", { "lineHeight": "18px", "letterSpacing": "0.01em", "fontWeight": "600" }],
+            "label-md": ["12px", { "lineHeight": "16px", "letterSpacing": "0.02em", "fontWeight": "500" }],
+            "scripture-verse-num": ["11px", { "lineHeight": "14px", "letterSpacing": "0.02em", "fontWeight": "600" }],
+            "scripture-body": ["19px", { "lineHeight": "32px", "letterSpacing": "0.01em", "fontWeight": "400" }],
+            "headline-sm": ["18px", { "lineHeight": "26px", "fontWeight": "400" }],
+            "body-lg": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+            "body-md": ["14px", { "lineHeight": "20px", "fontWeight": "400" }],
+            "headline-md": ["20px", { "lineHeight": "28px", "fontWeight": "600" }],
+            "headline-xl": ["32px", { "lineHeight": "42px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+            "headline-xl-mobile": ["26px", { "lineHeight": "34px", "letterSpacing": "-0.015em", "fontWeight": "700" }]
+          }
+        }
+      }
+    }
+  </script>
+<style>
+    .material-symbols-outlined {
+      font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+      display: inline-block;
+      vertical-align: middle;
+      line-height: 1;
+    }
+    .custom-warm-card {
+      box-shadow: 0 4px 20px -2px rgba(45, 40, 37, 0.04), 0 2px 6px -1px rgba(194, 100, 62, 0.03);
+      border: 1px solid rgba(232, 223, 211, 0.65);
+    }
+  </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+</head>
+<body class="bg-background text-on-surface antialiased min-h-screen flex flex-col font-body-md text-body-md selection:bg-secondary-container selection:text-on-secondary-container pb-28">
+<!-- Shared Component: TopAppBar -->
+<header class="w-full bg-surface dark:bg-inverse-surface shadow-sm dark:shadow-none sticky top-0 z-40 transition-colors">
+<div class="w-full flex items-center justify-between px-space-md py-space-sm max-w-screen-md mx-auto">
+<div class="flex items-center gap-space-sm">
+<button aria-label="Abrir menú" class="p-space-xs text-primary dark:text-inverse-primary hover:bg-surface-container dark:hover:bg-surface-container-highest transition-colors duration-150 active:scale-95 transition-transform duration-150 rounded-lg flex items-center justify-center">
+<span class="material-symbols-outlined text-primary" data-icon="menu_book">menu_book</span>
+</button>
+<span class="font-headline-md text-headline-md font-bold text-primary dark:text-inverse-primary tracking-tight">Sagradas Escrituras</span>
+</div>
+<div class="flex items-center gap-space-xs">
+<button aria-label="Buscar oraciones o pasajes" class="p-space-xs text-on-surface-variant dark:text-outline-variant hover:bg-surface-container dark:hover:bg-surface-container-highest transition-colors duration-150 active:scale-95 transition-transform duration-150 rounded-lg flex items-center justify-center">
+<span class="material-symbols-outlined" data-icon="search">search</span>
+</button>
+</div>
+</div>
+</header>
+<!-- Main Content Canvas -->
+<main class="w-full max-w-screen-md mx-auto px-margin pt-space-md flex-1"><!-- Page Header & Action Bar -->
+<div class="flex flex-col sm:flex-row sm:items-center justify-between gap-space-md pb-space-sm">
+<div>
+<div class="flex items-center gap-space-xs text-secondary mb-1">
+<span class="material-symbols-outlined text-secondary text-base" data-icon="book">book</span>
+<span class="font-label-sm text-label-sm tracking-wider font-semibold uppercase">DIARIO ESPIRITUAL &amp; EXÉGESIS</span>
+</div>
+<h1 class="font-headline-lg text-headline-lg text-on-surface tracking-tight">Mi Cuaderno de Estudio</h1>
+</div>
+<button class="inline-flex items-center justify-center gap-space-xs bg-primary hover:bg-tertiary text-on-primary font-label-lg text-label-lg px-space-md py-space-sm rounded-lg shadow-sm hover:shadow active:scale-95 transition-all duration-150 self-start sm:self-auto cursor-pointer">
+<span class="material-symbols-outlined text-on-primary" data-icon="edit_square">edit_square</span>
+<span>+ Crear Apunte</span>
+</button>
+</div>
+<!-- Search & Quick Filter Bar -->
+<div class="mt-space-sm mb-space-lg relative flex items-center">
+<span class="material-symbols-outlined text-on-surface-variant absolute left-3 pointer-events-none" data-icon="search">search</span>
+<input class="w-full pl-10 pr-space-md py-2.5 rounded-xl bg-surface-container-low border border-outline-variant/40 focus:border-primary focus:ring-1 focus:ring-primary text-on-surface text-body-md outline-none transition-all shadow-xs" placeholder="Buscar por pasaje, tema o palabras clave..." type="text"/>
+</div>
+<!-- Smart Folder Carousel / Grid -->
+<section class="mb-space-lg">
+<div class="flex items-center justify-between mb-space-sm">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-primary text-lg" data-icon="folder_open">folder_open</span>
+<h2 class="font-headline-sm text-headline-sm font-bold text-on-surface">Carpetas de Estudio</h2>
+</div>
+<span class="font-label-md text-label-md text-primary font-medium cursor-pointer hover:underline">Gestionar</span>
+</div>
+<div class="grid grid-cols-2 sm:grid-cols-4 gap-space-sm">
+<!-- Folder 1 -->
+<div class="custom-warm-card bg-surface hover:bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between border border-outline-variant/40 cursor-pointer transition-all duration-150 group hover:shadow-sm">
+<div class="flex items-center justify-between mb-2">
+<div class="w-9 h-9 rounded-lg bg-secondary-container/60 text-secondary flex items-center justify-center group-hover:scale-105 transition-transform">
+<span class="material-symbols-outlined text-lg" data-icon="folder">folder</span>
+</div>
+<span class="text-[11px] font-semibold px-2 py-0.5 rounded-full bg-surface-container text-on-surface-variant">14 notas</span>
+</div>
+<div>
+<h3 class="font-label-lg text-label-lg font-bold text-on-surface group-hover:text-primary transition-colors line-clamp-1">Sermones Dominicales</h3>
+<p class="font-label-sm text-label-sm text-on-surface-variant">Actualizado ayer</p>
+</div>
+</div>
+<!-- Folder 2 -->
+<div class="custom-warm-card bg-surface hover:bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between border border-outline-variant/40 cursor-pointer transition-all duration-150 group hover:shadow-sm">
+<div class="flex items-center justify-between mb-2">
+<div class="w-9 h-9 rounded-lg bg-primary-fixed/50 text-primary flex items-center justify-center group-hover:scale-105 transition-transform">
+<span class="material-symbols-outlined text-lg" data-icon="menu_book">menu_book</span>
+</div>
+<span class="text-[11px] font-semibold px-2 py-0.5 rounded-full bg-surface-container text-on-surface-variant">8 notas</span>
+</div>
+<div>
+<h3 class="font-label-lg text-label-lg font-bold text-on-surface group-hover:text-primary transition-colors line-clamp-1">Estudio de Gálatas</h3>
+<p class="font-label-sm text-label-sm text-on-surface-variant">Capítulo 3 y 4</p>
+</div>
+</div>
+<!-- Folder 3 -->
+<div class="custom-warm-card bg-surface hover:bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between border border-outline-variant/40 cursor-pointer transition-all duration-150 group hover:shadow-sm">
+<div class="flex items-center justify-between mb-2">
+<div class="w-9 h-9 rounded-lg bg-secondary-fixed/50 text-secondary flex items-center justify-center group-hover:scale-105 transition-transform">
+<span class="material-symbols-outlined text-lg" data-icon="bookmark_heart">bookmark_heart</span>
+</div>
+<span class="text-[11px] font-semibold px-2 py-0.5 rounded-full bg-surface-container text-on-surface-variant">23 notas</span>
+</div>
+<div>
+<h3 class="font-label-lg text-label-lg font-bold text-on-surface group-hover:text-primary transition-colors line-clamp-1">Versículos Favoritos</h3>
+<p class="font-label-sm text-label-sm text-on-surface-variant">Con anotaciones</p>
+</div>
+</div>
+<!-- Folder 4 -->
+<div class="custom-warm-card bg-surface hover:bg-surface-container-low rounded-xl p-space-sm flex flex-col justify-between border border-outline-variant/40 cursor-pointer transition-all duration-150 group hover:shadow-sm">
+<div class="flex items-center justify-between mb-2">
+<div class="w-9 h-9 rounded-lg bg-tertiary-fixed text-tertiary flex items-center justify-center group-hover:scale-105 transition-transform">
+<span class="material-symbols-outlined text-lg" data-icon="history_edu">history_edu</span>
+</div>
+<span class="text-[11px] font-semibold px-2 py-0.5 rounded-full bg-surface-container text-on-surface-variant">6 notas</span>
+</div>
+<div>
+<h3 class="font-label-lg text-label-lg font-bold text-on-surface group-hover:text-primary transition-colors line-clamp-1">Teología y Exégesis</h3>
+<p class="font-label-sm text-label-sm text-on-surface-variant">Términos griegos</p>
+</div>
+</div>
+</div>
+</section>
+<!-- Main Feed Header: Notas Recientes -->
+<div class="flex items-center justify-between mb-space-md">
+<div class="flex items-center gap-2">
+<h2 class="font-headline-sm text-headline-sm font-bold text-on-surface">Notas Recientes</h2>
+<span class="text-xs text-on-surface-variant font-medium">(45 en total)</span>
+</div>
+<div class="flex items-center gap-1 text-on-surface-variant font-label-md text-label-md cursor-pointer hover:text-on-surface">
+<span>Más recientes</span>
+<span class="material-symbols-outlined text-base" data-icon="arrow_drop_down">arrow_drop_down</span>
+</div>
+</div>
+<!-- Feed of Study Notes -->
+<div class="space-y-space-md">
+<!-- Note Card 1 -->
+<article class="custom-warm-card bg-surface rounded-xl p-space-md border border-outline-variant/40 hover:shadow-md transition-all duration-200">
+<div class="flex items-start justify-between gap-space-sm mb-space-sm">
+<div class="flex flex-wrap items-center gap-2">
+<a class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-secondary-container/70 hover:bg-secondary-container text-on-secondary-container font-label-sm text-label-sm font-bold transition-colors group cursor-pointer" href="#lector">
+<span class="material-symbols-outlined text-sm text-secondary" data-icon="open_in_new">open_in_new</span>
+<span>Filipenses 4:6-7</span>
+</a>
+<span class="text-xs text-on-surface-variant">• Hoy, 10:45 AM</span>
+</div>
+<button aria-label="Opciones de nota" class="text-on-surface-variant hover:text-on-surface p-1 rounded-full transition-colors">
+<span class="material-symbols-outlined text-lg" data-icon="more_horiz">more_horiz</span>
+</button>
+</div>
+<h3 class="font-headline-sm text-headline-sm font-bold text-on-surface mb-1.5">
+      La paz que sobrepasa todo entendimiento
+    </h3>
+<p class="font-body-lg text-body-lg text-on-surface leading-relaxed mb-space-md font-normal">
+      Pablo no promete la ausencia de dificultades, sino la custodia sobrenatural de Dios sobre nuestras emociones y pensamientos («guardará vuestros corazones»). La palabra griega <em class="font-medium text-primary">phroureo</em> alude a una guarnición militar que monta guardia; la oración perseverante es nuestro centinela frente a la ansiedad.
+    </p>
+<div class="flex flex-wrap items-center justify-between gap-2 pt-space-xs border-t border-outline-variant/30 text-xs text-on-surface-variant">
+<div class="flex items-center gap-1.5">
+<span class="px-2 py-0.5 rounded-md bg-surface-container text-on-surface-variant font-label-sm text-label-sm">#Paz</span>
+<span class="px-2 py-0.5 rounded-md bg-surface-container text-on-surface-variant font-label-sm text-label-sm">#Oración</span>
+<span class="px-2 py-0.5 rounded-md bg-surface-container text-on-surface-variant font-label-sm text-label-sm">#Exégesis</span>
+</div>
+<div class="flex items-center gap-1 font-label-sm text-label-sm text-primary hover:underline cursor-pointer">
+<span class="material-symbols-outlined text-sm" data-icon="edit_note">edit_note</span>
+<span>Editar nota</span>
+</div>
+</div>
+</article>
+<!-- Note Card 2 -->
+<article class="custom-warm-card bg-surface rounded-xl p-space-md border border-outline-variant/40 hover:shadow-md transition-all duration-200">
+<div class="flex items-start justify-between gap-space-sm mb-space-sm">
+<div class="flex flex-wrap items-center gap-2">
+<a class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-secondary-container/70 hover:bg-secondary-container text-on-secondary-container font-label-sm text-label-sm font-bold transition-colors group cursor-pointer" href="#lector">
+<span class="material-symbols-outlined text-sm text-secondary" data-icon="open_in_new">open_in_new</span>
+<span>Salmos 23:4</span>
+</a>
+<span class="text-xs text-on-surface-variant">• Ayer, 4:20 PM</span>
+</div>
+<button aria-label="Opciones de nota" class="text-on-surface-variant hover:text-on-surface p-1 rounded-full transition-colors">
+<span class="material-symbols-outlined text-lg" data-icon="more_horiz">more_horiz</span>
+</button>
+</div>
+<h3 class="font-headline-sm text-headline-sm font-bold text-on-surface mb-1.5">
+      Vara y cayado: Protección y corrección amorosa
+    </h3>
+<p class="font-body-lg text-body-lg text-on-surface leading-relaxed mb-space-md font-normal">
+      En el valle de sombra de muerte no estamos desprovistos de guía. El pastor usa la vara para defender a la oveja de depredadores y el cayado curvado para reincorporarla suavemente cuando se desvía del sendero seguro. El consuelo divino incluye tanto Su amparo como Su dirección soberana.
+    </p>
+<div class="flex flex-wrap items-center justify-between gap-2 pt-space-xs border-t border-outline-variant/30 text-xs text-on-surface-variant">
+<div class="flex items-center gap-1.5">
+<span class="px-2 py-0.5 rounded-md bg-surface-container text-on-surface-variant font-label-sm text-label-sm">#Consuelo</span>
+<span class="px-2 py-0.5 rounded-md bg-surface-container text-on-surface-variant font-label-sm text-label-sm">#Soberanía</span>
+</div>
+<div class="flex items-center gap-1 font-label-sm text-label-sm text-primary hover:underline cursor-pointer">
+<span class="material-symbols-outlined text-sm" data-icon="edit_note">edit_note</span>
+<span>Editar nota</span>
+</div>
+</div>
+</article>
+<!-- Note Card 3 -->
+<article class="custom-warm-card bg-surface rounded-xl p-space-md border border-outline-variant/40 hover:shadow-md transition-all duration-200">
+<div class="flex items-start justify-between gap-space-sm mb-space-sm">
+<div class="flex flex-wrap items-center gap-2">
+<a class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-secondary-container/70 hover:bg-secondary-container text-on-secondary-container font-label-sm text-label-sm font-bold transition-colors group cursor-pointer" href="#lector">
+<span class="material-symbols-outlined text-sm text-secondary" data-icon="open_in_new">open_in_new</span>
+<span>Romanos 8:28</span>
+</a>
+<span class="text-xs text-on-surface-variant">• 20 May</span>
+</div>
+<button aria-label="Opciones de nota" class="text-on-surface-variant hover:text-on-surface p-1 rounded-full transition-colors">
+<span class="material-symbols-outlined text-lg" data-icon="more_horiz">more_horiz</span>
+</button>
+</div>
+<h3 class="font-headline-sm text-headline-sm font-bold text-on-surface mb-1.5">
+      La orquestación providencial de todas las cosas
+    </h3>
+<p class="font-body-lg text-body-lg text-on-surface leading-relaxed mb-space-md font-normal">
+      «Todas las cosas ayudan a bien». El término <em class="font-medium text-primary">synergei</em> refleja una cooperación activa dispuesta por la voluntad redentora de Dios. No implica que todo lo que ocurre sea bueno en sí mismo, sino que en las manos del Creador aun las pruebas más duras cooperan para moldearnos a la imagen de Cristo.
+    </p>
+<div class="flex flex-wrap items-center justify-between gap-2 pt-space-xs border-t border-outline-variant/30 text-xs text-on-surface-variant">
+<div class="flex items-center gap-1.5">
+<span class="px-2 py-0.5 rounded-md bg-surface-container text-on-surface-variant font-label-sm text-label-sm">#Gracia</span>
+<span class="px-2 py-0.5 rounded-md bg-surface-container text-on-surface-variant font-label-sm text-label-sm">#Providencia</span>
+<span class="px-2 py-0.5 rounded-md bg-surface-container text-on-surface-variant font-label-sm text-label-sm">#Teología</span>
+</div>
+<div class="flex items-center gap-1 font-label-sm text-label-sm text-primary hover:underline cursor-pointer">
+<span class="material-symbols-outlined text-sm" data-icon="edit_note">edit_note</span>
+<span>Editar nota</span>
+</div>
+</div>
+</article>
+</div></main>
+<!-- Shared Component: BottomNavBar (Active: Oración) -->
+<nav class="fixed bottom-0 left-0 w-full z-50 flex justify-around items-center px-space-sm py-space-xs bg-surface/90 dark:bg-inverse-surface/90 backdrop-blur-md shadow-[0_-4px_24px_rgba(45,40,37,0.06)] border-t border-outline-variant/30"><!-- Inicio (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant dark:text-outline-variant px-space-sm py-space-xs hover:text-primary dark:hover:text-inverse-primary transition-colors duration-150 active:scale-95 transition-transform duration-150" href="#inicio">
+<span class="material-symbols-outlined text-2xl" data-icon="home">home</span>
+<span class="font-label-sm text-label-sm mt-0.5">Inicio</span>
+</a>
+<!-- Lector (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant dark:text-outline-variant px-space-sm py-space-xs hover:text-primary dark:hover:text-inverse-primary transition-colors duration-150 active:scale-95 transition-transform duration-150" href="#lector">
+<span class="material-symbols-outlined text-2xl" data-icon="menu_book">menu_book</span>
+<span class="font-label-sm text-label-sm mt-0.5">Lector</span>
+</a>
+<!-- Estudio (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant dark:text-outline-variant px-space-sm py-space-xs hover:text-primary dark:hover:text-inverse-primary transition-colors duration-150 active:scale-95 transition-transform duration-150" href="#estudio">
+<span class="material-symbols-outlined text-2xl" data-icon="auto_stories">auto_stories</span>
+<span class="font-label-sm text-label-sm mt-0.5">Estudio</span>
+</a>
+<!-- Notas (ACTIVE SELECTION) -->
+<a aria-current="page" class="flex flex-col items-center justify-center bg-secondary-container dark:bg-secondary text-on-secondary-container dark:text-on-secondary rounded-xl px-space-sm py-space-xs active:scale-95 transition-transform duration-150" href="#notas">
+<span class="material-symbols-outlined text-2xl" data-icon="edit_note" data-weight="fill" style="font-variation-settings: 'FILL' 1;">edit_note</span>
+<span class="font-label-sm text-label-sm font-semibold mt-0.5">Notas</span>
+</a>
+<!-- Perfil (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant dark:text-outline-variant px-space-sm py-space-xs hover:text-primary dark:hover:text-inverse-primary transition-colors duration-150 active:scale-95 transition-transform duration-150" href="#perfil">
+<span class="material-symbols-outlined text-2xl" data-icon="person">person</span>
+<span class="font-label-sm text-label-sm mt-0.5">Perfil</span>
+</a></nav>
+<!-- Interactive Logic for Prayer actions & tab toggle -->
+<script>
+    const prayedState = {
+      sofia: false,
+      carlos: false
+    };
+
+    function showToast(message) {
+      const toast = document.getElementById('toast');
+      const toastText = document.getElementById('toast-text');
+      toastText.textContent = message;
+      toast.classList.remove('opacity-0', 'pointer-events-none');
+      toast.classList.add('opacity-100');
+      
+      setTimeout(() => {
+        toast.classList.remove('opacity-100');
+        toast.classList.add('opacity-0', 'pointer-events-none');
+      }, 2500);
+    }
+
+    function prayAction(key, baseCount) {
+      const countEl = document.getElementById(`count-${key}`);
+      const btnEl = document.getElementById(`pray-${key}-btn`);
+      const textEl = document.getElementById(`text-${key}`);
+      const iconEl = document.getElementById(`icon-${key}`);
+
+      if (!prayedState[key]) {
+        prayedState[key] = true;
+        const newCount = baseCount + 1;
+        countEl.textContent = newCount;
+        countEl.classList.add('text-primary');
+
+        btnEl.classList.remove('bg-primary-fixed/40', 'text-primary');
+        btnEl.classList.add('bg-primary', 'text-on-primary', 'scale-105');
+        textEl.textContent = 'Orando ✨';
+        iconEl.setAttribute('data-weight', 'fill');
+        iconEl.style.fontVariationSettings = "'FILL' 1";
+
+        showToast('Has orado por esta petición. Dios te bendiga.');
+      } else {
+        prayedState[key] = false;
+        countEl.textContent = baseCount;
+        countEl.classList.remove('text-primary');
+
+        btnEl.classList.remove('bg-primary', 'text-on-primary', 'scale-105');
+        btnEl.classList.add('bg-primary-fixed/40', 'text-primary');
+        textEl.textContent = 'Orar 🙏';
+        iconEl.removeAttribute('data-weight');
+        iconEl.style.fontVariationSettings = "'FILL' 0";
+      }
+    }
+
+    function toggleMainPrayer(btn) {
+      if (btn.dataset.joined === 'true') {
+        btn.dataset.joined = 'false';
+        btn.innerHTML = `<span class="material-symbols-outlined text-[18px]" style="font-variation-settings: 'FILL' 1;" data-icon="favorite" data-weight="fill">favorite</span><span>Unirme en Oración</span>`;
+        btn.classList.remove('bg-secondary', 'text-on-secondary');
+        btn.classList.add('bg-surface', 'text-primary');
+      } else {
+        btn.dataset.joined = 'true';
+        btn.innerHTML = `<span class="material-symbols-outlined text-[18px]" style="font-variation-settings: 'FILL' 1;" data-icon="check" data-weight="fill">check</span><span>Unido en Oración</span>`;
+        btn.classList.remove('bg-surface', 'text-primary');
+        btn.classList.add('bg-secondary', 'text-on-secondary');
+        showToast('Te has unido a la oración comunitaria del día de hoy.');
+      }
+    }
+
+    function giveThanks(btn) {
+      const text = document.getElementById('praise-text');
+      btn.classList.toggle('scale-105');
+      text.textContent = '¡Amén! Unidos en Gratitud';
+      showToast('¡Amén! Tu gratitud ha sido compartida.');
+    }
+
+    function switchTab(tab) {
+      const tabComunidad = document.getElementById('tab-comunidad');
+      const tabPrivadas = document.getElementById('tab-privadas');
+
+      if (tab === 'comunidad') {
+        tabComunidad.className = "flex-1 py-space-xs px-space-sm rounded-lg font-label-md text-label-md font-semibold text-on-primary bg-primary shadow-xs transition-all flex items-center justify-center gap-1.5";
+        tabPrivadas.className = "flex-1 py-space-xs px-space-sm rounded-lg font-label-md text-label-md font-medium text-on-surface-variant hover:text-on-surface transition-all flex items-center justify-center gap-1.5";
+      } else {
+        tabPrivadas.className = "flex-1 py-space-xs px-space-sm rounded-lg font-label-md text-label-md font-semibold text-on-primary bg-primary shadow-xs transition-all flex items-center justify-center gap-1.5";
+        tabComunidad.className = "flex-1 py-space-xs px-space-sm rounded-lg font-label-md text-label-md font-medium text-on-surface-variant hover:text-on-surface transition-all flex items-center justify-center gap-1.5";
+        showToast('Mostrando tus peticiones íntimas y diario de oración.');
+      }
+    }
+
+    function openEncouragementPrompt(name) {
+      document.getElementById('modal-title').textContent = `Alentar a ${name}`;
+      document.getElementById('modal-encouragement').classList.remove('hidden');
+    }
+
+    function closeEncouragementModal() {
+      document.getElementById('modal-encouragement').classList.add('hidden');
+      document.getElementById('encouragement-input').value = '';
+    }
+
+    function sendEncouragement() {
+      const input = document.getElementById('encouragement-input').value;
+      if (input.trim().length > 0) {
+        closeEncouragementModal();
+        showToast('Palabra de aliento enviada.');
+      } else {
+        showToast('Por favor escribe unas palabras antes de enviar.');
+      }
+    }
+
+    function toggleNewPrayerModal() {
+      showToast('Formulario: Nueva petición de oración');
+    }
+  </script>
+</body></html>

@@ -1,0 +1,794 @@
+[
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 1,
+    "greek_text": "Τὸν μὲν πρῶτον λόγον ἐποιησάμην περὶ πάντων, ὦ Θεόφιλε, ὧν ἤρξατο ὁ Ἰησοῦς ποιεῖν τε καὶ διδάσκειν",
+    "translation": "En mi primer tratado, oh Teófilo, escribí acerca de todas las cosas que Jesús comenzó a hacer y a enseñar,",
+    "translation_notes": "Lucas inaugura la obra con un proemio literario propio de la historiografía grecorromana culta (análogo a Polibio o Josefo). La partícula men (Τὸν μὲν πρῶτον λόγον) remite al volumen precedente, el Evangelio de Lucas; el sustantivo λόγος (logos) se emplea aquí en el sentido técnico de 'tratado' o 'rollo de papiro'. El destinatario Θεόφιλος (Teófilo, 'amigo de Dios' o 'amado por Dios') es tratado con el vocativo formal ὦ; en Lc 1:3 recibió el título honorífico κράτιστε ('excelentísimo'), propio de un équite o magistrado imperial de alto rango. El uso correlativo de τε καὶ (ποιεῖν τε καὶ διδάσκειν) enfatiza que en Jesús las obras milagrosas y la enseñanza doctrinal constituyeron una unidad indisociable."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 2,
+    "greek_text": "ἄχρι ἧς ἡμέρας ἐντειλάμενος τοῖς ἀποστόλοις διὰ πνεύματος ἁγίου οὓς ἐξελέξατο ἀνελήμφθη·",
+    "translation": "hasta el día en que fue llevado arriba al cielo, después de haber dado instrucciones, por medio del Espíritu Santo, a los apóstoles que había escogido;",
+    "translation_notes": "La cronología del primer tratado culmina en la ascensión: el verbo ἀνελήμφθη (aoristo pasivo de analambanō) es un pasivo divino que indica la exaltación gloriosa de Jesús al trono celestial por el poder del Padre. El participio aoristo medio ἐντειλάμενος señala mandatos formales y vinculantes impartidos antes de su partida. Lucas subraya que la comisión de Jesús a sus apóstoles se realizó διὰ πνεύματος ἁγίου (por medio del Espíritu Santo), consagrando la continuidad entre el ministerio terrenal de Jesús y la misión apostólica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 3,
+    "greek_text": "οἷς καὶ παρέστησεν ἑαυτὸν ζῶντα μετὰ τὸ παθεῖν αὐτὸν ἐν πολλοῖς τεκμηρίοις, δι’ ἡμερῶν τεσσεράκοντα ὀπτανόμενος αὐτοῖς καὶ λέγων τὰ περὶ τῆς βασιλείας τοῦ θεοῦ·",
+    "translation": "a quienes también se presentó vivo después de haber padecido, con muchas pruebas concluyentes, apareciéndoseles a lo largo de cuarenta días y hablándoles acerca del reino de Dios.",
+    "translation_notes": "Lucas utiliza un vocabulario de máxima precisión jurídica y probatoria: el sustantivo τεκμήριον (tekmērion) es un tecnicismo de la lógica aristotélica (Retórica 1357b) y de la medicina griega que designa una prueba demostrativa irrebatible o evidencia irrefutable (en contraste con un mero indicio, sēmeion). El participio presente ὀπτανόμενος sugiere apariciones intermitentes y pedagógicas a lo largo de cuarenta días (δι’ ἡμερῶν τεσσεράκοντα), período tipológico bíblico de preparación solemne. El eje doctrinal de sus instrucciones pospascuales fue 'el reino de Dios' (τῆς βασιλείας τοῦ θεοῦ), temática que enmarca toda la obra lucana (cf. Hch 28:31)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 4,
+    "greek_text": "καὶ συναλιζόμενος παρήγγειλεν αὐτοῖς ἀπὸ Ἱεροσολύμων μὴ χωρίζεσθαι, ἀλλὰ περιμένειν τὴν ἐπαγγελίαν τοῦ πατρὸς ἣν ἠκούσατέ μου·",
+    "translation": "Y mientras estaba comiendo con ellos, les ordenó que no se apartaran de Jerusalén, sino que esperaran la promesa del Padre, «la cual —les dijo— oyeron de mí;",
+    "translation_notes": "El participio deponente συναλιζόμενος (synalizomenos) proviene etimológicamente de ἅλς (hals, sal), significando compartir la mesa y la sal, o reunirse en asamblea fraterna; ratifica la corporeidad indiscutible de Jesús resucitado al comer con sus discípulos. El verbo παρήγγειλεν (mandato militar o edicto legal) prohíbe el éxodo de Jerusalén: la ciudad santa del templo y de la crucifixión debe ser necesariamente el punto de partida teológico de la redención escatológica. La 'promesa del Padre' (τὴν ἐπαγγελίαν τοῦ πατρός) alude al don prometido del Espíritu Santo (cf. Lc 24:49)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 5,
+    "greek_text": "ὅτι Ἰωάννης μὲν ἐβάπτισεν ὕδατι, ὑμεῖς δὲ ἐν πνεύματι βαπτισθήσεσθε ἁγίῳ οὐ μετὰ πολλὰς ταύτας ἡμέρας.",
+    "translation": "porque Juan ciertamente bautizó con agua, pero ustedes serán bautizados en el Espíritu Santo dentro de no muchos días».",
+    "translation_notes": "Contraste histórico-salvífico entre el ministerio preparatorio de Juan y el de Jesús mediante la antítesis μὲν... δέ. Frente al bautismo purificador exterior con agua (ὕδατι, dativo instrumental), Jesús profetiza una inmersión plena y transformadora ἐν πνεύματι ἁγίῳ (en el Espíritu Santo). La locución temporal οὐ μετὰ πολλὰς ταύτας ἡμέρας (literalmente: 'no después de estos muchos días', litote idiomática griega) anuncia la inminencia absoluta de Pentecostés."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 6,
+    "greek_text": "Οἱ μὲν οὖν συνελθόντες ἠρώτων αὐτὸν λέγοντες· Κύριε, εἰ ἐν τῷ χρόνῳ τούτῳ ἀποκαθιστάνεις τὴν βασιλείαν τῷ Ἰσραήλ;",
+    "translation": "Entonces los que se habían reunido le preguntaban, diciendo: «Señor, ¿es en este tiempo cuando vas a restaurar el reino para Israel?».",
+    "translation_notes": "La partícula conjuntiva inferencial μὲν οὖν introduce el diálogo definitivo de la asamblea apostólica con el Señor resucitado. El verbo ἀποκαθιστάνεις (presente con valor incoativo o futuro inmediato de apokathistēmi) expresa la esperanza escatológica judía tradicional: el restablecimiento de la soberanía teocrática nacional de Israel libre de la ocupación militar de Roma. Los apóstoles aún concebían el reino mesiánico en categorías sociopolíticas y geográficas davídicas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 7,
+    "greek_text": "εἶπεν δὲ πρὸς αὐτούς· Οὐχ ὑμῶν ἐστιν γνῶναι χρόνους ἢ καιροὺς οὓς ὁ πατὴρ ἔθετο ἐν τῇ ἰδίᾳ ἐξουσίᾳ,",
+    "translation": "Él les dijo: «No les corresponde a ustedes conocer los tiempos o las ocasiones que el Padre fijó con su propia autoridad;",
+    "translation_notes": "Jesús corrige la curiosidad apocalíptica trazando una célebre distinción léxica entre dos conceptos temporales griegos: 1) χρόνοι (chronoi), lapsos de tiempo medibles cuantitativamente, eras o períodos cronológicos en su extensión; 2) καιροί (kairoi), momentos oportunos, coyunturas decisivas o hitos cualitativos fijados soberanamente por Dios en la historia. El sustantivo ἐξουσία (exousia) denota el derecho legal soberano, autoridad jurisdiccional que el Padre se reserva de forma exclusiva sin delegar su cómputo a las criaturas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 8,
+    "greek_text": "ἀλλὰ λήμψεσθε δύναμιν ἐπελθόντος τοῦ ἁγίου πνεύματος ἐφ’ ὑμᾶς, καὶ ἔσεσθέ μου μάρτυρες ἔν τε Ἰερουσαλὴμ καὶ ἐν πάσῃ τῇ Ἰουδαίᾳ καὶ Σαμαρείᾳ καὶ ἕως ἐσχάτου τῆς γῆς.",
+    "translation": "pero recibirán poder cuando el Espíritu Santo haya venido sobre ustedes, y serán mis testigos tanto en Jerusalén como en toda Judea y Samaria, y hasta los confines de la tierra».",
+    "translation_notes": "El versículo temático y programático que estructura el mapa narrativo de todo el libro de Hechos. El término δύναμις (dynamis) designa la potencia eficaz, inherente y sobrenatural de Dios conferida mediante la teofanía del Espíritu (ἐπελθόντος, participio aoristo en genitivo absoluto). El vocablo μάρτυς (martys, 'testigo') adquiere su dimensión técnica lucana: aquellos que han visto los hechos históricos y dan testimonio fáctico y fiduciario de la resurrección, aun a costa de su propia vida corporal. La expansión geográfica concéntrica marca las fases de la narración: 1) Jerusalén (caps. 1-7); 2) Judea y Samaria (caps. 8-12); 3) Hasta los confines de la tierra (ἕως ἐσχάτου τῆς γῆς, alusión a Isaías 49:6, culminando con la llegada del evangelio al corazón del Imperio Romano en Roma, caps. 13-28)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 9,
+    "greek_text": "καὶ ταῦτα εἰπὼν βλεπόντων αὐτῶν ἐπήρθη, καὶ νεφέλη ὑπέλαβεν αὐτὸν ἀπὸ τῶν ὀφθαλμῶν αὐτῶν.",
+    "translation": "Y habiendo dicho estas cosas, mientras ellos miraban, fue elevado a lo alto, y una nube lo envolvió, ocultándolo de sus ojos.",
+    "translation_notes": "El relato histórico de la Ascensión física: el genitivo absoluto βλεπόντων αὐτῶν recalca el carácter presencial y empírico del evento. El verbo en pasivo divino ἐπήρθη (aoristo pasivo de epairō) subraya la acción soberana de Dios Padre que lo exalta a su trono. La 'nube' (νεφέλη) no es una simple masa de vapor meteorológica, sino la nube teofánica de la gloria divina (la Shejiná hebrea, análoga a la nube que cubría el tabernáculo en Éx 40:34 o la teofanía de Daniel 7:13). El verbo ὑπολαμβάνω denota acoger por debajo y retirar del alcance de la visión."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 10,
+    "greek_text": "καὶ ὡς ἀτενίζοντες ἦσαν εἰς τὸν οὐρανὸν πορευομένου αὐτοῦ, καὶ ἰδοὺ ἄνδρες δύο παρειστήκεισαν αὐτοῖς ἐν ἐσθήσεσι λευκαῖς,",
+    "translation": "Y mientras tenían los ojos fijos en el cielo, viendo cómo él se iba, he aquí, dos varones con vestiduras blancas se pusieron junto a ellos,",
+    "translation_notes": "El verbo ἀτενίζω (atenizō, mirar fijamente con asombro o atención absorta) es un vocablo característico de Lucas (usado 12 veces en Hechos y 2 en su evangelio). La construcción perifrástica de imperfecto (ἀτενίζοντες ἦσαν) capta la mirada estática y atónita de los discípulos. Los 'dos varones en vestiduras blancas' (ἐν ἐσθήσεσι λευκαῖς) representan mensajeros celestiales de Dios (cf. Lc 24:4), cumpliendo el principio probatorio judío del testimonio fidedigno de dos testigos presenciales (Dt 19:15)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 11,
+    "greek_text": "οἳ καὶ εἶπαν· Ἄνδρες Γαλιλαῖοι, τί ἑστήκατε βλέποντες εἰς τὸν οὐρανόν; οὗτος ὁ Ἰησοῦς ὁ ἀναλημφθεὶς ἀφ’ ὑμῶν εἰς τὸν οὐρανὸν οὕτως ἐλεύσεται ὃν τρόπον ἐθεάσασθε αὐτὸν πορευόμενον εἰς τὸν οὐρανόν.",
+    "translation": "los cuales también dijeron: «Varones galileos, ¿por qué están ahí de pie mirando al cielo? Este mismo Jesús, que ha sido llevado de entre ustedes hacia el cielo, vendrá de la misma manera en que lo han visto irse al cielo».",
+    "translation_notes": "El apelativo geográfico 'Varones galileos' (Ἄνδρες Γαλιλαῖοι) identifica el origen provincial de los discípulos antes de ser transformados en embajadores universales. El oráculo angélico fundamenta la escatología neotestamentaria de la Parusía: el regreso de Jesús será personal, corporal, visible y glorioso ('de la misma manera', οὕτως... ὃν τρόπον), en contraste con cualquier interpretación puramente alegórica de su venida."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 12,
+    "greek_text": "Τότε ὑπέστρεψαν εἰς Ἰερουσαλὴμ ἀπὸ ὄρους τοῦ καλουμένου Ἐλαιῶνος, ὅ ἐστιν ἐγγὺς Ἰερουσαλὴμ σαββάτου ἔχον ὁδόν.",
+    "translation": "Entonces regresaron a Jerusalén desde el monte llamado de los Olivos, el cual está cerca de Jerusalén, a distancia de camino de un día de reposo.",
+    "translation_notes": "El monte de los Olivos (Ἐλαιών, Elaion, olivar) se ubicaba al este del valle del Cedrón. Lucas añade una precisión topográfica y legal judía: σαββάτου ἔχον ὁδόν ('distancia del camino de un sábado'). Según la halajá rabínica basada en Josué 3:4 y Éxodo 16:29, el límite legal de desplazamiento en Shabat era de 2.000 codos (aproximadamente entre 900 y 1.000 metros), lo que confirma la estricta cercanía del monte a los muros de la ciudad."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 13,
+    "greek_text": "καὶ ὅτε εἰσῆλθον, εἰς τὸ ὑπερῷον ἀνέβησαν οὗ ἦσαν καταμένοντες, ὅ τε Πέτρος καὶ Ἰωάννης καὶ Ἰάκωβος καὶ Ἀνδρέας, Φίλιππος καὶ Θωμᾶς, Βαρθολομαῖος καὶ Μαθθαῖος, Ἰάκωβος Ἀλφαίου καὶ Σίμων ὁ ζηλωτὴς καὶ Ἰούδας Ἰακώβου.",
+    "translation": "Y cuando entraron, subieron al aposento alto donde se alojaban: Pedro, Juan, Jacobo y Andrés; Felipe y Tomás; Bartolomé y Mateo; Jacobo, hijo de Alfeo; Simón el Zelote, y Judas, hermano de Jacobo.",
+    "translation_notes": "El término ὑπερῷον (hyperōon) designa la habitación espaciosa en el piso superior de una casa residencial urbana grande, adecuada para reuniones de grupos considerables. Lucas ofrece el catálogo apostólico definitivo de los Once, alterando ligeramente el orden de Lc 6:14 para colocar a Pedro y Juan juntos en primera línea, reflejando su liderazgo conjunto en los primeros capítulos de Hechos. Simón es denominado 'el Zelote' (ὁ ζηλωτής, adaptando al griego el arameo cananita) y Judas es distinguido como 'hijo o hermano de Jacobo' para diferenciarlo del Iscariote."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 14,
+    "greek_text": "οὗτοι πάντες ἦσαν προσκαρτεροῦντες ὁμοθυμαδὸν τῇ προσευχῇ σὺν γυναιξὶν καὶ Μαριὰμ τῇ μητρὶ τοῦ Ἰησοῦ καὶ σὺν τοῖς ἀδελφοῖς αὐτοῦ.",
+    "translation": "Todos estos perseveraban unánimes en la oración, junto con las mujeres, y con María la madre de Jesús, y con sus hermanos.",
+    "translation_notes": "Retrato paradigmático de la iglesia orante: el participio presente προσκαρτεροῦντες denota una dedicación constante, tenaz y disciplinada. El adverbio ὁμοθυμαδόν (homothymadon, 'al unísono', con una sola mente, voluntad y afecto compartido) es un vocablo predilecto de Lucas (usado 10 veces en Hechos) que expresa la absoluta cohesión comunitaria del nuevo pacto. Lucas destaca de modo contracultural la presencia activa de 'las mujeres' (discípulas galileas que sostenían el ministerio) y menciona por última vez en el canon del Nuevo Testamento a María la madre de Jesús, ahora reunida en oración con los 'hermanos de Jesús', quienes tras la resurrección han abandonado su inicial escepticismo histórico (cf. Jn 7:5; 1 Cor 15:7)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 15,
+    "greek_text": "Καὶ ἐν ταῖς ἡμέραις ταύταις ἀναστὰς Πέτρος ἐν μέσῳ τῶν ἀδελφῶν εἶπεν· ἦν τε ὄχλος ὀνομάτων ἐπὶ τὸ αὐτὸ ὡς ἑκατὸν εἴκοσι·",
+    "translation": "En aquellos días, Pedro se puso de pie en medio de los hermanos (había allí una asamblea de unas ciento veinte personas) y dijo:",
+    "translation_notes": "Pedro asume la iniciativa de liderazgo pastoral de la comunidad naciente, cumpliendo el mandato de Jesús de 'confirmar a tus hermanos' (Lc 22:32). La frase técnica semítica ὄχλος ὀνομάτων (literalmente: 'multitud de nombres', traduciendo el uso hebreo de shemót para personas registradas formalmente en un censo comunitario). La cifra de 'ciento veinte' (ὡς ἑκατὸν εἴκοσι) posee hondo significado institucional judío: según la Mishná (Sanedrín 1:6), 120 varones adultos era el quórum legal mínimo exigido por la ley rabínica para que una comunidad judía pudiera establecer su propio tribunal local o Sanedrín con plena autonomía de gobierno."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 16,
+    "greek_text": "Ἄνδρες ἀδελφοί, ἔδει πληρωθῆναι τὴν γραφὴν ἣν προεῖπεν τὸ πνεῦμα τὸ ἅγιον διὰ στόματος Δαυὶδ περὶ Ἰούδα τοῦ γενομένου ὁδηγοῦ τοῖς συλλαβοῦσιν Ἰησοῦν,",
+    "translation": "«Hermanos, era necesario que se cumpliera la Escritura que el Espíritu Santo anunció de antemano por boca de David acerca de Judas, quien se convirtió en guía de los que arrestaron a Jesús;",
+    "translation_notes": "La fórmula de tratamiento Ἄνδρες ἀδελφοί ('Varones hermanos') es una respetuosa expresión oratoria forense de la tradición retórica judía y helenística. El verbo impersonal ἔδει (era teológicamente necesario en virtud del plan providencial de Dios) establece que la apostasía de Judas no desbarató los propósitos divinos. Pedro formula una rigurosa doctrina de la inspiración de las Escrituras: el Espíritu Santo es el autor primario supremo que habló 'por boca de David' (διὰ στόματος Δαυίδ) como instrumento humano profético. Judas es calificado históricamente de ὁδηγός (odēgos, guía o baquiano traidor) de la guardia del templo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 17,
+    "greek_text": "ὅτι κατηριθμημένος ἦν ἐν ἡμῖν καὶ ἔλαχεν τὸν κλῆρον τῆς διακονίας ταύτης.",
+    "translation": "pues estaba contado entre nosotros y había obtenido su parte en este ministerio».",
+    "translation_notes": "Lucas destaca la tragedia de la defección de Judas mediante dos términos institucionales: 1) κατηριθμημένος ἦν (pluscuamperfecto pasivo: figuraba oficialmente censado y reconocido en el colegio apostólico); 2) ἔλαχεν τὸν κλῆρον (aoristo activo del verbo lagchanō: 'recibió por asignación providencial la porción o suerte'). El vocablo κλῆρος (klēros) denota la parcela asignada de responsabilidad en la διακονία (servicio ministerial) confiada por el propio Mesías."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 18,
+    "greek_text": "οὗτος μὲν οὖν ἐκτήσατο χωρίον ἐκ μισθοῦ τῆς ἀδικίας, καὶ πρηνὴς γενόμενος ἐλάκησεν μέσος, καὶ ἐξεχύθη πάντα τὰ σπλάγχνα αὐτοῦ·",
+    "translation": "(Este, pues, adquirió un campo con el salario de su iniquidad, y cayendo de cabeza, se reventó por en medio y se derramaron todas sus vísceras.",
+    "translation_notes": "Paréntesis explicativo del narrador Lucas para sus lectores grecorromanos, describiendo el trágico desenlace de Judas. La expresión ἐκ μισθοῦ τῆς ἀδικίας ('con la paga de la iniquidad') alude a los treinta siclos de plata. El verbo ἐλάκησεν (aoristo de lakeō: crujir con estruendo, desgarrarse con violencia) y el modismo médico πρηνὴς γενόμενος (caer de bruces hacia adelante) reflejan el interés clínico de Lucas: el cuerpo en descomposición tras el ahorcamiento (cf. Mt 27:5) cayó al romperse la soga o rama sobre las rocas afiladas del barranco de Hinom, reventándose el abdomen y derramándose sus entrañas (σπλάγχνα)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 19,
+    "greek_text": "καὶ γνωστὸν ἐγένετο πᾶσι τοῖς κατοικοῦσιν Ἰερουσαλήμ, ὥστε κληθῆναι τὸ χωρίον ἐκεῖνο τῇ ἰδίᾳ διαλέκτῳ αὐτῶν Ἁκελδαμάχ, τοῦτ’ ἔστιν Χωρίον Αἵματος.",
+    "translation": "Y esto llegó a ser conocido por todos los habitantes de Jerusalén, de modo que aquel campo fue llamado en su propia lengua Hakeldamaj, es decir, «Campo de Sangre»).",
+    "translation_notes": "Lucas registra la memoria toponímica de Jerusalén: la frase τῇ ἰδίᾳ διαλέκτῳ αὐτῶν alude al dialecto arameo local hablado por los judíos de la época. El nombre Ἁκελδαμάχ translitera el arameo haqēl demā (חקל דמא, 'campo de sangre'), traduciéndolo al koiné como Χωρίον Αἵματος. El vocablo χωρίον denota una finca rural o parcela de terreno rústico."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 20,
+    "greek_text": "γέγραπται γὰρ ἐν βίβλῳ Ψαλμῶν· Γενηθήτω ἡ ἔπαυλις αὐτοῦ ἔρημος καὶ μὴ ἔστω ὁ κατοικῶν ἐν αὐτῇ, καί· Τὴν ἐπισκοπὴν αὐτοῦ λαβέτω ἕτερος.",
+    "translation": "«Porque está escrito en el libro de los Salmos: «Quede desolada su morada y no haya quien habite en ella»; y: «Tome otro su cargo de supervisión».",
+    "translation_notes": "Pedro fundamenta la necesidad de restaurar el colegio apostólico mediante dos citas combinadas del Salterio (LXX): 1) Salmo 69:25 (modificando el plural 'sus moradas' al singular 'su morada', ἔπαυλις: finca de campo o campamento), aplicando la maldición de desolación al traidor; 2) Salmo 109:8 (cita literal LXX: Τὴν ἐπισκοπὴν αὐτοῦ λαβέτω ἕτερος). El término ἐπισκοπή (episkopē) tiene aquí un peso institucional primordial: significa el cargo de supervisión, mayordomía o liderazgo eclesial, justificando normativamente la elección de un sucesor para preservar la integridad del grupo de los Doce."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 21,
+    "greek_text": "δεῖ οὖν τῶν συνελθόντων ἡμῖν ἀνδρῶν ἐν παντὶ χρόνῳ ᾧ εἰσῆλθεν καὶ ἐξῆλθεν ἐφ’ ἡμᾶς ὁ κύριος Ἰησοῦς,",
+    "translation": "Por lo tanto, es necesario que de los hombres que nos acompañaron durante todo el tiempo en que el Señor Jesús entraba y salía entre nosotros,",
+    "translation_notes": "El imperativo teológico δεῖ οὖν ('es imperativo, pues') define las condiciones sine qua non para el apostolado primario: haber sido testigo ocular de todo el ministerio histórico de Jesús. El hebraísmo idiomático εἰσῆλθεν καὶ ἐξῆλθεν ('entró y salió', cf. Dt 28:6; 31:2) describe la vida pública activa, cotidiana y comunitaria de liderazgo y comunión constante."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 22,
+    "greek_text": "ἀρξάμενος ἀπὸ τοῦ βαπτίσματος Ἰωάννου ἕως τῆς ἡμέρας ἧς ἀνελήμφθη ἀφ’ ἡμῶν, μάρτυρα τῆς ἀναστάσεως αὐτοῦ σὺν ἡμῖν γενέσθαι ἕνα τούτων.",
+    "translation": "comenzando desde el bautismo de Juan hasta el día en que fue llevado arriba de entre nosotros, uno de ellos sea constituido testigo de su resurrección con nosotros».",
+    "translation_notes": "Límites cronológicos del ministerio mesíanico: desde el bautismo inaugural de Juan en el Jordán hasta la glorificación visible de la Ascensión. El propósito culminante de este ministerio es definido con precisión teológica: μάρτυρα τῆς ἀναστάσεως αὐτοῦ (testigo cualificado de su resurrección fáctica). El núcleo del kerigma apostólico primitivo no radicaba en una doctrina abstracta, sino en la atestación presencial de que el Crucificado vive corporalmente."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 23,
+    "greek_text": "Καὶ ἔστησαν δύο, Ἰωσὴφ τὸν καλούμενον Βαρσαββᾶν, ὃς ἐπεκλήθη Ἰοῦστος, καὶ Μαθθίαν.",
+    "translation": "Y propusieron a dos: a José, llamado Barsabás, que tenía por sobrenombre Justo, y a Matías.",
+    "translation_notes": "La asamblea postula formalmente a dos candidatos calificados. El primero presenta la onomástica tripartita típica de la época: su nombre hebreo Ἰωσήφ (Yosef); su patronímico arameo Βαρσαββᾶς (Barsabbās, 'hijo de Sabas' o 'hijo del sábado'); y su cognomen latino Ἰοῦστος (Iustus, 'el justo'), adoptado en el contexto cívico grecorromano. El segundo candidato es Μαθθίας (Matatías abreviado, 'regalo de Yahvé'), discípulo leal pero de perfil público discreto."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 24,
+    "greek_text": "καὶ προσευξάμενοι εἶπαν· Σὺ κύριε καρδιογνῶστα πάντων, ἀνάδειξον ὃν ἐξελέξω ἐκ τούτων τῶν δύο ἕνα,",
+    "translation": "Y orando, dijeron: «Tú, Señor, que conoces los corazones de todos, muestra claramente a cuál de estos dos has escogido,",
+    "translation_notes": "Oración comunitaria dirigida a Jesús como Señor soberano. El epíteto καρδιογνώστης (kardiognōstēs, 'conocedor infalible de los corazones') es un neologismo del cristianismo primitivo empleado exclusivamente por Lucas en el Nuevo Testamento (aquí y en Hch 15:8), atribuyendo a Cristo el atributo divino veterotestamentario de escudriñar los pensamientos y motivaciones más íntimas (1 Sm 16:7; Jr 17:10). El verbo en aoristo imperativo ἀνάδειξον pide que Dios señale o haga patente la elección que en sus decretos ya ha realizado (ἐξελέξω)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 25,
+    "greek_text": "λαβεῖν τὸν τόπον τῆς διακονίας ταύτης καὶ ἀποστολῆς, ἀφ’ ἧς παρέβη Ἰούδας πορευθῆναι εἰς τὸν τόπον τὸν ἴδιον.",
+    "translation": "para que tome el lugar de este ministerio y apostolado, del cual Judas se desvió para irse a su propio lugar».",
+    "translation_notes": "El binomio conceptual τῆς διακονίας ταύτης καὶ ἀποστολῆς ('este servicio ministerial y apostolado') define la función como una misión de servicio y autoridad sacrificial delegada. El verbo παρέβη (aoristo activo de parabainō) significa desviarse del camino trazado, desertar o incurrir en transgresión de un mandato solemne. La antítesis sombría εἰς τὸν τόπον τὸν ἴδιον ('a su propio lugar') es un eufemismo judío tradicional para designar el destino trágico de perdición escatológica que el propio traidor labró para sí."
+  },
+  {
+    "book": "ACT",
+    "chapter": 1,
+    "verse": 26,
+    "greek_text": "καὶ ἔδωκαν κλήρους αὐτοῖς, καὶ ἔπεσεν ὁ κλῆρος ἐπὶ Μαθθίαν, καὶ συγκατεψηφίσθη μετὰ τῶν ἕνδεκα ἀποστόλων.",
+    "translation": "Y echaron suertes sobre ellos; y la suerte cayó sobre Matías, y fue contado junto con los once apóstoles.",
+    "translation_notes": "La práctica de echar suertes (ἔδωκαν κλήρους) constituía el procedimiento litúrgico tradicional del sacerdocio veterotestamentario para discernir la voluntad divina sin injerencia humana (Urim y Tumim, Prov 16:33). Esta es la última ocasión en que la comunidad utiliza este método, puesto que a partir del capítulo 2 el discernimiento es guiado directamente por el Espíritu Santo derramado. El verbo técnico compuesto συγκατεψηφίσθη (aoristo pasivo de synkatapsēphizō, de psēphos, guijarro o voto de sufragio cívico ateniense) indica que la asamblea ratificó unánimemente el resultado divino, incorporando a Matías formalmente para reconstituir el colegio de los Doce Apóstoles, correspondiente a las doce tribus de Israel en la economía escatológica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 1,
+    "greek_text": "Καὶ ἐν τῷ συμπληροῦσθαι τὴν ἡμέραν τῆς πεντηκοστῆς ἦσαν πάντες ὁμοῦ ἐπὶ τὸ αὐτό,",
+    "translation": "Y al cumplirse plenamente el día de Pentecostés, estaban todos reunidos en un mismo lugar.",
+    "translation_notes": "La fórmula temporal lucana ἐν τῷ συμπληροῦσθαι (infinitivo presente pasivo con valor de plenitud histórica y teológica) denota que el día fijado en el calendario divino había llegado a su madurez escatológica. La fiesta de 'Pentecostés' (ἡ πεντηκοστή, 'quincuagésimo' día tras la ofrenda de las primicias en Pascua) se correspondía con la fiesta bíblica de Shavuot (Fiesta de las Semanas o de la Cosecha, Éx 23:16; Lv 23:15-21). En la teología del judaísmo del Segundo Templo (atestiguada en el Libro de los Jubileos y en Qumrán), Pentecostés conmemoraba la entrega solemne de la Torá y la promulgación del pacto en el monte Sinaí. La expresión ἐπὶ τὸ αὐτό es un modismo semítico y lucano que denota unidad orgánica y comunión deliberada."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 2,
+    "greek_text": "καὶ ἐγένετο ἄφνω ἐκ τοῦ οὐρανοῦ ἦχος ὥσπερ φερομένης πνοῆς βιαίας καὶ ἐπλήρωσεν ὅλον τὸν οἶκον οὗ ἦσαν καθήμενοι,",
+    "translation": "Y de repente vino del cielo un estruendo como de una ráfaga de viento impetuoso, y llenó toda la casa donde estaban sentados;",
+    "translation_notes": "El adverbio ἄφνω ('de improviso', 'súbitamente') subraya la irrupción no anticipada de la soberanía divina. El fenómeno acústico se describe mediante un símil: ἦχος ὥσπερ φερομένης πνοῆς βιαίας ('un estruendo sonoro como de un soplo violento arrastrado por fuerza tempestuosa'). El vocablo πνοή (soplo, viento, aliento de vida) se relaciona etimológica y teológicamente con πνεῦμα (Espíritu) y el hebreo rúaj (Gn 1:2; Ez 37:9), evocando las grandes teofanías del Antiguo Testamento. El estruendo llenó por completo el recinto espacial de reunión (ὅλον τὸν οἶκον)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 3,
+    "greek_text": "καὶ ὤφθησαν αὐτοῖς διαμεριζόμεναι γλῶσσαι ὡσεὶ πυρός, καὶ ἐκάθισεν ἐφ’ ἕνα ἕκαστον αὐτῶν,",
+    "translation": "y se les aparecieron lenguas como de fuego que se repartían, posándose una sobre cada uno de ellos;",
+    "translation_notes": "Manifestación visual teofánica: el verbo en pasivo divino ὤφθησαν ('se dejaron ver') introduce las 'lenguas como de fuego' (γλῶσσαι ὡσεὶ πυρός). El fuego en la tradición bíblica es el signo por excelencia de la gloria y santidad purificadora de Dios (Éx 3:2; 19:18). El participio presente διαμεριζόμεναι ('que se distribuían o bifurcaban') y la concordancia en singular del verbo ἐκάθισεν ('se asentó') recalcan que la llama única del Espíritu divino se individualizó de manera directa e intransferible sobre cada uno de los discípulos presentes, consagrándolos como templos vivientes."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 4,
+    "greek_text": "καὶ ἐπλήσθησαν πάντες πνεύματος ἁγίου, καὶ ἤρξαντο λαλεῖν ἑτέραις γλώσσαις καθὼς τὸ πνεῦμα ἐδίδου ἀποφθέγγεσθαι αὐτοῖς.",
+    "translation": "y todos fueron llenos del Espíritu Santo, y comenzaron a hablar en otras lenguas, según el Espíritu les concedía expresarse.",
+    "translation_notes": "Cumplimiento de la promesa mesiánica: el aoristo pasivo ἐπλήσθησαν ('fueron colmados') indica una investidura carismática plena. La expresión ἑτέραις γλώσσαις ('en lenguas distintas o foráneas') se refiere fáctica y contextualmente a idiomas extranjeros históricamente hablados (xenoglosia), tal como confirman los vv. 6-11, y no a un balbuceo ininteligible o glosolalia extática privada. El verbo ἀποφθέγγομαι (apophthenggomai) es un término solemne de la literatura clásica y los LXX que denota la enunciación inspirada, oracular, lúcida y majestuosa de verdades divinas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 5,
+    "greek_text": "Ἦσαν δὲ ἐν Ἰερουσαλὴμ κατοικοῦντες Ἰουδαῖοι, ἄνδρες εὐλαβεῖς ἀπὸ παντὸς ἔθνους τῶν ὑπὸ τὸν οὐρανόν·",
+    "translation": "Moraban entonces en Jerusalén judíos, varones piadosos de todas las naciones que hay bajo el cielo.",
+    "translation_notes": "El participio imperfecto κατοικοῦντες designa tanto a peregrinos temporales llegados para la festividad como a judíos de la diáspora que se habían establecido permanentemente en Jerusalén en su vejez. El adjetivo εὐλαβής (eulabēs, 'piadoso', 'reverente ante Dios') resalta su fidelidad devota a las promesas del pacto. La fórmula universalista ἀπὸ παντὸς ἔθνους τῶν ὑπὸ τὸν οὐρανόν ('de toda nación de las que están bajo el cielo') representa un cuadro etnográfico de alcance ecuménico, anticipando la expansión mundial del evangelio."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 6,
+    "greek_text": "γενομένης δὲ τῆς φωνῆς ταύτης συνῆλθε τὸ πλῆθος καὶ συνεχύθη, ὅτι ἤκουον εἷς ἕκαστος τῇ ἰδίᾳ διαλέκτῳ λαλούντων αὐτῶν.",
+    "translation": "Y al producirse este estruendo, se congregó la multitud y quedó desconcertada, porque cada uno los oía hablar en su propia lengua natal.",
+    "translation_notes": "El genitivo absoluto γενομένης τῆς φωνῆς ταύτης puede aludir tanto al eco del violento viento inicial como a la voz resonante de los discípulos profetizando. El gentío 'quedó desconcertado' (συνεχύθη, aoristo pasivo de sygcheō: sumirse en confusión, turbación o pasmo). La causa del impacto se explicita de modo concluyente: ἤκουον εἷς ἕκαστος τῇ ἰδίᾳ διαλέκτῳ ('oían, cada uno individualmente, en su propio dialecto vernáculo / lengua materna'). Lucas utiliza διάλεκτος en su sentido lingüístico riguroso de idioma o dialecto regional específico."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 7,
+    "greek_text": "ἐξίσταντο δὲ καὶ ἐθαύμαζον λέγοντες· Οὐχ ἰδοὺ ἅπαντες οὗτοί εἰσιν οἱ λαλοῦντες Γαλιλαῖοι;",
+    "translation": "Estaban atónitos y se maravillaban, diciendo: «¿Acaso no son galileos todos estos que están hablando?",
+    "translation_notes": "Doble verbo de conmoción psicológica en imperfecto continuativo: ἐξίσταντο (quedarse fuera de sí, atónitos) y ἐθαύμαζον (asombrarse con perplejidad). La pregunta retórica pone de relieve el contraste sociolingüístico: los galileos (Γαλιλαῖοι) eran notorios en el mundo judío por su pronunciación áspera del arameo y su dificultad para articular ciertas guturales hebreas (cf. Mt 26:73), careciendo de formación cosmopolita o dominio políglota."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 8,
+    "greek_text": "καὶ πῶς ἡμεῖς ἀκούομεν ἕκαστος τῇ ἰδίᾳ διαλέκτῳ ἡμῶν ἐν ᾗ ἐγεννήθημεν;",
+    "translation": "¿Cómo, pues, oímos nosotros, cada uno en nuestra propia lengua en la que nacimos?",
+    "translation_notes": "La cláusula ἐν ᾗ ἐγεννήθημεν ('en la cual fuimos engendrados / nacimos') disuelve cualquier ambigüedad interpretativa: se trataba de las lenguas maternas nativas de los distintos rincones del mundo mediterráneo y del Oriente Próximo, confirmando el carácter lingüístico empírico y comprensible del milagro de Pentecostés como la contrapartida y sanación redentora de la torre de Babel (Gn 11)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 9,
+    "greek_text": "Πάρθοι καὶ Μῆδοι καὶ Ἐλαμῖται, καὶ οἱ κατοικοῦντες τὴν Μεσοποταμίαν, Ἰουδαίαν τε καὶ Καππαδοκίαν, Πόντον καὶ τὴν Ἀσίαν,",
+    "translation": "partos, medos y elamitas; los que habitamos en Mesopotamia, en Judea y en Capadocia, en el Ponto y en Asia,",
+    "translation_notes": "Lucas organiza su catálogo etnográfico y geopolítico siguiendo un eje de este a oeste, comenzando por los pueblos ubicados más allá del Éufrates (el Imperio Parto y regiones persas de Media y Elam), siguiendo por la Mesopotamia de habla aramea oriental, Judea y las provincias del Asia Menor (Capadocia, Ponto y la provincia proconsular de Asia, corazón helenístico con capital en Éfeso)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 10,
+    "greek_text": "Φρυγίαν τε καὶ Παμφυλίαν, Αἴγυπτον καὶ τὰ μέρη τῆς Λιβύης τῆς κατὰ Κυρήνην, καὶ οἱ ἐπιδημοῦντες Ῥωμαῖοι, Ἰουδαῖοί τε καὶ προσήλυτοι,",
+    "translation": "en Frigia y Panfilia, en Egipto y en las regiones de Libia cercanas a Cirene; los forasteros romanos, tanto judíos como prosélitos;",
+    "translation_notes": "El mapa se extiende a las comarcas del sur de Asia Menor (Frigia y Panfilia), al norte de África (el populoso judaísmo alejandrino de Egipto y la Pentápolis de Libia/Cirene), y al corazón político del Imperio: οἱ ἐπιδημοῦντες Ῥωμαῖοι ('los romanos residentes o transeúntes'). Lucas precisa sociológicamente que el auditorio incluía tanto a judíos étnicos de nacimiento (Ἰουδαῖοι) como a prosélitos (προσήλυτοι, gentiles conversos que habían asumido la circuncisión y el yugo completo de la Torá)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 11,
+    "greek_text": "Κρῆτες καὶ Ἄραβες, ἀκούομεν λαλούντων αὐτῶν ταῖς ἡμετέραις γλώσσαις τὰ μεγαλεῖα τοῦ θεοῦ.",
+    "translation": "cretenses y árabes: los oímos hablar en nuestras propias lenguas las grandezas de Dios».",
+    "translation_notes": "Cierra la tabla etnográfica con los cretenses del mar Egeo y los árabes del reino nabateo al este y sur del Jordán. El contenido temático de la proclamación extática inspirada no era proselitismo doctrinario, sino τὰ μεγαλεῖα τοῦ θεοῦ (las maravillas y hazañas salvíficas magnas de Dios, término litúrgico de la Septuaginta para cantar la redención del Éxodo y las victorias cósmicas de Yahvé)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 12,
+    "greek_text": "ἐξίσταντο δὲ πάντες καὶ διηποροῦντο, ἄλλος πρὸς ἄλλον λέγοντες· Τί θέλει τοῦτο εἶναι;",
+    "translation": "Estaban todos perplejos y profundamente desconcertados, diciéndose unos a otros: «¿Qué significa esto?».",
+    "translation_notes": "El verbo compuesto διηποροῦντο (imperfecto medio de diaporeō, de a-poros, 'hallarse sin salida') expresa una intensa perplejidad intelectual e incapacidad para asimilar racionalmente el fenómeno. La interrogante coloquial Τί θέλει τοῦτο εἶναι; (literalmente: '¿qué quiere ser esto?') indaga por el significado teológico del prodigio."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 13,
+    "greek_text": "ἕτεροι δὲ διαχλευάζοντες ἔλεγον ὅτι Γλεύκους μεμεστωμένοι εἰσίν.",
+    "translation": "Pero otros, burlándose, decían: «Están llenos de mosto».",
+    "translation_notes": "Reacción antagónica de escepticismo y mofa: el verbo διαχλευάζω significa burlarse con sarcasmo o desdén. El término γλεῦκος (gleukos) denota el mosto o vino dulce fermentado muy apreciado en la antigüedad, conocido por su alta concentración de azúcar y su elevado poder embriagante. El participio perfecto pasivo μεμεστωμένοι ('abarrotados hasta el borde') denota embriaguez profunda."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 14,
+    "greek_text": "Σταθεὶς δὲ ὁ Πέτρος σὺν τοῖς ἕνδεκα ἐπῆρεν τὴν φωνὴν αὐτοῦ καὶ ἀπεφθέγξατο αὐτοῖς· Ἄνδρες Ἰουδαῖοι καὶ οἱ κατοικοῦντες Ἰερουσαλὴμ πάντες, τοῦτο ὑμῖν γνωστὸν ἔστω καὶ ἐνωτίσασθε τὰ ῥήματά μου.",
+    "translation": "Entonces Pedro, poniéndose de pie con los once, alzó la voz y les habló solemnemente: «Varones judíos y todos los que habitan en Jerusalén, séales esto notorio y presten oído a mis palabras.",
+    "translation_notes": "Inicio del primer discurso kerygmático de la era apostólica: Pedro se levanta corporativamente respaldado por 'los once' (σὺν τοῖς ἕνδεκα, confirmando a Matías como miembro pleno del colegio). La frase ἐπῆρεν τὴν φωνὴν αὐτοῦ καὶ ἀπεφθέγξατο adopta el registro de la oratoria pública clásica de los estadistas y profetas. El imperativo aoristo medio ἐνωτίσασθε (enōtisasthe, del sustantivo ous, 'oreja') es un vocablo solemne y poético de la Septuaginta que significa 'den cabida en sus oídos' o 'escuchen con reverente atención'."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 15,
+    "greek_text": "οὐ γὰρ ὡς ὑμεῖς ὑπολαμβάνετε οὗτοι μεθύουσιν, ἔστιν γὰρ ὥρα τρίτη τῆς ἡμέρας,",
+    "translation": "Porque estos no están ebrios como ustedes suponen, pues es apenas la hora tercera del día;",
+    "translation_notes": "Refutación de la acusación de embriaguez apelando al cómputo horario y las costumbres religiosas de la época: la 'hora tercera del día' (ὥρα τρίτη) correspondía a las 9:00 de la mañana. En los días de fiesta judía solemnes, nadie comía ni probaba vino antes de la hora del sacrificio matutino tamid en el templo y de la oración litúrgica, lo cual hacía inverosímil cualquier borrachera colectiva a esa hora."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 16,
+    "greek_text": "ἀλλὰ τοῦτό ἐστιν τὸ εἰρημένον διὰ τοῦ προφήτου Ἰωήλ·",
+    "translation": "sino que esto es lo que fue dicho por medio del profeta Joel:",
+    "translation_notes": "Fórmula de cumplimiento profético de cuño midráshico pesher (análoga a los rollos de Qumrán): 'Esto es aquello' (τοῦτό ἐστιν τὸ εἰρημένον), estableciendo una correspondencia directa entre los eventos históricos que acaban de presenciar y el oráculo veterotestamentario de Joel 2:28-32 (LXX Joel 3:1-5)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 17,
+    "greek_text": "Καὶ ἔσται ἐν ταῖς ἐσχάταις ἡμέραις, λέγει ὁ θεός, ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα, καὶ προφητεύσουσιν οἱ υἱοὶ ὑμῶν καὶ αἱ θυγατέρες ὑμῶν, καὶ οἱ νεανίσκοι ὑμῶν ὁράσεις ὄψονται, καὶ οἱ πρεσβύτεροι ὑμῶν ἐνυπνίοις ἐνυπνιασθήσονται·",
+    "translation": "«Y sucederá en los postreros días, dice Dios, que derramaré de mi Espíritu sobre toda carne; y profetizarán sus hijos y sus hijas; sus jóvenes verán visiones y sus ancianos soñarán sueños;",
+    "translation_notes": "Lucas adapta el texto de Joel insertando significativamente la frase ἐν ταῖς ἐσχάταις ἡμέραις ('en los postreros días', donde el hebreo decía 'después de esto'), señalando que la venida del Espíritu inaugura formalmente la era escatológica mesiánica. El verbo ἐκχεῶ (futuro de ekcheō: derramar en abundancia copiosa) tiene por objeto universal πᾶσαν σάρκα ('toda carne', la humanidad sin distinción de linaje). La democratización del don profético trasciende las barreras de género (hijos e hijas) y de edad (jóvenes y ancianos)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 18,
+    "greek_text": "καί γε ἐπὶ τοὺς δούλους μου καὶ ἐπὶ τὰς δούλας μου ἐν ταῖς ἡμέραις ἐκείναις ἐκχεῶ ἀπὸ τοῦ πνεύματός μου, καὶ προφητεύσουσιν.",
+    "translation": "y aun sobre mis siervos y sobre mis siervas, en aquellos días derramaré de mi Espíritu, y profetizarán.",
+    "translation_notes": "Superación escatológica de las barreras de clase social: la efusión del Espíritu alcanza a los estratos más vulnerables y desprovistos de derechos en el mundo antiguo: los esclavos y esclavas (τοὺς δούλους... τὰς δούλας), a quienes Dios honra llamándolos 'mis siervos'. Lucas añade con énfasis enfático al final del versículo: καὶ προφητεύσουσιν ('y profetizarán'), consolidando la dimensión oracular y testimonial de toda la comunidad del pacto."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 19,
+    "greek_text": "καὶ δώσω τέρατα ἐν τῷ οὐρανῷ ἄνω καὶ σημεῖα ἐπὶ τῆς γῆς κάτω, αἷμα καὶ πῦρ καὶ ἀτμίδα καπνοῦ·",
+    "translation": "Y mostraré prodigios arriba en el cielo y señales abajo en la tierra: sangre, fuego y vapor de humo.",
+    "translation_notes": "Lenguaje apocalíptico cósmico propio de la profecía bíblica: τέρατα (maravillas extraordinarias que provocan pasmo) y σημεῖα (señales que apuntan a una realidad teológica subyacente). Los elementos de sangre, fuego y columnas de humo (ἀτμὶς καπνοῦ) evocan las plagas del Éxodo y las catástrofes que anuncian el colapso del orden terrenal caduco ante el juicio soberano de Dios."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 20,
+    "greek_text": "ὁ ἥλιος μεταστραφήσεται εἰς σκότος καὶ ἡ σελήνη εἰς αἷμα πρὶν ἐλθεῖν ἡμέραν κυρίου τὴν μεγάλην καὶ ἐπιφανῆ.",
+    "translation": "El sol se convertirá en tinieblas y la luna en sangre, antes de que venga el día del Señor, grande y manifiesto.",
+    "translation_notes": "Metáforas cósmicas que describen la convulsión universal antes del desenlace de la historia humana: el 'Día del Señor' (ἡμέρα κυρίου), el momento de la teofanía decisiva de salvación y juicio. El adjetivo ἐπιφανής (epiphanēs, 'resplandeciente', 'glorioso', 'manifiesto') traduce el hebreo nora ('terrible, temible'), destacando la majestad insoslayable de la intervención divina."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 21,
+    "greek_text": "καὶ ἔσται πᾶς ὃς ἐὰν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται.",
+    "translation": "Y sucederá que todo aquel que invoque el nombre del Señor será salvo».",
+    "translation_notes": "Cúspide soteriológica de la profecía de Joel: la cláusula universal πᾶς ὃς ἐάν ('todo aquel que') garantiza que la salvación está abierta a cualquier persona, sin importar su nacionalidad o condición. El verbo ἐπικαλέω en voz media (ἐπικαλέσηται, 'invocar con fe suplicante y lealtad de pacto') se dirige en el texto veterotestamentario a Yahvé; en el kerigma apostólico de Pedro, este título 'Señor' (Κύριος) es transferido cristológicamente de inmediato a Jesús de Nazaret (cf. v. 36)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 22,
+    "greek_text": "Ἄνδρες Ἰσραηλῖται, ἀκούσατε τοὺς λόγους τούτους· Ἰησοῦν τὸν Ναζωραῖον, ἄνδρα ἀποδεδειγμένον ἀπὸ τοῦ θεοῦ εἰς ὑμᾶς δυνάμεσι καὶ τέρασι καὶ σημείοις οἷς ἐποίησεν δι’ αὐτοῦ ὁ θεὸς ἐν μέσῳ ὑμῶν, καθὼς αὐτοὶ οἴδατε,",
+    "translation": "Varones israelitas, escuchen estas palabras: a Jesús de Nazaret, varón acreditado por Dios ante ustedes con obras de poder, prodigios y señales que Dios hizo por medio de él en medio de ustedes, como ustedes mismos saben,",
+    "translation_notes": "Pedro interpela solemnemente con el título pactual de honor: Ἄνδρες Ἰσραηλῖται ('Varones israelitas'). Presenta la humanidad histórica del Mesías: 'Jesús el Nazareno'. El participio perfecto pasivo ἀποδεδειγμένον (del verbo apodéiknymi, término jurídico y cívico que significa demostrar públicamente, acreditar credenciales auténticas o certificar oficialmente) indica que Dios autenticó la misión de Jesús mediante la tríada de milagros: 1) δυνάμεις (actos de poder sobrenatural); 2) τέρατα (maravillas portentosas); 3) σημεῖα (signos con significado teológico profundo). Pedro apela al testimonio público irrefutable de sus propios oyentes: καθὼς αὐτοὶ οἴδατε ('como ustedes mismos saben bien')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 23,
+    "greek_text": "τοῦτον τῇ ὡρισμένῃ βουλῇ καὶ προγνώσει τοῦ θεοῦ ἔκδοτον διὰ χειρὸς ἀνόμων προσπήξαντες ἀνείλατε,",
+    "translation": "a este, entregado conforme al plan determinado y al previo conocimiento de Dios, ustedes lo ejecutaron clavándolo en una cruz por manos de inicuos;",
+    "translation_notes": "Tratamiento magistral de la paradoja entre la soberanía divina y la culpabilidad moral humana: 1) El plan de Dios: el adjetivo participial τῇ ὡρισμένῃ βουλῇ ('el designio delimitado e inmutable') y πρόγνωσις ('previo conocimiento activo y amoroso de Dios') demuestran que la cruz no fue un accidente trágico o una derrota imprevista, sino el decreto salvífico soberano de la historia; 2) La responsabilidad humana: el término ἔκδοτον ('entregado formalmente a traición'), y la acusación directa ἀνείλατε (aoristo de anaireō: 'ustedes mataron o ejecutaron violentamente'). El participio προσπήξαντες significa literalmente 'fijar clavando' (a la madera de la cruz), consumado mediante las manos de los gentiles paganos que carecían de la ley de Dios (διὰ χειρὸς ἀνόμων, aludiendo a los soldados romanos bajo Poncio Pilato)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 24,
+    "greek_text": "ὃν ὁ θεὸς ἀνέστησεν λύσας τὰς ὠδῖνας τοῦ θανάτου, καθότι οὐκ ἦν δυνατὸν κρατεῖσθαι αὐτὸν ὑπ’ αὐτοῦ.",
+    "translation": "a quien Dios resucitó, habiendo desatado los dolores de la muerte, por cuanto era imposible que él fuera retenido por su dominio.",
+    "translation_notes": "El núcleo teológico del Kērygma: el aoristo activo ἀνέστησεν ('levantó de entre los muertos'). La expresión λύσας τὰς ὠδῖνας τοῦ θανάτου traduce el modismo hebreo jevlei mavet (Sal 18:4; 116:3), donde jevel significa tanto 'cuerda / atadura' como 'dolores punzantes de parto' (ὠδίν); Cristo rompió definitivamente las ligaduras agónicas del sepulcro. La imposibilidad de retenerlo (οὐκ ἦν δυνατὸν κρατεῖσθαι) no descansa en un poder biológico humano, sino en su condición ontológica divina de Autor de la vida (cf. 3:15) y en la veracidad inmutable de las promesas de Dios."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 25,
+    "greek_text": "Δαυὶδ γὰρ λέγει εἰς αὐτόν· Προορώμην τὸν κύριον ἐνώπιόν μου διὰ παντός, ὅτι ἐκ δεξιῶν μού ἐστιν ἵνα μὴ σαλευθῶ.",
+    "translation": "Porque David dice refiriéndose a él: «Veía al Señor siempre delante de mí; porque está a mi diestra para que yo no sea conmovido.",
+    "translation_notes": "Inicio de la cita cristológica del Salmo 16:8-11 según la versión de los LXX. Pedro declara que David no hablaba en primera persona como sujeto final del texto, sino proféticamente εἰς αὐτόν ('con respecto a él', al Mesías). La frase Προορώμην τὸν κύριον ἐνώπιόν μου describe la continua confianza íntima del Mesías ante la presencia sustentadora del Padre a su diestra militar y judicial."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 26,
+    "greek_text": "διὰ τοῦτο ηὐφράνθη μου ἡ καρδία καὶ ἠγαλλιάσατο ἡ γλῶσσά μου, ἔτι δὲ καὶ ἡ σάρξ μου κατασκηνώσει ἐπ’ ἐλπίδι,",
+    "translation": "Por lo cual se alegró mi corazón y se regocijó mi lengua, y aun mi carne descansará en esperanza;",
+    "translation_notes": "Continuación del Salmo 16: el gozo mesiánico interior (ηὐφράνθη μου ἡ καρδία) se exterioriza en alabanza verbal (ἠγαλλιάσατο ἡ γλῶσσά μου). El verbo κατασκηνώσει (de kataskēnoō: 'acampar en tienda' o habitar seguro en un refugio) aplicado a 'mi carne' (ἡ σάρξ μου) promete que el cuerpo físico que descansa en el sepulcro no sufrirá el aniquilamiento, sino que reposa en la firme certeza de la resurrección futura."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 27,
+    "greek_text": "ὅτι οὐκ ἐγκαταλείψεις τὴν ψυχήν μου εἰς ᾅδην οὐδὲ δώσεις τὸν ὅσιόν σου ἰδεῖν διαφθοράν.",
+    "translation": "porque no desampararás mi alma en el Hades, ni permitirás que tu Santo vea corrupción.",
+    "translation_notes": "Versículo clave de la hermenéutica apostólica: el 'Hades' (ᾅδης) traduce el hebreo Seol (el ámbito de los muertos). La promesa categórica οὐκ ἐγκαταλείψεις garantiza que la persona del Mesías no permanecería confinada bajo el poder de la muerte. El título τὸν ὅσιόν σου ('tu Santo', traduciendo el hebreo hasid, el piadoso fiel al pacto) no experimentará διαφθορά (diaphthora, descomposición física cadavérica), lo cual exige una resurrección corporal inmediata antes de los cuatro días en que según la creencia judía comenzaba la putrefacción irreversible."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 28,
+    "greek_text": "ἐγνώρισάς μοι ὁδοὺς ζωῆς, πληρώσεις με εὐφροσύνης μετὰ τοῦ προσώπου σου.",
+    "translation": "Me diste a conocer los caminos de la vida; me llenarás de júbilo con tu presencia».",
+    "translation_notes": "Culminación del Salmo 16: 'caminos de vida' (ὁδοὺς ζωῆς) apunta al sendero victorioso de la resurrección escatológica y la ascensión a la gloria. La bienaventuranza eterna se consuma en la presencia beatífica directa del Padre: μετὰ τοῦ προσώπου σου ('con tu faz / delante de tu rostro')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 29,
+    "greek_text": "Ἄνδρες ἀδελφοί, ἐξὸν εἰπεῖν μετὰ παρρησίας πρὸς ὑμᾶς περὶ τοῦ πατριάρχου Δαυὶδ ὅτι καὶ ἐτελεύτησεν καὶ ἐτάφη καὶ τὸ μνῆμα αὐτοῦ ἔστιν ἐν ἡμῖν ἄχρι τῆς ἡμέρας ταύτης.",
+    "translation": "Hermanos, se me permite hablarles con toda franqueza acerca del patriarca David: él murió y fue sepultado, y su tumba está entre nosotros hasta el día de hoy.",
+    "translation_notes": "Pedro solicita licencia oratoria mediante el participio impersonal ἐξόν ('siendo lícito / permítaseme'). Introduce la actitud característica de la misión apostólica: μετὰ παρρησίας (parrhēsia, término técnico de la democracia cívica ateniense que designaba la libertad de expresión ciudadana sin censura, transformado en Hechos en la franqueza valiente y audaz inspirada por el Espíritu). Aplica a David el título honorífico de 'patriarca' (τοῦ πατριάρχου), pero expone un hecho empírico incontrovertible: David murió, se descompuso físicamente y su mausoleo fúnebre (τὸ μνῆμα αὐτοῦ, ubicado en la colina sur de Jerusalén) permanecía visible e intacto ante todos, demostrando que el Salmo 16 no se cumplió en él."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 30,
+    "greek_text": "προφήτης οὖν ὑπάρχων καὶ εἰδὼς ὅτι ὅρκῳ ὤμοσεν αὐτῷ ὁ θεὸς ἐκ καρποῦ τῆς ὀσφύος αὐτοῦ καθίσαι ἐπὶ τὸν θρόνον αὐτοῦ,",
+    "translation": "Siendo, pues, profeta, y sabiendo que con juramento Dios le había prometido sentar a uno de sus descendientes sobre su trono,",
+    "translation_notes": "David es reconocido en su investidura como profeta inspirado (προφήτης ὑπάρχων). La referencia alude al juramento pactual davídico solemne registrado en 2 Samuel 7:12-16 y Salmo 132:11 (ὅρκῳ ὤμοσεν). El modismo semítico ἐκ καρποῦ τῆς ὀσφύος αὐτοῦ ('del fruto de sus lomos') designa a un descendiente biológico legítimo que reinará eternamente en el trono mesiánico."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 31,
+    "greek_text": "προϊδὼν ἐλάλησεν περὶ τῆς ἀναστάσεως τοῦ Χριστοῦ ὅτι οὔτε ἐγκατελείφθη εἰς ᾅδην οὔτε ἡ σὰρξ αὐτοῦ εἶδεν διαφθοράν.",
+    "translation": "previéndolo, habló de la resurrección del Cristo, diciendo que ni fue desamparado en el Hades, ni su carne vio corrupción.",
+    "translation_notes": "Conclusión exegética irrebatible: David actuó como heraldo profético que 'vio de antemano' (προϊδών) y proclamó no su propio destino póstumo, sino 'la resurrección del Cristo' (περὶ τῆς ἀναστάσεως τοῦ Χριστοῦ). Se reitera la salvaguarda de su cuerpo físico frente al proceso de putrefacción (ἡ σὰρξ αὐτοῦ εἶδεν διαφθοράν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 32,
+    "greek_text": "τοῦτον τὸν Ἰησοῦν ἀνέστησεν ὁ θεός, οὗ πάντες ἡμεῖς ἐσμεν μάρτυρες·",
+    "translation": "A este Jesús resucitó Dios, de lo cual todos nosotros somos testigos.",
+    "translation_notes": "Identificación cristológica terminante: el demostrativo enfático τοῦτον τὸν Ἰησοῦν ('a este Jesús concreto e histórico'). Los doce apóstoles se erigen en el tribunal de la historia como μάρτυρες (testigos oculares juramentados) de su resurrección física."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 33,
+    "greek_text": "τῇ δεξιᾷ οὖν τοῦ θεοῦ ὑψωθεὶς τήν τε ἐπαγγελίαν τοῦ πνεύματος τοῦ ἁγίου λαβὼν παρὰ τοῦ πατρὸς ἐξέχεεν τοῦτο ὃ ὑμεῖς καὶ βλέπετε καὶ ἀκούετε.",
+    "translation": "Así que, exaltado a la diestra de Dios, y habiendo recibido del Padre la promesa del Espíritu Santo, ha derramado esto que ustedes ven y oyen.",
+    "translation_notes": "Teología de la entronización cósmica: el participio aoristo pasivo ὑψωθείς ('habiendo sido exaltado') y el dativo locativo/instrumental τῇ δεξιᾷ τοῦ θεοῦ señalan la coronación de Jesús en el lugar supremo de poder soberano universal junto al Padre. Como Rey mesiánico entronizado, recibe del Padre el don del Espíritu Santo y lo derrama sobre la tierra. El apóstol apela a la evidencia empírica inmediata de los sentidos de los presentes: 'esto que ustedes están viendo y oyendo' (ὃ ὑμεῖς καὶ βλέπετε καὶ ἀκούετε)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 34,
+    "greek_text": "οὐ γὰρ Δαυὶδ ἀνέβη εἰς τοὺς οὐρανούς, λέγει δὲ αὐτός· Εἶπεν κύριος τῷ κυρίῳ μου· Κάθου ἐκ δεξιῶν μου,",
+    "translation": "Porque David no ascendió a los cielos; sin embargo, él mismo dice: «Dijo el Señor a mi Señor: Siéntate a mi diestra,",
+    "translation_notes": "Cita del Salmo 110:1 (el texto del Antiguo Testamento más citado en el Nuevo Testamento). Pedro demuestra que David no subió corporalmente al cielo para ocupar el trono cósmico. En el texto hebreo (neum Yahweh l'Adoní), Yahvé habla al Señor de David; David reconocía que el Mesías venidero era superior a él en majestad y autoridad divina."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 35,
+    "greek_text": "ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου.",
+    "translation": "hasta que ponga a tus enemigos por estrado de tus pies».",
+    "translation_notes": "Metáfora real de victoria y subyugación del antiguo Oriente Próximo: el monarca victorioso colocaba físicamente sus pies sobre la cerviz de los reyes derrotados o los convertía en estrado (ὑποπόδιον) de su trono, significando el sometimiento escatológico definitivo de todos los poderes hostiles a Dios bajo la soberanía del Mesías."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 36,
+    "greek_text": "ἀσφαλῶς οὖν γινωσκέτω πᾶς οἶκος Ἰσραὴλ ὅτι καὶ κύριον αὐτὸν καὶ Χριστὸν ἐποίησεν ὁ θεός, τοῦτον τὸν Ἰησοῦν ὃν ὑμεῖς ἐσταυρώσατε.",
+    "translation": "Sepa, pues, con absoluta certeza toda la casa de Israel, que a este mismo Jesús a quien ustedes crucificaron, Dios lo ha constituido Señor y Cristo».",
+    "translation_notes": "El clímax teológico y dogmático de todo el discurso de Pentecostés: el adverbio ἀσφαλῶς (asphalōs, 'de manera indubitable, con plena certeza jurídica e histórica') encabeza la sentencia. La fórmula litúrgica solemne πᾶς οἶκος Ἰσραήλ ('toda la casa de Israel') interpela a la nación en su conjunto pactual. Dios ha investido a Jesús con los dos títulos supremos: 1) Κύριος (Kyrios, Señor cósmico dotado del nombre y la soberanía de Yahvé); 2) Χριστός (Christos, el ungido rey davídico escatológico). El contraste final es estremecedor: este soberano eterno es 'este mismo Jesús a quien ustedes crucificaron' (ὃν ὑμεῖς ἐσταυρώσατε)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 37,
+    "greek_text": "Ἀκούσαντες δὲ κατενύγησαν τὴν καρδίαν, εἶπόν τε πρὸς τὸν Πέτρον καὶ τοὺς λοιποὺς ἀποστόλους· Τί ποιήσωμεν, ἄνδρες ἀδελφοί;",
+    "translation": "Al oír esto, se compungieron de corazón y dijeron a Pedro y a los demás apóstoles: «Hermanos, ¿qué debemos hacer?».",
+    "translation_notes": "Efecto transformador del kerigma: el verbo κατανύσσομαι (aoristo pasivo κατενύγησαν, acusativo de referencia τὴν καρδίαν) es un término de gran impacto emocional y médico que significa ser atravesado violentamente por una espada punzante, herido hasta lo más profundo del corazón por el dolor de la culpa y la convicción espiritual. La angustiosa pregunta comunitaria Τί ποιήσωμεν, ἄνδρες ἀδελφοί; refleja la desesperada necesidad de perdón y reconciliación ante el Dios cuyo Mesías han ejecutado."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 38,
+    "greek_text": "Πέτρος δὲ πρὸς αὐτούς· Μετανοήσατε, φησίν, καὶ βαπτισθήτω ἕκαστος ὑμῶν ἐπὶ τῷ ὀνόματι Ἰησοῦ Χριστοῦ εἰς ἄφεσιν τῶν ἁμαρτιῶν ὑμῶν, καὶ λήμψεσθε τὴν δωρεὰν τοῦ ἁγίου πνεύματος·",
+    "translation": "Pedro les dijo: «Arrepiéntanse, y sea bautizado cada uno de ustedes en el nombre de Jesucristo para el perdón de sus pecados, y recibirán el don del Espíritu Santo.",
+    "translation_notes": "La fórmula apostólica fundacional de conversión: 1) Μετανοήσατε (imperativo aoristo activo urgente de metanoeō: cambio radical de mentalidad, arrepentimiento profundo y transformación total del rumbo de vida); 2) Bautismo en agua: βαπτισθήτω ἕκαστος (imperativo pasivo de tercera persona: asunción personal voluntaria del rito de inmersión); 3) ἐπὶ τῷ ὀνόματι Ἰησοῦ Χριστοῦ ('sobre la base de la autoridad y pertenencia a Jesucristo'); 4) εἰς ἄφεσιν τῶν ἁμαρτιῶν ('con miras a la remisión / cancelación legal completa de los pecados'); 5) La promesa donada: el don gracioso (δωρεά, dōrea) del Espíritu Santo como sello escatológico de la nueva alianza."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 39,
+    "greek_text": "ὑμῖν γάρ ἐστιν ἡ ἐπαγγελία καὶ τοῖς τέκνοις ὑμῶν καὶ πᾶσι τοῖς εἰς μακρὰν ὅσους ἂν προσκαλέσηται κύριος ὁ θεὸς ἡμῶν.",
+    "translation": "Porque para ustedes es la promesa, y para sus hijos, y para todos los que están lejos; para cuantos el Señor nuestro Dios llame para sí».",
+    "translation_notes": "Carácter pactual y universal de la promesa: 1) Los judíos presentes y sus descendientes (ὑμῖν... καὶ τοῖς τέκνοις ὑμῶν, lenguaje de la alianza abrahámica de Gn 17:7); 2) πᾶσι τοῖς εἰς μακράν ('para todos los que están lejos'), alusión profética a Isaías 57:19 que abarca geográficamente a la diáspora judía dispersa y teológicamente al mundo de las naciones gentiles que serán incorporadas a la salvación. El alcance último descansa en el llamamiento soberano y eficaz de Dios (ὅσους ἂν προσκαλέσηται)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 40,
+    "greek_text": "ἑτέροις τε λόγοις πλείοσι διεμαρτύρατο, καὶ παρεκάλει αὐτοὺς λέγων· Σώθητε ἀπὸ τῆς γενεᾶς τῆς σκολιᾶς ταύτης.",
+    "translation": "Y con muchas otras palabras testificaba solemnemente y los exhortaba, diciendo: «¡Pónganse a salvo de esta generación perversa!».",
+    "translation_notes": "Lucas resume la labor ministerial de Pedro mediante dos verbos complementarios: διεμαρτύρατο (aoristo deponente de diamartyromai: dar testimonio judicial solemne e incontrovertible) y παρεκάλει (imperfecto continuativo de parakaleō: instar con ruego apasionado y pastoral). El imperativo pasivo Σώθητε ('déjense salvar / pónganse a salvo') exige cortar con la apostasía de 'esta generación perversa' (τῆς γενεᾶς τῆς σκολιᾶς, adjetivo que alude a Dt 32:5 y designa un sendero ético torcido y deformado que marcha hacia el juicio)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 41,
+    "greek_text": "οἱ μὲν οὖν ἀποδεξάμενοι τὸν λόγον αὐτοῦ ἐβαπτίσθησαν, καὶ προσετέθησαν ἐν τῇ ἡμέρᾳ ἐκείνῃ ψυχαὶ ὡσεὶ τρισχίλιαι.",
+    "translation": "Así que los que acogieron de buen grado su palabra fueron bautizados, y se añadieron en aquel día unas tres mil personas.",
+    "translation_notes": "El participio aoristo deponente ἀποδεξάμενοι denota una recepción gozosa, reverente y voluntaria del mensaje apostólico. El verbo προσετέθησαν (aoristo pasivo: 'fueron agregados o incorporados') reconoce la acción invisible de Dios que suma miembros al cuerpo eclesial. La mención de 'unas tres mil almas' (ψυχαὶ ὡσεὶ τρισχίλιαι, usando psychē en sentido bíblico semítico de personas vivas registradas) contrasta con el episodio del becerro de oro en Éxodo 32:28, donde murieron cerca de tres mil hombres por el juicio de la ley: en Pentecostés, la promulgación de la ley del Espíritu engendra la salvación de tres mil vidas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 42,
+    "greek_text": "ἦσαν δὲ προσκαρτεροῦντες τῇ διδαχῇ τῶν ἀποστόλων καὶ τῇ κοινωνίᾳ, τῇ κλάσει τοῦ ἄρτου καὶ ταῖς προσευχαῖς.",
+    "translation": "Y perseveraban asiduamente en la doctrina de los apóstoles, en la comunión fraterna, en el partimiento del pan y en las oraciones.",
+    "translation_notes": "Los cuatro pilares constitutivos de la vida eclesial primitiva: la perífrasis ἦσαν προσκαρτεροῦντες describe una devoción y perseverancia continua e inquebrantable en: 1) τῇ διδαχῇ τῶν ἀποστόλων (la instrucción catequética y teológica transmitida por los Doce sobre las palabras y obras de Jesús); 2) τῇ κοινωνίᾳ (la koinōnía, comunión solidaria, ayuda mutua y participación corporativa indivisible); 3) τῇ κλάσει τοῦ ἄρτου (la fracción del pan, término técnico para la comida comunitaria y la celebración de la Eucaristía en los hogares); 4) ταῖς προσευχαῖς (las oraciones litúrgicas corporativas y comunitarias, tanto en el templo como en las asambleas locales)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 43,
+    "greek_text": "Ἐγίνετο δὲ πάσῃ ψυχῇ φόβος, πολλά τε τέρατα καὶ σημεῖα διὰ τῶν ἀποστόλων ἐγίνετο.",
+    "translation": "Y sobrevino temor reverente sobre cada alma, y muchos prodigios y señales se realizaban por medio de los apóstoles.",
+    "translation_notes": "El término φόβος (phobos) designa el asombro reverencial y santo temor reverente que embarga a los seres humanos ante la presencia palpable de Dios en la comunidad. Los imperfectos continuos ἐγίνετο ('se manifestaba de continuo') muestran un ministerio carismático ininterrumpido en el que los apóstoles actuaban como instrumentos humanos directos (διά) de los prodigios y señales divinas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 44,
+    "greek_text": "πάντες δὲ οἱ πιστεύοντες ἦσαν ἐπὶ τὸ αὐτὸ καὶ εἶχον ἅπαντα κοινά,",
+    "translation": "Todos los que habían creído estaban juntos y tenían todas las cosas en común;",
+    "translation_notes": "Retrato del ideal sociológico de la comunidad redimida: el participio sustantivado οἱ πιστεύοντες ('los creyentes') define su nueva identidad. La expresión εἶχον ἅπαντα κοινά ('tenían todas las cosas en común') evoca el ideal de la amistad perfecta de la filosofía moral helenística (koina ta philōn, Aristóteles, Ética a Nicómaco) y el pacto fraterno de la ley de Dios, donde la propiedad privada se subordina voluntariamente al bien y sustento de los hermanos necesitados."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 45,
+    "greek_text": "καὶ τὰ κτήματα καὶ τὰς ὑπάρξεις ἐπίπρασκον καὶ διεμέριζον αὐτὰ πᾶσιν καθότι ἄν τις χρείαν εἶχεν·",
+    "translation": "y vendían sus propiedades y sus bienes, y los distribuían a todos según la necesidad que cada uno tuviera.",
+    "translation_notes": "Lucas precisa los tipos de bienes mediante dos términos económicos: 1) τὰ κτήματα (bienes inmuebles, tierras, parcelas o fincas); 2) τὰς ὑπάρξεις (bienes muebles, posesiones o recursos materiales líquidos). Los verbos en imperfecto continuativo ἐπίπρασκον ('iban vendiendo sucesivamente según surgía la ocasión') y διεμέριζον ('iban repartiendo') demuestran que no se trataba de una expropiación obligatoria o comunismo forzoso de una sola vez, sino de un desprendimiento voluntario y gradual impulsado por el amor para solventar las necesidades reales de los indigentes (καθότι ἄν τις χρείαν εἶχεν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 46,
+    "greek_text": "καθ’ ἡμέραν τε προσκαρτεροῦντες ὁμοθυμαδὸν ἐν τῷ ἱερῷ, κλῶντές τε κατ’ οἶκον ἄρτον, μετελάμβανον τροφῆς ἐν ἀγαλλιάσει καὶ ἀφελότητι καρδίας,",
+    "translation": "Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, compartían el alimento con júbilo y sencillez de corazón,",
+    "translation_notes": "La doble esfera de la vida de la primera comunidad jerosolimitana: 1) Esfera pública: asistencia diaria y perseverante (προσκαρτεροῦντες ὁμοθυμαδόν) al Templo (ἐν τῷ ἱερῷ), mostrando su lealtad a la herencia de Israel; 2) Esfera doméstica eclesial: κατ’ οἶκον ('por las casas'), donde celebraban la fracción del pan eucarística y la comunión de mesa fraterna. La actitud vital se describe con dos términos hermosos: ἀγαλλίασις (gozo exultante escatológico) y ἀφελότης καρδίας (hapax legomenon neotestamentario: sencillez, sinceridad límpida y generosidad de corazón libre de doblez o intereses mezquinos)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 2,
+    "verse": 47,
+    "greek_text": "αἰνοῦντες τὸν θεὸν καὶ ἔχοντες χάριν πρὸς ὅλον τὸν λαόν. ὁ δὲ κύριος προσετίθει τοὺς σῳζομένους καθ’ ἡμέραν ἐπὶ τὸ αὐτό.",
+    "translation": "alabando a Dios y teniendo el favor de todo el pueblo. Y el Señor añadía cada día a la comunidad a los que iban siendo salvos.",
+    "translation_notes": "La vida cotidiana irradiaba una poderosa fuerza evangelizadora: la alabanza continua a Dios (αἰνοῦντες τὸν θεόν) les ganaba el aprecio, beneplácito y respeto de la población judía de la ciudad (ἔχοντες χάριν πρὸς ὅλον τὸν λαόν). El crecimiento numérico se atribuye a la acción soberana de Cristo: ὁ κύριος προσετίθει (imperfecto: 'el Señor continuaba añadiendo'). El participio presente pasivo τοὺς σῳζομένους ('aquellos que iban siendo salvos') recalca la salvación como un proceso continuo e histórico que se materializa mediante la inserción visible en la comunión eclesial (ἐπὶ τὸ αὐτό)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 1,
+    "greek_text": "Πέτρος δὲ καὶ Ἰωάννης ἀνέβαινον εἰς τὸ ἱερὸν ἐπὶ τὴν ὥραν τῆς προσευχῆς τὴν ἐνάτην,",
+    "translation": "Pedro y Juan subían juntos al templo a la hora de la oración, la novena,",
+    "translation_notes": "Lucas muestra la observancia devota de los líderes apostólicos hacia el templo de Jerusalén (τὸ ἱερόν). El imperfecto ἀνέβαινον describe la acción continuada de ascender por las gradas del monte Sion. 'La hora novena' (τὴν ἐνάτην) correspondía a las 3:00 de la tarde en el cómputo temporal judío, coincidiendo exactamente con el servicio litúrgico del sacrificio vespertino cotidiano (tamid, Ex 29:38-42) y el holocausto del incienso que congregaba a la multitud para la oración solemne comunitaria."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 2,
+    "greek_text": "καί τις ἀνὴρ χωλὸς ἐκ κοιλίας μητρὸς αὐτοῦ ὑπάρχων ἐβαστάζετο, ὃν ἐτίθουν καθ’ ἡμέραν πρὸς τὴν θύραν τοῦ ἱεροῦ τὴν λεγομένην Ὡραίαν τοῦ αἰτεῖν ἐλεημοσύνην παρὰ τῶν εἰσπορευομένων εἰς τὸ ἱερόν,",
+    "translation": "y un hombre que era cojo desde el vientre de su madre era llevado en hombros, a quien ponían cada día a la puerta del templo que se llama la Hermosa, para que pidiera limosna a los que entraban en el templo;",
+    "translation_notes": "Diagnóstico médico y circunstancial minucioso propio de Lucas: χωλὸς ἐκ κοιλίας μητρὸς αὐτοῦ ὑπάρχων ('cojo congénito desde su nacimiento', de más de cuarenta años según Hch 4:22, excluyendo cualquier sospecha de sugestión o fraude). El imperfecto ἐβαστάζετο ('era transportado a cuestas habitualmente') muestra su absoluta invalidez física. La 'Puerta Hermosa' (τὴν λεγομένην Ὡραίαν) se identifica comúnmente con la célebre Puerta de Nicanor descrita por Josefo (Guerra Judía 5.201-206), fabricada con suntuoso bronce corintio que superaba en valor y esplendor a las puertas enchapadas en plata y oro, y que daba acceso desde el Atrio de los Gentiles al Atrio de las Mujeres. Era el sitio estratégico de tránsito masivo para pedir ἐλεημοσύνη (eleēmosynē, limosna o acto de beneficencia y piedad comunitaria judía)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 3,
+    "greek_text": "ὃς ἰδὼν Πέτρον καὶ Ἰωάννην μέλλοντας εἰσιέναι εἰς τὸ ἱερὸν ἠρώτα ἐλεημοσύνην λαβεῖν.",
+    "translation": "este, al ver a Pedro y a Juan que estaban a punto de entrar en el templo, les rogaba que le dieran limosna.",
+    "translation_notes": "El participio presente μέλλοντας εἰσιέναι capta el momento exacto en que los dos apóstoles cruzaban el umbral del recinto sagrado. El imperfecto ἠρώτα denota una súplica reiterada y lastimera (típica del mendigo ciego o paralítico en el mundo antiguo) solicitando una donación material (ἐλεημοσύνην λαβεῖν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 4,
+    "greek_text": "ἀτενίσας δὲ Πέτρος εἰς αὐτὸν σὺν τῷ Ἰωάννῃ εἶπεν· Βλέψον εἰς ἡμᾶς.",
+    "translation": "Pedro, entonces, fijando la mirada en él junto con Juan, dijo: «Míranos».",
+    "translation_notes": "El participio aoristo ἀτενίσας (fijar la mirada con intensidad penetrante, vocablo técnico lucano) denota un escrutinio espiritual profundo e intencional. Pedro y Juan actúan en perfecta sinergia apostólica (σὺν τῷ Ἰωάννῃ). El imperativo aoristo activo Βλέψον εἰς ἡμᾶς ('¡míranos de frente!') exige al mendigo desviar su atención de las monedas del suelo y establecer un contacto personal y fiduciario con los enviados del Mesías."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 5,
+    "greek_text": "ὁ δὲ ἐπεῖχεν αὐτοῖς προσδοκῶν τι παρ’ αὐτῶν λαβεῖν.",
+    "translation": "Él los miraba atentamente, esperando recibir algo de ellos.",
+    "translation_notes": "El verbo ἐπεῖχεν (imperfecto de epechō con elisión de tòn noûn: 'prestaba toda su atención fija') describe la actitud receptiva y anhelante del hombre. El participio presente προσδοκῶν ('aguardando expectante') pone de relieve la expectativa meramente monetaria del mendigo antes de la irrupción del milagro soberano."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 6,
+    "greek_text": "εἶπεν δὲ Πέτρος· Ἀργύριον καὶ χρυσίον οὐχ ὑπάρχει μοι, ὃ δὲ ἔχω τοῦτό σοι δίδωμι· ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ τοῦ Ναζωραίου περιπάτει.",
+    "translation": "Pero Pedro dijo: «No tengo plata ni oro, pero lo que tengo, esto te doy: en el nombre de Jesucristo el Nazareno, ¡camina!».",
+    "translation_notes": "Declaración apostólica paradigmática: la fórmula Ἀργύριον καὶ χρυσίον οὐχ ὑπάρχει μοι confiesa la ausencia deliberada de riquezas materiales en el liderazgo apostólico. La antítesis rotunda introduce la soberanía mesiánica: ὃ δὲ ἔχω τοῦτό σοι δίδωμι ('lo que tengo, esto te doy'). La orden imperativa descansa de manera exclusiva ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ τοῦ Ναζωραίου ('en el nombre de Jesucristo el Nazareno'): en la mentalidad semítica bíblica, el 'nombre' no es una fórmula mágica de encantamiento, sino la persona viva, la autoridad soberana y la presencia actuante del Mesías resucitado. El imperativo presente περιπάτει ordena una acción corporal inmediata y permanente: 'empieza a caminar y continúa caminando'."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 7,
+    "greek_text": "καὶ πιάσας αὐτὸν τῆς δεξιᾶς χειρὸς ἤγειρεν αὐτόν· παραχρῆμα δὲ ἐστερεώθησαν αἱ βάσεις αὐτοῦ καὶ τὰ σφυδρά,",
+    "translation": "Y tomándolo de la mano derecha, lo levantó; y al instante se le afirmaron los pies y los tobillos;",
+    "translation_notes": "Vocabulario de indiscutible precisión médica que delata la mano del médico Lucas (cf. Col 4:14): 1) El gesto corporal solidario: πιάσας αὐτὸν τῆς δεξιᾶς χειρός ('asiéndolo con firmeza de la mano derecha'); 2) El adverbio temporal παραχρῆμα ('al instante, de inmediato', favorito de Lucas); 3) El verbo anatómico en pasivo divino ἐστερεώθησαν (aoristo pasivo de stereóō: consolidar, dar solidez ósea y muscular a una estructura lisiada); 4) Los términos clínicos griegos: βάσεις (término médico utilizado por Hipócrates y Galeno para la planta o base sustentadora de los pies) y σφυδρά (sphydra, hapax legomenon bíblico absoluto que designa los maléolos o las protuberancias óseas articuladas del tobillo). La articulación atrofiada desde el nacimiento adquirió vigor óseo y firmeza ligamentosa instantáneamente."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 8,
+    "greek_text": "καὶ ἐξαλλόμενος ἔστη καὶ περιεπάτει, καὶ εἰσῆλθεν σὺν αὐτοῖς εἰς τὸ ἱερὸν περιπατῶν καὶ ἁλλόμενος καὶ αἰνῶν τὸν θεόν.",
+    "translation": "y dando un salto, se puso en pie y empezó a caminar; y entró con ellos en el templo, caminando, saltando y alabando a Dios.",
+    "translation_notes": "Lucas describe con viveza gráfica la explosión de vitalidad y júbilo del hombre sanado mediante una serie de verbos enérgicos: el participio aoristo ἐξαλλόμενος (dar un salto hacia arriba), ἔστη (quedarse erguido en pie con equilibrio firme) y los imperfectos y participios continuativos περιεπάτει... ἁλλόμενος... αἰνῶν ('andaba, daba brincos de júbilo y alababa a Dios en alta voz'). El pasaje evoca de manera directa el cumplimiento de la gran profecía mesiánica de Isaías 35:6 (LXX): τότε ἁλεῖται ὡς ἔλαφος ὁ χωλός ('entonces el cojo saltará como un ciervo')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 9,
+    "greek_text": "καὶ εἶδεν πᾶς ὁ λαὸς αὐτὸν περιπατοῦντα καὶ αἰνοῦντα τὸν θεόν·",
+    "translation": "Y todo el pueblo lo vio caminando y alabando a Dios;",
+    "translation_notes": "Carácter público e incontrovertible del testimonio: πᾶς ὁ λαός ('todo el pueblo') congregado para la liturgia vespertina fue testigo ocular directo de la motricidad perfecta y la adoración reverente del ex mendigo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 10,
+    "greek_text": "ἐπεγίνωσκον δὲ αὐτὸν ὅτι οὗτος ἦν ὁ πρὸς τὴν ἐλεημοσύνην καθήμενος ἐπὶ τῇ Ὡραίᾳ Πύλῃ τοῦ ἱεροῦ, καὶ ἐπλήσθησαν θάμβους καὶ ἐκστάσεως ἐπὶ τῷ συμβεβηκότι αὐτῷ.",
+    "translation": "y lo reconocían, sabiendo que él era el mismo que se sentaba a pedir limosna a la Puerta Hermosa del templo; y se llenaron de asombro y pasmo ante lo que le había acontecido.",
+    "translation_notes": "El imperfecto ἐπεγίνωσκον indica el proceso unánime de identificación: la multitud corroboró sin lugar a dudas que se trataba del mendigo consuetudinario. La conmoción del gentío se expresa mediante dos términos de honda carga emocional e intelectual: θάμβος (thambos, estupor reverente ante lo milagroso) y ἔκστασις (ekstasis, pasmo abrumador que deja a la mente fuera de sí). El participio perfecto neutro τῷ συμβεβηκότι alude al hecho empírico consumado e indiscutible."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 11,
+    "greek_text": "Κρατοῦντος δὲ αὐτοῦ τὸν Πέτρον καὶ τὸν Ἰωάννην συνέδραμεν πᾶς ὁ λαὸς πρὸς αὐτοὺς ἐπὶ τῇ στοᾷ τῇ καλουμένῃ Σολομῶντος ἔκθαμβοι.",
+    "translation": "Y mientras él retenía a Pedro y a Juan, todo el pueblo corrió estupefacto hacia ellos al pórtico llamado de Salomón.",
+    "translation_notes": "El participio genitivo absoluto Κρατοῦντος denota un aferramiento físico afectuoso y agradecido: el hombre sanado se abrazaba a sus benefactores. La multitud se precipita en masa (συνέδραμεν, aoristo activo de syntrechō) hacia un punto neurálgico del complejo templario: 'el pórtico llamado de Salomón' (ἐπὶ τῇ στοᾷ τῇ καλουμένῃ Σολομῶντος), una grandiosa columnata doble techada situada a lo largo del muro oriental exterior del templo, que según la tradición conservaba los cimientos originales de la época monárquica y servía de lugar de debate y enseñanza (cf. Jn 10:23; Hch 5:12). El adjetivo plural ἔκθαμβοι describe a la multitud completamente atónita."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 12,
+    "greek_text": "ἰδὼν δὲ ὁ Πέτρος ἀπεκρίνατο πρὸς τὸν λαόν· Ἄνδρες Ἰσραηλῖται, τί θαυμάζετε ἐπὶ τούτῳ, ἢ ἡμῖν τί ἀτενίζετε ὡς ἰδίᾳ δυνάμει ἢ εὐσεβείᾳ πεποιηκόσιν τοῦ περιπατεῖν αὐτόν;",
+    "translation": "Al ver esto, Pedro tomó la palabra y dijo al pueblo: «Varones israelitas, ¿por qué se maravillan de esto, o por qué nos miran fijamente, como si por nuestro propio poder o piedad hubiéramos hecho que este camine?",
+    "translation_notes": "Pedro desvía de inmediato cualquier atención idolátrica o personalista hacia su persona. Confronta la falsa suposición popular desarticulando dos posibles explicaciones humanas: 1) ἰδίᾳ δυνάμει (poder o capacidad milagrosa inherente de los apóstoles); 2) εὐσεβείᾳ (eusebeia, piedad personal, devoción o mérito religioso propio ante Dios). Ni la fuerza mágica ni la santidad meritoria humana son el origen del milagro."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 13,
+    "greek_text": "ὁ θεὸς Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακώβ, ὁ θεὸς τῶν πατέρων ἡμῶν, ἐδόξασεν τὸν παῖδα αὐτοῦ Ἰησοῦν, ὃν ὑμεῖς μὲν παρεδώκατε καὶ ἠρνήσασθε κατὰ πρόσωπον Πιλάτου, κρίναντος ἐκείνου ἀπολύειν·",
+    "translation": "El Dios de Abraham, de Isaac y de Jacob, el Dios de nuestros padres, ha glorificado a su siervo Jesús, a quien ustedes entregaron y negaron en presencia de Pilato, habiendo determinado este ponerlo en libertad.",
+    "translation_notes": "Pedro ancla el acontecimiento en el pacto patriarcal inmutable: 'El Dios de Abraham, de Isaac y de Jacob' (fórmula litúrgica de Éxodo 3:6.15 y de la primera bendición de la Amidá judía, Birkat Avot). Asigna a Jesús el título cristológico arcaico ὁ παῖς αὐτοῦ ('su siervo', traduciendo el hebreo éved Yahwéh de la Septuaginta en Isaías 42:1; 52:13; 53:11, el Siervo Sufriente y Justo glorificado). La antítesis judicial es fulminante: Dios lo glorificó (ἐδόξασεν), pero la nación lo entregó a traición (παρεδώκατε) y lo desconoció formalmente (ἠρνήσασθε) ante el tribunal imperial romano, aun cuando el magistrado Poncio Pilato había emitido el veredicto judicial de absolución (κρίναντος ἐκείνου ἀπολύειν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 14,
+    "greek_text": "ὑμεῖς δὲ τὸν ἅγιον καὶ δίκαιον ἠρνήσασθε, καὶ ᾐτήσασθε ἄνδρα φονέα χαρισθῆναι ὑμῖν,",
+    "translation": "Pero ustedes negaron al Santo y Justo, y pidieron que se les concediera a un homicida por indulto,",
+    "translation_notes": "Doble título mesiánico de suprema pureza y rectitud: 1) τὸν ἅγιον (el consagrado plenamente a Dios); 2) τὸν δίκαιον (el Justo inocente que cumple a perfección el pacto, cf. Is 53:11). El contraste moral es sobrecogedor: repudiaron al Santo absoluto y demandaron que se les 'concediera en gracia' (χαρισθῆναι, término jurídico grecorromano para el indulto o perdón penal de un reo) a un asesino confeso (ἄνδρα φονέα, aludiendo al insurgente sedicioso Barrabás en Lc 23:18-19)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 15,
+    "greek_text": "τὸν δὲ ἀρχηγὸν τῆς ζωῆς ἀπεκτείνατε, ὃν ὁ θεὸς ἤγειρεν ἐκ νεκρῶν, οὗ ἡμεῖς μάρτυρές ἐσμεν.",
+    "translation": "y mataron al Autor de la vida, a quien Dios resucitó de entre los muertos, de lo cual nosotros somos testigos.",
+    "translation_notes": "La paradoja teológica más sobrecogedora del Nuevo Testamento: 'mataron al Autor de la vida' (τὸν δὲ ἀρχηγὸν τῆς ζωῆς ἀπεκτείνατε). El sustantivo ἀρχηγός (archēgos) denota al soberano fundador, pionero, caudillo de vanguardia u originador absoluto de una realidad. Quitar la vida histórica al mismísimo manantial y soberano de la existencia constituía una atrocidad ontológica sin parangón. Sin embargo, el poder divino revirtió el juicio humano: Dios lo levantó de los muertos (ἤγειρεν), y los apóstoles se constituyen formalmente en μάρτυρες (testigos fácticos presenciales) de esta victoria."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 16,
+    "greek_text": "καὶ ἐπὶ τῇ πίστει τοῦ ὀνόματος αὐτοῦ τοῦτον ὃν θεωρεῖτε καὶ οἴδατε ἐστερέωσεν τὸ ὄνομα αὐτοῦ, καὶ ἡ πίστις ἡ δι’ αὐτοῦ ἔδωκεν αὐτῷ τὴν ὁλοκληρίαν ταύτην ἀπέναντι πάντων ὑμῶν.",
+    "translation": "Y por la fe en su nombre, a este hombre que ven y conocen, su nombre lo ha fortalecido; y la fe que viene por medio de él le ha dado esta perfecta salud física en presencia de todos ustedes.",
+    "translation_notes": "Explicación teológica del mecanismo del milagro: 1) La causa eficiente e instrumental: ἐπὶ τῇ πίστει τοῦ ὀνόματος αὐτοῦ ('sobre la base de la fe en su nombre'). El nombre de Jesús (su persona operante) ha infundido solidez física (ἐστερέωσεν); 2) El origen divino de la fe: ἡ πίστις ἡ δι’ αὐτοῦ ('la fe que es operada por medio de él mismo'), mostrando que incluso la fe no es una obra meritoria autónoma humana sino un don provocado por la gracia de Cristo; 3) El resultado anatómico y funcional: ὁλοκληρία (holoklēria, vocablo técnico médico que designa la integridad física irreprochable, sanidad total y articulación corporal sin defecto alguno), confirmada públicamente ante los ojos de toda la asamblea (ἀπέναντι πάντων ὑμῶν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 17,
+    "greek_text": "καὶ νῦν, ἀδελφοί, οἶδα ὅτι κατὰ ἄγνοιαν ἐπράξατε, ὥσπερ καὶ οἱ ἄρχοντες ὑμῶν·",
+    "translation": "Y ahora, hermanos, sé que actuaron por ignorancia, al igual que sus gobernantes.",
+    "translation_notes": "Paso de la acusación judicial a la invitación a la gracia: Pedro adopta el tono fraternal afectuoso (ἀδελφοί). Introduce la atenuante legal judía de la ignorancia: κατὰ ἄγνοιαν ἐπράξατε ('actuaron por ignorancia'). En el derecho sacrificial de la Torá (Levítico 4:2.13.22.27; Números 15:22-31), los pecados cometidos por ignorancia o inadvertencia (bishgagah) admitían expiación y perdón sacerdotal, a diferencia de los pecados cometidos con soberbia premeditada y desafiante de mano alzada (beyad ramah). Al incluir también a los magistrados del Sanedrín (οἱ ἄρχοντες ὑμῶν), Pedro deja abierta la puerta legal del arrepentimiento para toda la jerarquía de la nación."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 18,
+    "greek_text": "ὁ δὲ θεὸς ἃ προκατήγγειλεν διὰ στόματος πάντων τῶν προφητῶν, παθεῖν τὸν Χριστὸν αὐτοῦ, ἐπλήρωσεν οὕτως.",
+    "translation": "Pero Dios ha cumplido de este modo lo que había anunciado de antemano por boca de todos los profetas: que su Cristo había de padecer.",
+    "translation_notes": "La providencia soberana en la cruz: el verbo compuesto προκατήγγειλεν ('proclamó de antemano') unifica todo el testimonio canónico del Antiguo Testamento. La necesidad soteriológica de que el Mesías padeciera (παθεῖν τὸν Χριστὸν αὐτοῦ) era un concepto escandaloso y desconcertante para el mesianismo militar triunfalista judío de la época, pero constituía el eje secreto de la revelación profética (Salmo 22; Isaías 53)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 19,
+    "greek_text": "μετανοήσατε οὖν καὶ ἐπιστρέψατε πρὸς τὸ ἐξαλειφθῆναι ὑμῶν τὰς ἁμαρτίας,",
+    "translation": "Por lo tanto, arrepiéntanse y vuélvanse a Dios, para que sean borrados sus pecados,",
+    "translation_notes": "Doble imperativo de conversión evangélica: 1) μετανοήσατε (arrepentirse, experimentar un cambio radical de perspectiva interior y dolor por el pecado); 2) ἐπιστρέψατε (aoristo activo del verbo hebreo shuv: dar media vuelta, retornar en la práctica fáctica hacia Dios y su pacto). El propósito teleológico se expresa con la construcción de infinitivo pasivo πρὸς τὸ ἐξαλειφθῆναι (del verbo exaleiphō, que en el ámbito administrativo y contable grecorromano designaba la acción de lavar o raspar la tinta de un papiro para borrar y cancelar legalmente una deuda o registro inculpatorio: la cancelación absoluta de la culpa pactual)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 20,
+    "greek_text": "ὅπως ἂν ἔλθωσιν καιροὶ ἀναψύξεως ἀπὸ προσώπου τοῦ κυρίου καὶ ἀποστείλῃ τὸν προκεχειρισμένον ὑμῖν Χριστὸν Ἰησοῦν,",
+    "translation": "a fin de que vengan de la presencia del Señor tiempos de refrigerio, y él envíe al Cristo que les ha sido designado de antemano, a Jesús;",
+    "translation_notes": "Cláusula de propósito escatológico y mesiánico: ὅπως ἂν ἔλθωσιν καιροὶ ἀναψύξεως ('a fin de que sobrevengan tiempos de refrigerio'). El sustantivo ἀνάψυξις (anapsyxis) evoca el alivio gozoso, el respiro restaurador, la consolación y la paz tras el agobio y la fatiga, aludiendo a la bendición plena de la era mesiánica que dimana 'del rostro del Señor' (ἀπὸ προσώπου τοῦ κυρίου). El participio perfecto pasivo τὸν προκεχειρισμένον (del verbo procheirizō) denota a aquel que ha sido designado solemnemente de antemano por decreto soberano como el Mesías de la promesa."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 21,
+    "greek_text": "ὃν δεῖ οὐρανὸν μὲν δέξασθαι ἄχρι χρόνων ἀποκαταστάσεως πάντων ὧν ἐλάλησεν ὁ θεὸς διὰ στόματος τῶν ἁγίων ἀπ’ αἰῶνος αὐτοῦ προφητῶν.",
+    "translation": "a quien el cielo debe retener hasta los tiempos de la restauración de todas las cosas, de las cuales habló Dios por boca de sus santos profetas que han sido desde la antigüedad.",
+    "translation_notes": "Doctrina de la Ascensión y la consumación escatológica: el verbo impersonal δεῖ ('es necesario según el designio divino') rige el infinitivo δέξασθαι: el cielo debe acoger y retener corporalmente a Jesús hasta el clímax de la historia. La frase clave es χρόνων ἀποκαταστάσεως πάντων ('tiempos de la restauración de todas las cosas'). El término ἀποκατάστασις (apokatastasis) era empleado en el ámbito médico para la sanación de un miembro fracturado o reintegración anatómica completa, en el derecho civil para la restitución de propiedades a sus legítimos dueños, y en la astronomía antigua para el retorno de los astros a su alineación original perfecta; aquí denota la regeneración cósmica y teocrática total prometida por los profetas bíblicos (nueva creación, Isaías 65:17)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 22,
+    "greek_text": "Μωϋσῆς μὲν εἶπεν ὅτι Προφήτην ὑμῖν ἀναστήσει κύριος ὁ θεὸς ἐκ τῶν ἀδελφῶν ὑμῶν ὡς ἐμέ· αὐτοῦ ἀκούσεσθε κατὰ πάντα ὅσα ἂν λαλήσῃ πρὸς ὑμᾶς.",
+    "translation": "Moisés ciertamente dijo: «El Señor Dios les levantará a ustedes de entre sus hermanos un profeta como yo; a él escucharán en todas las cosas que les hable.",
+    "translation_notes": "Cita fundamental de Deuteronomio 18:15.18-19 según la Septuaginta. Moisés, el legislador fundacional de Israel, profetizó el advenimiento de una figura escatológica singular: 'un profeta como yo' (Προφήτην... ὡς ἐμέ). Esta tipología mesiánica de Jesús como el Nuevo Moisés, mediador de un pacto superior y legislador de la gracia, exigía sumisión absoluta: αὐτοῦ ἀκούσεσθε ('a él obedecerán')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 23,
+    "greek_text": "ἔσται δὲ πᾶσα ψυχὴ ἥτις ἐὰν μὴ ἀκούσῃ τοῦ προφήτου ἐκείνου ἐξολεθρευθήσεται ἐκ τοῦ λαοῦ.",
+    "translation": "Y sucederá que toda alma que no escuche a aquel profeta será desarraigada por completo del pueblo».",
+    "translation_notes": "Sentencia penal y pactual severa que adapta Lv 23:29 y Dt 18:19. El verbo compuesto en futuro pasivo ἐξολεθρευθήσεται (de exolethreuō: 'ser destruido totalmente, extirpado de raíz o cortado') evoca la sanción rabínica del kareth (la extirpación espiritual y comunitaria del transgresor por mano de Dios). Rechazar a Jesús no es una simple discrepancia teológica opinable, sino una apostasía que excluye formalmente del pueblo pactual de Dios."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 24,
+    "greek_text": "καὶ πάντες δὲ οἱ προφῆται ἀπὸ Σαμουὴλ καὶ τῶν καθεξῆς ὅσοι ἐλάλησαν καὶ κατήγγειλαν τὰς ἡμέρας ταύτας.",
+    "translation": "Y del mismo modo, todos los profetas desde Samuel y sus sucesores, cuantos han hablado, anunciaron también estos días.",
+    "translation_notes": "Samuel es considerado en la tradición rabínica y bíblica como el iniciador del orden regular de los profetas tras Moisés y el fundador de la monarquía davídica (1 Sam 3:20; 10:1). El adverbio καθεξῆς ('los sucesivos ordenadamente', término típicamente lucano de secuencia historiográfica metódica) abarca la totalidad del canon profético, demostrando que toda la profecía bíblica converge orgánicamente en la era mesiánica inaugurada por Jesús (τὰς ἡμέρας ταύτας)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 25,
+    "greek_text": "ὑμεῖς ἐστε οἱ υἱοὶ τῶν προφητῶν καὶ τῆς διαθήκης ἧς διέθετο ὁ θεὸς πρὸς τοὺς πατέρας ὑμῶν, λέγων πρὸς Ἀβραάμ· Καὶ ἐν τῷ σπέρματί σου ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς.",
+    "translation": "Ustedes son los hijos de los profetas y del pacto que Dios concertó con los padres de ustedes, diciendo a Abraham: «Y en tu descendencia serán bendecidas todas las familias de la tierra».",
+    "translation_notes": "Identificación de la audiencia judía con sus privilegios de linaje: οἱ υἱοὶ τῶν προφητῶν καὶ τῆς διαθήκης ('los herederos legítimos de la profecía y del pacto'). El verbo διέθετο (aoristo medio de diatithēmi: concertar un pacto soberano unilateral). Cita Génesis 22:18 (y 12:3; 26:4 LXX): ἐν τῷ σπέρματί σου ('en tu simiente', identificada mesiánicamente con Cristo, cf. Gá 3:16). El alcance de la bendición es universal: πᾶσαι αἱ πατριαὶ τῆς γῆς ('todas las familias/linajes de la tierra')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 3,
+    "verse": 26,
+    "greek_text": "ὑμῖν πρῶτον ἀναστήσας ὁ θεὸς τὸν παῖδα αὐτοῦ ἀπέστειλεν αὐτὸν εὐλογοῦντα ὑμᾶς ἐν τῷ ἀποστρέφειν ἕκαστον ἀπὸ τῶν πονηριῶν ὑμῶν.",
+    "translation": "A ustedes primeramente, habiendo resucitado Dios a su Siervo, lo envió para que los bendijera, a fin de apartar a cada uno de ustedes de sus maldades».",
+    "translation_notes": "El principio teológico de la prioridad salvífica histórica de Israel: ὑμῖν πρῶτον ('a ustedes en primer lugar', cf. Rom 1:16). El participio aoristo ἀναστήσας puede evocar tanto el 'levantar' histórico del profeta prometido (v. 22) como la resurrección física de Jesús entre los muertos. El propósito de la bendición mesiánica es moral, espiritual y escatológico: apartar radicalmente a cada individuo de sus obras perversas (ἐν τῷ ἀποστρέφειν ἕκαστον ἀπὸ τῶν πονηριῶν ὑμῶν), concluyendo el discurso con un apremiante llamado a la santidad reconciliada."
+  }
+]

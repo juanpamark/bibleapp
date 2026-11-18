@@ -1,0 +1,690 @@
+[
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 1,
+    "greek_text": "Πρωΐας δὲ γενομένης συμβούλιον ἔλαβον πάντες οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι τοῦ λαοῦ κατὰ τοῦ Ἰησοῦ ὥστε θανατῶσαι αὐτόν·",
+    "translation": "Al amanecer, todos los principales sacerdotes y los ancianos del pueblo tomaron consejo contra Jesús para condenarlo a muerte;",
+    "translation_notes": "Consejo matutino y formalización del veredicto: Πρωΐας δὲ γενομένης (genitivo absoluto, 'habiendo llegado la mañana') marca la sesión diurna obligatoria. Conforme a la halajá procesal judía recogida en el tratado Sanedrín (4:1), los juicios de pena capital no podían deliberarse ni sentenciarse de noche; la reunión al alba de los principales sacerdotes y ancianos buscaba revestir de formalidad legal la resolución nocturna previa: συμβούλιον ἔλαβον... ὥστε θανατῶσαι αὐτόν ('tomaron consejo para darle muerte')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 2,
+    "greek_text": "καὶ δήσαντες αὐτὸν ἀπήγαγον καὶ παρέδωκαν Πιλάτῳ τῷ ἡγεμόνι.",
+    "translation": "y habiéndolo atado, se lo llevaron y lo entregaron a Pilato, el gobernador.",
+    "translation_notes": "Entrega a Poncio Pilato y el 'ius gladii': Jesús es atado (δήσαντες) como criminal convicto. Es entregado a Poncio Pilato (Πιλάτῳ τῷ ἡγεμόνι). El término ἡγεμών (hēgemōn) traduce el latín praefectus (título histórico confirmado arqueológicamente por la 'Piedra de Pilato' hallada en Cesarea Marítima en 1961: Pontius Pilatus, Praefectus Iudaeae). Bajo la dominación romana, el Sanedrín carecía del ius gladii (el derecho formal de ejecutar la pena capital sin ratificación imperial, cf. Jn 18:31), obligándolos a remitir el caso a la corte del prefecto romano."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 3,
+    "greek_text": "Τότε ἰδὼν Ἰούδας ὁ παραδιδοὺς αὐτὸν ὅτι κατεκρίθη μεταμεληθεὶς ἔστρεψεν τὰ τριάκοντα ἀργύρια τοῖς ἀρχιερεῦσιν καὶ πρεσβυτέροις",
+    "translation": "Entonces Judas, el que lo había entregado, al ver que había sido condenado, sintiendo remordimiento, devolvió las treinta monedas de plata a los principales sacerdotes y a los ancianos,",
+    "translation_notes": "Remordimiento tardío de Judas: La reacción de Judas se describe con μεταμεληθείς (metamelētheis, aoristo pasivo de μεταμέλομαι, experimentar remordimiento o pesar emocional por las consecuencias), en contraste con μετανοέω (metanoeō, el arrepentimiento espiritual genuino y conversión de la mente hacia Dios). Al constatar que Jesús fue condenado (ὅτι κατεκρίθη), intenta deshacer formalmente el contrato devolviendo los treinta siclos (ἔστρεψεν τὰ τριάκοντα ἀργύρια)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 4,
+    "greek_text": "λέγων· Ἥμαρτον παραδοὺς αἷμα ἀθῷον. οἱ δὲ εἶπαν· Τί πρὸς ἡμᾶς; σὺ ὄψῃ.",
+    "translation": "diciendo: «He pecado entregando sangre inocente». Pero ellos dijeron: «¿Qué nos importa a nosotros? ¡Allá tú!»",
+    "translation_notes": "Confesión de inocencia y rechazo cínico: La confesión Ἥμαρτον παραδοὺς αἷμα ἀθῷον ('He pecado entregando sangre inocente') es una absolución moral absoluta emitida por el propio delator. El adjetivo ἀθῷος (athōos) denota jurídicamente a quien está libre de culpa o castigo. La respuesta sacerdotal Τί πρὸς ἡμᾶς; σὺ ὄψῃ ('¿Qué nos incumbe a nosotros? Tú verás / asunto tuyo') exhibe un frío rechazo institucional, desentendiéndose de la complicidad una vez consumado el arresto."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 5,
+    "greek_text": "καὶ ῥίψας τὰ ἀργύρια εἰς τὸν ναὸν ἀνεχώρησεν, καὶ ἀπελθὼν ἀπήγξατο.",
+    "translation": "Y arrojando las monedas de plata en el santuario, se retiró; y se fue y se ahorcó.",
+    "translation_notes": "El suicidio de Judas en el Santuario: Arroja las monedas εἰς τὸν ναόν (eis ton naon), penetrando en el recinto sacro del Templo reservado a los sacerdotes para forzar la recepción del dinero impuro. El participio ἀπελθὼν ἀπήγξατο (aoristo medio de ἀπάγχω, estrangularse, ahorcarse) documenta su trágico fin, evocando el suicidio de Ajitófel tras traicionar al rey David (2 Sam 17:23; LXX: καὶ ἀπήγξατο)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 6,
+    "greek_text": "οἱ δὲ ἀρχιερεῖς λαβόντες τὰ ἀργύρια εἶπαν· Οὐκ ἔξεστιν βαλεῖν αὐτὰ εἰς τὸν κορβανᾶν, ἐπεὶ τιμὴ αἵματός ἐστιν·",
+    "translation": "Y los principales sacerdotes, tomando las monedas de plata, dijeron: «No es lícito echarlas en el tesoro sagrado, porque es precio de sangre».",
+    "translation_notes": "Casuística hipócrita y el Corbán: Los sacerdotes aplican con escrupulosidad formalista Deuteronomio 23:18, prohibiendo ingresar ganancias maculadas al κορβανᾶς (korbanas, del hebreo קָרְבָּן qorbān, ofrenda consagrada o el tesoro del Templo). Catalogan el dinero como τιμὴ αἵματος ('precio de sangre', remuneración por homicidio), admitiendo inadvertidamente su propia culpa judicial en el derramamiento de sangre inocente."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 7,
+    "greek_text": "συμβούλιον δὲ λαβόντες ἠγόρασαν ἐξ αὐτῶν τὸν Ἀγρὸν τοῦ Κεραμέως εἰς ταφὴν τοῖς ξένοις.",
+    "translation": "Y habiendo tomado consejo, compraron con ellas el Campo del Alfarero, para sepultura de los extranjeros.",
+    "translation_notes": "Compra del Campo del Alfarero: Para lavar la impureza legal del dinero, adquieren τὸν Ἀγρὸν τοῦ Κεραμέως (ton Agron tou Kerameōs, una parcela arcillosa en el valle de Hinom donde los alfareros extraían greda, inadecuada para el cultivo agrícola). Lo destinan a cementerio para 'extranjeros' (τοῖς ξένοις), peregrinos gentiles o judíos indigentes que morían en Jerusalén sin sepulcro familiar."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 8,
+    "greek_text": "διὸ ἐκλήθη ὁ ἀγρὸς ἐκεῖνος Ἀγρὸς Αἵματος ἕως τῆς σήμερον.",
+    "translation": "Por lo cual aquel campo fue llamado «Campo de Sangre» hasta el día de hoy.",
+    "translation_notes": "El topónimo Hakeldamá: El campo pasó a ser conocido popularmente como Ἀγρὸς Αἵματος (Agrós Haimatos, correspondiente al arameo חֲקַל דְּמָא Ḥaqal Dəmā, 'Hacéldama', cf. Hch 1:19). La cláusula ἕως τῆς σήμερον ('hasta el día de hoy') refleja el testimonio toponímico vivo y corroborable en Jerusalén en la época de redacción del Evangelio."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 9,
+    "greek_text": "τότε ἐπληρώθη τὸ ῥηθὲν διὰ Ἰερεμίου τοῦ προφήτου λέγοντος· Καὶ ἔλαβον τὰ τριάκοντα ἀργύρια, τὴν τιμὴν τοῦ τετιμημένου ὃν ἐτιμήσαντο ἀπὸ υἱῶν Ἰσραήλ,",
+    "translation": "Entonces se cumplió lo dicho por medio del profeta Jeremías, que dijo: «Y tomaron las treinta monedas de plata, el precio de aquel en quien se tasó precio, a quien los hijos de Israel pusieron precio,",
+    "translation_notes": "Cita compuesta atribuida a Jeremías: La cita profética proviene primariamente de Zacarías 11:12–13 (el pastor desestimado en treinta piezas de plata arrojadas al tesoro/alfarero), combinada con temas y acciones de Jeremías (Jer 19:1–13 la compra de la vasija del alfarero en la puerta de las tejas cerca de Tófet; Jer 32:6–9 la compra del campo con plata). En la hermenéutica judía del Segundo Templo (pesher y gezera shavá), era habitual atribuir citas compuestas al profeta mayor o más prominente de la colección que encabezaba el rollo profético."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 10,
+    "greek_text": "καὶ ἔδωκαν αὐτὰ εἰς τὸν ἀγρὸν τοῦ κεραμέως, καθὰ συνέταξέν μοι κύριος.",
+    "translation": "y las dieron para el campo del alfarero, según me ordenó el Señor».",
+    "translation_notes": "Cumplimiento del mandato divino: La conclusión καθὰ συνέταξέν μοι κύριος ('según me ordenó el Señor') cierra la cita de cumplimiento evidenciando que incluso los actos corruptos y la codicia homicida de los líderes fueron providencialmente anticipados e integrados en el plan soberano de Dios."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 11,
+    "greek_text": "Ὁ δὲ Ἰησοῦς ἐστάθη ἔμπροσθεν τοῦ ἡγεμόνος· καὶ ἐπηρώτησεν αὐτὸν ὁ ἡγεμὼν λέγων· Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων; ὁ δὲ Ἰησοῦς ἔφη· Σὺ λέγεις.",
+    "translation": "Jesús, pues, compareció ante el gobernador; y el gobernador le preguntó, diciendo: «¿Eres tú el rey de los judíos?». Y Jesús le dijo: «Tú lo dices».",
+    "translation_notes": "Comparecencia ante Pilato y el título regio: La interrogación de Pilato Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων; traslada el cargo teológico judío de 'blasfemia' al ámbito del derecho penal romano como delito de sedición política y alta traición contra el César (crimen laesae maiestatis). Jesús responde con Σὺ λέγεις ('Tú lo dices'), una aserción sobria que acepta el título pero rehúsa la connotación político-militar imperial romana con que el prefecto lo concibe."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 12,
+    "greek_text": "καὶ ἐν τῷ κατηγορεῖσθαι αὐτὸν ὑπὸ τῶν ἀρχιερέων καὶ πρεσβυτέρων οὐδὲν ἀπεκρίνατο.",
+    "translation": "Y al ser acusado por los principales sacerdotes y los ancianos, nada respondió.",
+    "translation_notes": "Silencio mesiánico ante las acusaciones: El participio pasivo ἐν τῷ κατηγορεῖσθαι (en tō katēgoreisthai) describe la avalancha de cargos presentados por la aristocracia sacerdotal. La respuesta de Jesús, οὐδὲν ἀπεκρίνατο ('nada respondió'), desconcierta a la corte imperial, cumpliendo el silencio profético del Siervo en Isaías 53:7."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 13,
+    "greek_text": "τότε λέγει αὐτῷ ὁ Πιλᾶτος· Οὐκ ἀκούεις πόσα σου καταμαρτυροῦσιν;",
+    "translation": "Entonces Pilato le dice: «¿No oyes cuántas cosas testifican en tu contra?».",
+    "translation_notes": "Asombro procesal de Pilato: Pilato interviene ante la pasividad defensiva del procesado: Οὐκ ἀκούεις πόσα σου καταμαρτυροῦσιν; En la jurisprudencia romana, la falta de auto-defensa frente a acusaciones graves se interpretaba usualmente como admisión implícita de culpabilidad."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 14,
+    "greek_text": "καὶ οὐκ ἀπεκρίθη αὐτῷ πρὸς οὐδὲ ἓν ῥῆμα, ὥστε θαυμάζειν τὸν ἡγεμόνα λίαν.",
+    "translation": "Pero él no le respondió ni una sola palabra, de modo que el gobernador se maravillaba en gran manera.",
+    "translation_notes": "Asombro extremo del prefecto: La construcción οὐκ ἀπεκρίθη αὐτῷ πρὸς οὐδὲ ἓν ῥῆμα enfatiza un silencio absoluto. El resultado procesal se formula con infinitivo consecutivo ὥστε θαυμάζειν τὸν ἡγεμόνα λίαν ('de modo que el gobernador se maravillaba sobremanera'), habituado a reos que suplicaban piedad o se defendían con vehemencia."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 15,
+    "greek_text": "Κατὰ δὲ ἑορτὴν εἰώθει ὁ ἡγεμὼν ἀπολύειν ἕνα τῷ ὄχλῳ δέσμιον ὃν ἤθελον.",
+    "translation": "Ahora bien, en cada fiesta el gobernador acostumbraba soltar a la multitud un preso, el que ellos quisieran.",
+    "translation_notes": "El indulto pascual o privilegium paschale: El verbo imperfecto εἰώθει (de εἴωθα, solía, acostumbraba) describe la costumbre local del prefecto romano de otorgar clemencia imperial en Pésaj para apaciguar las tensiones sociopolíticas de la festividad judía."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 16,
+    "greek_text": "εἶχον δὲ τότε δέσμιον ἐπίσημον λεγόμενον Ἰησοῦν Βαραββᾶν.",
+    "translation": "Tenían entonces un preso famoso, llamado Jesús Barrabás.",
+    "translation_notes": "Variante textual de Jesús Barrabás: El adjetivo ἐπίσημος (episēmos) denota 'notorio', 'famoso' o 'insigne'. Destacados testigos textuales tempranos (como el Códice Corideti Θ, la familia 1 de minúsculas, versiones siríacas y el testimonio explícito de Orígenes) leen Ἰησοῦν Βαραββᾶν ('Jesús Barrabás'). Barabbás deriva del arameo בַּר-אַבָּא Bar-Abbā ('hijo del padre'). El texto presenta así un dramático contraste entre Jesús 'Hijo del Padre terrenal' (un insurrecto violento) y Jesús el Mesías, verdadero Hijo del Padre celestial."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 17,
+    "greek_text": "συνηγμένων οὖν αὐτῶν εἶπεν αὐτοῖς ὁ Πιλᾶτος· Τίνα θέλετε ἀπολύσω ὑμῖν, Ἰησοῦν τὸν Βαραββᾶν ἢ Ἰησοῦν τὸν λεγόμενον χριστόν;",
+    "translation": "Estando, pues, reunidos ellos, Pilato les dijo: «¿A quién quieren que les suelte: a Jesús Barrabás, o a Jesús, el llamado Cristo?».",
+    "translation_notes": "Dilema público planteado por Pilato: Pilato expone deliberadamente la opción ante la muchedumbre reunida (συνηγμένων οὖν αὐτῶν), distinguiendo entre el sedicioso popular y Ἰησοῦν τὸν λεγόμενον χριστόν ('Jesús, el llamado Cristo')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 18,
+    "greek_text": "ᾔδει γὰρ ὅτι διὰ φθόνον παρέδωκαν αὐτόν.",
+    "translation": "Porque sabía que por envidia lo habían entregado.",
+    "translation_notes": "El discernimiento del móvil sacerdotal: El verbo ᾔδει (pluscuamperfecto con valor de imperfecto, 'sabía', 'tenía certeza') muestra la lucidez política de Pilato: discierne que la acusación no obedecía a lealtad hacia Roma, sino a φθόνος (phthonos, envidia patológica, animosidad corporativa y celo de poder) de la aristocracia saducea ante la popularidad profética de Jesús."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 19,
+    "greek_text": "Καθημένου δὲ αὐτοῦ ἐπὶ τοῦ βήματος ἀπέστειλεν πρὸς αὐτὸν ἡ γυνὴ αὐτοῦ λέγουσα· Μηδὲν σοὶ καὶ τῷ δικαίῳ ἐκείνῳ, πολλὰ γὰρ ἔπαθον σήμερον κατ’ ὄναρ δι’ αὐτόν.",
+    "translation": "Y estando él sentado en el tribunal, su mujer le envió un mensaje, diciendo: «No tengas nada que ver con ese justo; porque hoy he sufrido mucho en un sueño por causa de él».",
+    "translation_notes": "El sueño profético de la esposa de Pilato: Sentado en el βῆμα (bēma, tribunal elevado de juicio judicial romano instalado al aire libre frente al palacio), Pilato recibe el aviso urgente de su esposa (identificada por la tradición cristiana posterior como Claudia Prócula). La fórmula idiomática Μηδὲν σοὶ καὶ τῷ δικαίῳ ἐκείνῳ ('Nada entre ti y ese hombre justo') es una advertencia legal de abstención absoluta. Califica a Jesús como δίκαιος (dikaios, inocente/justo a los ojos de Dios), y la revelación onírica (κατ’ ὄναρ, 'en sueños') enlaza con los sueños teofánicos de revelación de Mateo 1–2."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 20,
+    "greek_text": "Οἱ δὲ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι ἔπεισαν τοὺς ὄχλους ἵνα αἰτήσωνται τὸν Βαραββᾶν τὸν δὲ Ἰησοῦν ἀπολέσωσιν.",
+    "translation": "Pero los principales sacerdotes y los ancianos persuadieron a las multitudes para que pidieran a Barrabás y destruyeran a Jesús.",
+    "translation_notes": "Manipulación de las masas por la élite: El verbo ἔπεισαν (aoristo activo de πείθω, 'persuadieron', 'instigaron') evidencia la propaganda política clerical sobre la muchedumbre (τοὺς ὄχλους), manipulando el favor popular para exigir el indulto de Barrabás y la erradicación violenta de Jesús (τὸν δὲ Ἰησοῦν ἀπολέσωσιν)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 21,
+    "greek_text": "ἀποκριθεὶς δὲ ὁ ἡγεμὼν εἶπεν αὐτοῖς· Τίνα θέλετε ἀπὸ τῶν δύο ἀπολύσω ὑμῖν; οἱ δὲ εἶπαν· Τὸν Βαραββᾶν.",
+    "translation": "Y respondiendo el gobernador, les dijo: «¿A cuál de los dos quieren que les suelte?». Y ellos dijeron: «A Barrabás».",
+    "translation_notes": "Elección popular definitiva: Ante la pregunta del prefecto, el clamor popular elige al cabecilla violento (Τὸν Βαραββᾶν), consumando el rechazo público del Siervo manso de Dios."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 22,
+    "greek_text": "λέγει αὐτοῖς ὁ Πιλᾶτος· Τί οὖν ποιήσω Ἰησοῦν τὸν λεγόμενον χριστόν; λέγουσιν πάντες· Σταυρωθήτω.",
+    "translation": "Pilato les dice: «¿Qué haré, pues, con Jesús, el llamado Cristo?». Todos dicen: «¡Sea crucificado!».",
+    "translation_notes": "El grito de crucifixión: El imperativo aoristo pasivo en tercera persona Σταυρωθήτω (staurōthētō, '¡Que sea crucificado!') demanda el suplicio romano más atroz, reservado a esclavos fugitivos y sediciosos contra el Imperio (supplicium servile), cargado además del estigma judío de maldición divina según Deuteronomio 21:23 ('maldito por Dios el colgado en un madero')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 23,
+    "greek_text": "ὁ δὲ ἔφη· Τί γὰρ κακὸν ἐποίησεν; οἱ δὲ περισσῶς ἔκραζον λέγοντες· Σταυρωθήτω.",
+    "translation": "Él dijo: «Pues ¿qué mal ha hecho?». Pero ellos gritaban aún más fuerte, diciendo: «¡Sea crucificado!».",
+    "translation_notes": "Ausencia de cargo legal e histeria colectiva: La pregunta de Pilato Τί γὰρ κακὸν ἐποίησεν; ('¿Pues qué mal ha cometido?') reconoce formalmente la inexistencia de delito jurídico probatorio. No obstante, la turba se desborda en histeria masiva: περισσῶς ἔκραζον ('clamaban con desmedida vehemencia'), imponiéndose el tumulto sobre el proceso de derecho."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 24,
+    "greek_text": "ἰδὼν δὲ ὁ Πιλᾶτος ὅτι οὐδὲν ὠφελεῖ ἀλλὰ μᾶλλον θόρυβος γίνεται λαβὼν ὕδωρ ἀπενίψατο τὰς χεῖρας ἀπέναντι τοῦ ὄχλου λέγων· Ἀθῷός εἰμι ἀπὸ τοῦ αἵματος τούτου· ὑμεῖς ὄψεσθε.",
+    "translation": "Y viendo Pilato que nada conseguía, sino que más bien se producía un tumulto, tomó agua y se lavó las manos delante de la multitud, diciendo: «Inocente soy de esta sangre; ustedes verán».",
+    "translation_notes": "El lavatorio de manos de Pilato: Al advertir el peligro inminente de una sedición que arruinaría su carrera política ante Roma (θόρυβος γίνεται), Pilato recurre al rito judío de expiación por homicidio desconocido prescrito en Deuteronomio 21:6–9 y Salmo 26:6: lavarse las manos en público (ἀπενίψατο τὰς χεῖρας). Proclama su supuesta indemnidad moral: Ἀθῷός εἰμι ἀπὸ τοῦ αἵματος τούτου ('Inocente soy de esta sangre'), devolviendo la responsabilidad a los instigadores con la fórmula imperativa ὑμεῖς ὄψεσθε ('ustedes verán / responderán')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 25,
+    "greek_text": "καὶ ἀποκριθεὶς πᾶς ὁ λαὸς εἶπεν· Τὸ αἷμα αὐτοῦ ἐφ’ ἡμᾶς καὶ ἐπὶ τὰ τέκνα ἡμῶν.",
+    "translation": "Y respondiendo todo el pueblo, dijo: «¡Su sangre sea sobre nosotros y sobre nuestros hijos!».",
+    "translation_notes": "Fórmula de asunción de responsabilidad procesal: La exclamación Τὸ αἷμα αὐτοῦ ἐφ’ ἡμᾶς καὶ ἐπὶ τὰ τέκνα ἡμῶν es una fórmula jurídica semítica tradicional veterotestamentaria (cf. 2 Sam 1:16; 3:28–29; Jer 26:15; Hch 5:28) mediante la cual los litigantes asumían solidariamente la plena responsabilidad legal por la muerte de un acusado en caso de que fuera inocente. En la teología histórica de Mateo, esta escena explica trágicamente el colapso y juicio venidero sobre el liderazgo de Jerusalén y la destrucción de la ciudad en el 70 d.C., sin legitimar en modo alguno lecturas antisemitas anacrónicas colectivas."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 26,
+    "greek_text": "τότε ἀπέλυσεν αὐτοῖς τὸν Βαραββᾶν, τὸν δὲ Ἰησοῦν φραγελλώσας παρέδωκεν ἵνα σταυρωθῇ.",
+    "translation": "Entonces les soltó a Barrabás; y a Jesús, habiéndolo azotado con flagelo, lo entregó para que fuera crucificado.",
+    "translation_notes": "La flagelación romana y entrega a la cruz: El participio aoristo φραγελλώσας (phragellōsas) es un préstamo del latín flagellare. El flagrum o flagellum romano era un látigo de correas de cuero con incrustaciones de fragmentos de hueso y pesas de plomo (plumbatae) que desgarraban el tejido muscular y vasos sanguíneos hasta dejar expuestos los huesos, dejando al reo al borde del colapso hipovolémico previo a la crucifixión."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 27,
+    "greek_text": "Τότε οἱ στρατιῶται τοῦ ἡγεμόνος παραλαβόντες τὸν Ἰησοῦν εἰς τὸ πραιτώριον συνήγαγον ἐπ’ αὐτὸν ὅλην τὴν σπεῖραν.",
+    "translation": "Entonces los soldados del gobernador llevaron a Jesús al pretorio y reunieron alrededor de él a toda la cohorte.",
+    "translation_notes": "El pretorio y la cohorte militar romana: El πραιτώριον (praitōrion, del latín praetorium) era la residencia oficial y cuartel del prefecto romano en Jerusalén (probablemente el palacio de Herodes el Grande en la parte alta de la ciudad o la fortaleza Antonia). La σπεῖρα (speira, cohorte) era una unidad militar de infantería romana que en pie de paz contaba con entre 500 y 600 soldados auxiliares reclutados en Siria y Samaria, quienes albergaban un profundo resentimiento étnico contra los judíos."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 28,
+    "greek_text": "καὶ ἐκδύσαντες αὐτὸν χλαμύδα κοκκίνην περιέθηκαν αὐτῷ,",
+    "translation": "Y desnudándolo, le echaron encima un manto escarlata;",
+    "translation_notes": "El manto escarlata de parodia regia: Los soldados despojan a Jesús y le colocan una χλαμὺς κοκκίνη (chlamys kokkinē, capa militar corta de color escarlata o púrpura desteñida, propia de los oficiales romanos), utilizándola para simular y escarnecer el manto imperial de soberano."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 29,
+    "greek_text": "καὶ πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν ἐπὶ τῆς κεφαλῆς αὐτοῦ καὶ κάλαμον ἐν τῇ δεξιᾷ αὐτοῦ, καὶ γονυπετήσαντες ἔμπροσθεν αὐτοῦ ἐνέπαιξαν αὐτῷ λέγοντες· Χαῖρε, βασιλεῦ τῶν Ἰουδαίων,",
+    "translation": "y habiendo trenzado una corona de espinas, la pusieron sobre su cabeza, y una caña en su mano derecha; y postrándose de rodillas delante de él, se burlaban de él, diciendo: «¡Salve, rey de los judíos!»;",
+    "translation_notes": "La coronación de espinas y farsa imperial: Trenzan una corona de espinas (στέφανον ἐξ ἀκανθῶν), probablemente espinas de azufaifo o pimpinela espinosa, imitando la corona laureada o radiada de los césares con dolor punzante en el cuero cabelludo. Le dan una caña (κάλαμος) en la mano diestra como cetro ridículo y le rinden pleitesía fingida (γονυπετήσαντες... ἐνέπαιξαν αὐτῷ) parodiando el saludo imperial romano: Ave, Caesar, proclamando: Χαῖρε, βασιλεῦ τῶν Ἰουδαίων."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 30,
+    "greek_text": "καὶ ἐμπτύσαντες εἰς αὐτὸν ἔλαβον τὸν κάλαμον καὶ ἔτυπτον εἰς τὴν κεφαλὴν αὐτοῦ.",
+    "translation": "y escupiéndole, tomaron la caña y le golpeaban en la cabeza.",
+    "translation_notes": "Escarnio violento y golpes con la caña: Al escarnio verbal sucede el maltrato físico: le escupen (ἐμπτύσαντες) y con la misma caña le golpeaban repetidamente (imperfecto durativo ἔτυπτον) sobre la cabeza, hundiendo las espinas en su piel sangrante."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 31,
+    "greek_text": "καὶ ὅτε ἐνέπαιξαν αὐτῷ, ἐξέδυσαν αὐτὸν τὴν χλαμύδα καὶ ἐνέδυσαν αὐτὸν τὰ ἱμάτια αὐτοῦ καὶ ἀπήγαγον αὐτὸν εἰς τὸ σταυρῶσαι.",
+    "translation": "Y cuando se hubieron burlado de él, le quitaron el manto, le vistieron con sus propios vestidos y lo llevaron para crucificarlo.",
+    "translation_notes": "Traslado a la ejecución: Concluido el escarnio, le restituyen sus propias ropas (τὰ ἱμάτια αὐτοῦ) y lo conducen fuera del campamento militar rumbo al suplicio de la crucifixión (ἀπήγαγον αὐτὸν εἰς τὸ σταυρῶσαι)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 32,
+    "greek_text": "Ἐξερχόμενοι δὲ εὗρον ἄνθρωπον Κυρηναῖον ὀνόματι Σίμωνα· τοῦτον ἠγγάρευσαν ἵνα ἄρῃ τὸν σταυρὸν αὐτοῦ.",
+    "translation": "Y al salir, hallaron a un hombre de Cirene llamado Simón; a este lo obligaron por la fuerza a llevar su cruz.",
+    "translation_notes": "Simón de Cirene y la requisición forzada: Simón procedía de Cirene (en el norte de África, actual Libia), hogar de una vasta comunidad judía de la diáspora. El verbo ἠγγάρευσαν (de ἀγγαρεύω, vocablo persa adoptado en el derecho militar romano para la requisición forzosa de transportes o mano de obra, cf. Mt 5:41) indica que los soldados romanos lo obligaron a cargar el patibulum (travesaño horizontal de la cruz), ante el colapso físico de Jesús tras la brutal flagelación."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 33,
+    "greek_text": "Καὶ ἐλθόντες εἰς τόπον λεγόμενον Γολγοθᾶ, ὅ ἐστιν Κρανίου Τόπος λεγόμενος,",
+    "translation": "Y llegados a un lugar llamado Gólgota, que significa «Lugar de la Calavera»,",
+    "translation_notes": "El Gólgota: El topónimo Γολγοθᾶ translitera el arameo גֻּלְגָּלְתָּא Gulgalta (en hebreo Gulgoleth, 'cráneo', 'calavera'), traducido al griego como Κρανίου Τόπος y al latín vulgar como Calvaria. Era una cantera de piedra abandonada extramuros de Jerusalén, próxima a un camino público frecuentado, cuya forma rocosa evocaba un cráneo humano."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 34,
+    "greek_text": "ἔδωκαν αὐτῷ πιεῖν οἶνον μετὰ χολῆς μεμιγμένον· καὶ γευσάμενος οὐκ ἠθέλησεν πιεῖν.",
+    "translation": "le dieron a beber vino mezclado con hiel; y después de probarlo, no quiso beberlo.",
+    "translation_notes": "Rechazo del narcótico: Le ofrecen οἶνον μετὰ χολῆς μεμιγμένον (vino mezclado con hiel/mirra), aludiendo al Salmo 69:21 ('Me dieron además hiel por comida, y en mi sed me dieron a beber vinagre'). Según el Talmud (Sanedrín 43a), las mujeres nobles de Jerusalén solían costear vino con hierbas amargas narcóticas para adormecer el sufrimiento de los condenados a muerte; sin embargo, Jesús lo prueba pero rehúsa beberlo (οὐκ ἠθέλησεν πιεῖν), resuelto a conservar su plena lucidez y beber conscientemente la copa de la pasión."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 35,
+    "greek_text": "σταυρώσαντες δὲ αὐτὸν διεμερίσαντο τὰ ἱμάτια αὐτοῦ βάλλοντες κλῆρον,",
+    "translation": "Y habiéndolo crucificado, repartieron sus vestidos echando suertes,",
+    "translation_notes": "Cumplimiento del Salmo 22:18: Desnudan al reo antes de clavarlo al madero. Los cuatro soldados del piquete de ejecución se reparten su ropa echando suertes (διεμερίσαντο τὰ ἱμάτια αὐτοῦ βάλλοντες κλῆρον), cumpliendo literalmente la profecía mesiánica del Salmo 22:18 ('Repartieron entre sí mis vestidos, y sobre mi ropa echaron suertes')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 36,
+    "greek_text": "καὶ καθήμενοι ἐτήρουν αὐτὸν ἐκεῖ.",
+    "translation": "y sentados, lo custodiaban allí.",
+    "translation_notes": "Custodia militar romana: El imperfecto ἐτήρουν (de τηρέω) describe la vigilia oficial de la guardia militar romana (guardia de cuatro soldados) para certificar que el reo no fuera rescatado por cómplices ni retirado de la cruz antes de fallecer."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 37,
+    "greek_text": "καὶ ἐπέθηκαν ἐπάνω τῆς κεφαλῆς αὐτοῦ τὴν αἰτίαν αὐτοῦ γεγραμμένην· Οὗτός ἐστιν Ἰησοῦς ὁ βασιλεὺς τῶν Ἰουδαίων.",
+    "translation": "Y pusieron por encima de su cabeza la causa de su condena escrita: «ESTE ES JESÚS, EL REY DE LOS JUDÍOS».",
+    "translation_notes": "El titulus crucis: La tablilla de madera encalada con letras negras (latín titulus) contenía la αἰτία (aitia, el cargo judicial formal por el que fue ejecutado): Οὗτός ἐστιν Ἰησοῦς ὁ βασιλεὺς τῶν Ἰουδαίων. Diseñado por Pilato como sarcasmo y advertencia a la nación judía sometida, el cartel proclama involuntariamente su realeza mesiánica universal ante el mundo."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 38,
+    "greek_text": "Τότε σταυροῦνται σὺν αὐτῷ δύο λῃσταί, εἷς ἐκ δεξιῶν καὶ εἷς ἐξ εὐωνύμων.",
+    "translation": "Entonces fueron crucificados con él dos salteadores, uno a la derecha y otro a la izquierda.",
+    "translation_notes": "Crucifixión entre rebeldes: Son crucificados a su lado δύο λῃσταί (dos guerrilleros insurrectos o salteadores armados), cumpliendo la profecía de Isaías 53:12: 'y fue contado con los transgresores', situando a Jesús en el centro como si fuera el jefe supremo de los criminales."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 39,
+    "greek_text": "οἱ δὲ παραπορευόμενοι ἐβλασφήμουν αὐτὸν κινοῦντες τὰς κεφαλὰς αὐτῶν",
+    "translation": "Y los que pasaban lo injuriaban, meneando sus cabezas",
+    "translation_notes": "Injuria de los transeúntes y Salmo 22:7: El verbo ἐβλασφήμουν (injuriaban, blasfemaban) y el gesto κινοῦντες τὰς κεφαλὰς αὐτῶν calcan literalmente el Salmo 22:7 de la Septuaginta (πάντες οἱ θεωροῦντές με ἐξεμυκτήρισάν με... ἐκίνησαν κεφαλήν: 'meneaban la cabeza' con desdén y burla despectiva)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 40,
+    "greek_text": "καὶ λέγοντες· Ὁ καταλύων τὸν ναὸν καὶ ἐν τρισὶν ἡμέραις οἰκοδομῶν, σῶσον σεαυτόν· εἰ υἱὸς εἶ τοῦ θεοῦ, κατάβηθι ἀπὸ τοῦ σταυροῦ.",
+    "translation": "y diciendo: «Tú que derribas el santuario y en tres días lo edificas, ¡sálvate a ti mismo! Si eres Hijo de Dios, ¡desciende de la cruz!»",
+    "translation_notes": "Tentación satánica en el Calvario: Los escarnecedores reviven la acusación contra el Templo e invocan la misma fórmula condicional que Satanás usó en el desierto: Εἰ υἱὸς εἶ τοῦ θεοῦ (Mt 4:3, 6), desafiándolo a utilizar su poder para la autopreservación (σῶσον σεαυτόν... κατάβηθι ἀπὸ τοῦ σταυροῦ) en vez de cumplir la obediencia del madero."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 41,
+    "greek_text": "ὁμοίως καὶ οἱ ἀρχιερεῖς ἐμπαίζοντες μετὰ τῶν γραμματέων καὶ πρεσβυτέρων ἔλεγον·",
+    "translation": "De la misma manera, también los principales sacerdotes, burlándose junto con los escribas y los ancianos, decían:",
+    "translation_notes": "El escarnio del Sanedrín: Los líderes del Sanedrín en pleno (ἀρχιερεῖς... γραμματέων καὶ πρεσβυτέρων) se suman con sarcasmo al coro de insultos al pie del patíbulo."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 42,
+    "greek_text": "Ἄλλους ἔσωσεν, ἑαυτὸν οὐ δύναται σῶσαι· βασιλεὺς Ἰσραήλ ἐστιν, καταβάτω νῦν ἀπὸ τοῦ σταυροῦ καὶ πιστεύσομεν ἐπ’ αὐτόν.",
+    "translation": "«A otros salvó, a sí mismo no se puede salvar. Es rey de Israel; ¡que descienda ahora de la cruz, y creeremos en él!",
+    "translation_notes": "Paradoja de la salvación: La burla sacerdotal encierra una paradoja teológica involuntaria: Ἄλλους ἔσωσεν, ἑαυτὸν οὐ δύναται σῶσαι ('A otros salvó, a sí mismo no puede salvarse'). Precisamente porque vino a salvar a otros (Mt 1:21), no podía salvarse a sí mismo renunciando a la cruz redentora."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 43,
+    "greek_text": "πέποιθεν ἐπὶ τὸν θεόν, ῥυσάσθω νῦν εἰ θέλει αὐτόν· εἶπεν γὰρ ὅτι Θεοῦ εἰμι υἱός.",
+    "translation": "Ha confiado en Dios; ¡líbrelo ahora, si lo quiere!, pues dijo: “Soy Hijo de Dios”».",
+    "translation_notes": "Cita del Salmo 22:8 y Libro de la Sabiduría: Las palabras de los sacerdotes reproducen casi textualmente el Salmo 22:8 (21:9 LXX: ἤλπισεν ἐπὶ κύριον, ῥυσάσθω αὐτόν, σωσάτω αὐτόν, ὅτι θέλει αὐτόν) y Sabiduría 2:18 ('si el justo es hijo de Dios, él lo auxiliará y lo librará de manos de sus adversarios'). En su odio, los jerarcas actúan con exactitud profética como los impíos del salmo mesiánico."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 44,
+    "greek_text": "τὸ δ’ αὐτὸ καὶ οἱ λῃσταὶ οἱ συσταυρωθέντες σὺν αὐτῷ ὠνείδιζον αὐτόν.",
+    "translation": "Y del mismo modo, también los salteadores que estaban crucificados con él lo ultrajaban.",
+    "translation_notes": "Insulto de los crucificados: El verbo ὠνείδιζον (imperfecto activo de ὀνειδίζω, reprochar, colmar de oprobio) documenta que inicialmente ambos malhechores se sumaron al oprobio de la muchedumbre (Lucas 23:39–43 registrará el posterior arrepentimiento de uno de ellos)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 45,
+    "greek_text": "Ἀπὸ δὲ ἕκτης ὥρας σκότος ἐγένετο ἐπὶ πᾶσαν τὴν γῆν ἕως ὥρας ἐνάτης.",
+    "translation": "Y desde la hora sexta hubo tinieblas sobre toda la tierra hasta la hora novena.",
+    "translation_notes": "Tinieblas cósmicas de juicio divino: Desde la hora sexta (12:00 del mediodía) hasta la hora novena (3:00 p.m.), una oscuridad sobrenatural (σκότος) cubrió toda la tierra (ἐπὶ πᾶσαν τὴν γῆν). No pudo ser un eclipse solar astronómico ordinario, pues en Pésaj la luna está en fase llena. Evoca la novena plaga de densas tinieblas sobre Egipto (Éx 10:21–23) y las profecías del Día del Señor como juicio divino sobre el pecado del mundo (Amós 8:9: 'haré que se ponga el sol al mediodía, y cubriré de tinieblas la tierra en el día claro'; Jl 2:10, 31)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 46,
+    "greek_text": "περὶ δὲ τὴν ἐνάτην ὥραν ἀνεβόησεν ὁ Ἰησοῦς φωνῇ μεγάλῃ λέγων· Ἠλὶ ἠλὶ λεμὰ σαβαχθάνι; τοῦτ’ ἔστιν· Θεέ μου θεέ μου, ἱνατί με ἐγκατέλιπες;",
+    "translation": "Y cerca de la hora novena, Jesús clamó con gran voz, diciendo: «Elí, Elí, ¿lemá sabajtaní?», que significa: «Dios mío, Dios mío, ¿por qué me has abandonado?».",
+    "translation_notes": "El clamor del abandono y Salmo 22:1: A las 3:00 p.m., Jesús clama con gran voz en arameo/hebreo: Ἠλὶ ἠλὶ λεμὰ σαβαχθάνι (transliteración del hebreo אֵלִי אֵלִי לָמָה עֲזַבְתָּנִי ʾĒlī ʾĒlī lāmāh ʿăzaḇtānī / arameo šəḇaqtanī), citando el Salmo 22:1. No es un grito de desesperación o descreimiento, sino la asunción vicaria del horror del juicio de Dios contra el pecado imputado sobre el Siervo inocente (2 Cor 5:21; Gál 3:13), experimentando la ruptura de comunión con el Padre como ofrenda expiatoria."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 47,
+    "greek_text": "τινὲς δὲ τῶν ἐκεῖ ἑστηκότων ἀκούσαντες ἔλεγον ὅτι Ἠλίαν φωνεῖ οὗτος.",
+    "translation": "Y algunos de los que estaban allí, al oírlo, decían: «A Elías llama este».",
+    "translation_notes": "Confusión popular con el profeta Elías: Los presentes confunden fonéticamente el vocativo Ἠλί (Ēli, 'Dios mío') con el nombre del profeta Elías (Ἠλίας, arameo ʾĒliyyāh), a quien la piedad judía popular atribuía la misión de acudir en auxilio milagroso de los justos en peligro de muerte inminente."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 48,
+    "greek_text": "καὶ εὐθέως δραμὼν εἷς ἐξ αὐτῶν καὶ λαβὼν σπόγγον πλήσας τε ὄξους καὶ περιθεὶς καλάμῳ ἐπότιζεν αὐτόν.",
+    "translation": "Y al instante, corriendo uno de ellos, tomó una esponja, la empapó de vinagre y, poniéndola en una caña, le daba a beber.",
+    "translation_notes": "El vinagre y cumplimiento del Salmo 69:21: Corren a empapar un σπόγγος (esponja) en ὄξος (oxos, vinagre o posca, bebida refrescante ácida a base de vino agrio y agua consumida por los soldados y trabajadores) y se la acercan en una caña (καλάμῳ). Cumple el Salmo 69:21: 'en mi sed me dieron a beber vinagre'."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 49,
+    "greek_text": "οἱ δὲ λοιποὶ ἔλεγον· Ἄφες ἴδωμεν εἰ ἔρχεται Ἠλίας σώσων αὐτόν.",
+    "translation": "Pero los demás decían: «¡Deja, veamos si viene Elías a salvarlo!».",
+    "translation_notes": "Burlas persistentes de los espectadores: El imperativo Ἄφες ('¡espera/deja!') denota morbosa curiosidad ante la agonía terminal, aguardando con cinismo una intervención sobrenatural de Elías que no llegará."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 50,
+    "greek_text": "ὁ δὲ Ἰησοῦς πάλιν κράξας φωνῇ μεγάλῃ ἀφῆκεν τὸ πνεῦμα.",
+    "translation": "Y Jesús, clamando otra vez con gran voz, entregó el espíritu.",
+    "translation_notes": "El grito victorioso y entrega voluntaria del espíritu: El clamor con gran voz (κράξας φωνῇ μεγάλῃ) prueba que Jesús no murió por simple asfixia pasiva o agotamiento fisiológico, sino con pleno vigor soberano. El modismo ἀφῆκεν τὸ πνεῦμα ('entregó el espíritu', dimisit spiritum) subraya que entregó su propia vida de forma soberana y voluntaria (Jn 10:18), consumando su sacrificio redentor."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 51,
+    "greek_text": "καὶ ἰδοὺ τὸ καταπέτασμα τοῦ ναοῦ ἐσχίσθη ἀπ’ ἄνωθεν ἕως κάτω εἰς δύο, καὶ ἡ γῆ ἐσείσθη, καὶ αἱ πέτραι ἐσχίσθησαν,",
+    "translation": "Y he aquí, el velo del santuario se rasgó en dos, de arriba abajo; y la tierra tembló, y las rocas se partieron,",
+    "translation_notes": "La ruptura del velo y la conmoción telúrica: El velo del santuario (τὸ καταπέτασμα τοῦ ναοῦ) separaba el Lugar Santo del Lugar Santísimo (Dəḇīr), donde residía la gloria de Dios y al cual solo el sumo sacerdote accedía una vez al año en Yom Kipur con sangre expiatoria (Éx 26:31–37; Lv 16). Rasgarse ἀπ’ ἄνωθεν ἕως κάτω εἰς δύο ('de arriba abajo en dos') evidencia una acción divina soberana que desmantela el sistema sacrificial veterotestamentario e inaugura el libre acceso perpetuo al trono de la gracia divina por la sangre de Cristo (Heb 9:11–12; 10:19–20). Los fenómenos geológicos simultáneos (ἡ γῆ ἐσείσθη, καὶ αἱ πέτραι ἐσχίσθησαν) son signos teofánicos clásicos del juicio y la presencia de Dios (Ex 19:18; 1 Re 19:11; Nah 1:5–6)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 52,
+    "greek_text": "καὶ τὰ μνημεῖα ἀνεῴχθησαν καὶ πολλὰ σώματα τῶν κεκοιμημένων ἁγίων ἠγέρθησαν,",
+    "translation": "y se abrieron los sepulcros, y muchos cuerpos de santos que habían dormido se levantaron;",
+    "translation_notes": "Apertura de los sepulcros y resurrección escatológica: La ruptura de sepulcros labrados en piedra (τὰ μνημεῖα ἀνεῴχθησαν) y la resurrección de los cuerpos de santos difuntos (κεκοιμημένων ἁγίων) son primicias de la victoria de Cristo sobre la muerte y preludio del cumplimiento de Ezequiel 37:12–13 ('abro vuestros sepulcros y os haré subir de vuestras sepulturas, pueblo mío') y Daniel 12:2."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 53,
+    "greek_text": "καὶ ἐξελθόντες ἐκ τῶν μνημείων μετὰ τὴν ἔγερσιν αὐτοῦ εἰσῆλθον εἰς τὴν ἁγίαν πόλιν καὶ ἐνεφανίσθησαν πολλοῖς.",
+    "translation": "y saliendo de los sepulcros después de la resurrección de él, entraron en la santa ciudad y se aparecieron a muchos.",
+    "translation_notes": "Aparición pascual en Jerusalén: La cláusula temporal μετὰ τὴν ἔγερσιν αὐτοῦ ('después de la resurrección de él') salvaguarda la primacía cristológica de Cristo como 'primicias de los que durmieron' (1 Cor 15:20; Col 1:18). Los resucitados entran en la 'santa ciudad' (Jerusalén) y son vistos por muchos testigos (ἐνεφανίσθησαν πολλοῖς), confirmando empíricamente el advenimiento de la nueva era de salvación."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 54,
+    "greek_text": "Ὁ δὲ ἑκατόνταρχος καὶ οἱ μετ’ αὐτοῦ τηροῦντες τὸν Ἰησοῦν ἰδόντες τὸν σεισμὸν καὶ τὰ γενόμενα ἐφοβήθησαν σφόδρα λέγοντες· Ἀληθῶς θεοῦ υἱὸς ἦν οὗτος.",
+    "translation": "Y el centurión y los que con él custodiaban a Jesús, al ver el terremoto y las cosas que habían sucedido, tuvieron gran temor, diciendo: «¡Verdaderamente este era Hijo de Dios!»",
+    "translation_notes": "La confesión de fe del centurión gentil: El ἑκατόνταρχος (centurión romano al mando del pelotón de ejecución) y sus soldados experimentan terror sagrado (ἐφοβήθησαν σφόδρα) ante el sismo y las señales cósmicas. Su proclamación Ἀληθῶς θεοῦ υἱὸς ἦν οὗτος ('Verdaderamente este era Hijo de Dios') constituye el clímax dramático de Mateo: mientras las autoridades judías lo condenaron por blasfemo al proclamarse Hijo de Dios (26:63–66), los gentiles paganos al pie de la cruz reconocen y confiesan su filiación divina."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 55,
+    "greek_text": "Ἦσαν δὲ ἐκεῖ γυναῖκες πολλαὶ ἀπὸ μακρόθεν θεωροῦσαι, αἵτινες ἠκολούθησαν τῷ Ἰησοῦ ἀπὸ τῆς Γαλιλαίας διακονοῦσαι αὐτῷ·",
+    "translation": "Y estaban allí muchas mujeres mirando desde lejos, las cuales habían seguido a Jesús desde Galilea para servirle;",
+    "translation_notes": "Las discípulas galileas al pie del patíbulo: Mientras los doce apóstoles varones huyeron (26:56), una multitud de mujeres fieles permanece observando desde una distancia prudencial (ἀπὸ μακρόθεν θεωροῦσαι). Habían financiado y asistido su ministerio itinerante (διακονοῦσαι αὐτῷ, diaconía material y espiritual, cf. Lc 8:1–3) desde el inicio en Galilea."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 56,
+    "greek_text": "ἐν αἷς ἦν Μαρία ἡ Μαγδαληνὴ καὶ Μαρία ἡ τοῦ Ἰακώβου καὶ Ἰωσὴφ μήτηρ καὶ ἡ μήτηρ τῶν υἱῶν Ζεβεδαίου.",
+    "translation": "entre las cuales estaban María Magdalena, y María la madre de Jacobo y de José, y la madre de los hijos de Zebedeo.",
+    "translation_notes": "Identidad de las testigos: Se nombra a María Magdalena (Μαρία ἡ Μαγδαληνή, oriunda de Magdala en el mar de Galilea); María, madre de Jacobo el menor y de José; y la madre de los hijos de Zebedeo (Salomé, madre de Santiago y Juan, cf. Mt 20:20). Ellas fungirán como el puente testimonial indispensable entre la muerte, sepultura y resurrección."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 57,
+    "greek_text": "Ὀψίας δὲ γενομένης ἦλθεν ἄνθρωπος πλούσιος ἀπὸ Ἁριμαθαίας, τοὔνομα Ἰωσήφ, ὃς καὶ αὐτὸς ἐμαθητεύθη τῷ Ἰησοῦ·",
+    "translation": "Y al atardecer, vino un hombre rico de Arimatea, llamado José, que también se había convertido en discípulo de Jesús.",
+    "translation_notes": "José de Arimatea y su condición de discípulo: Ὀψίας δὲ γενομένης (al atardecer, antes del inicio del reposo sabático a las 6:00 p.m.). Arimatea era probablemente Ramataim-Zofim en Judea (1 Sam 1:1). José es calificado de ἄνθρωπος πλούσιος ('hombre rico', cumpliendo Isaías 53:9: 'con los ricos fue en su sepultura') y miembro piadoso del Sanedrín que no había consentido en la condena (Lc 23:51). El verbo ἐμαθητεύθη (pasivo de μαθητεύω) testimonia que era un discípulo encubierto de Jesús."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 58,
+    "greek_text": "οὗτος προσελθὼν τῷ Πιλάτῳ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ. τότε ὁ Πιλᾶτος ἐκέλευσεν ἀποδοθῆναι.",
+    "translation": "Este se presentó ante Pilato y pidió el cuerpo de Jesús. Entonces Pilato ordenó que se le entregara.",
+    "translation_notes": "Solicitud del cadáver ante Pilato: El derecho romano privaba comúnmente a los crucificados por sedición de sepultura honorable, dejando los cuerpos expuestos para ser devorados por aves de rapiña y perros carroñeros, o arrojados a fosas comunes anónimas. José intercede con valentía cívica (ᾐτήσατο τὸ σῶμα), y Pilato concede la dispensa legal (ἐκέλευσεν ἀποδοθῆναι)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 59,
+    "greek_text": "καὶ λαβὼν τὸ σῶμα ὁ Ἰωσὴφ ἐνετύλιξεν αὐτὸ σινδόνι καθαρᾷ,",
+    "translation": "Y tomando el cuerpo, José lo envolvió en una sábana de lino limpia,",
+    "translation_notes": "La mortaja de lino limpio: José envuelve el cadáver en una σινδὼν καθαρά (sindōn kathara, sábana mortuoria de lino fino blanco, pura ritualmente según la halajá judía para no incurrir en impureza cultual adicional)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 60,
+    "greek_text": "καὶ ἔθηκεν αὐτὸ ἐν τῷ καινῷ αὐτοῦ μνημείῳ ὃ ἐλατόμησεν ἐν τῇ πέτρᾳ, καὶ προσκυλίσας λίθον μέγαν τῇ θύρᾳ τοῦ μνημείου ἀπῆλθεν.",
+    "translation": "y lo puso en su sepulcro nuevo, que había labrado en la roca; y haciendo rodar una gran piedra a la entrada del sepulcro, se fue.",
+    "translation_notes": "Sepultura en sepulcro nuevo de roca: El sepulcro era καινόν (nuevo, virgen, donde nadie había sido sepultado jamás, símbolo de dignidad mesiánica), excavado en la roca calcárea (ὃ ἐλατόμησεν ἐν τῇ πέτρᾳ). La entrada se clausura haciendo rodar un λίθος μέγας (un gran disco lítico rodante en una hendidura inclinada frente a la entrada baja, θύρα τοῦ μνημείου), garantizando el cierre inviolable del sepulcro."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 61,
+    "greek_text": "ἦν δὲ ἐκεῖ Μαριὰμ ἡ Μαγδαληνὴ καὶ ἡ ἄλλη Μαρία καθήμεναι ἀπέναντι τοῦ τάφου.",
+    "translation": "Y estaban allí María Magdalena y la otra María, sentadas frente al sepulcro.",
+    "translation_notes": "Las mujeres como testigos de la inhumación: María Magdalena y 'la otra María' (la madre de Jacobo y José) permanecen sentadas enfrente (ἀπέναντι τοῦ τάφου), grabando en su memoria la localización exacta del sepulcro para acudir al despuntar el domingo."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 62,
+    "greek_text": "Τῇ δὲ ἐπαύριον, ἥτις ἐστὶν μετὰ τὴν παρασκευήν, συνήχθησαν οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι πρὸς Πιλᾶτον",
+    "translation": "Al día siguiente, que es después del día de la preparación, se reunieron los principales sacerdotes y los fariseos ante Pilato,",
+    "translation_notes": "Audiencia en día de reposo: Τῇ δὲ ἐπαύριον, ἥτις ἐστὶν μετὰ τὴν παρασκευήν designa el sábado santo (15 de Nisán, gran día festivo de Pascua). La delegación sacerdotal y farisaica acude urgentemente ante Pilato, quebrantando sus propios escrúpulos sabáticos por el pánico que les producía la memoria de las profecías de resurrección."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 63,
+    "greek_text": "λέγοντες· Κύριε, ἐμνήσθημεν ὅτι ἐκεῖνος ὁ πλάνος εἶπεν ἔτι ζῶν· Μετὰ τρεῖς ἡμέρας ἐγείρομαι·",
+    "translation": "diciendo: «Señor, nos acordamos de que aquel engañador dijo, viviendo aún: “Después de tres días resucito”.",
+    "translation_notes": "El temor a la profecía de la resurrección: Califican a Jesús con el insulto injurioso ἐκεῖνος ὁ πλάνος ('aquel impostor/embaucador'). Confiesan con amargura que conocían con claridad las predicciones públicas y reiteradas de Jesús sobre su resurrección al tercer día (Μετὰ τρεῖς ἡμέρας ἐγείρομαι, cf. Mt 12:40; 16:21; 20:19)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 64,
+    "greek_text": "κέλευσον οὖν ἀσφαλισθῆναι τὸν τάφον ἕως τῆς τρίτης ἡμέρας, μήποτε ἐλθόντες οἱ μαθηταὶ αὐτοῦ κλέψωσιν αὐτὸν καὶ εἴπωσιν τῷ λαῷ· Ἠγέρθη ἀπὸ τῶν νεκρῶν, καὶ ἔσται ἡ ἐσχάτη πλάνη χείρων τῆς πρώτης.",
+    "translation": "Ordena, pues, que se asegure el sepulcro hasta el tercer día, no sea que sus discípulos vayan de noche y lo roben, y digan al pueblo: “Ha resucitado de entre los muertos”, y el último engaño sea peor que el primero».",
+    "translation_notes": "Petición de custodia militar: Solicitan formalmente asegurar el sepulcro (ἀσφαλισθῆναι τὸν τάφον) hasta el tercer día, planteando el argumento apologético del posible hurto del cadáver por los discípulos. Advierten que si el pueblo llega a creer en su resurrección, ἡ ἐσχάτη πλάνη χείρων τῆς πρώτης ('el engaño final será peor que el primero', reconociendo que la fe en el Resucitado eclipsaría por completo su autoridad)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 65,
+    "greek_text": "ἔφη αὐτοῖς ὁ Πιλᾶτος· Ἔχετε κουστωδίαν· ὑπάγετε ἀσφαλίσασθε ὡς οἴδατε.",
+    "translation": "Pilato les dijo: «Tienen una guardia; vayan, asegúrenlo como saben hacerlo».",
+    "translation_notes": "Concesión de la guardia romana o custodia del Templo: Pilato responde lapidariamente: Ἔχετε κουστωδίαν (echete koustōdian, del latín custodia, piquete de soldados romanos o la guardia armada levítica del Templo autorizada para custodiar el sepulcro). Los conmina a asegurarlo conforme a sus recursos técnicos policiales (ἀσφαλίσασθε ὡς οἴδατε)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 27,
+    "verse": 66,
+    "greek_text": "οἱ δὲ πορευθέντες ἠσφαλίσαντο τὸν τάφον σφραγίσαντες τὸν λίθον μετὰ τῆς κουστωδίας.",
+    "translation": "Y ellos fueron y aseguraron el sepulcro, sellando la piedra junto con la guardia.",
+    "translation_notes": "Sellado del sepulcro y custodia oficial: Los líderes acuden personalmente al sepulcro para asegurarlo: σφραγίσαντες τὸν λίθον (sellando la juntura de la roca con arcilla o cera y la impronta de un sello oficial sobre cuerdas tensadas, cf. Dan 6:17, haciendo que cualquier manipulación fuera un delito capital de estado) y apostando el destacamento de centinelas (μετὰ τῆς κουστωδίας). Paradójicamente, la extrema precaución de las autoridades judías y romanas se convirtió en la prueba forense más incontrovertible de la imposibilidad del robo del cuerpo."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 1,
+    "greek_text": "Ὀψὲ δὲ σαββάτων, τῇ ἐπιφωσκούσῃ εἰς μίαν σαββάτων, ἦλθεν Μαριὰμ ἡ Μαγδαληνὴ καὶ ἡ ἄλλη Μαρία θεωρῆσαι τὸν τάφον.",
+    "translation": "Pasado el día de reposo, al amanecer del primer día de la semana, vinieron María Magdalena y la otra María a ver el sepulcro.",
+    "translation_notes": "Amanecer del domingo y las primeras testigos: La fórmula Ὀψὲ δὲ σαββάτων, τῇ ἐπιφωσκούσῃ εἰς μίαν σαββάτων conjuga dos indicaciones temporales: 'pasado el sábado' (después del ocaso del sábado) y 'al despuntar el alba hacia el primer día de la semana' (domingo por la mañana, ἡ μία σαββάτων, calco semítico del hebreo יוֹם רִאשׁוֹן yom rishon). María Magdalena y la otra María acuden no ya para ungir el cuerpo (como en Marcos y Lucas), sino solemnemente a 'contemplar el sepulcro' (θεωρῆσαι τὸν τάφον), preparadas como testigos forenses oculares del acontecimiento fundante de la fe."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 2,
+    "greek_text": "καὶ ἰδοὺ σεισμὸς ἐγένετο μέγας· ἄγγελος γὰρ κυρίου καταβὰς ἐξ οὐρανοῦ καὶ προσελθὼν ἀπεκύλισε τὸν λίθον καὶ ἐκάθητο ἐπάνω αὐτοῦ.",
+    "translation": "Y he aquí, hubo un gran terremoto; porque un ángel del Señor, descendiendo del cielo y acercándose, removió la piedra y se sentó sobre ella.",
+    "translation_notes": "Teofanía angélica y el sismo de resurrección: Se produce un σεισμὸς μέγας ('gran terremoto'), repitiendo la conmoción cósmica de la crucifixión (27:51). Un ἄγγελος κυρίου desciende visiblemente de la gloria celestial, remueve la gigantesca piedra sellada (ἀπεκύλισε τὸν λίθον) y se sienta triunfalmente sobre ella (ἐκάθητο ἐπάνω αὐτοῦ). El ángel no mueve la piedra para que Jesús pueda salir (el cuerpo resucitado y glorioso ya había salido trascendiendo las leyes del espacio material), sino para que los testigos humanos puedan ver que el sepulcro está vacío."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 3,
+    "greek_text": "ἦν δὲ ἡ εἰδέα αὐτοῦ ὡς ἀστραπὴ καὶ τὸ ἔνδυμα αὐτοῦ λευκὸν ὡς χιών.",
+    "translation": "Su aspecto era como un relámpago, y su vestidura blanca como la nieve.",
+    "translation_notes": "Aspecto celestial y teofánico: El aspecto del mensajero (ἡ εἰδέα αὐτοῦ) se asemeja al resplandor sobrenatural del relámpago (ὡς ἀστραπή, cf. Dan 10:6), y su vestimenta es blanca resplandeciente como la nieve (λευκὸν ὡς χιών), evocando la figura celestial del Anciano de Días (Dan 7:9) y la gloria de la Transfiguración de Cristo (Mt 17:2)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 4,
+    "greek_text": "ἀπὸ δὲ τοῦ φόβου αὐτοῦ ἐσείσθησαν οἱ τηροῦντες καὶ ἐγενήθησαν ὡς νεκροί.",
+    "translation": "Y de miedo a él, los guardias temblaron y quedaron como muertos.",
+    "translation_notes": "Colapso de la guardia armada: La reacción física de los soldados profesionales de custodia (οἱ τηροῦντες) se describe con el verbo ἐσείσθησαν (temblaron convulsivamente, derivado de la misma raíz de σεισμός) y ἐγενήθησαν ὡς νεκροί ('quedaron como muertos' por terror paralizante). La ironía dramática es formidable: los centinelas armados para vigilar a un muerto quedan convertidos en cadáveres vivientes por la irrupción de la vida celestial."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 5,
+    "greek_text": "ἀποκριθεὶς δὲ ὁ ἄγγελος εἶπεν ταῖς γυναιξίν· Μὴ φοβεῖσθε ὑμεῖς, οἶδα γὰρ ὅτι Ἰησοῦν τὸν ἐσταυρωμένον ζητεῖτε·",
+    "translation": "Pero el ángel, respondiendo, dijo a las mujeres: «No teman ustedes; porque sé que buscan a Jesús, el que fue crucificado.",
+    "translation_notes": "Consuelo angélico y afirmación de la crucifixión histórica: El ángel distingue tajantemente entre los guardias aterrorizados y las piadosas mujeres: Μὴ φοβεῖσθε ὑμεῖς ('No teman ustedes', con pronombre enfático ὑμεῖς). Reconoce el motivo de su visita: buscan a Ἰησοῦν τὸν ἐσταυρωμένον (el participio perfecto pasivo 'el que ha sido crucificado' atestigua para siempre su identidad histórica como el Cordero inmolado, cf. 1 Cor 1:23; Ap 5:6)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 6,
+    "greek_text": "οὐκ ἔστιν ὧδε, ἠγέρθη γὰρ καθὼς εἶπεν· δεῦτε ἴδετε τὸν τόπον ὅπου ἔκειτο·",
+    "translation": "No está aquí, porque ha resucitado, tal como dijo. Vengan, vean el lugar donde yacía.",
+    "translation_notes": "El kerigma pascual primitivo: La proclamación fundamental de la fe cristiana se formula en dos afirmaciones lapidarias: Οὐκ ἔστιν ὧδε ('No está aquí') y ἠγέρθη γὰρ καθὼς εἶπεν ('porque ha resucitado, tal como dijo'). El verbo ἠγέρθη (aoristo pasivo de ἐγείρω) es un pasivo teológico (passivum divinum): Dios Padre ha reivindicado y resucitado a su Hijo. La invitación δεῦτε ἴδετε τὸν τόπον ὅπου ἔκειτο ('vengan, contemplen el lugar donde yacía') ofrece la evidencia empírica visible del sepulcro vacío."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 7,
+    "greek_text": "καὶ ταχὺ πορευθεῖσαι εἴπατε τοῖς μαθηταῖς αὐτοῦ ὅτι Ἠγέρθη ἀπὸ τῶν νεκρῶν, καὶ ἰδοὺ προάγει ὑμᾶς εἰς τὴν Γαλιλαίαν, ἐκεῖ αὐτὸν ὄψεσθε· ἰδοὺ εἶπον ὑμῖν.",
+    "translation": "Y vayan pronto, digan a sus discípulos que ha resucitado de entre los muertos; y he aquí, va delante de ustedes a Galilea; allí lo verán. Miren, se lo he dicho».",
+    "translation_notes": "Comisión apostólica de las mujeres: Las mujeres son investidas como apostolae apostolorum (apóstoles para los apóstoles), enviadas a proclamar el kerigma a los once discípulos (εἴπατε τοῖς μαθηταῖς αὐτοῦ ὅτι Ἠγέρθη ἀπὸ τῶν νεκρῶν). Se reitera la promesa de la reunión en Galilea (προάγει ὑμᾶς εἰς τὴν Γαλιλαίαν, cumpliendo Mt 26:32), y el ángel sella el mandato con fórmula oracular de autoridad: ἰδοὺ εἶπον ὑμῖν ('he aquí, se lo he dicho')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 8,
+    "greek_text": "καὶ ἀπελθοῦσαι ταχὺ ἀπὸ τοῦ μνημείου μετὰ φόβου καὶ χαρᾶς μεγάλης ἔδραμον ἀπαγγεῖλαι τοῖς μαθηταῖς αὐτοῦ.",
+    "translation": "Y saliendo rápidamente del sepulcro con temor y gran gozo, corrieron a dar las noticias a sus discípulos.",
+    "translation_notes": "Temor reverente y gran gozo: Abandonan el sepulcro combinando dos afectos sagrados: μετὰ φόβου καὶ χαρᾶς μεγάλης ('con temor reverente ante lo numinoso y gozo incontenible ante la salvación'). Corren con premura (ἔδραμον) para cumplir el mandato de comunicar la buena nueva (ἀπαγγεῖλαι)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 9,
+    "greek_text": "καὶ ἰδοὺ Ἰησοῦς ὑπήντησεν αὐταῖς λέγων· Χαίρετε· αἱ δὲ προσελθοῦσαι ἐκράτησαν αὐτοῦ τοὺς πόδας καὶ προσεκύνησαν αὐτῷ.",
+    "translation": "Y he aquí que Jesús les salió al encuentro, diciendo: «¡Alégrense!». Y ellas, acercándose, abrazaron sus pies y le adoraron.",
+    "translation_notes": "Aparición corporal del Resucitado y adoración: Jesús sale a su encuentro personal (ὑπήντησεν αὐταῖς) con el saludo cotidiano griego Χαίρετε (Chairete, '¡salud/alégrense!'). Las mujeres se postran, asieron sus pies (ἐκράτησαν αὐτοῦ τοὺς πόδας, confirmando la realidad física y corporal tangible de la resurrección frente a toda hipótesis gnóstica o docetista de visión incorpórea) y le adoraron con prosternación cúltica (προσεκύνησαν αὐτῷ), rindiéndole la adoración debida exclusivamente a la divinidad."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 10,
+    "greek_text": "τότε λέγει αὐταῖς ὁ Ἰησοῦς· Μὴ φοβεῖσθε· ὑπάγετε ἀπαγγείλατε τοῖς ἀδελφοῖς μου ἵνα ἀπέλθωσιν εἰς τὴν Γαλιλαίαν, κἀκεῖ με ὄψονται.",
+    "translation": "Entonces Jesús les dice: «No teman; vayan, den aviso a mis hermanos para que vayan a Galilea, y allí me verán».",
+    "translation_notes": "Restauración y el título de 'hermanos': Jesús disipa el temor (Μὴ φοβεῖσθε) y emite un mandato de profunda ternura redentora: llama por primera vez a los discípulos que lo habían abandonado y negado con el apelativo tois adelphois mou (τοῖς ἀδελφοῖς μου, 'mis hermanos', cf. Sal 22:22; Jn 20:17; Heb 2:11–12), señalando su plena reconciliación y restauración en la familia del nuevo pacto antes del reencuentro en Galilea."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 11,
+    "greek_text": "Πορευομένων δὲ αὐτῶν ἰδού τινες τῆς κουστωδίας ἐλθόντες εἰς τὴν πόλιν ἀπήγγειλαν τοῖς ἀρχιερεῦσιν ἅπαντα τὰ γενόμενα.",
+    "translation": "Y mientras ellas iban, he aquí que algunos de la guardia fueron a la ciudad e informaron a los principales sacerdotes de todas las cosas que habían sucedido.",
+    "translation_notes": "El informe de la custodia militar: La narración contrapone la marcha alegre de las mujeres con el retorno aturdido de los centinelas romanos (τινὲς τῆς κουστωδίας). Acuden a los principales sacerdotes para reportar lo acontecido (ἅπαντα τὰ γενόμενα), admitiendo la irrupción angélica y la apertura sobrenatural del sepulcro."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 12,
+    "greek_text": "καὶ συναχθέντες μετὰ τῶν πρεσβυτέρων συμβούλιόν τε λαβόντες ἀργύρια ἱκανὰ ἔδωκαν τοῖς στρατιώταις",
+    "translation": "Y congregados con los ancianos, habiendo tomado consejo, dieron mucho dinero a los soldados,",
+    "translation_notes": "Soborno institucional del Sanedrín: El Sanedrín se reúne en sesión de emergencia (συναχθέντες μετὰ τῶν πρεσβυτέρων συμβούλιόν τε λαβόντες). En vez de rendirse ante la evidencia palmaria de la resurrección de Jesús, deciden encubrir la verdad mediante un cuantioso soborno monetario: ἀργύρια ἱκανὰ ἔδωκαν τοῖς στρατιώταις ('dieron una suma sustancial de plata a los soldados')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 13,
+    "greek_text": "λέγοντες· Εἴπατε ὅτι Οἱ μαθηταὶ αὐτοῦ νυκτὸς ἐλθόντες ἔκλεψαν αὐτὸν ἡμῶν κοιμωμένων·",
+    "translation": "diciendo: «Digan: “Sus discípulos vinieron de noche y lo robaron mientras nosotros dormíamos”».",
+    "translation_notes": "La fabricación de la mentira del hurto: Diseñan la coartada oficial: acusar a los discípulos de haber robado el cuerpo mientras la guardia dormía (ἡμῶν κοιμωμένων). La falsedad era jurídica y fácticamente insostenible: si los soldados estaban dormidos, no podían testificar quién había sustraído el cadáver; además, en la disciplina militar romana, dormirse en el puesto de guardia era una falta castigada con la pena de muerte por lapidación o fuego (fustuarium)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 14,
+    "greek_text": "καὶ ἐὰν ἀκουσθῇ τοῦτο ἐπὶ τοῦ ἡγεμόνος, ἡμεῖς πείσομεν αὐτὸν καὶ ὑμᾶς ἀμερίμνους ποιήσομεν.",
+    "translation": "Y si esto llega a oídos del gobernador, nosotros lo persuadiremos y a ustedes los libraremos de preocupaciones».",
+    "translation_notes": "Garantía de impunidad ante Pilato: El Sanedrín ofrece a los soldados inmunidad diplomática: si el asunto llega a conocimiento de Poncio Pilato (ἐπὶ τοῦ ἡγεμόνος), ellos mismos 'persuadirán' al prefecto (ἡμεῖς πείσομεν αὐτόν, mediante influencias o sobornos políticos) y garantizarán que los legionarios salgan indemnes y sin cargos penales (ἀμερίμνους ποιήσομεν)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 15,
+    "greek_text": "οἱ δὲ λαβόντες τὰ ἀργύρια ἐποίησαν ὡς ἐδιδάχθησαν. Καὶ διεφημίσθη ὁ λόγος οὗτος παρὰ Ἰουδαίοις μέχρι τῆς σήμερον ἡμέρας.",
+    "translation": "Y ellos, tomando el dinero, hicieron como se les había enseñado. Y esta versión se ha divulgado entre los judíos hasta el día de hoy.",
+    "translation_notes": "Difusión de la contra-narrativa judía: Los centinelas aceptan el soborno y ejecutan la consigna propagandística (ἐποίησαν ὡς ἐδιδάχθησαν). Mateo testifica que este rumor anticristiano (ὁ λόγος οὗτος) continuaba circulando vigorosamente entre los sectores judíos no creyentes de Palestina en su época (μέχρι τῆς σήμερον ἡμέρας, confirmado por los escritos apologéticos del siglo II como el Diálogo con Trifón de Justino Mártir 108 y Tertuliano De Spectaculis 30)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 16,
+    "greek_text": "Οἱ δὲ ἕνδεκα μαθηταὶ ἐπορεύθησαν εἰς τὴν Γαλιλαίαν εἰς τὸ ὄρος οὗ ἐτάξατο αὐτοῖς ὁ Ἰησοῦς,",
+    "translation": "Pero los once discípulos fueron a Galilea, al monte donde Jesús les había ordenado.",
+    "translation_notes": "Los Once en el monte de Galilea: La designación Οἱ δὲ ἕνδεκα μαθηταί ('los once discípulos') registra la ausencia definitiva del traidor Judas. Acuden a Galilea, al monte señalado por Jesús (εἰς τὸ ὄρος οὗ ἐτάξατο αὐτοῖς ὁ Ἰησοῦς). El monte en Mateo es el escenario teofánico predilecto de la revelación de la Torá y del Reino mesiánico (las Bienaventuranzas en 5:1, la Transfiguración en 17:1), evocando el Sinaí donde el nuevo Moisés promulgará el mandato cósmico definitivo."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 17,
+    "greek_text": "καὶ ἰδόντες αὐτὸν προσεκύνησαν, οἱ δὲ ἐδίστασαν.",
+    "translation": "Y al verlo, le adoraron; pero algunos dudaron.",
+    "translation_notes": "Adoración y vacilación honesta: Al verle, le rinden adoración prosternada (προσεκύνησαν), pero el evangelista preserva con notable honestidad histórica y psicológica: οἱ δὲ ἐδίστασαν ('pero algunos dudaron/vacilaron'). El verbo διστάζω (usado solo aquí y en Mt 14:31 cuando Pedro duda sobre las aguas) no denota rechazo o incredulidad obstinada (que sería ἀπιστέω), sino vacilación perpleja ante una realidad que desbordaba enteramente los sentidos y expectativas humanas ordinarias."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 18,
+    "greek_text": "καὶ προσελθὼν ὁ Ἰησοῦς ἐλάλησεν αὐτοῖς λέγων· Ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς·",
+    "translation": "Y acercándose Jesús, les habló diciendo: «Toda autoridad me ha sido dada en el cielo y sobre la tierra.",
+    "translation_notes": "Soberanía cósmica universal y Daniel 7: Jesús toma la iniciativa y se acerca (προσελθών). Su proclamación Ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς fundamenta toda la misión cristiana en su exaltación soberana. El verbo pasivo ἐδόθη es un pasivo divino que atestigua que el Padre ha investido al Hijo con la realeza cósmica universal sobre toda la creación visible e invisible, en cumplimiento de Daniel 7:13–14 (al Hijo del Hombre le fue dado dominio, gloria y reino para que todos los pueblos, naciones y lenguas le sirvan)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 19,
+    "greek_text": "πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος,",
+    "translation": "Por tanto, vayan y hagan discípulos a todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo,",
+    "translation_notes": "La Gran Comisión y la fórmula bautismal Trinitaria: La conjunción ilativa πορευθέντες οὖν ('Por tanto, habiendo ido') vincula la misión universal con la autoridad omnímoda de Cristo. El único verbo principal en modo imperativo es μαθητεύσατε (aoristo activo de μαθητεύω, 'hagan discípulos', 'formen aprendices/seguidores comprometidos'). El alcance misionero es irrestricto: πάντα τὰ ἔθνη ('a todas las naciones/gentiles'), superando la delimitación temporal previa a las ovejas perdidas de Israel (Mt 10:5–6). El discipulado se implementa mediante dos participios modales concurrentes: el primero es ceremonial y pactal: βαπτίζοντες αὐτούς (sumergiéndolos formalmente en las aguas del nuevo pacto) εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος. El uso del sustantivo singular εἰς τὸ ὄνομα ('en el Nombre', no en los nombres) junto a las tres personas divinas con artículo coordinado (τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος) constituye el testimonio neotestamentario supremo y canónico más explícito de la unidad de esencia y distinción de personas en la Trinidad divina."
+  },
+  {
+    "book": "MAT",
+    "chapter": 28,
+    "verse": 20,
+    "greek_text": "διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ’ ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος.",
+    "translation": "enseñándoles a guardar todas las cosas que les he mandado; y he aquí, yo estoy con ustedes todos los días, hasta la consumación del siglo. Amén».",
+    "translation_notes": "Didajé apostólica y la promesa del Emmanuel perpetuo: El segundo participio modal es pedagógico y ético: διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν ('enseñándoles a obedecer y poner en práctica todo cuanto les he mandado'), centrado en la obediencia radical a las demandas del Sermón del Monte y la ética del Reino de Dios. El Evangelio culmina con la majestuosa promesa cristológica: καὶ ἰδοὺ ἐγὼ μεθ’ ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος ('y he aquí, yo mismo estoy con ustedes todos los días hasta la consumación de la era'). El enfático ἐγὼ μεθ’ ὑμῶν εἰμι ('yo con ustedes estoy') cierra el gran marco inclusivo del Evangelio de Mateo con el capítulo 1:23, confirmando que Jesús es para siempre el verdadero 'Emmanuel' (Ἐμμανουήλ, 'Dios con nosotros'), presente activamente en su comunidad misionera hasta el fin de los tiempos. La partícula doxológica conclusiva Ἀμήν ('Amén') sella solemnemente el Evangelio en los principales manuscritos de la tradición eclesial."
+  }
+]

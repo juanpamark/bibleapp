@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+
+<html class="light" lang="es"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Sagradas Escrituras - Salmos 23</title>
+<!-- Google Fonts: Merriweather & Inter -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&amp;display=swap" rel="stylesheet"/>
+<!-- Material Symbols Outlined -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<!-- Tailwind CSS v3 -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<!-- Tailwind Theme Configuration verbatim -->
+<script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          "colors": {
+            "primary-fixed": "#ffdbce",
+            "secondary-fixed": "#ffdea8",
+            "on-secondary-container": "#785817",
+            "on-tertiary": "#ffffff",
+            "surface-container-high": "#f0e6e1",
+            "tertiary-container": "#b75a37",
+            "surface-dim": "#e2d8d3",
+            "secondary-container": "#fdd184",
+            "surface-container-lowest": "#ffffff",
+            "surface-tint": "#9a4522",
+            "on-primary-fixed-variant": "#7b2f0c",
+            "on-error": "#ffffff",
+            "inverse-surface": "#352f2c",
+            "on-tertiary-fixed": "#380d00",
+            "outline": "#88726b",
+            "primary-fixed-dim": "#ffb59a",
+            "secondary-fixed-dim": "#ebc075",
+            "surface-container-highest": "#ebe0dc",
+            "surface-variant": "#ebe0dc",
+            "secondary": "#795918",
+            "inverse-primary": "#ffb59a",
+            "on-secondary": "#ffffff",
+            "on-secondary-fixed": "#271900",
+            "on-surface": "#1f1b18",
+            "on-surface-variant": "#55433c",
+            "surface-container-low": "#fcf2ec",
+            "on-error-container": "#93000a",
+            "background": "#fff8f5",
+            "error-container": "#ffdad6",
+            "on-primary": "#ffffff",
+            "on-tertiary-fixed-variant": "#7c2e0e",
+            "on-primary-fixed": "#370e00",
+            "on-background": "#1f1b18",
+            "on-primary-container": "#fffbff",
+            "tertiary": "#984221",
+            "surface-bright": "#fff8f5",
+            "surface": "#fff8f5",
+            "inverse-on-surface": "#f9efea",
+            "primary-container": "#b65b35",
+            "surface-container": "#f6ece7",
+            "tertiary-fixed-dim": "#ffb59b",
+            "outline-variant": "#dbc1b8",
+            "error": "#ba1a1a",
+            "tertiary-fixed": "#ffdbcf",
+            "on-tertiary-container": "#fffbff",
+            "on-secondary-fixed-variant": "#5e4200",
+            "primary": "#974320"
+          },
+          "borderRadius": {
+            "DEFAULT": "0.25rem",
+            "lg": "0.5rem",
+            "xl": "0.75rem",
+            "full": "9999px"
+          },
+          "spacing": {
+            "space-md": "1rem",
+            "space-lg": "1.5rem",
+            "space-xl": "2.25rem",
+            "margin": "1.25rem",
+            "space-sm": "0.5rem",
+            "space-xs": "0.25rem",
+            "gutter": "1rem"
+          },
+          "fontFamily": {
+            "label-sm": ["Inter"],
+            "headline-lg": ["Merriweather"],
+            "label-lg": ["Inter"],
+            "label-md": ["Inter"],
+            "scripture-verse-num": ["Inter"],
+            "scripture-body": ["Merriweather"],
+            "headline-sm": ["Merriweather"],
+            "body-lg": ["Inter"],
+            "body-md": ["Inter"],
+            "headline-md": ["Merriweather"],
+            "headline-xl": ["Merriweather"],
+            "headline-xl-mobile": ["Merriweather"]
+          },
+          "fontSize": {
+            "label-sm": ["10px", { "lineHeight": "14px", "letterSpacing": "0.04em", "fontWeight": "600" }],
+            "headline-lg": ["24px", { "lineHeight": "32px", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+            "label-lg": ["14px", { "lineHeight": "18px", "letterSpacing": "0.01em", "fontWeight": "600" }],
+            "label-md": ["12px", { "lineHeight": "16px", "letterSpacing": "0.02em", "fontWeight": "500" }],
+            "scripture-verse-num": ["11px", { "lineHeight": "14px", "letterSpacing": "0.02em", "fontWeight": "600" }],
+            "scripture-body": ["19px", { "lineHeight": "32px", "letterSpacing": "0.01em", "fontWeight": "400" }],
+            "headline-sm": ["18px", { "lineHeight": "26px", "fontWeight": "400" }],
+            "body-lg": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+            "body-md": ["14px", { "lineHeight": "20px", "fontWeight": "400" }],
+            "headline-md": ["20px", { "lineHeight": "28px", "fontWeight": "600" }],
+            "headline-xl": ["32px", { "lineHeight": "42px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+            "headline-xl-mobile": ["26px", { "lineHeight": "34px", "letterSpacing": "-0.015em", "fontWeight": "700" }]
+          }
+        },
+      },
+    }
+  </script>
+<style>
+    .material-symbols-outlined {
+      font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+      display: inline-block;
+      vertical-align: middle;
+      line-height: 1;
+    }
+    /* Subtle custom highlight styles adhering to editorial aesthetic */
+    .verse-highlight {
+      background-color: rgba(253, 209, 132, 0.35);
+      border-bottom: 2px solid #974320;
+      padding: 0.15rem 0.25rem;
+      border-radius: 0.25rem;
+    }
+  </style>
+</head>
+<body class="bg-background text-on-surface antialiased selection:bg-secondary-container selection:text-on-secondary-container min-h-screen flex flex-col justify-between">
+<!-- ================= TOP READING BAR ================= -->
+<header class="sticky top-0 z-40 bg-surface/95 backdrop-blur-md shadow-sm transition-all duration-200">
+<div class="max-w-screen-md mx-auto px-space-md py-space-sm flex items-center justify-between gap-space-xs">
+<!-- Brand & Canonical Reference Pickers -->
+<div class="flex items-center gap-space-xs sm:gap-space-sm">
+<!-- Book & Chapter Dropdown Selector -->
+<button class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-surface-container hover:bg-surface-container-high transition-colors active:scale-95 duration-150" type="button">
+<span class="font-headline-sm text-headline-sm font-semibold text-primary">Salmos 23</span>
+<span class="material-symbols-outlined text-outline text-[18px]">expand_more</span>
+</button>
+<!-- Version Selector -->
+<button class="flex items-center gap-1 px-2.5 py-1.5 rounded-lg bg-surface-container-low hover:bg-surface-container transition-colors active:scale-95 duration-150" type="button">
+<span class="font-label-md text-label-md font-semibold text-on-surface-variant">RVR1960</span>
+<span class="material-symbols-outlined text-outline text-[16px]">arrow_drop_down</span>
+</button>
+</div>
+<!-- Action Tools: Typography Settings & Search -->
+<div class="flex items-center gap-1 sm:gap-space-xs">
+<!-- Appearance / Font Adjuster -->
+<button class="w-9 h-9 rounded-full flex items-center justify-center text-on-surface-variant hover:bg-surface-container active:scale-95 transition-all" title="Ajustes de texto" type="button">
+<span class="font-scripture-verse-num text-body-md font-semibold tracking-tighter">Aa</span>
+</button>
+<!-- Search Icon -->
+<button class="w-9 h-9 rounded-full flex items-center justify-center text-on-surface-variant hover:bg-surface-container active:scale-95 transition-all" title="Buscar en las Escrituras" type="button">
+<span class="material-symbols-outlined text-[22px]">search</span>
+</button>
+<!-- Devotional Notes Quick Button (Desktop Reflow) -->
+<button class="w-9 h-9 rounded-full hidden sm:flex items-center justify-center text-on-surface-variant hover:bg-surface-container active:scale-95 transition-all" title="Marcadores y Notas" type="button">
+<span class="material-symbols-outlined text-[20px]">bookmark_border</span>
+</button>
+</div>
+</div>
+</header>
+<!-- ================= EDITORIAL SCRIPTURE CANVAS ================= -->
+<main class="flex-1 w-full max-w-2xl mx-auto px-margin sm:px-space-xl pt-space-lg pb-36">
+<!-- Chapter Header / Meta -->
+<div class="text-center mb-space-xl">
+<span class="font-label-sm text-label-sm text-outline uppercase tracking-widest block mb-space-xs">Libro de Alabanzas</span>
+<h1 class="font-headline-xl text-headline-xl text-primary font-bold">Salmo 23</h1>
+<p class="font-headline-sm text-headline-sm italic text-on-surface-variant mt-1">Jehová es mi pastor</p>
+<div class="w-12 h-0.5 bg-secondary-container mx-auto mt-space-md rounded-full"></div>
+</div>
+<!-- Biblical Text with Precise Typography -->
+<article class="font-scripture-body text-scripture-body text-on-surface leading-[2.1] space-y-space-md">
+<!-- Versículo 1 & 2 -->
+<p class="">
+<sup class="font-scripture-verse-num text-scripture-verse-num text-primary font-bold mr-1 select-none">1</sup>
+        Jehová es mi pastor; nada me faltará.
+      </p>
+<p class="">
+<sup class="font-scripture-verse-num text-scripture-verse-num text-primary font-bold mr-1 select-none">2</sup>
+        En lugares de delicados pastos me hará descansar; junto a aguas de reposo me pastoreará.
+      </p>
+<!-- Versículo 3 & 4 (SELECTED STATE WITH WARM AMBER TINT) -->
+<div class="relative my-space-md p-space-sm sm:p-space-md bg-secondary-container/20 rounded-xl border border-secondary-container/60 transition-all">
+<!-- Contextual Selection Tooltip Floating Above -->
+<div class="absolute -top-12 left-1/2 -translate-x-1/2 z-30 bg-inverse-surface text-inverse-on-surface px-3 py-1.5 rounded-full shadow-lg flex items-center gap-2 sm:gap-3 whitespace-nowrap animate-fade-in text-xs font-medium"><!-- Selection indicator label -->
+<span class="font-label-sm text-label-sm text-secondary-fixed pr-1 border-r border-outline/40">vv. 3-4</span>
+<!-- Resaltar Tool with Warm Color Swatches -->
+<div class="flex items-center gap-1.5">
+<span class="w-3.5 h-3.5 rounded-full bg-[#fdd184] ring-2 ring-white/60 cursor-pointer" title="Ámbar suave"></span>
+<span class="w-3.5 h-3.5 rounded-full bg-[#ffb59a] hover:scale-110 transition-transform cursor-pointer" title="Terracota"></span>
+<span class="w-3.5 h-3.5 rounded-full bg-[#c8d8b8] hover:scale-110 transition-transform cursor-pointer" title="Verde salvia"></span>
+<span class="w-3.5 h-3.5 rounded-full bg-[#dcc9e8] hover:scale-110 transition-transform cursor-pointer" title="Lila"></span>
+</div>
+<div class="w-px h-3.5 bg-outline/40"></div>
+<!-- Prominent Añadir Nota Action Button -->
+<button class="flex items-center gap-1 px-2 py-0.5 rounded-full bg-primary-container text-on-primary-container hover:bg-tertiary-container transition-colors shadow-sm active:scale-95" title="Añadir nota de estudio" type="button">
+<span class="material-symbols-outlined text-[16px]">edit_note</span>
+<span class="font-label-sm text-label-sm font-semibold">Añadir Nota</span>
+</button>
+<div class="w-px h-3.5 bg-outline/40 hidden sm:block"></div>
+<!-- Actions: Compartir & Copiar -->
+<button class="flex items-center gap-1 hover:text-primary-fixed transition-colors" title="Compartir" type="button">
+<span class="material-symbols-outlined text-[15px]">share</span>
+<span class="font-label-sm text-label-sm hidden sm:inline">Compartir</span>
+</button>
+<button class="flex items-center gap-1 hover:text-primary-fixed transition-colors" title="Copiar versículos" type="button">
+<span class="material-symbols-outlined text-[15px]">content_copy</span>
+<span class="font-label-sm text-label-sm hidden sm:inline">Copiar</span>
+</button></div>
+<p class="mb-space-sm">
+<sup class="font-scripture-verse-num text-scripture-verse-num text-primary font-bold mr-1 select-none">3</sup>
+<span class="verse-highlight">Confortará mi alma; me guiará por sendas de justicia por amor de su nombre.</span>
+</p>
+<p class=""><sup class="font-scripture-verse-num text-scripture-verse-num text-primary font-bold mr-1 select-none inline-flex items-center gap-0.5">4 <span class="material-symbols-outlined text-primary text-[14px]" style="font-variation-settings: 'FILL' 1;" title="Nota guardada en este versículo">edit_note</span></sup>
+<span class="verse-highlight">Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento.</span></p>
+</div>
+<!-- Versículo 5 -->
+<p class="">
+<sup class="font-scripture-verse-num text-scripture-verse-num text-primary font-bold mr-1 select-none">5</sup>
+        Aderezas mesa delante de mí en presencia de mis angustiadores; unges mi cabeza con aceite; mi copa está rebosando.
+      </p>
+<!-- Versículo 6 -->
+<p class="">
+<sup class="font-scripture-verse-num text-scripture-verse-num text-primary font-bold mr-1 select-none">6</sup>
+        Ciertamente el bien y la misericordia me seguirán todos los días de mi vida, y en la casa de Jehová moraré por largos días.
+      </p>
+</article>
+<!-- Post-Chapter Devotional Reflection Prompt Card -->
+<div class="mt-space-xl p-space-md sm:p-space-lg rounded-xl bg-surface-container border border-outline-variant/40 relative overflow-hidden">
+</div>
+</main>
+<!-- ================= FLOATING AUDIO READER BAR ================= -->
+<!-- Positioned above the Bottom Nav for immediate immersive narration -->
+<div class="fixed bottom-20 left-1/2 -translate-x-1/2 z-40 w-11/12 max-w-md">
+</div>
+<!-- ================= BOTTOM NAVIGATION BAR (SHARED COMPONENT) ================= -->
+<!-- Exact execution from JSON: 'Leer' actively highlighted -->
+<nav class="fixed bottom-0 left-0 w-full z-50 flex justify-around items-center px-space-sm py-space-xs bg-surface/90 dark:bg-inverse-surface/90 backdrop-blur-md shadow-[0_-4px_24px_rgba(45,40,37,0.06)]"><!-- Inicio (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant dark:text-outline-variant px-space-sm py-space-xs hover:text-primary dark:hover:text-inverse-primary transition-colors duration-150 active:scale-95" href="#inicio">
+<span class="material-symbols-outlined text-[22px]">home</span>
+<span class="font-label-sm text-label-sm mt-0.5">Inicio</span>
+</a>
+<!-- Lector (ACTIVE en tono terracota/cálido) -->
+<a class="flex flex-col items-center justify-center bg-secondary-container dark:bg-secondary text-on-secondary-container dark:text-on-secondary rounded-xl px-space-sm py-space-xs active:scale-95 transition-transform duration-150" href="#lector">
+<span class="material-symbols-outlined text-[22px]" style="font-variation-settings: 'FILL' 1;">menu_book</span>
+<span class="font-label-sm text-label-sm font-semibold mt-0.5">Lector</span>
+</a>
+<!-- Estudio (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant dark:text-outline-variant px-space-sm py-space-xs hover:text-primary dark:hover:text-inverse-primary transition-colors duration-150 active:scale-95" href="#estudio">
+<span class="material-symbols-outlined text-[22px]">auto_stories</span>
+<span class="font-label-sm text-label-sm mt-0.5">Estudio</span>
+</a>
+<!-- Notas (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant dark:text-outline-variant px-space-sm py-space-xs hover:text-primary dark:hover:text-inverse-primary transition-colors duration-150 active:scale-95" href="#notas">
+<span class="material-symbols-outlined text-[22px]">edit_note</span>
+<span class="font-label-sm text-label-sm mt-0.5">Notas</span>
+</a>
+<!-- Perfil (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant dark:text-outline-variant px-space-sm py-space-xs hover:text-primary dark:hover:text-inverse-primary transition-colors duration-150 active:scale-95" href="#perfil">
+<span class="material-symbols-outlined text-[22px]">person</span>
+<span class="font-label-sm text-label-sm mt-0.5">Perfil</span>
+</a></nav>
+</body></html>

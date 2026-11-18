@@ -1,0 +1,730 @@
+[
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 1,
+    "greek_text": "Ὁ δὲ Σαῦλος ἔτι ἐμπνέων ἀπειλῆς καὶ φόνου εἰς τοὺς μαθητὰς τοῦ κυρίου, προσελθὼν τῷ ἀρχιερεῖ",
+    "translation": "Saulo, mientras tanto, respirando aún amenazas y muerte contra los discípulos del Señor, se presentó ante el sumo sacerdote,",
+    "translation_notes": "Lucas reanuda el relato sobre Saulo con una vívida metáfora: el participio presente ἐμπνέων con genitivo de materia (ἀπειλῆς καὶ φόνου, 'exhalando como su propio aliento amenazas y carnicería letal', término empleado en el mundo helenístico para las fieras salvajes enfurecidas o guerreros sedientos de sangre). Se presenta ante el sumo sacerdote (Caifás) en su calidad de presidente del Sanedrín para solicitar comisión oficial."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 2,
+    "greek_text": "ᾐτήσατο παρ’ αὐτοῦ ἐπιστολὰς εἰς Δαμασκὸν πρὸς τὰς συναγωγάς, ὅπως ἐάν τινας εὕρῃ τῆς ὁδοῦ ὄντας, ἄνδρας τε καὶ γυναῖκας, δεδεμένους ἀγάγῃ εἰς Ἰερουσαλήμ.",
+    "translation": "y le pidió cartas de extradición para las sinagogas de Damasco, a fin de que si hallaba a algunos que pertenecían al Camino, tanto hombres como mujeres, los trajera atados a Jerusalén.",
+    "translation_notes": "Marco jurídico imperial: las cartas credenciales (ἐπιστολάς) se fundamentaban en los decretos del senado romano y de Julio César confirmados por Augusto, que reconocían al sumo sacerdote de Jerusalén jurisdicción disciplinaria extraterritorial sobre los judíos de la diáspora en materias religiosas internas. Damasco (capital de la provincia de Siria, a unos 220 km al noreste de Jerusalén) albergaba una populosa colonia judía con múltiples sinagogas. Lucas introduce la designación técnica más antigua y solemne del movimiento cristiano: 'los que eran del Camino' (τῆς ὁδοῦ ὄντας, alusión a la senda escatológica de salvación de Isaías 40:3 y Qumrán). Saulo planeaba arrestar a hombres y mujeres para juzgarlos penalmente en Jerusalén."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 3,
+    "greek_text": "ἐν δὲ τῷ πορεύεσθαι ἐγένετο αὐτὸν ἐγγίζειν τῇ Δαμασκῷ, ἐξαίφνης τε αὐτὸν περιήστραψεν φῶς ἐκ τοῦ οὐρανοῦ,",
+    "translation": "Y aconteció que, yendo por el camino, al acercarse a Damasco, repentinamente resplandeció alrededor de él una luz fulgurante del cielo;",
+    "translation_notes": "La teofanía al mediodía (cf. 22:6; 26:13): el adverbio ἐξαίφνης ('súbitamente') y el verbo compuesto περιήστραψεν (aoristo activo de periastraptō, de astrapē, 'relámpago': envolver fulgurantemente con la intensidad cegadora de un rayo cósmico). La 'luz del cielo' (φῶς ἐκ τοῦ οὐρανοῦ) es la gloria increada de Dios (la Shejiná) que supera el resplandor natural del sol del desierto sirio."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 4,
+    "greek_text": "καὶ πεσὼν ἐπὶ τὴν γῆν ἤκουσεν φωνὴν λέγουσαν αὐτῷ Σαοὺλ Σαούλ, τί με διώκεις;",
+    "translation": "y cayendo en tierra, oyó una voz que le decía: «Saulo, Saulo, ¿por qué me persigues?».",
+    "translation_notes": "La caída postrada ante la majestad divina (πεσὼν ἐπὶ τὴν γῆν). La voz celestial interpela a Saulo en su lengua materna semítica transliterando el hebreo/arameo: Σαούλ Σαούλ. La geminación del vocablo es una fórmula bíblica solemne de llamamiento directo en crisis trascendentales (Abraham, Abraham en Gn 22:11; Moisés, Moisés en Éx 3:4; Samuel, Samuel en 1 Sam 3:10). La interrogante encierra el núcleo de la eclesiología y mística paulina: τί με διώκεις; ('¿por qué me persigues a MÍ?'). Cristo no pregunta por qué persigue a su congregación, sino que se identifica ontológica y corporativamente de modo indivisible con sus discípulos: perseguir a la iglesia equivale a perseguir al propio Cristo resucitado."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 5,
+    "greek_text": "εἶπεν δέ· Τίς εἶ, κύριε; ὁ δέ· Ἐγώ εἰμι Ἰησοῦς ὃν σὺ διώκεις·",
+    "translation": "Él preguntó: «¿Quién eres, Señor?». Y él respondió: «Yo soy Jesús, a quien tú persigues.",
+    "translation_notes": "El diálogo de revelación: Saulo responde con sobrecogimiento reverente: Τίς εἶ, κύριε; ('¿Quién eres, Señor / Soberano?'). La respuesta celestial es fulminante: Ἐγώ εἰμι Ἰησοῦς ὃν σὺ διώκεις ('Yo soy Jesús, a quien tú persigues'). El fariseo celoso que consideraba al Nazareno un blasfemo ejecutado bajo maldición en la cruz descubre con espanto que ese mismo Jesús está vivo, glorificado en la gloria del Dios de Israel. (Nota textual: las ediciones críticas SBLGNT / NA28 omiten aquí la glosa tardía del Textus Receptus «dura cosa te es dar coces contra el aguijón», la cual fue importada por escribas medievales desde el relato paralelo de Hechos 26:14)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 6,
+    "greek_text": "ἀλλὰ ἀνάστηθι καὶ εἴσελθε εἰς τὴν πόλιν, καὶ λαληθήσεταί σοι ὅτι σε δεῖ ποιεῖν.",
+    "translation": "Pero levántate, y entra en la ciudad, y se te dirá lo que debes hacer».",
+    "translation_notes": "El imperativo de sumisión: ἀνάστηθι καὶ εἴσελθε ('levántate y entra'). El fiero inquisidor que entraba a Damasco con cartas de mando plenipotenciario queda subordinado a recibir instrucciones pasivas: λαληθήσεταί σοι ὅτι σε δεῖ ποιεῖν ('se te dirá mediante un emisario humano lo que te es divinamente necesario hacer')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 7,
+    "greek_text": "οἱ δὲ ἄνδρες οἱ συνοδεύοντες αὐτῷ εἱστήκεισαν ἐνεοί, ἀκούοντες μὲν τῆς φωνῆς μηδένα δὲ θεωροῦντες.",
+    "translation": "Y los hombres que iban de camino con él se habían detenido mudos de asombro, oyendo ciertamente el sonido de la voz, pero sin ver a nadie.",
+    "translation_notes": "El estado de los acompañantes de la comitiva: el adjetivo ἐνεοί (eneoi, arcaísmo y término literario culto que denota quedarse atónito, paralizado y mudo por el estupor). Lucas precisa la experiencia sensorial: ἀκούοντες μὲν τῆς φωνῆς (con genitivo: percibieron el estruendo acústico inarticulado del sonido celestial), μηδένα δὲ θεωροῦντες (pero sin contemplar visualmente la figura del Señor resucitado que se apareció a Saulo; armonizando con Hch 22:9 donde se aclara con acusativo que no comprendieron el mensaje inteligible de la voz)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 8,
+    "greek_text": "ἠγέρθη δὲ Σαῦλος ἀπὸ τῆς γῆς, ἀνεῳγμένων δὲ τῶν ὀφθαλμῶν αὐτοῦ οὐδὲν ἔβλεπεν· χειραγωγοῦντες δὲ αὐτὸν εἰσήγαγον εἰς Δαμασκόν.",
+    "translation": "Saulo se levantó del suelo, pero aunque tenía abiertos los ojos, nada veía; de modo que, llevándolo de la mano, lo introdujeron en Damasco.",
+    "translation_notes": "Contraste patético y transformador: ἀνεῳγμένων τῶν ὀφθαλμῶν αὐτοῦ οὐδὲν ἔβλεπεν ('teniendo sus ojos físicamente abiertos, no veía absolutamente nada'). El resplandor de la teofanía lo dejó ciego temporalmente como signo pedagógico de su ceguera espiritual previa. El participio χειραγωγοῦντες (llevarlo tomado de la mano) refleja la extrema fragilidad del perseguidor, ingresando a Damasco no como juez temible, sino como un inválido dependiente."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 9,
+    "greek_text": "καὶ ἦν ἡμέρας τρεῖς μὴ βλέπων, καὶ οὐκ ἔφαγεν οὐδὲ ἔπιεν.",
+    "translation": "Y estuvo tres días sin ver, y no comió ni bebió.",
+    "translation_notes": "El retiro iniciático preparatorio: el período tipológico de 'tres días' (ἡμέρας τρεῖς, tiempo de muerte y sepultura antes de la resurrección a una nueva vida). El ayuno absoluto (οὐκ ἔφαγεν οὐδὲ ἔπιεν) refleja un shock psicológico, arrepentimiento profundo y una inmersión total en la oración ante el Dios a quien había ofendido persiguiendo a su Mesías."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 10,
+    "greek_text": "Ἦν δέ τις μαθητὴς ἐν Δαμασκῷ ὀνόματι Ἁνανίας, καὶ εἶπεν πρὸς αὐτὸν ἐν ὁράματι ὁ κύριος· Ἁνανία. ὁ δὲ εἶπεν· Ἰδοὺ ἐγώ, κύριε.",
+    "translation": "Había entonces en Damasco cierto discípulo llamado Ananías, y el Señor le dijo en una visión: «¡Ananías!». Y él respondió: «Heme aquí, Señor».",
+    "translation_notes": "Aparición providencial del instrumento humano: Ananías (Ἁνανίας, Jananías), varón piadoso respetado por toda la comunidad judía local (cf. Hch 22:12). La respuesta Ἰδοὺ ἐγώ, κύριε ('Heme aquí, Señor') traduce la clásica fórmula hebrea de sumisión y disponibilidad profética hineni (Gn 22:1; 1 Sm 3:4)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 11,
+    "greek_text": "ὁ δὲ κύριος πρὸς αὐτόν· Ἀναστὰς πορεύθητι ἐπὶ τὴν ῥύμην τὴν καλουμένην Εὐθεῖαν καὶ ζήτησον ἐν οἰκίᾳ Ἰούδα Ταρσέα ὀνόματι Σαῦλον, ἰδοὺ γὰρ προσεύχεται,",
+    "translation": "Y el Señor le dijo: «Levántate y ve a la calle llamada Derecha, y busca en casa de Judas a uno llamado Saulo, de Tarso; porque he aquí, está orando,",
+    "translation_notes": "Precisión topográfica histórica corroborada por la arqueología: 'la calle llamada Derecha' (τὴν ῥύμην τὴν καλουμένην Εὐθεῖαν) correspondía a la gran arteria pavimentada y columnada romana (decumanus maximus) que cruzaba Damasco de este a oeste, conservada hasta el día de hoy con el nombre de Darb el-Mustaqim. Saulo es identificado con su procedencia cívica de la metrópoli helenística de Tarso en Cilicia (Ταρσέα, 'tarsense'). La prueba concluyente de su transformación espiritual es comunicada a Ananías: ἰδοὺ γὰρ προσεύχεται ('mira, pues está orando'). El fariseo que antes recitaba oraciones litúrgicas de mérito se halla ahora en auténtica súplica fiduciaria ante Jesús."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 12,
+    "greek_text": "καὶ εἶδεν ἄνδρα [ἐν ὁράματι] Ἁνανίαν ὀνόματι εἰσελθόντα καὶ ἐπιθέντα αὐτῷ [τὰς] χεῖρας ὅπως ἀναβλέψῃ.",
+    "translation": "y ha visto en una visión a un varón llamado Ananías, que entra y le impone las manos para que recobre la vista».",
+    "translation_notes": "Doble visión coordinada por la soberanía providencial divina: mientras Ananías recibe la orden en visión, Saulo ya ha visto anticipadamente en oración a un varón con su nombre que viene a imponerle las manos (ἐπιθέντα αὐτῷ χεῖρας) para recuperar la vista (ὅπως ἀναβλέψῃ)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 13,
+    "greek_text": "ἀπεκρίθη δὲ Ἁνανίας· Κύριε, ἤκουσα ἀπὸ πολλῶν περὶ τοῦ ἀνδρὸς τούτου, ὅσα κακὰ τοῖς ἁγίοις σου ἐποίησεν ἐν Ἰερουσαλήμ·",
+    "translation": "Pero Ananías respondió: «Señor, he oído de muchos acerca de este hombre, cuántos males ha causado a tus santos en Jerusalén;",
+    "translation_notes": "Objeción comprensible de Ananías ante la temible reputación del inquisidor. Lucas introduce aquí por vez primera en la historia eclesiástica el título pactual honorífico reservado para los discípulos: οἱ ἅγιοι ('los santos', τοῖς ἁγίοις σου, traduciendo el hebreo qedoshim: los consagrados a Dios por el pacto de sangre de Cristo)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 14,
+    "greek_text": "καὶ ὧδε ἔχει ἐξουσίαν παρὰ τῶν ἀρχιερέων δῆσαι πάντας τοὺς ἐπικαλουμένους τὸ ὄνομά σου.",
+    "translation": "y aquí tiene autoridad de parte de los sumos sacerdotes para encadenar a todos los que invocan tu nombre».",
+    "translation_notes": "Ananías conoce la misión judicial penal: Saulo porta cartas con ἐξουσία (autoridad jurídica delegada por el Sanedrín) para arrestar y encadenar (δῆσαι). La comunidad creyente se define litúrgicamente como πάντας τοὺς ἐπικαλουμένους τὸ ὄνομά σου ('todos los que invocan tu nombre en oración', identificando a Jesús con el Dios del pacto de Joel 2:32)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 15,
+    "greek_text": "εἶπεν δὲ πρὸς αὐτὸν ὁ κύριος· Πορεύου, ὅτι σκεῦος ἐκλογῆς ἐστίν μοι οὗτος τοῦ βαστάσαι τὸ ὄνομά μου ἐνώπιον ἐθνῶν τε καὶ βασιλέων υἱῶν τε Ἰσραήλ·",
+    "translation": "Pero el Señor le dijo: «Ve, porque este me es un instrumento escogido para llevar mi nombre delante de los gentiles, de reyes y de los hijos de Israel;",
+    "translation_notes": "La magna comisión apostólica de Saulo formulada por Cristo mismo: el modismo hebreo σκεῦος ἐκλογῆς (literalmente: 'vaso de elección', un instrumento de barro seleccionado soberanamente por la gracia de Dios, cf. Jeremías 18:1-6; Romanos 9:21-23). El verbo βαστάσαι significa portar con dignidad como un heraldo regio o estandarte de victoria. Se detalla su triple audiencia histórica: 1) ἐθνῶν (las naciones gentiles paganas); 2) βασιλέων (reyes y gobernantes del Imperio Romano, desde Agripa hasta el César en Roma); 3) υἱῶν τε Ἰσραήλ (la nación judía dispersa en la diáspora)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 16,
+    "greek_text": "ἐγὼ γὰρ ὑποδείξω αὐτῷ ὅσα δεῖ αὐτὸν ὑπὲρ τοῦ ὀνόματός μου παθεῖν.",
+    "translation": "porque yo le mostraré cuánto le es necesario padecer por causa de mi nombre».",
+    "translation_notes": "La paradoja del ministerio paulino: el que antes infligía sufrimiento a la iglesia ahora recibe el llamado a padecer vicariamente por Cristo: ὑπὲρ τοῦ ὀνόματός μου παθεῖν. El verbo impersonal δεῖ (es divinamente necesario en la economía de la cruz) vincula el apostolado de Pablo con la senda del Siervo Sufriente (cf. 2 Cor 11:23-28)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 17,
+    "greek_text": "Ἀπῆλθεν δὲ Ἁνανίας καὶ εἰσῆλθεν εἰς τὴν οἰκίαν, καὶ ἐπιθεὶς ἐπ’ αὐτὸν τὰς χεῖρας εἶπεν· Σαοὺλ ἀδελφέ, ὁ κύριος ἀπέσταλκέν με, Ἰησοῦς ὁ ὀφθείς σοι ἐν τῇ ὁδῷ ᾗ ἤρχου, ὅπως ἀναβλέψῃς καὶ πλησθῇς πνεύματος ἁγίου.",
+    "translation": "Fue entonces Ananías y entró en la casa; y habiéndole impuesto las manos, dijo: «Hermano Saulo, el Señor me ha enviado —Jesús, el que se te apareció en el camino por donde venías— para que recobres la vista y seas lleno del Espíritu Santo».",
+    "translation_notes": "Hermoso gesto de reconciliación y amor en el Espíritu: Ananías entra y le impone las manos afectuosamente, dirigiéndose al temido perseguidor con el tratamiento familiar entrañable: Σαοὺλ ἀδελφέ ('Hermano Saulo'). Identifica al Señor resucitado que se le apareció en el camino (ὁ ὀφθείς σοι). La doble finalidad de la imposición pastoral de manos es: 1) ἀναβλέψῃς (recuperar la vista física); 2) πλησθῇς πνεύματος ἁγίου (ser investido con la plenitud carismática del Espíritu Santo)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 18,
+    "greek_text": "καὶ εὐθέως ἀπέπεσαν αὐτοῦ ἀπὸ τῶν ὀφθαλμῶν ὡς λεπίδες, ἀνέβλεψέν τε, καὶ ἀναστὰς ἐβαπτίσθη,",
+    "translation": "Y al instante cayeron de sus ojos como unas escamas, y recobró la vista; y levantándose, fue bautizado;",
+    "translation_notes": "Observación médica característica de Lucas: el adverbio εὐθέως ('de inmediato'). El término clínico λεπίδες (lepides, 'escamas', vocablo técnico de la medicina hipocrática y galénica para describir costras cutáneas exfoliadas o membranas secas que obstruían la córnea). La ceguera desaparece al instante; Saulo se levanta y sin dilación recibe el bautismo sacramental (ἐβαπτίσθη) lavando sus pecados (cf. Hch 22:16)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 19,
+    "greek_text": "καὶ λαβὼν τροφὴν ἐνίσχυσεν. Ἐγένετο δὲ μετὰ τῶν ἐν Δαμασκῷ μαθητῶν ἡμέρας τινάς,",
+    "translation": "y habiendo tomado alimento, recobró las fuerzas. Y se quedó durante algunos días con los discípulos que estaban en Damasco.",
+    "translation_notes": "Recuperación física tras tres días de ayuno: ἐνίσχυσεν (aoristo activo: recobró vigor corporal y fortaleza vital). Es acogido de inmediato en la comunión fraterna de la comunidad local de Damasco (μετὰ τῶν μαθητῶν), compartiendo la mesa con aquellos a quienes había venido a encarcelar."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 20,
+    "greek_text": "καὶ εὐθέως ἐν ταῖς συναγωγαῖς ἐκήρυσσεν τὸν Ἰησοῦν ὅτι οὗτός ἐστιν ὁ υἱὸς τοῦ θεοῦ.",
+    "translation": "Y de inmediato se puso a proclamar a Jesús en las sinagogas, afirmando que este es el Hijo de Dios.",
+    "translation_notes": "El celo misionero instantáneo: εὐθέως ('al instante'). Saulo acude precisamente a las sinagogas de Damasco a las que traía cartas del sumo sacerdote, pero en lugar de presentar órdenes de arresto, se presenta como heraldo del evangelio (ἐκήρυσσεν). Lucas registra un hito cristológico: es la primera vez en todo el libro de Hechos que un predicador proclama formalmente a Jesús bajo el título augusto: ὁ υἱὸς τοῦ θεοῦ ('el Hijo de Dios', título supremo de filiación ontológica divina y realeza mesiánica del Salmo 2:7)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 21,
+    "greek_text": "ἐξίσταντο δὲ πάντες οἱ ἀκούοντες καὶ ἔλεγον· Οὐχ οὗτός ἐστιν ὁ πορθήσας ἐν Ἰερουσαλὴμ τοὺς ἐπικαλουμένους τὸ ὄνομα τοῦτο, καὶ ὧδε εἰς τοῦτο ἐληλύθει ἵνα δεδεμένους αὐτοὺς ἀγάγῃ ἐπὶ τοὺς ἀρχιερεῖς;",
+    "translation": "Y todos los que le oían estaban atónitos y decían: «¿No es este el que asolaba en Jerusalén a los que invocaban este nombre, y que con ese propósito había venido aquí, para llevarlos atados ante los sumos sacerdotes?».",
+    "translation_notes": "Estupor generalizado en las sinagogas: el verbo ἐξίσταντο (quedarse perplejos fuera de sí). El verbo enérgico ὁ πορθήσας (participio aoristo de portheō: saquear, devastar una ciudad conquistada militarmente o arrasar hasta los cimientos) retrata la brutalidad de la anterior persecución de Saulo contra la comunidad jerosolitana."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 22,
+    "greek_text": "Σαῦλος δὲ μᾶλλον ἐνεδυναμοῦτο καὶ συνέχυννεν τοὺς Ἰουδαίους τοὺς κατοικοῦντας ἐν Δαμασκῷ, συμβιβάζων ὅτι οὗτός ἐστιν ὁ χριστός.",
+    "translation": "Pero Saulo cobraba más y más poder, y confundía a los judíos que habitaban en Damasco, demostrando concluyentemente que este Jesús es el Cristo.",
+    "translation_notes": "Maduración apologética y teológica de Saulo: el imperfecto pasivo ἐνεδυναμοῦτο ('se fortalecía continuamente en poder espiritual e intelectual'). El verbo συνέχυννεν indica que dejaba desconcertados y sin respuesta dialéctica a los rabinos de Damasco. El método hermenéutico se resume con el participio συμβιβάζων (de symbibazō: reunir evidencias correlativas, encajar textos proféticos como piezas de un mosaico o demostrar apodícticamente mediante deducción rigurosa de las Escrituras) que Jesús es 'el Cristo' (ὁ χριστός, el Mesías esperado)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 23,
+    "greek_text": "Ὡς δὲ ἐπληροῦντο ἡμέραι ἱκαναί, συνεβουλεύσαντο οἱ Ἰουδαῖοι ἀνελεῖν αὐτόν·",
+    "translation": "Habiendo transcurrido bastantes días, los judíos conspiraron entre sí para matarlo;",
+    "translation_notes": "La locución ἡμέραι ἱκαναί ('bastantes días') abarca en la cronología lucana un período prolongado que incluye el viaje de Saulo a la región de Arabia nabatea y su retorno a Damasco mencionado en Gálatas 1:17-18 (aproximadamente tres años). El verbo συνεβουλεύσαντο denota una conspiración y deliberación formal con intención de ejecutarlo por apostasía (ἀνελεῖν αὐτόν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 24,
+    "greek_text": "ἐγνώσθη δὲ τῷ Σαύλῳ ἡ ἐπιβουλὴ αὐτῶν. παρετηροῦντο δὲ καὶ τὰς πύλας ἡμέρας τε καὶ νυκτὸς ὅπως αὐτὸν ἀνέλωσιν·",
+    "translation": "pero su complot llegó a conocimiento de Saulo. Y ellos vigilaban atentamente las puertas de la ciudad día y noche para matarlo;",
+    "translation_notes": "El complot asesino (ἡ ἐπιβουλή) es descubierto por Saulo. Los adversarios, en coordinación con el etnarca del rey nabateo Aretas IV que custodiaba las salidas de la ciudad (2 Cor 11:32), vigilaban estrictamente las puertas fortificadas de las murallas (παρετηροῦντο τὰς πύλας) día y noche para interceptarlo y ejecutarlo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 25,
+    "greek_text": "λαβόντες δὲ οἱ μαθηταὶ αὐτοῦ νυκτὸς διὰ τοῦ τείχους καθῆκαν αὐτὸν χαλάσαντες ἐν σπυρίδι.",
+    "translation": "pero sus discípulos lo tomaron de noche y lo bajaron a través del muro, descolgándolo en una canasta grande.",
+    "translation_notes": "Evasión nocturna providencial: nótese la frase οἱ μαθηταὶ αὐτοῦ ('sus discípulos'), mostrando que Saulo ya había engendrado un núcleo de seguidores leales en Damasco. Aprovechando una ventana o abertura que daba al exterior de la muralla de la ciudad (διὰ τοῦ τείχους, cf. Josué 2:15 con Rahab), lo descolgaron (χαλάσαντες) dentro de una σπυρίς (spyris, espuerta o canasta grande tejida de esparto empleada para transportar provisiones pesadas, diferente del kophinos más pequeño)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 26,
+    "greek_text": "Παραγενόμενος δὲ εἰς Ἰερουσαλὴμ ἐπείραζεν κολλᾶσθαι τοῖς μαθηταῖς· καὶ πάντες ἐφοβοῦντο αὐτόν, μὴ πιστεύοντες ὅτι ἐστὶν μαθητής.",
+    "translation": "Cuando llegó a Jerusalén, trataba de juntarse con los discípulos; pero todos le temían, no creyendo que fuera en verdad un discípulo.",
+    "translation_notes": "Retorno de Saulo a Jerusalén tres años después de su conversión. El imperfecto ἐπείραζεν κολλᾶσθαι ('intentaba reiteradamente unirse e integrarse en la comunión eclesial'). Se desata el comprensible pánico y escepticismo de la asamblea jerosolitana (ἐφοβοῦντο αὐτόν): temían que su pretendida conversión fuera una estratagema encubierta para infiltrarse y delatar a los creyentes."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 27,
+    "greek_text": "Βαρναβᾶς δὲ ἐπιλαβόμενος αὐτὸν ἤγαγεν πρὸς τοὺς ἀποστόλους, καὶ διηγήσατο αὐτοῖς πῶς ἐν τῇ ὁδῷ εἶδεν τὸν κύριον καὶ ὅτι ἐλάλησεν αὐτῷ, καὶ πῶς ἐν Δαμασκῷ ἐπαρρησιάσατο ἐν τῷ ὀνόματι τοῦ Ἰησοῦ.",
+    "translation": "Pero Bernabé, tomándolo consigo, lo llevó a los apóstoles y les relató cómo en el camino Saulo había visto al Señor, el cual le había hablado, y cómo en Damasco había proclamado con audacia en el nombre de Jesús.",
+    "translation_notes": "Intervención providencial de Bernabé haciendo honor a su título de 'Hijo de Consolación' (4:36): el participio afectuoso ἐπιλαβόμενος ('acogiéndolo bajo su brazo con confianza solidaria'). Lo introduce formalmente ante los líderes apostólicos (según Gá 1:18-19, se entrevistó con Pedro durante quince días y vio a Jacobo el hermano del Señor). Bernabé da fe fidedigna de dos hechos clave: 1) La visión objetiva y real de Cristo resucitado en el camino a Damasco; 2) El testimonio público con denuedo y audacia (ἐπαρρησιάσατο) en el nombre de Jesús en las sinagogas damascenas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 28,
+    "greek_text": "καὶ ἦν μετ’ αὐτῶν εἰσπορευόμενος καὶ ἐκπορευόμενος εἰς Ἰερουσαλήμ, παρρησιαζόμενος ἐν τῷ ὀνόματι τοῦ κυρίου,",
+    "translation": "Y estaba con ellos en Jerusalén, entrando y saliendo libremente, proclamando con audacia en el nombre del Señor.",
+    "translation_notes": "Plena comunión y reconocimiento apostólico: el hebraísmo εἰσπορευόμενος καὶ ἐκπορευόμενος ('entrando y saliendo') describe una vida pública activa, estrecha y comunitaria. Saulo ejerce su ministerio con su sello distintivo: παρρησιαζόμενος (hablando con plena libertad, franqueza y audacia profética ante los poderes constituidos)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 29,
+    "greek_text": "ἐλάλει τε καὶ συνεζήτει πρὸς τοὺς Ἑλληνιστάς· οἱ δὲ ἐπεχείρουν ἀνελεῖν αὐτόν.",
+    "translation": "Hablaba y debatía con los helenistas; pero ellos intentaban matarlo.",
+    "translation_notes": "Saulo asume con valentía el lugar que había dejado vacante el mártir Esteban: predica y debate rigurosamente (συνεζήτει) en las mismas sinagogas de judíos helenistas (τοὺς Ἑλληνιστάς, como la de los Libertos y de Cilicia, cf. 6:9) que habían promovido la lapidación de Esteban. Al verse derrotados nuevamente por la argumentación exegética de Saulo, recurren al complot de asesinato (ἐπεχείρουν ἀνελεῖν αὐτόν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 30,
+    "greek_text": "ἐπιγνόντες δὲ οἱ ἀδελφοὶ κατήγαγον αὐτὸν εἰς Καισάρειαν καὶ ἐξαπέστειλαν αὐτὸν εἰς Ταρσόν.",
+    "translation": "Al enterarse de esto los hermanos, lo llevaron hasta Cesarea y lo enviaron a Tarso.",
+    "translation_notes": "Evacuación de emergencia por la comunidad jerosolitana: descienden con Saulo al puerto militar de Καισάρεια (Cesarea Marítima), embarcándolo hacia su ciudad natal de Ταρσός (Tarso en Cilicia, Asia Menor), donde Saulo permanecerá madurando teológicamente y predicando en las regiones de Siria y Cilicia durante varios años hasta que Bernabé lo busque formalmente para pastorear en Antioquía (Hch 11:25)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 31,
+    "greek_text": "Ἡ μὲν οὖν ἐκκλησία καθ’ ὅλης τῆς Ἰουδαίας καὶ Γαλιλαίας καὶ Σαμαρείας εἶχεν εἰρήνην οἰκοδομουμένη καὶ πορευομένη τῷ φόβῳ τοῦ κυρίου, καὶ τῇ παρακλήσει τοῦ ἁγίου πνεύματος ἐπληθύνετο.",
+    "translation": "La iglesia, pues, gozaba de paz en toda Judea, Galilea y Samaria; era edificada y caminaba en el temor del Señor, y por el consuelo del Espíritu Santo se multiplicaba.",
+    "translation_notes": "El gran sumario eclesiológico y teológico de Lucas que sella la primera fase del libro: nótese el uso teológico del singular colectivo Ἡ ἐκκλησία ('la iglesia' única e indivisible, manifestada en tres regiones históricas: Judea, Galilea y Samaria). El cese de la persecución de Saulo, sumado a la crisis provocada en el 39-40 d.C. cuando el emperador Calígula intentó erigir su estatua en el templo de Jerusalén (desviando la atención de las autoridades judías), permitió un florecimiento de paz (εἶχεν εἰρήνην). Se describen tres dinamismos vitales: 1) οἰκοδομουμένη (edificación espiritual y doctrinal continua); 2) πορευομένη τῷ φόβῳ τοῦ κυρίου (conducta reverente en la santidad pactual de Dios); 3) τῇ παρακλήσει τοῦ ἁγίου πνεύματος ἐπληθύνετο (multiplicación numérica impulsada por el aliento, auxilio y consuelo soberano del Espíritu Santo)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 32,
+    "greek_text": "Ἐγένετο δὲ Πέτρον διερχόμενον διὰ πάντων κατελθεῖν καὶ πρὸς τοὺς ἁγίους τοὺς κατοικοῦντας Λύδδα.",
+    "translation": "Aconteció que Pedro, recorriendo todas las comunidades, descendió también a visitar a los santos que habitaban en Lida.",
+    "translation_notes": "Transición al ministerio itinerante apostólico de Pedro: la expresión διερχόμενον διὰ πάντων denota una supervisión pastoral exhaustiva de todas las asambleas creyentes nacientes. Desciende a Λύδδα (Lida, la bíblica Lod del Antiguo Testamento, 1 Cr 8:12, situada en la fértil llanura de Sefela camino hacia la costa mediterránea). Los conversos locales son designados solemnemente como οἱ ἅγιοι ('los santos')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 33,
+    "greek_text": "εὗρεν δὲ ἐκεῖ ἄνθρωπόν τινα ὀνόματι Αἰνέαν ἐξ ἐτῶν ὀκτὼ κατακείμενον ἐπὶ κραβάττου, ὃς ἦν παραλελυμένος.",
+    "translation": "Y halló allí a cierto hombre llamado Eneas, que desde hacía ocho años estaba postrado en una camilla, pues era paralítico.",
+    "translation_notes": "Cuadro clínico registrado por Lucas: Eneas (Αἰνέας, nombre helenístico común), quien llevaba ocho años ininterrumpidos postrado (ἐξ ἐτῶν ὀκτὼ κατακείμενον) en una estera o camilla rústica (ἐπὶ κραβάττου). Su patología se define con el participio perfecto pasivo παραλελυμένος (aquejado de parálisis motora crónica)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 34,
+    "greek_text": "καὶ εἶπεν αὐτῷ ὁ Πέτρος· Αἰνέα, ἰᾶταί σε Ἰησοῦς Χριστός· ἀνάστηθι καὶ στρῶσον σεαυτῷ. καὶ εὐθέως ἀνέστη.",
+    "translation": "Pedro le dijo: «Eneas, ¡Jesucristo te sana! Levántate y haz tu cama tú mismo». Y al instante se levantó.",
+    "translation_notes": "Declaración cristocéntrica inmediata de sanidad: Pedro no se arroga poder alguno; el verbo en presente de indicativo afirma la acción directa y actual del Señor resucitado: ἰᾶταί σε Ἰησοῦς Χριστός ('¡Jesucristo te está sanando ahora mismo!'). Siguen dos imperativos: 1) ἀνάστηθι (levántate de inmediato en pie); 2) στρῶσον σεαυτῷ (tiende o enrolla por ti mismo tu camastro, demostrando motricidad e independencia funcional plena). El efecto es instantáneo: εὐθέως ἀνέστη."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 35,
+    "greek_text": "καὶ εἶδαν αὐτὸν πάντες οἱ κατοικοῦντες Λύδδα καὶ τὸν Σαρῶνα, οἵτινες ἐπέστρεψαν ἐπὶ τὸν κύριον.",
+    "translation": "Y lo vieron todos los que habitaban en Lida y en Sarón, los cuales se convirtieron al Señor.",
+    "translation_notes": "Impacto regional del milagro: es contemplado por la población de Lida y de toda la llanura costera de Sarón (τὸν Σαρῶνα, fértil planicie que se extiende desde Jope hasta el monte Carmelo). La consecuencia espiritual fue una conversión masiva comunitaria a Jesús como Dios y Salvador: ἐπέστρεψαν ἐπὶ τὸν κύριον."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 36,
+    "greek_text": "Ἐν Ἰόππῃ δέ τις ἦν μαθήτρια ὀνόματι Ταβιθά, ἣ διερμηνευομένη λέγεται Δορκάς· αὕτη ἦν πλήρης ἔργων ἀγαθῶν καὶ ἐλεημοσυνῶν ὧν ἐποίει.",
+    "translation": "Había entonces en Jope una discípula llamada Tabita (que traducido significa Dorcas). Esta abundaba en buenas obras y en limosnas que hacía continuamente.",
+    "translation_notes": "Aparición de un personaje insigne en Ἰόππη (Jope, la moderna Jaffa, principal puerto marítimo de Judea). Lucas emplea por única vez en todo el Nuevo Testamento el sustantivo femenino μαθήτρια (mathētria, 'mujer discípula'). Su nombre semítico en arameo es Ταβιθά (Tavita, 'gacela'), traducido al griego koiné como Δορκάς (Dorkas, gacela o antílope de ojos hermosos). Su carácter espiritual se describe como 'llena de buenas obras y limosnas que practicaba de continuo' (πλήρης ἔργων ἀγαθῶν καὶ ἐλεημοσυνῶν ὧν ἐποίει)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 37,
+    "greek_text": "ἐγένετο δὲ ἐν ταῖς ἡμέραις ἐκείναις ἀσθενήσασαν αὐτὴν ἀποθανεῖν· λούσαντες δὲ ἔθηκαν [αὐτὴν] ἐν ὑπερῴῳ.",
+    "translation": "Y aconteció en aquellos días que ella enfermó y murió; y habiendo lavado su cuerpo, lo pusieron en un aposento alto.",
+    "translation_notes": "El rito fúnebre preparatorio: enfermó y murió. Conforme a la liturgia piadosa judía (la taharah), su cuerpo fue lavado y purificado ceremonialmente (λούσαντες). No obstante, en lugar de sepultarla de inmediato antes del anochecer como era la norma estricta judía, la depositan en el aposento alto (ἐν ὑπερῴῳ), evidenciando que la congregación de Jope albergaba la expectativa creyente de que Pedro pudiera obrar un milagro de resurrección."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 38,
+    "greek_text": "ἐγγὺς δὲ οὔσης Λύδδας τῇ Ἰόππῃ οἱ μαθηταὶ ἀκούσαντες ὅτι Πέτρος ἐστὶν ἐν αὐτῇ ἀπέστειλαν δύο ἄνδρας πρὸς αὐτὸν παρακαλοῦντες· Μὴ ὀκνήσῃς διελθεῖν ἕως ἡμῶν.",
+    "translation": "Y como Lida estaba cerca de Jope, los discípulos, oyendo que Pedro estaba allí, le enviaron dos hombres rogándole: «No tardes en venir hasta nosotros».",
+    "translation_notes": "Urgencia del ruego pastoral: Lida distaba apenas unos 17 kilómetros de Jope (unas tres horas de marcha a pie). Envían una delegación formal de 'dos varones' (cumpliendo el principio del testimonio colegiado bíblico) con un ruego apremiante: Μὴ ὀκνήσῃς διελθεῖν ('No vaciles ni demores en pasar de inmediato hasta nosotros')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 39,
+    "greek_text": "ἀναστὰς δὲ Πέτρος συνῆλθεν αὐτοῖς· ὃν παραγενόμενον ἀνήγαγον εἰς τὸ ὑπερῷον, καὶ παρέστησαν αὐτῷ πᾶσαι αἱ χῆραι κλαίουσαι καὶ ἐπιδεικνύμεναι χιτῶνας καὶ ἱμάτια ὅσα ἐποίει μετ’ αὐτῶν οὖσα ἡ Δορκάς.",
+    "translation": "Levantándose Pedro, fue con ellos; y cuando llegó, lo llevaron al aposento alto; y se le presentaron todas las viudas llorando y mostrándole las túnicas y mantos que Dorcas hacía cuando estaba con ellas.",
+    "translation_notes": "Llegada al escenario del duelo: Pedro sube al aposento alto. Se encuentra rodeado por el grupo más vulnerable de la asamblea: πᾶσαι αἱ χῆραι κλαίουσαι ('todas las viudas llorando desconsoladamente'). La prueba tangible de la santidad práctica y caridad de Dorcas se exhibe físicamente: le muestran los vestidos interiores (χιτῶνας, túnicas ceñidas al cuerpo) y las vestiduras exteriores (ἱμάτια, mantos de lana) que ella cosía y confeccionaba con sus propias manos para vestir a las desamparadas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 40,
+    "greek_text": "ἐκβαλὼν δὲ ἔξω πάντας ὁ Πέτρος καὶ θεὶς τὰ γόνατα προσηύξατο, καὶ ἐπιστρέψας πρὸς τὸ σῶμα εἶπεν· Ταβιθά, ἀνάστηθι. ἡ δὲ ἤνοιξεν τοὺς ὀφθαλμοὺς αὐτῆς, καὶ ἰδοῦσα τὸν Πέτρον ἀνεκάθισεν.",
+    "translation": "Pero Pedro, haciendo salir a todos fuera, se puso de rodillas y oró; y volviéndose hacia el cuerpo, dijo: «Tabita, ¡levántate!». Y ella abrió sus ojos, y al ver a Pedro, se incorporó y se sentó.",
+    "translation_notes": "El milagro de resurrección en exacto paralelismo con Jesús y los profetas Elías y Eliseo (1 R 17:19-23; 2 R 4:32-35; Lc 8:51-55): 1) Pedro desaloja la sala de los llantos y alboroto (ἐκβαλὼν ἔξω πάντας); 2) Se postra en humilde intercesión (θεὶς τὰ γόνατα προσηύξατο); 3) Se vuelve al cadáver y pronuncia la orden de autoridad soberana: Ταβιθά, ἀνάστηθι ('Tabita, levántate', fórmula que evoca casi al pie de la letra la orden aramea de Jesús a la hija de Jairo en Mc 5:41: Talitha koum). La respuesta biológica es inmediata: abrió sus ojos, contempló a Pedro y se sentó erguida (ἀνεκάθισεν, verbo médico técnico lucano empleado en Lc 7:15)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 41,
+    "greek_text": "δοὺς δὲ αὐτῇ χεῖρα ἀνέστησεν αὐτήν, φωνήσας δὲ τοὺς ἁγίους καὶ τὰς χήρας παρέστησεν αὐτὴν ζῶσαν.",
+    "translation": "Y dándole la mano, la levantó; y llamando a los santos y a las viudas, la presentó viva.",
+    "translation_notes": "Gesto de ternura y restitución eclesial: Pedro le extiende la mano (δοὺς αὐτῇ χεῖρα) para ayudarla a ponerse en pie. Convoca formalmente a toda la congregación ('los santos y las viudas') y realiza la presentación solemne: παρέστησεν αὐτὴν ζῶσαν ('la presentó viva delante de todos', la misma fórmula técnica empleada para Jesús resucitado en Hch 1:3 y para el hijo de la viuda de Naín en Lc 7:15)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 42,
+    "greek_text": "γνωστὸν δὲ ἐγένετο καθ’ ὅλης [τῆς] Ἰόππης, καὶ ἐπίστευσαν πολλοὶ ἐπὶ τὸν κύριον.",
+    "translation": "Esto llegó a ser notorio en toda Jope, y muchos creyeron en el Señor.",
+    "translation_notes": "Expansión del fruto evangelizador: el acontecimiento sacude a toda la ciudad portuaria de Jope, resultando en una adhesión fiduciaria masiva al Señor Jesucristo (ἐπίστευσαν πολλοὶ ἐπὶ τὸν κύριον)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 9,
+    "verse": 43,
+    "greek_text": "Ἐγένετο δὲ ἡμέρας ἱκανὰς μεῖναι ἐν Ἰόππῃ παρά τινι Σίμωνι βυρσεῖ.",
+    "translation": "Y aconteció que Pedro se quedó bastantes días en Jope, hospedándose en casa de cierto Simón, que era curtidor.",
+    "translation_notes": "Detalle de enorme trascendencia teológica preparatoria para el capítulo 10: Pedro permanece 'bastantes días' alojado en casa de Σίμων βυρσεύς ('Simón el curtidor'). El oficio de curtidor de pieles era considerado por la ley rabínica y la halajá judía tradicional como una ocupación ceremonialmente impura y socialmente degradante, debido al contacto permanente con cueros y cadáveres de animales muertos y al empleo de sustancias malolientes (la Mishná estipulaba que las curtidurías debían ubicarse al menos a cincuenta codos fuera de la ciudad). Que el apóstol Pedro acepte hospedarse en casa de un curtidor evidencia que los escrúpulos rituales tradicionales comenzaban a derrumbarse en su mente, disponiéndolo espiritualmente para el encuentro revolucionario con el gentil Cornelio."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 1,
+    "greek_text": "Ἀνὴρ δέ τις ἐν Καισαρείᾳ ὀνόματι Κορνήλιος, ἑκατοντάρχης ἐκ σπείρης τῆς καλουμένης Ἰταλικῆς,",
+    "translation": "Había en Cesarea un hombre llamado Cornelio, centurión de la cohorte conocida como Itálica,",
+    "translation_notes": "Marco histórico-institucional romano: Cesarea Marítima (fundada por Herodes el Grande en honor a César Augusto) era la sede de la prefectura y gobierno militar romano de Judea. Cornelio ostentaba el rango de centurión (ἑκατοντάρχης / centurio), comandante de unos 80 a 100 soldados de élite. Pertenecía a la 'cohorte Itálica' (σπείρης τῆς καλουμένης Ἰταλικῆς), identificada epigráficamente como la 'Cohors II Italica Civium Romanorum Voluntariorum', unidad auxiliar integrada por ciudadanos romanos libres de origen itálico desplegada en Siria y Judea. Su nombre gentilicio revela que pertenecía a la ilustre 'gens Cornelia'."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 2,
+    "greek_text": "εὐσεβὴς καὶ φοβούμενος τὸν θεὸν σὺν παντὶ τῷ οἴκῳ αὐτοῦ, ποιῶν ἐλεημοσύνας πολλὰς τῷ λαῷ καὶ δεόμενος τοῦ θεοῦ διὰ παντός,",
+    "translation": "hombre piadoso y temeroso de Dios junto con toda su casa, que hacía muchas obras de beneficencia para el pueblo judío y oraba a Dios continuamente.",
+    "translation_notes": "Estatus sociorreligioso: Cornelio es caracterizado con dos términos técnicos helenistas: εὐσεβής ('piadoso') y φοβούμενος τὸν θεόν ('temeroso de Dios', equivalente a 'sebomenos'). Esta designación identificaba a gentiles simpatizantes del monoteísmo judío que adoptaban preceptos morales y dietéticos de la Torá y acudían a la sinagoga, pero sin someterse a la circuncisión ni a la conversión formal como prosélitos. Su devoción abarcaba a toda su familia y servidumbre (σὺν παντὶ τῷ οἴκῳ αὐτοῦ). Sus 'limosnas' (ἐλεημοσύνας) eran destinadas 'al pueblo' (τῷ λαῷ, término técnico en Lucas para Israel), y oraba a Dios con perseverancia ininterrumpida (διὰ παντός)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 3,
+    "greek_text": "εἶδεν ἐν ὁράματι φανερῶς ὡσεὶ περὶ ὥραν ἐνάτην τῆς ἡμέρας ἄγγελον τοῦ θεοῦ εἰσελθόντα πρὸς αὐτὸν καὶ εἰπόντα αὐτῷ· Κορνήλιε.",
+    "translation": "Cerca de la hora novena del día, vio claramente en una visión a un ángel de Dios que entraba donde él estaba y le decía: «¡Cornelio!».",
+    "translation_notes": "Precisión cronológica y fenomenológica: la 'hora novena' (περὶ ὥραν ἐνάτην, aprox. 3:00 p.m.) correspondía al sacrificio vespertino judío (el Tamid) y la plegaria de Minjá. Lucas enfatiza que la experiencia no fue un sueño difuso sino una visión plena y lúcida (ἐν ὁράματι φανερῶς). El ángel lo interpela llamándolo por su propio nombre latino, marcando la intervención personal y soberana del cielo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 4,
+    "greek_text": "ὁ δὲ ἀτενίσας αὐτῷ καὶ ἔμφοβος γενόμενος εἶπεν· Τί ἐστιν, κύριε; εἶπεν δὲ αὐτῷ· Αἱ προσευχαί σου καὶ αἱ ἐλεημοσύναι σου ἀνέβησαν εἰς μνημόσυνον ἔμπροσθεν τοῦ θεοῦ·",
+    "translation": "Él, mirándolo fijamente y lleno de sobrecogimiento, dijo: «¿Qué sucede, señor?». Y el ángel le respondió: «Tus oraciones y tus limosnas han subido como ofrenda memorial ante la presencia de Dios.",
+    "translation_notes": "El verbo lucano característico ἀτενίσας expresa una mirada fija y atónita. El término ἔμφοβος describe el temor reverencial del ser humano ante la numinosidad divina. La metáfora sacrificial es extraordinaria: ἀνέβησαν εἰς μνημόσυνον traslada el concepto hebreo de 'azkarah' (LXX Lv 2:2, 9, 16; Nm 5:15), que designaba la porción del sacrificio de cereal o incienso cuyo aroma subía directamente hasta la presencia de Dios. Las plegarias y la caridad del centurión gentil no circuncidado son reconocidas por Dios con el mismo valor cultual de un sacrificio expiatorio en el Templo de Jerusalén."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 5,
+    "greek_text": "καὶ νῦν πέμψον ἄνδρας εἰς Ἰόππην καὶ μετάπεμψαι Σίμωνά τινα ὃς ἐπικαλεῖται Πέτρος·",
+    "translation": "Envía ahora mismo hombres a Jope y manda llamar a cierto Simón, apodado Pedro;",
+    "translation_notes": "Jope (la actual Yafo/Tel Aviv) se encontraba a unos 50 km al sur de Cesarea por la calzada costera. El verbo μετάπεμψαι (imperativo aoristo medio de metapempomai) es un término institucional utilizado para enviar a buscar o convocar formalmente a una personalidad respetada. Se especifica con claridad el nombre y sobrenombre del apóstol (ὃς ἐπικαλεῖται Πέτρος) para evitar confusiones."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 6,
+    "greek_text": "οὗτος ξενίζεται παρά τινι Σίμωνι βυρσεῖ, ᾧ ἐστιν οἰκία παρὰ θάλασσαν.",
+    "translation": "este se hospeda en casa de cierto Simón, un curtidor, cuya vivienda está junto al mar».",
+    "translation_notes": "Detalle topográfico y social: Simón el curtidor (βυρσεύς) ejercía un oficio socialmente marginado y ritualmente estigmatizado en el judaísmo rabínico (cf. Misná, Ketubot 7:10), debido a la continua manipulación de cadáveres de animales y pieles con malos olores, por lo que las curtidurías eran obligadas por la ley civil a situarse fuera de las ciudades y junto al mar (παρὰ θάλασσαν), donde el agua salada facilitaba el lavado del cuero. Que Pedro ya estuviera hospedado con un curtidor prefiguraba la demolición de las barreras de pureza ritual."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 7,
+    "greek_text": "ὡς δὲ ἀπῆλθεν ὁ ἄγγελος ὁ λαλῶν αὐτῷ, φωνήσας δύο τῶν οἰκετῶν καὶ στρατιώτην εὐσεβῆ τῶν προσκαρτερούντων αὐτῷ",
+    "translation": "En cuanto se marchó el ángel que le hablaba, Cornelio llamó a dos de sus criados y a un soldado devoto de entre los que estaban a su servicio personal,",
+    "translation_notes": "Composición de la delegación militar: Cornelio selecciona a dos sirvientes de confianza de su casa (οἰκετῶν) y a un legionario caracterizado como devoto (στρατιώτην εὐσεβῆ), parte de su escolta personal (τῶν προσκαρτερούντων αὐτῷ), lo que confirma la penetración del monoteísmo piadoso en las filas de las tropas auxiliares romanas de Cesarea."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 8,
+    "greek_text": "καὶ ἐξηγησάμενος ἅπαντα αὐτοῖς ἀπέστειλεν αὐτοὺς εἰς τὴν Ἰόππην.",
+    "translation": "y después de explicarles minuciosamente todo, los envió a Jope.",
+    "translation_notes": "El participio ἐξηγησάμενος (de exēgeomai: narrar con detalle exhaustivo, dar explicación plena, de donde procede 'exégesis') indica que Cornelio no dio una orden militar ciega, sino que compartió con sus subordinados la revelación divina que había recibido, haciéndolos partícipes conscientes de la misión."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 9,
+    "greek_text": "Τῇ δὲ ἐπαύριον ὁδοιπορούντων ἐκείνων καὶ τῇ πόλει ἐγγιζόντων ἀνέβη Πέτρος ἐπὶ τὸ δῶμα προσεύξασθαι περὶ ὥραν ἕκτην.",
+    "translation": "Al día siguiente, mientras ellos iban de camino y se acercaban a la ciudad, Pedro subió a la azotea a orar, cerca de la hora sexta.",
+    "translation_notes": "Sincronía providencial lucana: construida con dos genitivos absolutos continuos (ὁδοιπορούντων ἐκείνων καὶ τῇ πόλει ἐγγιζόντων). La 'hora sexta' (περὶ ὥραν ἕκτην) marca el mediodía, el segundo momento de oración tradicional judía (cf. Sal 55:17). Pedro asciende a la azotea plana (τὸ δῶμα), lugar habitual en la arquitectura del Oriente Próximo que garantizaba privacidad y aislamiento frente a la agitación doméstica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 10,
+    "greek_text": "ἐγένετο δὲ πρόσπεινος καὶ ἤθελεν γεύσασθαι· παρασκευαζόντων δὲ αὐτῶν ἐγένετο ἐπ’ αὐτὸν ἔκστασις,",
+    "translation": "Sintió mucha hambre y quiso comer algo; pero mientras ellos preparaban la comida, le sobrevino un éxtasis,",
+    "translation_notes": "El adjetivo πρόσπεινος es un hápax legómeno en el Nuevo Testamento, compuesto por pros y peina ('intensamente hambriento'). El verbo γεύσασθαι significa literalmente 'probar bocado' o tomar un refrigerio. Mientras la familia del curtidor preparaba los alimentos (παρασκευαζόντων), Pedro experimenta una ἔκστασις (éxtasis, estado de trance en el que los sentidos físicos quedan suspendidos temporalmente para percibir la revelación divina)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 11,
+    "greek_text": "καὶ θεωρεῖ τὸν οὐρανὸν ἀνεῳγμένον καὶ καταβαῖνον σκεῦός τι ὡς ὀθόνην μεγάλην τέσσαρσιν ἀρχαῖς καθιέμενον ἐπὶ τῆς γῆς,",
+    "translation": "y contempló el cielo abierto y un objeto que descendía, semejante a un gran lienzo de lino, que era bajado a la tierra por sus cuatro esquinas,",
+    "translation_notes": "El presente histórico θεωρεῖ intensifica la inmediatez visual de la escena. El cielo 'abierto' (ἀνεῳγμένον, participio perfecto pasivo) denota comunicación directa con el ámbito celestial. La metáfora del objeto (σκεῦος) como 'un gran lienzo' (ὀθόνην μεγάλην, tela de vela de barco o mantel grande de lino) atado y descolgado por sus cuatro extremos (τέσσαρσιν ἀρχαῖς) simboliza los cuatro puntos cardinales del orbe y la totalidad de la tierra habitada."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 12,
+    "greek_text": "ἐν ᾧ ὑπῆρχεν πάντα τὰ τετράποδα καὶ ἑρπετὰ τῆς γῆς καὶ πετεινὰ τοῦ οὐρανοῦ.",
+    "translation": "en el cual había toda clase de cuadrúpedos y reptiles de la tierra y aves del cielo.",
+    "translation_notes": "Clasificación cosmológica que evoca el relato de la creación (Gn 1:24-25) y el arca de Noé (Gn 6:20; 7:14). El término πάντα ('toda clase') indica la mezcla promiscua de animales puros e impuros según el código de santidad levítico (Lv 11; Dt 14), sin división ni segregación ritual alguna."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 13,
+    "greek_text": "καὶ ἐγένετο φωνὴ πρὸς αὐτόν· Ἀναστάς, Πέτρε, θῦσον καὶ φάγε.",
+    "translation": "Y vino a él una voz: «Levántate, Pedro, degüella y come».",
+    "translation_notes": "El imperativo aoristo θῦσον procede de thyō, término sacrificial y de faena alimenticia ('sacrifica / degüella para alimento'). La orden divina no hace distinción entre especies limpias e inmundas, exigiendo a Pedro matar y consumir indiscriminadamente lo contenido en el lienzo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 14,
+    "greek_text": "ὁ δὲ Πέτρος εἶπεν· Μηδαμῶς, κύριε, ὅτι οὐδέποτε ἔφαγον πᾶν κοινὸν καὶ ἀκάθαρτον.",
+    "translation": "Pero Pedro dijo: «¡De ninguna manera, Señor! Porque jamás he comido nada profano ni ritualmente impuro».",
+    "translation_notes": "La negativa tajante de Pedro (Μηδαμῶς, '¡Bajo ningún concepto!') recuerda la protesta del profeta Ezequiel ante una orden similar (Ez 4:14). Pedro utiliza dos términos halájicos clave: κοινόν (término helenístico para lo 'común' o 'profanado' por contacto contaminante) y ἀκάθαρτον (lo 'impuro' por naturaleza o prescripción legal explícita según Levítico 11). Pedro reivindica su lealtad irreprochable a las leyes dietéticas de la Torá."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 15,
+    "greek_text": "καὶ φωνὴ πάλιν ἐκ δευτέρου πρὸς αὐτόν· Ἃ ὁ θεὸς ἐκαθάρισεν σὺ μὴ κοίνου.",
+    "translation": "Y la voz le habló de nuevo por segunda vez: «Lo que Dios purificó, no lo sigas llamando tú profano».",
+    "translation_notes": "El aforismo teológico fundacional de la misión a los gentiles: Ἃ ὁ θεὸς ἐκαθάρισεν σὺ μὴ κοίνου. El aoristo ἐκαθάρισεν señala una acción divina consumada y definitiva ('Dios purificó'). El imperativo presente con negación (μὴ κοίνου) exige la cesación inmediata de una conducta habitual: 'no continúes considerando impuro / no declares profano'. La autoridad purificadora de Dios anula las demarcaciones humanas de pureza ritual (cf. Mc 7:19)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 16,
+    "greek_text": "τοῦτο δὲ ἐγένετο ἐπὶ τρίς, καὶ εὐθὺς ἀνελήμφθη τὸ σκεῦος εἰς τὸν οὐρανόν.",
+    "translation": "Esto sucedió tres veces; y de inmediato el objeto fue llevado de vuelta al cielo.",
+    "translation_notes": "La triple repetición (ἐπὶ τρίς) confiere valor de ratificación irrefutable y certeza absoluta al mandato divino en la tradición bíblica (cf. Gn 41:32; Jn 21:15-17). El verbo compuesto ἀνελήμφθη (aoristo pasivo de analambanō) es el mismo término técnico empleado para la ascensión de Cristo (Hch 1:2, 11, 22), enfatizando su origen y destino divino."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 17,
+    "greek_text": "Ὡς δὲ ἐν ἑαυτῷ διηπόρει ὁ Πέτρος τί ἂν εἴη τὸ ὅραμα ὃ εἶδεν, ἰδοὺ οἱ ἄνδρες οἱ ἀπεσταλμένοι ὑπὸ τοῦ Κορνηλίου διερωτήσαντες τὴν οἰκίαν τοῦ Σίμωνος ἐπέστησαν ἐπὶ τὸν πυλῶνα,",
+    "translation": "Mientras Pedro estaba interiormente perplejo sobre qué podría significar la visión que había presenciado, sucedió que los hombres enviados por Cornelio, tras haber indagado por la casa de Simón, se detuvieron a la entrada de la puerta;",
+    "translation_notes": "El verbo διηπόρει (imperfecto de diaporeō, compuesto intensivo de a-poros, 'no hallar salida') refleja una intensa crisis intelectual y hermenéutica en Pedro. En ese momento exacto, la delegación gentil llega al portón exterior (πυλῶνα, la puerta o zaguán que daba a la calle), tras haber rastreado paso a paso (διερωτήσαντες) la ubicación exacta de la curtiduría."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 18,
+    "greek_text": "καὶ φωνήσαντες ἐπυνθάνοντο εἰ Σίμων ὁ ἐπικαλούμενος Πέτρος ἐνθάδε ξενίζεται.",
+    "translation": "y alzando la voz preguntaron si Simón, apodado Pedro, se alojaba allí.",
+    "translation_notes": "El participio φωνήσαντες señala que llamaron en voz alta desde el portón exterior según la etiqueta del mundo grecorromano, sin cruzar de inmediato el umbral de una casa judía. Emplean la fórmula interrogativa indirecta con el verbo ξενίζεται ('si está alojado como forastero/huésped')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 19,
+    "greek_text": "τοῦ δὲ Πέτρου διενθυμουμένου περὶ τοῦ ὁράματος εἶπεν αὐτῷ τὸ πνεῦμα· Ἰδοὺ ἄνδρες ζητοῦντές σε·",
+    "translation": "Y mientras Pedro todavía meditaba profundamente sobre la visión, el Espíritu le dijo: «Mira, tres hombres te están buscando;",
+    "translation_notes": "El participio διενθυμουμένου (del verbo vienthymeomai, reflexionar con concentración crítica sobre una idea) retrata a Pedro aún en la azotea descifrando el enigma alegórico del lienzo. El Espíritu Santo interviene directamente como agente articulador de la providencia divina, anticipando el encuentro."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 20,
+    "greek_text": "ἀλλὰ ἀναστὰς κατάβηθι καὶ πορεύου σὺν αὐτοῖς μηδὲν διακρινόμενος, ὅτι ἐγὼ ἀπέσταλκα αὐτούς.",
+    "translation": "levántate, pues, baja y vete con ellos sin vacilar en absoluto, porque yo mismo los he enviado».",
+    "translation_notes": "La cláusula μηδὲν διακρινόμενος es de capital importancia teológica: el participio diakrinomenos (voz media) significa 'sin dudar' y al mismo tiempo 'sin hacer distinciones rituales o discriminaciones étnicas' (juego de palabras fundamental en Hch 11:12 y 15:9). El pronombre enfático ἐγώ declara que la comitiva militar romana procede de la iniciativa soberana del Espíritu."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 21,
+    "greek_text": "καταβὰς δὲ Πέτρος πρὸς τοὺς ἄνδρας εἶπεν· Ἰδοὺ ἐγώ εἰμι ὃν ζητεῖτε· τίς ἡ αἰτία δι’ ἣν πάρεστε;",
+    "translation": "Pedro descendió hacia los hombres y dijo: «Miren, yo soy el que buscan. ¿Cuál es el motivo por el que están aquí?».",
+    "translation_notes": "Fórmula de presentación e indagación formal: Pedro se identifica de inmediato (Ἰδοὺ ἐγώ εἰμι) e interroga con precisión jurídica sobre la causa oficial de su presencia (τίς ἡ αἰτία δι’ ἣν πάρεστε)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 22,
+    "greek_text": "οἱ δὲ εἶπαν· Κορνήλιος ἑκατοντάρχης, ἀνὴρ δίκαιος καὶ φοβούμενος τὸν θεὸν μαρτυρούμενός τε ὑπὸ ὅλου τοῦ ἔθνους τῶν Ἰουδαίων, ἐχρηματίσθη ὑπὸ ἀγγέλου ἁγίου μεταπέμψασθαί σε εἰς τὸν οἶκον αὐτοῦ καὶ ἀκοῦσαι ῥήματα παρὰ σοῦ.",
+    "translation": "Ellos respondieron: «Cornelio, un centurión, hombre justo y temeroso de Dios, de quien da testimonio favorable toda la nación judía, recibió instrucciones divinas por medio de un santo ángel para hacerte venir a su casa y escuchar palabras de tu parte».",
+    "translation_notes": "Testimonio y estatus de Cornelio: los mensajeros lo presentan con el título de 'justo' (δίκαιος, reconocimiento de su integridad ética) y con el aval unánime de los judíos locales (μαρτυρούμενος ὑπὸ ὅλου τοῦ ἔθνους τῶν Ἰουδαίων). El verbo pasivo ἐχρηματίσθη es el término técnico legal y oracular grecorromano para designar una orden o revelación divina oficial (cf. Mt 2:12, 22; Lc 2:26). El objetivo explícito es 'escuchar palabras' (ῥήματα), es decir, el mensaje de salvación."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 23,
+    "greek_text": "εἰσκαλεσάμενος οὖν αὐτοὺς ἐξένισεν. Τῇ δὲ ἐπαύριον ἀναστὰς ἐξῆλθεν σὺν αὐτοῖς, καί τινες τῶν ἀδελφῶν τῶν ἀπὸ Ἰόππης συνῆλθον αὐτῷ.",
+    "translation": "Entonces los hizo pasar y los hospedó. Al día siguiente se levantó y partió con ellos, y algunos de los hermanos de Jope lo acompañaron.",
+    "translation_notes": "Primer paso en la caída de la segregación: el verbo ἐξένισεν ('les dio hospitalidad / los hospedó') revela que Pedro, interpretando ya la visión de los animales puros e impuros, acogió a gentiles y soldados romanos bajo el mismo techo. Al día siguiente parte acompañado por hermanos creyentes de Jope (según Hch 11:12 eran seis creyentes judíos circuncidados), quienes actuarían como testigos oculares jurídicos imparciales de lo que iba a suceder en Cesarea."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 24,
+    "greek_text": "τῇ δὲ ἐπαύριον εἰσῆλθεν εἰς τὴν Καισάρειαν· ὁ δὲ Κορνήλιος ἦν προσδοκῶν αὐτοὺς συνκαλεσάμενος τοὺς συγγενεῖς αὐτοῦ καὶ τοὺς ἀναγκαίους φίλους.",
+    "translation": "Al día siguiente llegaron a Cesarea. Cornelio los estaba esperando, habiendo convocado a sus parientes y amigos íntimos.",
+    "translation_notes": "El viaje de Jope a Cesarea tomaba dos jornadas a pie. Cornelio demuestra su certeza en la revelación divina reuniendo a su red extensa de lealtades sociales: sus parientes de sangre (συγγενεῖς) y sus 'amigos íntimos o indispensables' (τοὺς ἀναγκαίους φίλους, término técnico en la literatura clásica y helenística para el círculo íntimo de confianza, equivalente al latín 'necessarii')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 25,
+    "greek_text": "ὡς δὲ ἐγένετο τοῦ εἰσελθεῖν τὸν Πέτρον, συναντήσας αὐτῷ ὁ Κορνήλιος πεσὼν ἐπὶ τοὺς πόδας προσεκύνησεν.",
+    "translation": "Cuando Pedro estaba a punto de entrar, Cornelio salió a recibirlo y, postrándose a sus pies, le rindió homenaje.",
+    "translation_notes": "El acto de postración (πεσὼν ἐπὶ τοὺς πόδας προσεκύνησεν) en un oficial romano de alto rango ante un humilde pescador judío galileo es extraordinario. Refleja la convicción de Cornelio de que Pedro era un emisario celestial portador de la presencia divina, inclinándose según el modelo helenístico de reverencia extrema o patronazgo cósmico."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 26,
+    "greek_text": "ὁ δὲ Πέτρος ἤγειρεν αὐτὸν λέγων· Ἀνάστηθι· καὶ ἐγὼ αὐτὸς ἄνθρωπός εἰμι.",
+    "translation": "Pero Pedro lo levantó, diciéndole: «Ponte de pie; yo mismo también soy un simple hombre».",
+    "translation_notes": "Rechazo apostólico rotundo de la deificación humana: Pedro levanta a Cornelio (ἤγειρεν) y declara enfáticamente su condición creatural compartida: καὶ ἐγὼ αὐτὸς ἄνθρωπός εἰμι ('yo mismo también soy un mero ser humano'). Este principio anticipa el incidente en Listra (Hch 14:14-15) y rechaza cualquier culto a la personalidad o veneración indebida de líderes en la iglesia."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 27,
+    "greek_text": "καὶ συνομιλῶν αὐτῷ εἰσῆλθεν, καὶ εὑρίσκει συνεληλυθότας πολλούς,",
+    "translation": "Y mientras conversaba con él, entró y encontró a muchas personas reunidas;",
+    "translation_notes": "El participio συνομιλῶν describe una conversación cercana, horizontal y desprovista de protocolo hierático. Al cruzar el umbral del hogar gentil (un acto formalmente vetado por la tradición rabínica), Pedro encuentra una asamblea numerosa de gentiles expectantes (συνεληλυθότας πολλούς)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 28,
+    "greek_text": "ἔφη τε πρὸς αὐτούς· Ὑμεῖς ἐπίστασθε ὡς ἀθέμιτόν ἐστιν ἀνδρὶ Ἰουδαίῳ κολλᾶσθαι ἢ προσέρχεσθαι ἀλλοφύλῳ· κἀμοὶ ὁ θεὸς ἔδειξεν μηδένα κοινὸν ἢ ἀκάθαρτον λέγειν ἄνθρωπον·",
+    "translation": "y les dijo: «Ustedes saben bien cuán ilícito es para un varón judío asociarse íntimamente con un extranjero o entrar en su casa; pero a mí Dios me ha mostrado que a ningún ser humano debo llamar profano o impuro.",
+    "translation_notes": "Declaración revolucionaria sobre la superación del tabú étnico: el adjetivo ἀθέμιτον ('ilícito / tabú') no alude a una prohibición explícita de la Torá escrita, sino a la tradición halájica y normas orales judías que prohibían la comensalidad y la intimidad física (κολλᾶσθαι) con un no judío (ἀλλοφύλῳ) por temor al contagio de impureza idolátrica. Pedro aplica la exégesis definitiva de su visión del lienzo: los animales simbolizaban a los pueblos; por tanto, ningún ser humano (μηδένα ἄνθρωπον) puede ser catalogado jamás como 'profano' (κοινόν) ni 'inmundo' (ἀκάθαρτον)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 29,
+    "greek_text": "διὸ καὶ ἀναντιρρήτως ἦλθον μεταπεμφθείς. πυνθάνομαι οὖν τίνι λόγῳ μετεπέμψασθέ με.",
+    "translation": "Por eso vine sin vacilar cuando me mandaron llamar. Les pregunto, pues: ¿por qué motivo me han hecho venir?».",
+    "translation_notes": "El adverbio helenístico ἀναντιρρήτως (compuesto de a- privativa + anti + rhēsis, 'sin poner objeción alguna', 'sin contradicción') demuestra la obediencia inmediata e incondicional de Pedro tras comprender la voluntad de Dios. Pide entonces la formulación formal del propósito de la convocatoria (τίνι λόγῳ)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 30,
+    "greek_text": "Καὶ ὁ Κορνήλιος ἔφη· Ἀπὸ τετάρτης ἡμέρας μέχρι ταύτης τῆς ὥρας ἤμην τὴν ἐνάτην προσευχόμενος ἐν τῷ οἴκῳ μου, καὶ ἰδοὺ ἀνὴρ ἔστη ἐνώπιόν μου ἐν ἐσθῆτι λαμπρᾷ",
+    "translation": "Cornelio respondió: «Hace cuatro días, exactamente a esta misma hora, estaba yo haciendo la oración de la hora novena en mi casa, y de pronto un varón se puso delante de mí con vestiduras resplandecientes,",
+    "translation_notes": "Recapitulación testimonial de Cornelio: sitúa la teofanía cuatro días atrás en la hora novena (3:00 p.m.). Describe al ángel como 'un varón en vestidura resplandeciente' (ἀνὴρ ἐν ἐσθῆτι λαμπρᾷ), lenguaje lucano clásico para la gloria radiante de los mensajeros celestiales (cf. Lc 24:4; Hch 1:10)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 31,
+    "greek_text": "καὶ φησί· Κορνήλιε, εἰσηκούσθη σου ἡ προσευχὴ καὶ αἱ ἐλεημοσύναι σου ἐμνήσθησαν ἐνώπιον τοῦ θεοῦ.",
+    "translation": "y me dijo: “Cornelio, tu oración ha sido escuchada y tus obras de beneficencia han sido recordadas ante Dios.",
+    "translation_notes": "Pasivos divinos solemnes: εἰσηκούσθη ('ha sido atendida favorablemente') y ἐμνήσθησαν ('fueron puestas en memoria'), fórmulas semíticas reverentes que señalan que Dios mismo ha tomado nota personal de la piedad y la justicia activa del oficial romano."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 32,
+    "greek_text": "πέμψον οὖν εἰς Ἰόππην καὶ μετακάλεσαι Σίμωνα ὃς ἐπικαλεῖται Πέτρος· οὗτος ξενίζεται ἐν οἰκíᾳ Σίμωνος βυρσέως παρὰ θάλασσαν.",
+    "translation": "Envía, pues, a Jope y manda llamar a Simón, conocido como Pedro; él se hospeda en la casa de Simón el curtidor, junto al mar”.",
+    "translation_notes": "Reiteración fidedigna de las instrucciones angélicas dadas en el v. 5-6, corroborando ante la audiencia mixta la concordancia milagrosa de los mandatos recibidos por ambas partes."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 33,
+    "greek_text": "ἐξαυτῆς οὖν ἔπεμψα πρὸς σέ, σύ τε καλῶς ἐποίησας παραγενόμενος. νῦν οὖν πάντες ἡμεῖς ἐνώπιον τοῦ θεοῦ πάρεσμεν ἀκοῦσαι πάντα τὰ προστεταγμένα σοι ὑπὸ τοῦ κυρίου.",
+    "translation": "Así que de inmediato envié por ti, y tú hiciste muy bien en venir. Ahora, pues, todos nosotros estamos aquí presentes delante de Dios, para escuchar todo lo que el Señor te ha ordenado».",
+    "translation_notes": "Cortesía diplomática y disposición espiritual: ἐξαυτῆς ('inmediatamente') subraya la presteza de Cornelio. La locución helenística καλῶς ἐποίησας ('hiciste muy bien', 'has tenido la gentileza de') era una expresión clásica de gratitud protocolaria en la correspondencia del siglo I. La asamblea se declara en reverente audiencia teocéntrica (ἐνώπιον τοῦ θεοῦ πάρεσμεν) dispuesta a recibir los mandatos divinos (τὰ προστεταγμένα)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 34,
+    "greek_text": "Ἀνοίξας δὲ Πέτρος τὸ στόμα εἶπεν· Ἐπ’ ἀληθείας καταλαμβάνομαι ὅτι οὐκ ἔστιν προσωπολήμπτης ὁ θεός,",
+    "translation": "Pedro, abriendo la boca, dijo: «En verdad comprendo que Dios no muestra favoritismo alguno,",
+    "translation_notes": "Fórmula de apertura solemne de un discurso de trascendencia histórica: Ἀνοίξας τὸ στόμα. El verbo καταλαμβάνομαι en voz media significa 'comprender por percepción directa y experiencia irrefutable'. La afirmación culminante: οὐκ ἔστιν προσωπολήμπτης ὁ θεός ('Dios no hace acepción de personas'). El vocablo προσωπολήμπτης es un neologismo acuñado en el judeocristianismo griego, calco de la expresión hebrea 'nasah panim' (levantar el rostro de alguien para juzgarlo con favoritismo o parcialidad). Dios no discrimina por linaje, casta ni etnia."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 35,
+    "greek_text": "ἀλλ’ ἐν παντὶ ἔθνει ὁ φοβούμενος αὐτὸν καὶ ἐργαζόμενος δικαιοσύνην δεκτὸς αὐτῷ ἐστιν.",
+    "translation": "sino que en toda nación, quien le teme y practica la justicia le es aceptable.",
+    "translation_notes": "Universalismo teológico salvífico: la expresión ἐν παντὶ ἔθνει ('en todo pueblo / nación') rompe de modo concluyente con el exclusivismo nacionalista judío. Los criterios divinos son el asombro reverente (ὁ φοβούμενος αὐτόν) y la rectitud moral operante (ἐργαζόμενος δικαιοσύνην). Quien vive así es 'aceptable' (δεκτός), apto y bienvenido para entrar en el pacto de Dios sin necesidad de adopción étnica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 36,
+    "greek_text": "τὸν λόγον ὃν ἀπέστειλεν τοῖς υἱοῖς Ἰσραὴλ εὐαγγελιζόμενος εἰρήνην διὰ Ἰησοῦ Χριστοῦ· οὗτός ἐστιν πάντων κύριος.",
+    "translation": "Él envió su mensaje a los hijos de Israel, proclamando las buenas noticias de paz mediante Jesucristo: ¡Él es el Señor de todos!",
+    "translation_notes": "Sintaxis lucana enfática: τὸν λόγον ὃν ἀπέστειλεν retoma el hilo del kerigma. La proclamación de la 'paz' (εὐαγγελιζόμενος εἰρήνην) alude a Isaías 52:7, no a la 'Pax Romana' impuesta por las legiones imperiales, sino a la reconciliación mesiánica universal. La aclamación de clausura en paréntesis cristológico es monumental: οὗτός ἐστιν πάντων κύριος ('Él es Señor de todos'). Frente al culto imperial donde César reclamaba ser 'kyrios' universal, Pedro proclama que Jesús ejerce señorío ontológico y soberano sobre gentiles y judíos por igual."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 37,
+    "greek_text": "ὑμεῖς οἴδατε τὸ γενόμενον ῥῆμα καθ’ ὅλης τῆς Ἰουδαίας, ἀρξάμενος ἀπὸ τῆς Γαλιλαίας μετὰ τὸ βάπτισμα ὃ ἐκήρυξεν Ἰωάννης,",
+    "translation": "Ustedes conocen el suceso que ocurrió por toda Judea, comenzando desde Galilea después del bautismo que proclamó Juan:",
+    "translation_notes": "Hechos públicos de la historia: Pedro apela al conocimiento público de los oficiales romanos (ὑμεῖς οἴδατε). El término ῥῆμα denota tanto el acontecimiento histórico como el mensaje proclamado. El ministerio de Jesús no fue un movimiento esotérico secreto, sino un hecho notorio que abarcó desde Galilea hasta Judea a partir del ministerio profético de Juan el Bautista."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 38,
+    "greek_text": "Ἰησοῦν τὸν ἀπὸ Ναζαρέθ, ὡς ἔχρισεν αὐτὸν ὁ θεὸς πνεύματι ἁγίῳ καὶ δυνάμει, ὃς διῆλθεν εὐεργετῶν καὶ ἰώμενος πάντας τοὺς καταδυναστευομένους ὑπὸ τοῦ διαβόλου, ὅτι ὁ θεὸς ἦν μετ’ αὐτοῦ·",
+    "translation": "cómo Dios ungió con el Espíritu Santo y con poder a Jesús de Nazaret, quien pasó haciendo el bien y sanando a todos los que estaban oprimidos bajo la tiranía del diablo, porque Dios estaba con él.",
+    "translation_notes": "Síntesis cristológica magistral del ministerio terrenal de Jesús: la unción mesiánica (ἔχρισεν, confiriéndole la condición de 'Cristo') con Espíritu y dinamismo eficaz (πνεύματι ἁγίῳ καὶ δυνάμει). El participio εὐεργετῶν ('haciendo el bien', 'actuando como benefactor') resuena profundamente en el mundo grecorromano, donde los reyes y emperadores adoptaban el título de 'Euergetes' (Benefactor); sin embargo, mientras los gobernantes imponían tributos y dominio, Jesús demostró su benevolencia sanando a los 'tiranizados o sometidos violentamente' (καταδυναστευομένους) por el diablo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 39,
+    "greek_text": "καὶ ἡμεῖς μάρτυρες πάντων ὧν ἐποίησεν ἔν τε τῇ χώρᾳ τῶν Ἰουδαίων καὶ Ἰερουσαλήμ· ὃν καὶ ἀνεῖλαν κρεμάσαντες ἐπὶ ξύλου.",
+    "translation": "Y nosotros somos testigos de todas las cosas que hizo, tanto en el territorio de los judíos como en Jerusalén; a quien llegaron a matar colgándolo en un madero.",
+    "translation_notes": "Testimonio apostólico ocular directo (μάρτυρες). La descripción de la ejecución emplea la fórmula arcaica de maldición de la Ley (Dt 21:22-23): κρεμάσαντες ἐπὶ ξύλου ('colgándolo de un madero', cf. Hch 5:30; Gál 3:13), poniendo de relieve el ignominioso juicio de crucifixión ejecutado por las autoridades políticas y religiosas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 40,
+    "greek_text": "τοῦτον ὁ θεὸς ἤγειρεν τῇ τρίτῃ ἡμέρᾳ καὶ ἔδωκεν αὐτὸν ἐμφανῆ γενέσθαι,",
+    "translation": "A este, Dios lo resucitó al tercer día y le concedió manifestarse visiblemente,",
+    "translation_notes": "Vindicación divina mediante la resurrección: Dios levantó a Jesús (ἤγειρεν) al tercer día conforme a la economía profética. La frase ἔδωκεν αὐτὸν ἐμφανῆ γενέσθαι ('le concedió manifestarse con visibilidad y notoriedad tangible') subraya la realidad objetiva e histórica de las apariciones del Resucitado."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 41,
+    "greek_text": "οὐ παντὶ τῷ λαῷ ἀλλὰ μάρτυσι τοῖς προκεχειροτονημένοις ὑπὸ τοῦ θεοῦ, ἡμῖν, οἵτινες συνεφάγομεν καὶ συνεπίομεν αὐτῷ μετὰ τὸ ἀναστῆναι αὐτὸν ἐκ νεκρῶν·",
+    "translation": "no a todo el pueblo, sino a testigos previamente designados por Dios: a nosotros, que comimos y bebimos junto con él después de que resucitó de entre los muertos.",
+    "translation_notes": "Epistemología de la resurrección: las apariciones no fueron un espectáculo masivo para satisfacer la curiosidad pública, sino que se revelaron a testigos 'designados de antemano' (τοῖς προκεχειροτονημένοις, participio perfecto pasivo de procheirotoneō, término helenístico para nombramientos institucionales o elecciones oficiales previas). La evidencia empírica de la corporalidad resucitada es contundente: 'comimos y bebimos con él' (συνεφάγομεν καὶ συνεπίομεν, cf. Lc 24:41-43), descartando visiones incorpóreas, fantasmas o mitos gnósticos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 42,
+    "greek_text": "καὶ παρήγγειλεν ἡμῖν κηρύξαι τῷ λαῷ καὶ διαμαρτύρασθαι ὅτι οὗτός ἐστιν ὁ ὡρισμένος ὑπὸ τοῦ θεοῦ κριτὴς ζώντων καὶ νεκρῶν.",
+    "translation": "Y nos mandó proclamar al pueblo y dar testimonio solemne de que él es el designado por Dios como Juez de vivos y muertos.",
+    "translation_notes": "Comisión escatológica universal: el mandato apostólico incluye 'proclamar' (κηρύξαι) y 'atestiguar solemnemente bajo juramento' (διαμαρτύρασθαι). El participio pasivo ὁ ὡρισμένος (de horizō, 'determinar, fijar por decreto') define a Jesús como el Juez soberano entronizado por Dios sobre toda la humanidad, abarcando tanto a los que estén con vida como a las generaciones pasadas (κριτὴς ζώντων καὶ νεκρῶν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 43,
+    "greek_text": "τούτῳ πάντες οἱ προφῆται μαρτυροῦσιν, ἄφεσιν ἁμαρτιῶν λαβεῖν διὰ τοῦ ὀνόματος αὐτοῦ πάντα τὸν πιστεύοντα εἰς αὐτόν.",
+    "translation": "De este dan testimonio todos los profetas: que todo el que cree en él recibe el perdón de los pecados mediante su nombre».",
+    "translation_notes": "El clímax salvífico universal: el testimonio unánime de las Escrituras hebreas (πάντες οἱ προφῆται) converge en la promesa del 'perdón de los pecados' (ἄφεσιν ἁμαρτιῶν). El alcance de la gracia divina queda sellado sin reservas étnicas ni exigencias rituales previas: 'todo aquel que cree en él' (πάντα τὸν πιστεύοντα εἰς αὐτόν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 44,
+    "greek_text": "Ἔτι λαλοῦντος τοῦ Πέτρου τὰ ῥήματα ταῦτα ἐπέπεσε τὸ πνεῦμα τὸ ἅγιον ἐπὶ πάντας τοὺς ἀκούοντας τὸν λόγον.",
+    "translation": "Mientras Pedro aún estaba pronunciando estas palabras, el Espíritu Santo cayó sobre todos los que escuchaban el mensaje.",
+    "translation_notes": "El 'Pentecostés de los gentiles': la irrupción soberana de Dios ocurre 'mientras Pedro aún hablaba' (genitivo absoluto de interrupción providencial), antes de que concluyera su sermón y sin mediación de rito bautismal previo ni imposición de manos. El verbo ἐπέπεσε (aoristo activo de epipiptō, 'cayó sobre', 'se abatió impetuosamente') denota la venida soberana e inmediata del Espíritu sobre la audiencia incircuncisa."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 45,
+    "greek_text": "καὶ ἐξέστησαν οἱ ἐκ περιτομῆς πιστοὶ ὅσοι συνῆλθαν τῷ Πέτρῳ, ὅτι καὶ ἐπὶ τὰ ἔθνη ἡ δωρεὰ τοῦ ἁγίου πνεύματος ἐκκέχυται·",
+    "translation": "Y los creyentes de la circuncisión que habían acompañado a Pedro quedaron atónitos de que también sobre los gentiles se hubiera derramado el don del Espíritu Santo,",
+    "translation_notes": "Reacción de la delegación judeocristiana: los creyentes judíos circuncidados (οἱ ἐκ περιτομῆς πιστοί) sufrieron un shock teológico profundo (ἐξέστησαν, quedaron atónitos, fuera de sí por el asombro). El verbo ἐκκέχυται (perfecto pasivo de ekcheō, 'ha sido derramado') evoca directamente el cumplimiento pleno de la profecía de Joel 2:28 citada en Hch 2:17-18: el Espíritu es otorgado sin reservas a los gentiles (τὰ ἔθνη) en pie de absoluta igualdad."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 46,
+    "greek_text": "ἤκουον γὰρ αὐτῶν λαλούντων γλώσσαις καὶ μεγαλυνόντων τὸν θεόν. τότε ἀπεκρίθη Πέτρος·",
+    "translation": "porque los oían hablar en lenguas y glorificar la grandeza de Dios. Entonces Pedro intervino diciendo:",
+    "translation_notes": "Evidencia empírica irrefutable: la señal carismática es idéntica a la de Pentecostés (λαλούντων γλώσσαις, glosolalia inspirada) unida a la proclamación doxológica (μεγαλυνόντων τὸν θεόν). No quedaba duda de que el mismo Espíritu Santo operaba con idéntica potencia en los incircuncisos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 47,
+    "greek_text": "Μήτι τὸ ὕδωρ δύναται κωλῦσαί τις τοῦ μὴ βαπτισθῆναι τούτους οἵτινες τὸ πνεῦμα τὸ ἅγιον ἔλαβον ὡς καὶ ἡμεῖς;",
+    "translation": "«¿Acaso puede alguien negar el agua para que no sean bautizados estos que han recibido el Espíritu Santo al igual que nosotros?».",
+    "translation_notes": "Pregunta retórica concluyente: la partícula interrogativa Μήτι espera una respuesta categóricamente negativa ('¡Nadie puede!'). El verbo κωλῦσαι ('impedir', 'negar el acceso') era un término técnico litúrgico y bautismal en la iglesia primitiva (cf. Hch 8:36: '¿qué impide que sea bautizado?'). Si Dios mismo otorgó el bautismo del Espíritu sin exigir la circuncisión previa, el bautismo en agua no podía ser denegado por ninguna autoridad humana. La frase 'al igual que nosotros' (ὡς καὶ ἡμεῖς) establece la plena equiparación eclesial."
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 48,
+    "greek_text": "προσέταξεν δὲ αὐτοὺς ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ βαπτισθῆναι. τότε ἠρώτησαν αὐτὸν ἐπιμεῖναι ἡμέρας τινάς.",
+    "translation": "Y ordenó que fueran bautizados en el nombre de Jesucristo. Entonces le rogaron que se quedara con ellos por algunos días.",
+    "translation_notes": "Culminación eclesiológica: Pedro ordena formalmente la administración del sacramento del bautismo en el nombre de Jesucristo. La petición de los gentiles para que Pedro permanezca con ellos varios días (ἐπιμεῖναι ἡμέρας τινάς) sella la plena comunión de mesa y hospitalidad de un judío con gentiles no circuncidados, acto que desencadenará el debate teológico y la defensa de Pedro ante la iglesia de Jerusalén en el capítulo 11."
+  }
+]

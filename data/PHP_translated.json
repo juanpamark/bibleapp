@@ -1,0 +1,834 @@
+[
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 1,
+    "greek_text": "Παῦλος καὶ Τιμόθεος δοῦλοι Χριστοῦ Ἰησοῦ πᾶσιν τοῖς ἁγίοις ἐν Χριστῷ Ἰησοῦ τοῖς οὖσιν ἐν Φιλίπποις σὺν ἐπισκόποις καὶ διακόνοις·",
+    "translation": "Pablo y Timoteo, siervos de Cristo Jesús, a todos los santos en Cristo Jesús que están en Filipos, con los obispos y diáconos:",
+    "translation_notes": "Prescripto epistolar y títulos ministeriales: Pablo se asocia con Timoteo como co-remitente presentándose ambos con el título δοῦλοι Χριστοῦ Ἰησοῦ (douloi Christou Iēsou, 'esclavos/siervos de Cristo Jesús'). A diferencia de Gálatas o Corintios, Pablo omite aquí su título apostólico formal (ἀπόστολος), reflejando una relación afectiva íntima de confianza comunitaria. Los destinatarios son οἱ ἅγιοι (los santos, consagrados a Dios por el nuevo pacto). Filipos (Φίλιπποι) era una prominente colonia militar romana en Macedonia Oriental con estatus de ius Italicum, fundada por Filipo II y refundada por Augusto. Se menciona explícitamente a los líderes locales: σὺν ἐπισκόποις καὶ διακόνοις ('con los obispos/supervisores y diáconos/servidores'), primer testimonio epistolar paulino donde estos dos oficios eclesiales colegiados figuran en el saludo inicial de una carta."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 2,
+    "greek_text": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+    "translation": "Gracia a ustedes y paz de parte de Dios nuestro Padre y del Señor Jesucristo.",
+    "translation_notes": "Fórmula de bendición apostólica: Combina el saludo griego secular modificado χάρις (charis, gracia, favor divino inmerecido, adaptado del habitual χαίρειν) con el saludo semítico bíblico εἰρήνη (eirēnē, calco del hebreo שָׁלוֹם shālôm, bienestar integral, plenitud y comunión mesiánica con Dios). La fuente coordinada de ambas bendiciones es Dios el Padre y el Señor Jesucristo (κύριος Ἰησοῦς Χριστός), situando al Cristo exaltado en paridad ontológica y soberana con el Padre."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 3,
+    "greek_text": "Εὐχαριστῶ τῷ θεῷ μου ἐπὶ πάσῃ τῇ μνείᾳ ὑμῶν",
+    "translation": "Doy gracias a mi Dios en cada recuerdo que tengo de ustedes,",
+    "translation_notes": "Acción de gracias epistolar: El verbo Εὐχαριστῶ (Eucharistō, presente indicativo activo) introduce la tradicional proemio paulino de bendición. El uso del pronombre posesivo singular τῷ θεῷ μου ('a mi Dios') revela la cercanía y devoción personal de la vida de oración de Pablo. La frase ἐπὶ πάσῃ τῇ μνείᾳ ὑμῶν puede traducirse tanto 'en cada memoria que guardo de ustedes' como 'por todo el recuerdo que ustedes tienen de mí' (recordándolo con sus oraciones y ofrendas materiales)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 4,
+    "greek_text": "πάντοτε ἐν πάσῃ δεήσει μου ὑπὲρ πάντων ὑμῶν, μετὰ χαρᾶς τὴν δέησιν ποιούμενος,",
+    "translation": "siempre, en cada oración mía por todos ustedes, haciendo la súplica con gozo,",
+    "translation_notes": "Plegaria incesante e introducción del gozo: Pablo acumula fórmulas de totalidad universal: πάντοτε ('siempre'), ἐν πάσῃ ('en toda/cada'), ὑπὲρ πάντων ('por todos'). El término δέησις (deēsis) denota una plegaria ferviente nacida de una necesidad concreta. Por primera vez en la epístola aparece el tema teológico cardinal de la carta: μετὰ χαρᾶς (meta charas, 'con gozo'), un afecto sobrenatural que trasciende las circunstancias adversas del confinamiento militar de Pablo."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 5,
+    "greek_text": "ἐπὶ τῇ κοινωνίᾳ ὑμῶν εἰς τὸ εὐαγγέλιον ἀπὸ τῆς πρώτης ἡμέρας ἄχρι τοῦ νῦν,",
+    "translation": "por su comunión en el evangelio, desde el primer día hasta ahora;",
+    "translation_notes": "Koinonía en el evangelio: El motivo de la gratitud es ἡ κοινωνία (hē koinōnia, participación activa, sociedad mutua, solidaridad financiera y espiritual). La preposición εἰς τὸ εὐαγγέλιον indica cooperación directa para el avance de la proclamación del evangelio. La comunidad filipense sostuvo ministerial y económicamente a Pablo desde la fundación en la casa de Lidia (Hch 16:14–15, 40) 'desde el primer día hasta el presente' (ἀπὸ τῆς πρώτης ἡμέρας ἄχρι τοῦ νῦν)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 6,
+    "greek_text": "πεποιθὼς αὐτὸ τοῦτο ὅτι ὁ ἐναρξάμενος ἐν ὑμῖν ἔργον ἀγαθὸν ἐπιτελέσει ἄχρι ἡμέρας Χριστοῦ Ἰησοῦ·",
+    "translation": "estando persuadido de esto mismo: que el que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús;",
+    "translation_notes": "Certeza teocéntrica de la perseverancia: El participio perfecto activo πεποιθώς (pepoithōs, de πείθω, 'estando plenamente confiado/persuadido') fundamenta la seguridad en Dios. El participio aoristo ὁ ἐναρξάμενος (de ἐνάρχομαι) y el futuro ἐπιτελέσει (de ἐπιτελέω, llevar a término consumado, completar plenamente) forman una antítesis cultual y sacrificial de iniciación y consumación. La 'buena obra' (ἔργον ἀγαθόν) abarca tanto la salvación y transformación comunitaria como la generosidad solidaria de la iglesia. La meta temporal escatológica es ἄχρι ἡμέρας Χριστοῦ Ἰησοῦ ('hasta el día de Cristo Jesús'), correspondiente al Día de Yahvé del Antiguo Testamento, cuando el Mesías retorne en gloria para el juicio y consumación."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 7,
+    "greek_text": "καθώς ἐστιν δίκαιον ἐμοὶ τοῦτο φρονεῖν ὑπὲρ πάντων ὑμῶν, διὰ τὸ ἔχειν με ἐν τῇ καρδίᾳ ὑμᾶς, ἔν τε τοῖς δεσμοῖς μου καὶ ἐν τῇ ἀπολογίᾳ καὶ βεβαιώσει τοῦ εὐαγγελίου συγκοινωνούς μου τῆς χάριτος πάντας ὑμᾶς ὄντας·",
+    "translation": "como es justo que yo sienta esto respecto a todos ustedes, por cuanto los tengo en el corazón, pues tanto en mis cadenas como en la defensa y confirmación del evangelio, todos ustedes son copartícipes de la gracia conmigo.",
+    "translation_notes": "Afecto íntimo y coparticipación forense: El verbo φρονεῖν (phronein, tener una disposición interior o sentir) es clave en la epístola (cf. 2:2, 5; 3:15, 19; 4:2). La frase διὰ τὸ ἔχειν με ἐν τῇ καρδίᾳ ὑμᾶς sintácticamente puede traducirse 'por cuanto los tengo en mi corazón' o 'por tenerme ustedes en su corazón'. Pablo alude a su situación legal como prisionero: ἐν τοῖς δεσμοῖς μου ('en mis cadenas', custodiado por soldados romanos) y en los dos aspectos de su juicio procesal: τῇ ἀπολογίᾳ (apologia, defensa jurídica contra cargos formales ante el tribunal imperial) y βεβαιώσει (bebaiōsis, ratificación, garantía legal o validación pública de la verdad). Los filipenses son calificados de συγκοινωνοί (synkoinōnoi, copartícipes íntimos) de la gracia divina dispensada en el ministerio del apóstol."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 8,
+    "greek_text": "μάρτυς γάρ μου ὁ θεός, ὡς ἐπιποθῶ πάντας ὑμᾶς ἐν σπλάγχνοις Χριστοῦ Ἰησοῦ.",
+    "translation": "Porque testigo me es Dios de cómo los anhelo a todos ustedes con el entrañable afecto de Cristo Jesús.",
+    "translation_notes": "Juramento y los esplanjnos de Cristo: Pablo pone a Dios por testigo solemne (μάρτυς γάρ μου ὁ θεός) de su anhelo pastoral (ἐπιποθῶ, anhelar ardientemente con afecto filial). La expresión metafórica ἐν σπλάγχνοις Χριστοῦ Ἰησοῦ (en splanchnois Christou Iēsou) remite a las vísceras o entrañas (σπλάγχνα), consideradas en la antropología hebrea y griega como la sede de las emociones más profundas, la compasión y el amor visceral. Pablo afirma que ama a los filipenses con el mismo afecto y compasión con que Cristo Jesús los ama."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 9,
+    "greek_text": "καὶ τοῦτο προσεύχομαι ἵνα ἡ ἀγάπη ὑμῶν ἔτι μᾶλλον καὶ μᾶλλον περισσεύῃ ἐν ἐπιγνώσει καὶ πάσῃ αἰσθήσει,",
+    "translation": "Y esto pido en oración: que el amor de ustedes abunde aún más y más en pleno conocimiento y en todo discernimiento,",
+    "translation_notes": "Petición por amor iluminado y discernimiento: El amor cristiano (ἀγάπη) no es un mero sentimentalismo ciego; Pablo ruega que περισσεύῃ (abunde exuberantemente) calificado por dos complementos normativos: ἐν ἐπιγνώσει (en epignōsei, conocimiento profundo, maduro, experimental y relacional de Dios) y πάσῃ αἰσθήσει (pasē aisthēsei, discernimiento ético perspicaz, agudeza perceptiva moral para juzgar situaciones prácticas en una sociedad pagana hostil)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 10,
+    "greek_text": "εἰς τὸ δοκιμάζειν ὑμᾶς τὰ διαφέροντα, ἵνα ἦτε εἰλικρινεῖς καὶ ἀπρόσκοποι εἰς ἡμέραν Χριστοῦ,",
+    "translation": "para que aprueben lo que es excelente, a fin de que sean puros e irreprensibles para el día de Cristo,",
+    "translation_notes": "Aprobación de lo mejor y pureza sin tacha: La construcción εἰς τὸ δοκιμάζειν ὑμᾶς τὰ διαφέροντα denota evaluar críticamente para discernir y aprobar 'lo que es superior / excelente / de verdadero valor moral'. El adjetivo εἰλικρινεῖς (eilikrineis, etimológicamente probado a la luz del sol, íntegro, puro y sin mezcla de falsedad) se combina con ἀπρόσκοποι (aproskopoi, pasivamente 'sin tropiezo' o activamente 'sin causar escándalo ni hacer tropezar a otros') con miras al escrutinio escatológico en el Día de Cristo."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 11,
+    "greek_text": "πεπληρωμένοι καρπὸν δικαιοσύνης τὸν διὰ Ἰησοῦ Χριστοῦ εἰς δόξαν καὶ ἔπαινον θεοῦ.",
+    "translation": "llenos del fruto de justicia que viene por medio de Jesucristo, para gloria y alabanza de Dios.",
+    "translation_notes": "El fruto de justicia cristológico: El participio perfecto pasivo πεπληρωμένοι (peplērōmenoi, habiendo sido colmados en plenitud duradera) rige el acusativo de relación καρπὸν δικαιοσύνης ('fruto de justicia'). Esta justicia no es un mérito de obras humanas legalistas, sino que opera exclusivamente διὰ Ἰησοῦ Χριστοῦ ('por medio de Jesucristo'), orientada a la doxología teocéntrica final: εἰς δόξαν καὶ ἔπαινον θεοῦ."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 12,
+    "greek_text": "Γινώσκειν δὲ ὑμᾶς βούλομαι, ἀδελφοί, ὅτι τὰ κατ’ ἐμὲ μᾶλλον εἰς προκοπὴν τοῦ εὐαγγελίου ἐλήλυθεν,",
+    "translation": "Quiero que sepan, hermanos, que las circunstancias que me rodean han redundado más bien para el avance del evangelio,",
+    "translation_notes": "El avance providencial en la adversidad: La fórmula informativa paulina Γινώσκειν δὲ ὑμᾶς βούλομαι ('Quiero que sepan') introduce el reporte de su situación carcelaria. La frase idiomática τὰ κατ’ ἐμέ designa 'mis circunstancias personales / lo que me ha acaecido'. El sustantivo προκοπή (prokopē) era originalmente un término militar y náutico que describía a un cuerpo de zapadores desbrozando el camino a través de una selva o terreno hostil para permitir el avance del ejército expedicionario. Las cadenas de Pablo, lejos de truncar la misión, han despejado el camino para la difusión del evangelio."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 13,
+    "greek_text": "ὥστε τοὺς δεσμούς μου φανεροὺς ἐν Χριστῷ γενέσθαι ἐν ὅλῳ τῷ πραιτωρίῳ καὶ τοῖς λοιποῖς πᾶσιν,",
+    "translation": "de modo que mis cadenas en Cristo se han hecho notorias en todo el pretorio y a todos los demás;",
+    "translation_notes": "Las cadenas en Cristo y la guardia pretoriana: El resultado (ὥστε) es que sus cadenas son reconocidas como sufridas ἐν Χριστῷ ('en causa de Cristo', no como criminal común). El término πραιτώριον (praitōrion) alude a la Guardia Pretoriana imperial en Roma (el cuerpo de élite de 9.000 soldados encargado de la custodia del emperador y de los presos de apelación imperial como Pablo, cf. Hch 28:16, 30), o a la residencia oficial del gobernador en Cesarea o Éfeso. Los soldados que se turnaban encadenados a la muñeca de Pablo eran testigos continuos de sus oraciones, diálogos y cartas apostólicas, divulgando el evangelio en los círculos de la administración militar romana."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 14,
+    "greek_text": "καὶ τοὺς πλείονας τῶν ἀδελφῶν ἐν κυρίῳ πεποιθότας τοῖς δεσμοῖς μου περισσοτέρως τολμᾶν ἀφόβως τὸν λόγον λαλεῖν.",
+    "translation": "y la mayoría de los hermanos, cobrando confianza en el Señor a causa de mis cadenas, se atreven mucho más a hablar la palabra sin temor.",
+    "translation_notes": "Efecto multiplicador del testimonio valiente: La expresión τοὺς πλείονας ('la mayoría') señala que el encarcelamiento de Pablo produjo un contagio de denuedo espiritual en la comunidad creyente local. El participio πεποιθότας ('habiendo cobrado firme confianza') muestra cómo la constancia pacífica del apóstol ante la amenaza de muerte disipó el pánico, infundiendo audacia para hablar el mensaje divino: περισσοτέρως τολμᾶν ἀφόβως τὸν λόγον λαλεῖν ('atreverse con mayor ímpetu a proclamar la palabra sin temor')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 15,
+    "greek_text": "Τινὲς μὲν καὶ διὰ φθόνον καὶ ἔριν, τινὲς δὲ καὶ δι’ εὐδοκίαν τὸν Χριστὸν κηρύσσουσιν·",
+    "translation": "Algunos, a la verdad, proclaman a Cristo aun por envidia y contienda; pero otros también por buena voluntad.",
+    "translation_notes": "Doble motivación de los predicadores: Pablo analiza la división en la iglesia local de su lugar de confinamiento. Una facción predica movida por φθόνος (phthonos, envidia de la prominencia apostólica de Pablo) y ἔρις (eris, rivalidad facciosa y espíritu de disputa); otra facción lo hace impulsada por εὐδοκία (eudokia, beneplácito, sincera buena voluntad y lealtad cristiana)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 16,
+    "greek_text": "οἱ μὲν ἐξ ἀγάπης, εἰδότες ὅτι εἰς ἀπολογίαν τοῦ εὐαγγελίου κεῖμαι,",
+    "translation": "Estos últimos lo hacen por amor, sabiendo que estoy puesto para la defensa del evangelio;",
+    "translation_notes": "Predicación por amor y destino providencial: Los leales proclaman motivados ἐξ ἀγάπης ('por amor'). Reconocen que Pablo está providencialmente designado: εἰς ἀπολογίαν τοῦ εὐαγγελίου κεῖμαι (keimai, presente que denota estar colocado, apostado como centinela militar o destinado por Dios en la primera línea de combate legal ante los tribunales imperiales para la defensa del mensaje de Cristo)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 17,
+    "greek_text": "οἱ δὲ ἐξ ἐριθείας τὸν Χριστὸν καταγγέλλουσιν, οὐχ ἁγνῶς, οἰόμενοι θλῖψιν ἐγείρειν τοῖς δεσμοῖς μου.",
+    "translation": "pero aquellos anuncian a Cristo por ambición personal, no con motivos puros, pensando añadir aflicción a mis cadenas.",
+    "translation_notes": "Eritheia y hostilidad sectaria: El término ἐριθεία (eritheia, derivado de ἔριθος, trabajador a sueldo) denota ambición partidista egoísta, politiquería mezquina y espíritu de facción. No predican ἁγνῶς ('con pureza de intención'), sino que buscan eclipsar a Pablo y provocarle θλῖψις (tribulación, amargura o agravar su peligro judicial ante los magistrados romanos mientras él está privado de libertad)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 18,
+    "greek_text": "τί γάρ; πλὴν ὅτι παντὶ τρόπῳ, εἴτε προφάσει εἴτε ἀληθείᾳ, Χριστὸς καταγγέλλεται, καὶ ἐν τούτῳ χαίρω· ἀλλὰ καὶ χαρήσομαι,",
+    "translation": "¿Qué, pues? Solamente que de todas maneras, ya sea por pretexto o por verdad, Cristo es proclamado; y en esto me alegro, y además me alegraré.",
+    "translation_notes": "Magnanimidad apostólica y primacía cristocéntrica: La pregunta retórica elíptica τί γάρ; ('¿Qué importa, pues?') manifiesta la absoluta falta de vanagloria o rencor en Pablo. Contrapone πρόφασις (pretexto hipócrita o máscara de celo) con ἀλήθεια (verdad y convicción sincera). En la medida en que el contenido teológico del mensaje es el Cristo genuino (a diferencia de los judaizantes de Gálatas o Filipenses 3 que alteraban la sustancia del evangelio), la difusión de Cristo prima sobre los defectos éticos de los heraldos. Concluye con el estribillo victorioso: καὶ ἐν τούτῳ χαίρω· ἀλλὰ καὶ χαρήσομαι ('y en esto me gozo, y me seguiré gozando')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 19,
+    "greek_text": "οἶδα γὰρ ὅτι τοῦτό μοι ἀποβήσεται εἰς σωτηρίαν διὰ τῆς ὑμῶν δεήσεως καὶ ἐπιχορηγίας τοῦ πνεύματος Ἰησοῦ Χριστοῦ,",
+    "translation": "porque sé que esto resultará en mi liberación, mediante la oración de ustedes y la provisión del Espíritu de Jesucristo,",
+    "translation_notes": "Cita de Job 13:16 y el auxilio del Espíritu: La frase τοῦτό μοι ἀποβήσεται εἰς σωτηρίαν ('esto redundará para mi salvación/liberación') es una cita exacta de Job 13:16 LXX. En este contexto, σωτηρία abarca tanto su eventual absolución judicial física como su vindicación espiritual final ante Dios. Los dos medios humanos y divinos coordinados son: la oración intercesora de la iglesia (διὰ τῆς ὑμῶν δεήσεως) y la rica asistencia o suministro continuo (ἐπιχορηγία, término técnico en el griego clásico para la provisión munífica y generosa de los fondos de un coro cívico) provista por el Espíritu de Jesucristo."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 20,
+    "greek_text": "κατὰ τὴν ἀποκαραδοκίαν καὶ ἐλπίδα μου ὅτι ἐν οὐδενὶ αἰσχυνθήσομαι, ἀλλ’ ἐν πάσῃ παρρησίᾳ ὡς πάντοτε καὶ νῦν μεγαλυνθήσεται Χριστὸς ἐν τῷ σώματί μου, εἴτε διὰ ζωῆς εἴτε διὰ θανάτου.",
+    "translation": "conforme a mi anhelo ardiente y esperanza de que en nada seré avergonzado; sino que con todo denuedo, como siempre, también ahora Cristo será magnificado en mi cuerpo, sea por vida o por muerte.",
+    "translation_notes": "Apokaradokia, parresía y la magnificación de Cristo en el cuerpo: El sustantivo poco común ἀποκαραδοκία (apokaradokia, compuesto de ἀπό 'lejos', κάρα 'cabeza' y δοκεῖν 'mirar con atención', mirar con la cabeza extendida hacia adelante, en expectativa tensa y concentrada, cf. Rom 8:19) denota una esperanza ansiosa e inquebrantable. El término παρρησία (parrēsia) denota franqueza intrépida y libertad pública de expresión ante los magistrados sin cobardía procesal. La gloria de Cristo no se limita al alma abstracta: μεγαλυνθήσεται Χριστὸς ἐν τῷ σώματί μου ('Cristo será engrandecido en mi cuerpo material físico'), ya sea si sigue con vida para predicar o si derrama su sangre en el martirio por decapitación romana."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 21,
+    "greek_text": "ἐμοὶ γὰρ τὸ ζῆν Χριστὸς καὶ τὸ ἀποθανεῖν κέρδος.",
+    "translation": "Porque para mí el vivir es Cristo, y el morir es ganancia.",
+    "translation_notes": "El axioma existencial supremo: ἐμοὶ γὰρ τὸ ζῆν Χριστὸς καὶ τὸ ἀποθανεῖν κέρδος. La construcción sintáctica yuxtapone dos infinitivos sustantivados: τὸ ζῆν (el acto continuo de vivir físicamente) tiene como predicado y contenido absoluto a Χριστός (Cristo es la fuente, propósito, energía y consumación de la existencia); y τὸ ἀποθανεῖν (el acontecimiento puntual del morir biológico) se declara κέρδος (ganancia comercial o beneficio supremo), porque traslada inmediatamente al creyente a la comunión directa e ininterrumpida con el Señor resucitado."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 22,
+    "greek_text": "εἰ δὲ τὸ ζῆν ἐν σαρκί, τοῦτό μοι καρπὸς ἔργου— καὶ τί αἱρήσομαι οὐ γνωρίζω·",
+    "translation": "Pero si el vivir en la carne resulta para mí en fruto de labor, entonces no sé qué escoger.",
+    "translation_notes": "Anacoluto y fruto ministerial: Pablo emplea un anacoluto (ruptura en la estructura sintáctica ordinaria que refleja la emoción del pensamiento en debate íntimo). Vivir ἐν σαρκί (en la condición humana terrenal) representa καρπὸς ἔργου ('fruto fructífero de labor apostólica'). Ante la disyuntiva entre la ganancia personal del martirio y el servicio eclesial, exclama: καὶ τί αἱρήσομαι οὐ γνωρίζω ('y qué he de elegir, no lo sé con certeza')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 23,
+    "greek_text": "συνέχομαι δὲ ἐκ τῶν δύο, τὴν ἐπιθυμίαν ἔχων εἰς τὸ ἀναλῦσαι καὶ σὺν Χριστῷ εἶναι, πολλῷ γὰρ μᾶλλον κρεῖσσον,",
+    "translation": "Pues estoy bajo presión por ambos lados: tengo el deseo de partir y estar con Cristo, lo cual es muchísimo mejor;",
+    "translation_notes": "Sunejomai, la metáfora de levar anclas y la comunión post mórtem: El verbo συνέχομαι (synechomai, presente pasivo, estar aprisionado o presionado por dos fuerzas convergentes opuestas) describe el dilema existencial. Su anhelo profundo (ἐπιθυμία) se formula mediante el infinitivo ἀναλῦσαι (analysai, verbo náutico y militar que significa levar anclas para zarpar de un puerto, o desmantelar una tienda militar para emprender la marcha). La meta es σὺν Χριστῷ εἶναι ('estar con Cristo'), estado intermedio bienaventurado inmediato tras la muerte física, calificado con un triple comparativo intensivo: πολλῷ γὰρ μᾶλλον κρεῖσσον (pollō gar mallon kreisson, 'muchísimo más mejor / incomparablemente superior')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 24,
+    "greek_text": "τὸ δὲ ἐπιμένειν ἐν τῇ σαρκὶ ἀναγκαιότερον δι’ ὑμᾶς.",
+    "translation": "pero permanecer en la carne es más necesario por causa de ustedes.",
+    "translation_notes": "Primacía del amor pastoral y abnegación: El infinitivo presente ἐπιμένειν (permanecer en este mundo terrenal) es calificado de ἀναγκαιότερον (anankaioteron, comparativo de necesidad ineludible) δι’ ὑμᾶς ('por causa de ustedes'). Pablo subordina su propio descanso escatológico al bienestar y madurez espiritual de su comunidad de fe."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 25,
+    "greek_text": "καὶ τοῦτο πεποιθὼς οἶδα ὅτι μενῶ καὶ παραμενῶ πᾶσιν ὑμῖν εἰς τὴν ὑμῶν προκοπὴν καὶ χαρὰν τῆς πίστεως,",
+    "translation": "Y convencido de esto, sé que me quedaré y permaneceré junto a todos ustedes para su provecho y gozo de la fe,",
+    "translation_notes": "Certeza del servicio continuado: El juego de palabras verbal entre μενῶ (futuro de μένω, quedarme) y παραμενῶ (con el prefijo pará, permanecer al lado, prestar asistencia continua y acompañamiento cercano) resalta la dedicación del apóstol. El objetivo pastoral es doble: εἰς τὴν ὑμῶν προκοπὴν (prokopē, progreso, maduración doctrinal y moral) y χαρὰν τῆς πίστεως ('gozo engendrado por la fe')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 26,
+    "greek_text": "ἵνα τὸ καύχημα ὑμῶν περισσεύῃ ἐν Χριστῷ Ἰησοῦ ἐν ἐμοὶ διὰ τῆς ἐμῆς παρουσίας πάλιν πρὸς ὑμᾶς.",
+    "translation": "para que su motivo de gloria abunde en Cristo Jesús por causa de mí, mediante mi presencia de nuevo entre ustedes.",
+    "translation_notes": "Jactancia en Cristo y parusía apostólica: El término καύχημα (kauchēma) designa el gozoso motivo de orgullo y alabanza que la comunidad tiene en la fidelidad de Dios obrando en Cristo a través del ministerio de Pablo. El sustantivo παρουσία (parousia), empleado técnicamente tanto para la venida de un monarca o dignatario a una ciudad grecorromana como para la segunda venida escatológica de Cristo, se utiliza aquí humanamente para la visita personal física del apóstol de regreso a Filipos."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 27,
+    "greek_text": "Μόνον ἀξίως τοῦ εὐαγγελίου τοῦ Χριστοῦ πολιτεύεσθε, ἵνα εἴτε ἐλθὼν καὶ ἰδὼν ὑμᾶς εἴτε ἀπὼν ἀκούω τὰ περὶ ὑμῶν, ὅτι στήκετε ἐν ἑνὶ πνεύματι, μιᾷ ψυχῇ συναθλοῦντες τῇ πίστει τοῦ εὐαγγελίου,",
+    "translation": "Solamente compórtense como ciudadanos de una manera digna del evangelio de Cristo, para que, sea que vaya a verlos o que esté ausente, oiga acerca de ustedes que están firmes en un mismo espíritu, combatiendo unánimes con una sola alma por la fe del evangelio,",
+    "translation_notes": "El imperativo de ciudadanía celestial y combate atlético: El verbo πολιτεύεσθε (politeuesthe, presente imperativo medio de πολιτεύομαι) es una alusión sociopolítica directa a los habitantes de Filipos, quienes se jactaban de ser una colonia romana cuyos ciudadanos poseían los derechos de la metrópoli imperial. Pablo redefine su identidad cívica: 'Vivan como ciudadanos de la polis celestial de un modo digno del evangelio'. Demanda firmeza inquebrantable (στήκετε, estén firmes en guardia militar) ἐν ἑνὶ πνεύματι ('en un mismo espíritu') y μιᾷ ψυχῇ ('con una sola alma/mente'). El verbo compuesto συναθλοῦντες (synathlountes, de σύν y ἀθλέω, de donde proviene 'atleta') evoca a un equipo coordinado de atletas combatiendo codo a codo en la palestra o a soldados en falange romana luchando por la fe del evangelio."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 28,
+    "greek_text": "καὶ μὴ πτυρόμενοι ἐν μηδενὶ ὑπὸ τῶν ἀντικειμένων (ἥτις ἐστὶν αὐτοῖς ἔνδειξις ἀπωλείας, ὑμῶν δὲ σωτηρίας, καὶ τοῦτο ἀπὸ θεοῦ,",
+    "translation": "y no dejándose intimidar en nada por los adversarios, lo cual es para ellos señal evidente de perdición, pero para ustedes de salvación, y esto de parte de Dios;",
+    "translation_notes": "Sin intimidación ante los adversarios: El participio μὴ πτυρόμενοι (mē ptyromenoi, de πτύρομαι) es una metáfora de la caballería bélica que describe a caballos de guerra espantados o desbocados en el fragor de la batalla. Pablo exhorta a la comunidad a no entrar en pánico frente a οἱ ἀντικείμενοι (los perseguidores paganos locales o magistrados). Su serenidad imperturbable ante la hostilidad constituye una ἔνδειξις (prueba forense evidente y demostración concluyente) de la perdición escatológica (ἀπώλεια) de los opresores y de la salvación final (σωτηρία) de los creyentes, garantizada por Dios mismo (καὶ τοῦτο ἀπὸ θεοῦ)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 29,
+    "greek_text": "ὅτι ὑμῖν ἐχαρίσθη τὸ ὑπὲρ Χριστοῦ, οὐ μόνον τὸ εἰς αὐτὸν πιστεύειν ἀλλὰ καὶ τὸ ὑπὲρ αὐτοῦ πάσχειν),",
+    "translation": "porque a ustedes se les ha concedido por causa de Cristo, no solo el creer en él, sino también el sufrir por él,",
+    "translation_notes": "El don de la fe y el don del sufrimiento: El verbo pasivo divino ἐχαρίσθη (echaristhē, aoristo pasivo de χαρίζομαι, otorgar como regalo de pura gracia) redefine teológicamente el sufrimiento cristiano. El martirio o la persecución no son accidentes funestos ni derrotas, sino un privilegio y gracia divina (don otorgado gratuitamente, τὸ ὑπὲρ αὐτοῦ πάσχειν) colocado a la par del don fundante de la fe salvífica (τὸ εἰς αὐτὸν πιστεύειν)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 1,
+    "verse": 30,
+    "greek_text": "τὸν αὐτὸν ἀγῶνα ἔχοντες οἷον εἴδετε ἐν ἐμοὶ καὶ νῦν ἀκούετε ἐν ἐμοί.",
+    "translation": "teniendo el mismo combate que vieron en mí y que ahora oyen que está en mí.",
+    "translation_notes": "El agón apostólico compartido: El término ἀγών (agōn) designa tanto la lucha atlética en el estadio como el conflicto judicial o combate militar. Los filipenses fueron testigos presenciales del primer combate de Pablo cuando fue azotado y encarcelado en Filipos (Hch 16:19–24: οἷον εἴδετε ἐν ἐμοί); ahora participan solidariamente en el mismo agón al escuchar de su confinamiento y juicio imperial en cadenas (καὶ νῦν ἀκούετε ἐν ἐμοί)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 1,
+    "greek_text": "Εἴ τις οὖν παράκλησις ἐν Χριστῷ, εἴ τι παραμύθιον ἀγάπης, εἴ τις κοινωνία πνεύματος, εἴ τις σπλάγχνα καὶ οἰκτιρμοί,",
+    "translation": "Por tanto, si hay algún consuelo en Cristo, si algún consuelo de amor, si alguna comunión del Espíritu, si algún afecto entrañable y misericordias,",
+    "translation_notes": "Tetralogía condicional retórica: La serie de cuatro cláusulas condicionales de primera clase con Εἴ τις / εἴ τι (Ei tis / ei ti, que asumen la realidad incuestionable de lo afirmado: 'siendo así que hay...') apela a la experiencia fundante de la gracia. παράκλησις (paraklēsis) denota exhortación alentadora y consuelo eficaz en Cristo. παραμύθιον ἀγάπης (paramythion agapēs) alude a la persuasión consoladora y alivio que brota del amor divino y fraterno. κοινωνία πνεύματος (koinōnia pneumatos) puede entenderse objetivamente como participación comunitaria en el Espíritu Santo o subjetivamente como la comunión íntima generada por el Espíritu. σπλάγχνα καὶ οἰκτιρμοί (splanchna kai oiktirmoi) conjuga el amor visceral y compasivo con actos concretos de tierna piedad."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 2,
+    "greek_text": "πληρώσατέ μου τὴν χαρὰν ἵνα τὸ αὐτὸ φρονῆτε, τὴν αὐτὴν ἀγάπην ἔχοντες, σύμψυχοι, τὸ ἓν φρονοῦντες,",
+    "translation": "completen mi gozo, para que sientan lo mismo, teniendo el mismo amor, unánimes en alma, sintiendo una misma cosa.",
+    "translation_notes": "Llamado a la armonía y sympsychos: El imperativo aoristo πληρώσατέ μου τὴν χαρὰν ('hagan pleno / colmen mi gozo') introduce la meta de la unidad eclesial. Pablo despliega cuatro expresiones coordinadas de sinfonía espiritual: τὸ αὐτὸ φρονῆτε (pensar / sentir lo mismo con la misma brújula teológica), τὴν αὐτὴν ἀγάπην ἔχοντες (manteniendo un amor mutuo recíproco sin favoritismos), σύμψυχοι (sympsychoi, hapax legomenon paulino: 'armónicos de alma', viviendo en perfecta sintonía anímica e interior), y τὸ ἓν φρονοῦντες ('enfocados en un solo y mismo propósito')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 3,
+    "greek_text": "μηδὲν κατ’ ἐριθείαν μηδὲ κατὰ κενοδοξίαν, ἀλλὰ τῇ ταπεινοφροσύνῃ ἀλλήλους ἡγούμενοι ὑπερέχοντας ἑαυτῶν,",
+    "translation": "Nada hagan por ambición personal ni por vanagloria; antes bien, con humildad, estimando cada uno a los demás como superiores a sí mismos;",
+    "translation_notes": "Eritheia, kenodoxia y tapeinofrosyne: Pablo condena dos vicios letales para la comunidad: ἐριθεία (eritheia, rivalidad facciosa, partidismo egoísta) y κενοδοξία (kenodoxia, vanagloria, presunción hueca de honor terrenal). En contraste, propone τῇ ταπεινοφροσύνῃ (tapeinophrosynē, dativo instrumental: 'con humildad de mente'). En el mundo grecorromano aristocrático, el término tapeinós era peyorativo y denotaba la vileza de un esclavo o la bajeza de un cobarde; el cristianismo subvierte radicalmente este valor ético, elevando la humildad voluntaria a virtud suprema a imagen de Cristo. El participio ἡγούμενοι rige ὑπερέχοντας ἑαυτῶν: considerar activamente a los hermanos como dignos de mayor deferencia y prioridad que uno mismo."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 4,
+    "greek_text": "μὴ τὰ ἑαυτῶν ἕκαστοι σκοποῦντες, ἀλλὰ καὶ τὰ ἑτέρων ἕκαστοι.",
+    "translation": "no mirando cada uno solo por lo suyo propio, sino también cada uno por lo de los demás.",
+    "translation_notes": "Altruismo comunitario activo: El participio presente σκοποῦντες (de σκοπέω, fijar la mirada, tener como blanco u objetivo de atención constante) prohíbe el individualismo egocéntrico. No se trata meramente de desatender las responsabilidades personales, sino de descentrarse activamente para atender los intereses, necesidades y cargas de los otros miembros del cuerpo (τὰ ἑτέρων ἕκαστοι)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 5,
+    "greek_text": "τοῦτο φρονεῖτε ἐν ὑμῖν ὃ καὶ ἐν Χριστῷ Ἰησοῦ,",
+    "translation": "Hayan en ustedes este mismo sentir que hubo también en Cristo Jesús,",
+    "translation_notes": "Introducción al Carmen Christi: El imperativo presente τοῦτο φρονεῖτε ἐν ὑμῖν ('Tengan entre ustedes esta disposición interior / cultiven esta actitud') articula el modelo paradigmático que gobierna la ética cristiana. La frase elíptica ὃ καὶ ἐν Χριστῷ Ἰησοῦ puede traducirse tanto 'la cual hubo también en Cristo Jesús' (Cristo como modelo ético e histórico supremo) como 'que corresponde a quienes están en Cristo Jesús' (la nueva realidad ontológica de la existencia eclesial incorporada en el Señor exaltado)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 6,
+    "greek_text": "ὃς ἐν μορφῇ θεοῦ ὑπάρχων οὐχ ἁρπαγμὸν ἡγήσατο τὸ εἶναι ἴσα θεῷ,",
+    "translation": "el cual, existiendo en forma de Dios, no consideró el ser igual a Dios como algo a qué aferrarse,",
+    "translation_notes": "Preexistencia divina y ouch harpagmon: Apertura del célebre himno cristológico (vv. 6–11). El participio presente ὑπάρχων (hyparchōn) denota existencia continua e intrínseca previa a la encarnación. La frase ἐν μορφῇ θεοῦ (en morphē theou) alude a la naturaleza esencial, condición y gloria visible de la divinidad (no a un mero ropaje exterior accidental). La expresión οὐχ ἁρπαγμὸν ἡγήσατο τὸ εἶναι ἴσα θεῷ encierra uno de los debates filológicos más célebres: ἁρπαγμός (harpagmos, de ἁρπάζω, arrebatar violentamente). Los padres griegos y la exégesis moderna distinguen entre sentido activo ('presa a ser arrebatada') y sentido pasivo-idiomático (res rapienda o res retinenda: 'un botín para retener vorazmente'). Cristo, poseyendo la igualdad plena con Dios (τὸ εἶναι ἴσα θεῷ), no la usó con codicia para auto-engrandecimiento egoísta, sino que actuó en radical desprendimiento altruista."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 7,
+    "greek_text": "ἀλλὰ ἑαυτὸν ἐκένωσεν μορφὴν δούλου λαβών, ἐν ὁμοιώματι ἀνθρώπων γενόμενος· καὶ σχήματι εὑρεθεὶς ὡς ἄνθρωπος",
+    "translation": "sino que se despojó a sí mismo, tomando forma de siervo, haciéndose semejante a los hombres; y hallándose en condición como hombre,",
+    "translation_notes": "La Kénosis y la encarnación: El verbo ἑαυτὸν ἐκένωσεν (aoristo activo de κενόω, vaciar, despojar de privilegios o prerrogativas visibles de soberanía, origen del término teológico 'Kénosis') no implica la abdicación de su deidad intrínseca, sino la renuncia voluntaria al estatus de gloria divina independiente. Este despojo se explica mediante dos participios modales concurrentes: μορφὴν δούλου λαβών ('tomando forma esencial de esclavo/siervo', identificándose con la condición servil del Siervo de Yahvé en Isaías 52:13–53:12) y ἐν ὁμοιώματι ἀνθρώπων γενόμενος ('llegando a ser en semejanza de los hombres', asumiendo la auténtica humanidad histórica). La frase καὶ σχήματι εὑρεθεὶς ὡς ἄνθρωπος subraya que en su apariencia exterior y condición empírica humana (σχῆμα, a diferencia de μορφή que es la esencia permanente) fue plenamente reconocido como un ser humano entre sus contemporáneos."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 8,
+    "greek_text": "ἐταπείνωσεν ἑαυτὸν γενόμενος ὑπήκοος μέχρι θανάτου, θανάτου δὲ σταυροῦ·",
+    "translation": "se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz.",
+    "translation_notes": "Humillación suprema y el escándalo de la cruz: El verbo ἐταπείνωσεν ἑαυτόν ('se humilló a sí mismo') profundiza el descenso: no solo asumió la naturaleza humana, sino que abrazó la obediencia incondicional al Padre: γενόμενος ὑπήκοος μέχρι θανάτου ('haciéndose obediente hasta el punto de la muerte'). La aposición enfática θανάτου δὲ σταυροῦ ('¡y muerte de cruz!') introduce el punto culminante del escándalo: la crucifixión no era solo una muerte atrozmente dolorosa, sino el suplicio romano más degradante e infamante (mors turpissima), reservado a los esclavos rebeldes y repudiado bajo maldición en la Ley judía (Dt 21:23; Gál 3:13)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 9,
+    "greek_text": "διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα,",
+    "translation": "Por lo cual también Dios lo exaltó hasta lo sumo, y le otorgó el nombre que es sobre todo nombre,",
+    "translation_notes": "La sobreexaltación divina: La conjunción διὸ καί ('Por lo cual también') marca el giro teocéntrico del himno: la acción pasa de la autohumillación del Hijo a la vindicación del Padre. El verbo compuesto ὑπερύψωσεν (hyperypsōsen, aoristo activo de ὑπερυψόω, elevar a la cúspide suprema de soberanía cósmica) denota una exaltación incomparable que supera toda medida. El verbo de gracia divina ἐχαρίσατο ('le concedió / confirió soberanamente') otorga τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα: el Nombre supremo que trasciende a toda dignidad celestial o terrenal, que en la teología bíblica judía es el Nombre inefable de Yahvé revelado en la soberanía de Adonay / Kyrios."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 10,
+    "greek_text": "ἵνα ἐν τῷ ὀνόματι Ἰησοῦ πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων,",
+    "translation": "para que en el nombre de Jesús se doble toda rodilla de los que están en los cielos, y en la tierra, y debajo de la tierra,",
+    "translation_notes": "Adoración cósmica universal e Isaías 45:23: La cláusula de propósito ἵνα ἐν τῷ ὀνόματι Ἰησοῦ πᾶν γόνυ κάμψῃ ('para que ante el Nombre conferido a Jesús toda rodilla se doble') cita e interpreta cristológicamente el juramento monoteísta supremo de Isaías 45:23 ('Por mí mismo he jurado... que a mí se doblará toda rodilla, y jurará toda lengua'). La soberanía de Jesús abarca la totalidad cósmica tripartita de los seres creados: ἐπουρανίων (ángeles y potestades celestiales), ἐπιγείων (seres humanos vivientes en la tierra) y καταχθονίων (los muertos en el Seol / Hades o espíritus bajo la tierra)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 11,
+    "greek_text": "καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς Χριστὸς εἰς δόξαν θεοῦ πατρός.",
+    "translation": "y toda lengua confiese que Jesucristo es el Señor, para gloria de Dios Padre.",
+    "translation_notes": "La aclamación Kyrios Iēsous Christos: La consumación oracular del himno establece que πᾶσα γλῶσσα ἐξομολογήσηται ('toda lengua proclame / confiese públicamente'). La confesión de fe fundamental y revolucionaria del cristianismo primitivo es: κύριος Ἰησοῦς Χριστός ('¡Jesucristo es el Señor!'). En una colonia romana imperial donde la confesión cívica obligatoria era 'César es el señor' (Kaisar Kyrios), declarar a Jesús como el único Kyrios cósmico constituía tanto una subversión teológica radical del culto al emperador como la adscripción a Jesús del Nombre sagrado de Yahvé de la Septuaginta. La meta final de esta soberanía cristocéntrica es estrictamente teocéntrica: εἰς δόξαν θεοῦ πατρός ('para gloria de Dios el Padre')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 12,
+    "greek_text": "Ὥστε, ἀγαπητοί μου, καθὼς πάντοτε ὑπηκούσατε, μὴ ὡς ἐν τῇ παρουσίᾳ μου μόνον ἀλλὰ νῦν πολλῷ μᾶλλον ἐν τῇ ἀπουσίᾳ μου, μετὰ φόβου καὶ τρόμου τὴν ἑαυτῶν σωτηρίαν κατεργάζεσθε,",
+    "translation": "De modo que, amados míos, así como siempre han obedecido, no como en mi presencia solamente, sino ahora mucho más en mi ausencia, lleven a cabo su propia salvación con temor y temblor;",
+    "translation_notes": "Llevar a cabo la salvación con temor y temblor: La conjunción deductiva Ὥστε ('Por tanto') traslada la teología cósmica del himno a la responsabilidad comunitaria. El imperativo presente medio κατεργάζεσθε (katergazesthe, de κατεργάζομαι, trabajar a fondo, poner en práctica, desarrollar plenamente hasta su consumación) rige τὴν ἑαυτῶν σωτηρίαν ('su propia salvación comunitaria e individual'). La actitud requerida es μετὰ φόβου καὶ τρόμου ('con temor y temblor'), un hebraísmo tradicional que no expresa pánico paralizante, sino asombro reverente y reverencia extrema ante la santidad y majestad de un Dios operante en medio de su pueblo (cf. Sal 2:11; Is 19:16; 1 Cor 2:3)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 13,
+    "greek_text": "θεὸς γάρ ἐστιν ὁ ἐνεργῶν ἐν ὑμῖν καὶ τὸ θέλειν καὶ τὸ ἐνεργεῖν ὑπὲρ τῆς εὐδοκίας.",
+    "translation": "porque Dios es el que produce en ustedes tanto el querer como el hacer, para su beneplácito.",
+    "translation_notes": "Sinergismo y la soberanía de la energía divina: La conjunción explicativa θεὸς γάρ ἐστιν ὁ ἐνεργῶν ἐν ὑμῖν ('porque Dios es quien opera / actúa eficazmente en ustedes') fundamenta la exhortación del versículo 12. El participio ὁ ἐνεργῶν (de ἐνεργέω, suministrar energía y poder causal eficaz) abarca dos dimensiones psíquicas y prácticas de la vida humana: τὸ θέλειν (la volición, el deseo y anhelo interior de la voluntad) y τὸ ἐνεργεῖν (la ejecución activa y puesta por obra). Toda iniciativa y perseverancia moral del creyente proviene de la gracia previa de Dios, guiada por ὑπὲρ τῆς εὐδοκίας ('conforme a su buena voluntad soberana y beneplácito redentor')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 14,
+    "greek_text": "Πάντα ποιεῖτε χωρὶς γογγυσμῶν καὶ διαλογισμῶν,",
+    "translation": "Hagan todas las cosas sin murmuraciones ni discusiones,",
+    "translation_notes": "Proscripción de murmuraciones del éxodo: El imperativo Πάντα ποιεῖτε ('Hagan todas las cosas') veta dos conductas corrosivas: χωρὶς γογγυσμῶν (gongysmōn, murmuraciones quejosas en voz baja) y διαλογισμῶν (dialogismōn, disputas escépticas, altercados intelectuales o litigios amargos). La palabra γογγυσμός alude a la rebelión y murmuración de Israel en el desierto contra Moisés y Dios (Éx 16:7–8; Nm 14:27; 1 Cor 10:10)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 15,
+    "greek_text": "ἵνα γένησθε ἄμεμπτοι καὶ ἀκέραιοι, τέκνα θεοῦ ἄμωμα μέσον γενεᾶς σκολιᾶς καὶ διεστραμμένης, ἐν οἷς φαίνεσθε ὡς φωστῆρες ἐν κόσμῳ",
+    "translation": "para que sean irreprensibles y sencillos, hijos de Dios sin mancha en medio de una generación torcida y depravada, en la cual resplandecen como luminares en el mundo,",
+    "translation_notes": "Luminares en medio de la generación perversa: La meta es ser ἄμεμπτοι (irreprochables ante el juicio externo), ἀκέραιοι (puros, inocentes, sin mezclas corruptoras) y ἄμωμα (sin tacha sacrificial, Éx 12:5). Pablo alude a Deuteronomio 32:5 ('generación torcida y perversa', γενεὰ σκολιὰ καὶ διεστραμμένη), pero transforma a la iglesia en antítesis fiel: ἐν οἷς φαίνεσθε ὡς φωστῆρες ἐν κόσμῳ. El término φωστήρ (phōstēr) designa los cuerpos celestes (estrellas y constelaciones, Gn 1:14–16 LXX; Dan 12:3) que alumbran en la oscuridad de la noche, simbolizando el testimonio radiante de la santidad cristiana en una sociedad pagana desorientada."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 16,
+    "greek_text": "λόγον ζωῆς ἐπέχοντες, εἰς καύχημα ἐμοὶ εἰς ἡμέραν Χριστοῦ, ὅτι οὐκ εἰς κενὸν ἔδραμον οὐδὲ εἰς κενὸν ἐκοπίασα.",
+    "translation": "asidos de la palabra de vida, para que en el día de Cristo yo tenga motivo de gloria, de que no corrí en vano ni en vano trabajé duramente.",
+    "translation_notes": "La palabra de vida y la metáfora atlética: El participio λόγον ζωῆς ἐπέχοντες puede entenderse como 'manteniendo firme la palabra de vida' (aferrándose a la verdad del evangelio) o 'sosteniendo y ofreciendo la palabra de vida' (proclamándola al mundo como antorcha). La perspectiva escatológica es εἰς καύχημα ἐμοὶ εἰς ἡμέραν Χριστοῦ ('para motivo de orgullo gozoso en el día de Cristo'). Pablo utiliza dos metáforas paulinas clásicas de esfuerzo supremo: la carrera atlética en el estadio (οὐκ εἰς κενὸν ἔδραμον, 'no corrí en vano', Gál 2:2) y el trabajo manual extenuante hasta el agotamiento físico (οὐδὲ εἰς κενὸν ἐκοπίασα, de κοπιάω)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 17,
+    "greek_text": "ἀλλὰ εἰ καὶ σπένδομαι ἐπὶ τῇ θυσίᾳ καὶ λειτουργίᾳ τῆς πίστεως ὑμῶν, χαίρω καὶ συγχαίρω πᾶσιν ὑμῖν·",
+    "translation": "Y aunque sea derramado como libación sobre el sacrificio y servicio sacerdotal de la fe de ustedes, me alegro y me regocijo con todos ustedes.",
+    "translation_notes": "La libación sacrificial: El verbo metafórico σπένδομαι (spendoumai, presente pasivo de σπένδω, derramar una ofrenda de libación de vino sobre un sacrificio) alude tanto al ritual judío del Templo (Nm 15:5, 10; 28:7) como a los sacrificios paganos de la época. Pablo visualiza la fe viva y el servicio fiel de los filipenses como el gran holocausto litúrgico sacrificial (θυσία καὶ λειτουργία); si su propio martirio inminente ha de coronar ese sacrificio como la copa de vino derramada sobre el altar, no hay tristeza sino júbilo: χαίρω καὶ συγχαίρω πᾶσιν ὑμῖν ('me alegro y comparto mi alegría con todos ustedes')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 18,
+    "greek_text": "τὸ δὲ αὐτὸ καὶ ὑμεῖς χαίρετε καὶ συγχαίρετέ μοι.",
+    "translation": "Y de la misma manera, también ustedes alégrense y regocíjense conmigo.",
+    "translation_notes": "Alegría recíproca compartida: Concluye la sección con los imperativos recíprocos paralelos: τὸ δὲ αὐτὸ καὶ ὑμεῖς χαίρετε καὶ συγχαίρετέ μοι ('alégrense asimismo y compartan su gozo conmigo'), uniendo a la comunidad y al apóstol en una comunión festiva que supera el espectro de la muerte física."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 19,
+    "greek_text": "Ἐλπίζω δὲ ἐν κυρίῳ Ἰησοῦ Τιμόθεον ταχέως πέμψαι ὑμῖν, ἵνα κἀγὼ εὐψυχῶ γνοὺς τὰ περὶ ὑμῶν.",
+    "translation": "Pero espero en el Señor Jesús enviarles pronto a Timoteo, para que yo también esté de buen ánimo al conocer el estado de ustedes.",
+    "translation_notes": "Misión de Timoteo y ánimo pastoral: Pablo supedita sus planes misioneros a la soberanía divina: Ἐλπίζω δὲ ἐν κυρίῳ Ἰησοῦ ('Espero en el Señor Jesús'). El envío de Timoteo tiene por propósito confortar el corazón del apóstol: ἵνα κἀγὼ εὐψυχῶ (verbo εὐψυχέω, tener buen ánimo, estar reconfortado y en paz psicológica y espiritual) al recibir noticias fidedignas de la comunidad."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 20,
+    "greek_text": "οὐδένα γὰρ ἔχω ἰσόψυχον ὅστις γνησίως τὰ περὶ ὑμῶν μεριμνήσει,",
+    "translation": "Pues a nadie tengo del mismo sentir, que sinceramente se preocupe por el bienestar de ustedes;",
+    "translation_notes": "El testimonio de Timoteo como isópsyjos: El adjetivo ἰσόψυχος (isopsychos, de ἴσος 'igual' y ψυχή 'alma', alma gemela, alguien que siente e interactúa con el mismo corazón pastoral de Pablo, cf. Sal 55:13 LXX). El adverbio γνησίως (gnēsiōs, de manera genuina, legítima, sin doblez ni interés personal) califica su solicitud pastoral: μεριμνήσει (se desvelará con auténtico celo por sus necesidades espirituales)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 21,
+    "greek_text": "οἱ πάντες γὰρ τὰ ἑαυτῶν ζητοῦσιν, οὐ τὰ Ἰησοῦ Χριστοῦ.",
+    "translation": "porque todos buscan sus propios intereses, no los de Jesucristo.",
+    "translation_notes": "Crítica a la apatía ministerial egoísta: Una dolorosa constatación del apóstol: οἱ πάντες γὰρ τὰ ἑαυτῶν ζητοῦσιν ('pues todos buscan sus propios intereses'). La mayoría de los líderes o colaboradores cercanos priorizaban su propia seguridad, comodidad o proyectos personales por encima de la causa del evangelio: οὐ τὰ Ἰησοῦ Χριστοῦ ('no las cosas de Jesucristo')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 22,
+    "greek_text": "τὴν δὲ δοκιμὴν αὐτοῦ γινώσκετε, ὅτι ὡς πατρὶ τέκνον σὺν ἐμοὶ ἐδούλευσεν εἰς τὸ εὐαγγέλιον.",
+    "translation": "Pero la probada fidelidad de él la conocen, que como hijo a padre ha servido conmigo en el evangelio.",
+    "translation_notes": "Dokimé y relación filial en el ministerio: El sustantivo δοκιμή (dokimē) denota el carácter probado, la integridad aquilatada tras someterse a prueba como el metal en el fuego. La metáfora familiar ὡς πατρὶ τέκνον σὺν ἐμοὶ ἐδούλευσεν ('como hijo a padre sirvió como esclavo conmigo para el avance del evangelio') retrata el discipulado apostólico de Timoteo, quien acompañó a Pablo desde Listra (Hch 16:1–3) con lealtad filial incondicional."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 23,
+    "greek_text": "τοῦτον μὲν οὖν ἐλπίζω πέμψαι ὡς ἂν ἀφίδω τὰ περὶ ἐμὲ ἐξαυτῆς·",
+    "translation": "Así que espero enviar a este en cuanto vea cómo van mis asuntos;",
+    "translation_notes": "Expectativa del desenlace procesal: La expresión temporal ὡς ἂν ἀφίδω τὰ περὶ ἐμέ ('tan pronto como vislumbre / vea el giro que toman mis circunstancias') revela que el juicio legal imperial de Pablo ha entrado en una fase decisiva; tan pronto conozca el veredicto del tribunal del César, despachará a Timoteo con el reporte definitivo."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 24,
+    "greek_text": "πέποιθα δὲ ἐν κυρίῳ ὅτι καὶ αὐτὸς ταχέως ἐλεύσομαι.",
+    "translation": "y confío en el Señor que yo mismo también iré pronto.",
+    "translation_notes": "Confianza en la liberación inminente: El verbo πέποιθα (perfecto con sentido de presente firme, 'estoy confiado / persuadido') ἐν κυρίῳ fundamenta su expectativa de que no será ejecutado en esta instancia, sino absuelto para poder visitar nuevamente la congregación en Macedonia (καὶ αὐτὸς ταχέως ἐλεύσομαι)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 25,
+    "greek_text": "Ἀναγκαῖον δὲ ἡγησάμην Ἐπαφρόδιτον τὸν ἀδελφὸν καὶ συνεργὸν καὶ συστρατιώτην μου, ὑμῶν δὲ ἀπόστολον καὶ λειτουργὸν τῆς χρείας μου, πέμψαι πρὸς ὑμᾶς,",
+    "translation": "Sin embargo, consideré necesario enviarles a Epafrodito, mi hermano, colaborador y compañero de milicia, y delegado de ustedes y servidor de mi necesidad,",
+    "translation_notes": "Los cinco títulos honoríficos de Epafrodito: Epafrodito (Ἐπαφρόδιτος, nombre de raíz griega consagrado a Afrodita, popular entre libertos romanos) era el emisario enviado por la iglesia filipense con la ayuda económica carcelaria (4:18). Pablo lo honra acumulando cinco títulos de ascendente jerarquía relacional y ministerial: 1) τὸν ἀδελφόν (hermano en la fe del nuevo pacto); 2) συνεργόν (colaborador activo en la misión); 3) συστρατιώτην (compañero de armas en el combate espiritual); 4) ὑμῶν δὲ ἀπόστολον (apóstolos de ustedes, en su sentido etimológico de delegado formal y plenipotenciario de la iglesia); y 5) λειτουργόν (ministro/servidor cúltico que suministró la ofrenda para aliviar la penuria del apóstol en prisión)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 26,
+    "greek_text": "ἐπειδὴ ἐπιποθῶν ἦν πάντας ὑμᾶς, καὶ ἀδημονῶν διότι ἠκούσατε ὅτι ἠσθένησεν.",
+    "translation": "puesto que él estaba anhelando verlos a todos ustedes, y estaba profundamente angustiado porque ustedes habían oído que había enfermado.",
+    "translation_notes": "La angustia afectiva de Epafrodito: El participio ἀδημονῶν (adēmonōn, de ἀδημονέω, estar profundamente angustiado, sobrecogido de pavor o desconsuelo, el mismo verbo utilizado para describir la agonía de Jesús en Getsemaní en Mt 26:37) revela la nobleza de Epafrodito: su mayor dolor no era su propia dolencia física, sino el pesar que causaría en su amada iglesia local la noticia de su enfermedad terminal."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 27,
+    "greek_text": "καὶ γὰρ ἠσθένησεν παραπλήσιον θανάτῳ· ἀλλὰ ὁ θεὸς ἠλέησεν αὐτόν, οὐκ αὐτὸν δὲ μόνον ἀλλὰ καὶ ἐμέ, ἵνα μὴ λύπην ἐπὶ λύπην σχῶ.",
+    "translation": "Pues en verdad estuvo enfermo a punto de morir; pero Dios tuvo misericordia de él, y no solo de él, sino también de mí, para que yo no tuviera tristeza sobre tristeza.",
+    "translation_notes": "Cercanía de la muerte y compasión divina: La gravedad se describe con παραπλήσιον θανάτῳ ('al borde de la muerte / rozando la muerte'). La recuperación se atribuye a la misericordia soberana de Dios (ὁ θεὸς ἠλέησεν αὐτόν). Pablo reconoce con profunda humanidad su propia vulnerabilidad emocional ante el dolor: Dios tuvo misericordia de mí 'para que no tuviera tristeza sobre tristeza' (ἵνα μὴ λύπην ἐπὶ λύπην σχῶ), ahorrándole el duelo por su fiel compañero en medio del confinamiento carcelario."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 28,
+    "greek_text": "σπουδαιοτέρως οὖν ἔπεμψα αὐτὸν ἵνα ἰδόντες αὐτὸν πάλιν χαρῆτε κἀγὼ ἀλυπότερος ὦ.",
+    "translation": "Así que lo envío con mayor urgencia, para que al verlo de nuevo se alegren, y yo esté menos triste.",
+    "translation_notes": "Envío urgente y alivio pastoral: El adverbio comparativo σπουδαιοτέρως (spoudaioterōs, con mayor prontitud y diligencia solícita) explica el despacho inmediato de la carta con Epafrodito en mano. El adjetivo ἀλυπότερος (alypoteros, comparativo de ἄλυπος, 'menos triste / libre de ansiedad') muestra cómo el gozo restaurado de la comunidad filipense alivia directamente el peso del corazón del apóstol."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 29,
+    "greek_text": "προσδέχεσθε οὖν αὐτὸν ἐν κυρίῳ μετὰ πάσης χαρᾶς, καὶ τοὺς τοιούτους ἐντίμους ἔχετε,",
+    "translation": "Recíbanlo, pues, en el Señor con todo gozo, y tengan en alta estima a hombres como él;",
+    "translation_notes": "Acogida honorable de los héroes del evangelio: El imperativo προσδέχεσθε (recíbanlo con cordial bienvenida en la comunión del Señor) se acompaña de la orden ética: καὶ τοὺς τοιούτους ἐντίμους ἔχετε ('y tengan a hombres semejantes en alta honra / considérenlos de inestimable valor'). En una sociedad grecorromana que otorgaba estatus e inmunidades civiles a los ricos y patricios, Pablo enseña a la iglesia a conferir el máximo honor a aquellos que arriesgan su vida por Cristo."
+  },
+  {
+    "book": "PHP",
+    "chapter": 2,
+    "verse": 30,
+    "greek_text": "ὅτι διὰ τὸ ἔργον Χριστοῦ μέχρι θανάτου ἤγγισεν, παραβολευσάμενος τῇ ψυχῇ ἵνα ἀναπληρώσῃ τὸ ὑμῶν ὑστέρημα τῆς πρός με λειτουργίας.",
+    "translation": "porque por la obra de Cristo estuvo a punto de morir, arriesgando su vida para suplir lo que faltaba en el servicio de ustedes hacia mí.",
+    "translation_notes": "Paraboleuomai y el juego heroico de la vida: El texto describe el heroísmo de Epafrodito: hasta el umbral de la muerte se acercó (μέχρι θανάτου ἤγγισεν). El participio παραβολευσάμενος τῇ ψυχῇ (paraboleusamenos tē psychē, del verbo παραβολεύομαι, apostar, jugarse la vida como en un juego de azar, arriesgar temerariamente la propia existencia por amor) evoca a los parabolei o 'parabolanos', aquellos creyentes de la iglesia primitiva que arriesgaban su vida para atender a los enfermos contagiosos durante las pestes y sepultar a los mártires. Su sacrificio cumplió un propósito sagrado: ἀναπληρώσῃ τὸ ὑμῶν ὑστέρημα ('completar lo que la distancia física impedía a los filipenses hacer personalmente') en su servicio ministerial (λειτουργία) hacia el prisionero de Cristo."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 1,
+    "greek_text": "Τὸ λοιπόν, ἀδελφοί μου, χαίρετε ἐν κυρίῳ. τὰ αὐτὰ γράφειν ὑμῖν ἐμοὶ μὲν οὐκ ὀκνηρόν, ὑμῖν δὲ ἀσφαλές.",
+    "translation": "Por lo demás, hermanos míos, regocíjense en el Señor. Escribirles las mismas cosas a mí no me es gravoso, y para ustedes es seguro.",
+    "translation_notes": "Transición y seguridad doctrinal: Τὸ λοιπόν (To loipon, locución de transición 'Por lo demás' o 'En cuanto a lo que resta'). El imperativo χαίρετε ἐν κυρίῳ reitera el gozo radicado exclusivamente en el Señorío de Cristo frente a la hostilidad mundana. Pablo defiende la repetición pedagógica de sus advertencias: οὐκ ὀκνηρόν (no me es molesto ni gravoso) y para la comunidad es ἀσφαλές (asphales, de ἀ- privativo y σφάλλω 'hacer caer', algo que proporciona firmeza, protección y seguridad contra el tropiezo doctrinal)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 2,
+    "greek_text": "Βλέπετε τοὺς κύνας, βλέπετε τοὺς κακοὺς ἐργάτας, βλέπετε τὴν κατατομήν.",
+    "translation": "¡Cuídense de los perros! ¡Cuídense de los malos obreros! ¡Cuídense de la mutilación!",
+    "translation_notes": "Triple anáfora de advertencia y sátira contra los judaizantes: El imperativo presente activo triple Βλέπετε (Blepete, 'miren con cautela / guárdense de / abran los ojos ante') ataca con ferocidad retórica a los misioneros judaizantes. 1) τοὺς κύνας ('los perros'): invierte audazmente el insulto que los judíos tradicionalistas aplicaban a los gentiles considerados ritualmente impuros, aplicándoselo ahora a los propagandistas legalistas; 2) τοὺς κακοὺς ἐργάτας ('los malos obreros'): denuncia a quienes pretenden ser ministros de la circuncisión pero son destructores de la gracia; 3) τὴν κατατομήν (tēn katatomēn, hapax legomenon, 'la mutilación / concisión'): juego de palabras cáustico contra la circuncisión (περιτομή, peritomē, corte alrededor pactal); Pablo degrada la circuncisión ritual impuesta a los gentiles al nivel de una mutilación carnal pagana ilícita (κατατομή, incisión o castración idolátrica prohibida en Lv 21:5 y 1 Re 18:28)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 3,
+    "greek_text": "ἡμεῖς γάρ ἐσμεν ἡ περιτομή, οἱ πνεύματι θεοῦ λατρεύοντες καὶ καυχώμενοι ἐν Χριστῷ Ἰησοῦ καὶ οὐκ ἐν σαρκὶ πεποιθότες,",
+    "translation": "Porque nosotros somos la verdadera circuncisión, los que servimos en el Espíritu de Dios y nos gloriamos en Cristo Jesús, y no tenemos confianza en la carne,",
+    "translation_notes": "La verdadera circuncisión y la triple marca de identidad: ἡμεῖς γάρ ἐσμεν ἡ περιτομή ('Porque nosotros somos la circuncisión'). La verdadera circuncisión es la interior y espiritual del corazón (Dt 10:16; 30:6; Jer 4:4; Rom 2:28–29). Se define por tres participios: 1) οἱ πνεύματι θεοῦ λατρεύοντες (los que rinden culto sacrificial y litúrgico en el Espíritu de Dios, no según el código de la letra ceremonial caduca); 2) καυχώμενοι ἐν Χριστῷ Ἰησοῦ (los que tienen como único motivo de jactancia y gloria al Mesías Jesús); 3) οὐκ ἐν σαρκὶ πεποιθότες (los que no depositan su confianza en la 'carne', σάρξ, entendida teológicamente como prerrogativas genealógicas, estatus étnico o méritos rituales externos)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 4,
+    "greek_text": "καίπερ ἐγὼ ἔχων πεποίθησιν καὶ ἐν σαρκί. Εἴ τις δοκεῖ ἄλλος πεποιθέναι ἐν σαρκί, ἐγὼ μᾶλλον·",
+    "translation": "aunque yo mismo tengo motivos de confianza aun en la carne. Si algún otro cree tener de qué confiar en la carne, yo más:",
+    "translation_notes": "El desafío apologético de Pablo: Pablo demuestra que su renuncia al legalismo no surge de resentimiento o inferioridad social, sino de una posición de eminencia judía insuperable: καίπερ ἐγὼ ἔχων πεποίθησιν καὶ ἐν σαρκί ('aunque yo mismo poseo base para confiar en la carne'). Retira el argumento a sus adversarios: Εἴ τις δοκεῖ ἄλλος πεποιθέναι ἐν σαρκί, ἐγὼ μᾶλλον ('Si cualquier otro presume de títulos carnales, yo le aventajo')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 5,
+    "greek_text": "περιτομῇ ὀκταήμερος, ἐκ γένους Ἰσραήλ, φυλῆς Βενιαμίν, Ἑβραῖος ἐξ Ἑβραίων, κατὰ νόμον Φαρισαῖος,",
+    "translation": "circuncidado al octavo día, del linaje de Israel, de la tribu de Benjamín, hebreo de hebreos; en cuanto a la Ley, fariseo;",
+    "translation_notes": "El heptálogo de credenciales judías (parte 1: privilegios heredados y lealtad legal): 1) περιτομῇ ὀκταήμερος (circuncidado estrictamente al octavo día según el mandato de Gn 17:12 y Lv 12:3, no un prosélito tardío ni un ismaelita); 2) ἐκ γένους Ἰσραήλ (de la raza pura del patriarca Jacob, miembro del pueblo del pacto); 3) φυλῆς Βενιαμίν (de la tribu noble que dio a Saúl el primer rey de Israel, la única fiel a la dinastía davídica junto a Judá tras el cisma monárquico); 4) Ἑβραῖος ἐξ Ἑβραίων (hebreo nacido de padres hebreos, que conservó la lengua semítica materna y las costumbres ancestrales en la diáspora); 5) κατὰ νόμον Φαρισαῖος (en cuanto a la observancia de la Torá, miembro del partido fariseo, la secta más rigurosa y estricta del judaísmo del Segundo Templo, Hch 26:5)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 6,
+    "greek_text": "κατὰ ζῆλος διώκων τὴν ἐκκλησίαν, κατὰ δικαιοσύνην τὴν ἐν νόμῳ γενόμενος ἄμεμπτος.",
+    "translation": "en cuanto al celo, perseguidor de la iglesia; en cuanto a la justicia que es según la Ley, habiendo sido irreprensible.",
+    "translation_notes": "Credenciales (parte 2: celo militante e impecabilidad legal): 6) κατὰ ζῆλος διώκων τὴν ἐκκλησίαν ('en cuanto al celo, perseguidor de la iglesia'): en la tradición bíblica, el 'celo' (ζῆλος) era la virtud heroica suprema de Fineas (Nm 25) y los Macabeos (1 Mac 2:54), dispuestos a ejecutar la violencia sagrada para purificar a Israel de la apostasía; 7) κατὰ δικαιοσύνην τὴν ἐν νόμῳ γενόμενος ἄμεμπτος ('en cuanto a la justicia en la Ley, irreprensible'): a los ojos del código formal farisaico y sus ordenanzas halájicas, su conducta externa era intachable y no merecía censura humana alguna."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 7,
+    "greek_text": "Ἀλλὰ ἅτινα ἦν μοι κέρδη, ταῦτα ἥγημαι διὰ τὸν Χριστὸν ζημίαν.",
+    "translation": "Pero cuantas cosas eran para mí ganancias, estas las he considerado pérdida por causa de Cristo.",
+    "translation_notes": "Metáfora contable de la transvaloración radical: Pablo utiliza el lenguaje financiero mercantil del libro mayor: κέρδη (kerdē, haberes, ganancias, créditos de valor) frente a ζημία (zēmia, pérdidas contables, pasivos deficitarios). El tiempo perfecto ἥγημαι (hēgēmai, de ἡγέομαι, 'he llegado a estimar y sigo considerando') denota una convicción settled, firme e irrevocable. El factor desencadenante de esta reevaluación total es διὰ τὸν Χριστόν ('por causa de Cristo'): el encuentro con el Señor resucitado convirtió sus mayores tesoros religiosos en déficit espiritual."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 8,
+    "greek_text": "ἀλλὰ μενοῦνγε καὶ ἡγοῦμαι πάντα ζημίαν εἶναι διὰ τὸ ὑπερέχον τῆς γνώσεως Χριστοῦ Ἰησοῦ τοῦ κυρίου μου δι’ ὃν τὰ πάντα ἐζημιώθην, καὶ ἡγοῦμαι σκύβαλα ἵνα Χριστὸν κερδήσω",
+    "translation": "Y más aún, ciertamente estimo que todas las cosas son pérdida por la excelencia del conocimiento de Cristo Jesús, mi Señor, por amor del cual lo he perdido todo, y lo tengo por basura, a fin de ganar a Cristo,",
+    "translation_notes": "Skubala y la excelencia del conocimiento: La acumulación enfática ἀλλὰ μενοῦνγε καί ('Pero ciertamente y más aún') universaliza la renuncia: no solo sus privilegios judíos, sino πάντα ('todas las cosas'). El motivo supremo es τὸ ὑπερέχον τῆς γνώσεως Χριστοῦ Ἰησοῦ τοῦ κυρίου μου ('el valor incomparable / supremo del conocimiento experimental e íntimo de Cristo Jesús mi Señor'). El verbo pasivo ἐζημιώθην (aoristo pasivo, 'he sufrido la pérdida de todo'). Emplea el término escandaloso σκύβαλα (skubala, acusativo plural de σκύβαλον, excremento, heces fecales, inmundicia o sobras podridas arrojadas a los perros callejeros), expresando el más absoluto desprecio y nulidad comparativa de cualquier mérito propio con tal de 'ganar a Cristo' (ἵνα Χριστὸν κερδήσω)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 9,
+    "greek_text": "καὶ εὑρεθῶ ἐν αὐτῷ, μὴ ἔχων ἐμὴν δικαιοσύνην τὴν ἐκ νόμου ἀλλὰ τὴν διὰ πίστεως Χριστοῦ, τὴν ἐκ θεοῦ δικαιοσύνην ἐπὶ τῇ πίστει,",
+    "translation": "y ser hallado en él, no teniendo mi propia justicia, la que es por la Ley, sino la que es por medio de la fe en Cristo, la justicia que proviene de Dios basada en la fe;",
+    "translation_notes": "Justificación forense por la fe: El infinitivo pasivo εὑρεθῶ ἐν αὐτῷ ('y ser hallado incorporado en él') ante el tribunal divino escatológico. Pablo contrapone diametralmente dos justicias: 1) ἐμὴν δικαιοσύνην τὴν ἐκ νόμου (mi propia justicia subjetiva fundamentada en el cumplimiento de preceptos legales mosaicos) frente a 2) τὴν διὰ πίστεως Χριστοῦ (la justicia recibida mediante la fe en Cristo / o la fidelidad de Cristo), identificada como τὴν ἐκ θεοῦ δικαιοσύνην ἐπὶ τῇ πίστει: la justicia objetiva que procede de Dios como don gratuito imputado sobre el fundamento de la fe."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 10,
+    "greek_text": "τοῦ γνῶναι αὐτὸν καὶ τὴν δύναμιν τῆς ἀναστάσεως αὐτοῦ καὶ κοινωνίαν παθημάτων αὐτοῦ, συμμορφιζόμενος τῷ θανάτῳ αὐτοῦ,",
+    "translation": "para conocerle a él, y el poder de su resurrección y la comunión en sus sufrimientos, conformándome a su muerte,",
+    "translation_notes": "Conocer a Cristo, su poder y padecimientos: El infinitivo τοῦ γνῶναι αὐτόν ('conocerle a él') trasciende el saber intelectual abstracto; es la unión mística y vital con el Mesías. Abarca dos polos dinámicos inseparables: τὴν δύναμιν τῆς ἀναστάσεως αὐτοῦ (la energía vivificante sobrenatural que levantó a Cristo de los muertos actuando en la vida presente del creyente) y κοινωνίαν παθημάτων αὐτοῦ (la participación solidaria en sus sufrimientos redentores). El participio presente pasivo συμμορφιζόμενος (symmorphizomenos, de σύμμορφος) denota un proceso continuo de asimilación interior: ser configurado progresivamente a la forma de su muerte sacrificial mediante la renuncia constante al egoísmo."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 11,
+    "greek_text": "εἴ πως καταντήσω εἰς τὴν ἐξανάστασιν τὴν ἐκ νεκρῶν.",
+    "translation": "si de algún modo llego a la resurrección de entre los muertos.",
+    "translation_notes": "La exanástasis de los muertos: La cláusula condicional de esperanza modesta εἴ πως καταντήσω ('si de algún modo llego a alcanzar') no expresa duda escéptica sobre la fidelidad de Dios, sino humildad personal que excluye toda presunción jactanciosa. El sustantivo ἐξανάστασις (exanastasis, hapax legomenon en el NT, resurrección de entre los muertos con el prefijo ἐκ que intensifica la salida victoriosa de la tumba) alude a la resurrección de los justos para vida eterna incorruptible en la parusía de Cristo."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 12,
+    "greek_text": "Οὐχ ὅτι ἤδη ἔλαβον ἢ ἤδη τετελείωμαι, διώκω δὲ εἰ καὶ καταλάβω, ἐφ’ ᾧ καὶ κατελήμφθην ὑπὸ Χριστοῦ.",
+    "translation": "No que lo haya alcanzado ya, ni que ya sea perfecto; sino que prosigo, por si logro asir aquello para lo cual también fui asido por Cristo Jesús.",
+    "translation_notes": "Dinamismo escatológico contra el perfeccionismo prematuro: Pablo refuta cualquier pretensión gnóstica o perfeccionista de consumación presente: Οὐχ ὅτι ἤδη ἔλαβον ἢ ἤδη τετελείωμαι ('No que ya lo haya recibido, o que ya haya sido perfeccionado/consumado'). El verbo διώκω (diōkō, usado en el v. 6 para 'perseguir' a los creyentes) se resignifica aquí atléticamente como lanzarse en persecución veloz y tenaz de la meta. El juego verbal de καταλαμβάνω (asir, aprehender) es sublime: busca καταλάβω ('asir el premio') en correspondencia a que él mismo fue κατελήμφθην ὑπὸ Χριστοῦ Ἰησοῦ ('arrebatado, alcanzado y tomado en posesión por Cristo Jesús' en el camino a Damasco)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 13,
+    "greek_text": "ἀδελφοί, ἐγὼ ἐμαυτὸν οὐ λογίζομαι κατειληφέναι· ἓν δέ, τὰ μὲν ὀπίσω ἐπιλανθανόμενος τοῖς δὲ ἔμπροσθεν ἐπεκτεινόμενος,",
+    "translation": "Hermanos, yo mismo no considero haberlo alcanzado ya; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome hacia lo que está delante,",
+    "translation_notes": "Epekteinomai y la concentración en la meta: El apóstol reitera su autoevaluación sobria: οὐ λογίζομαι κατειληφέναι. La concentración vital se resume en ἓν δέ ('pero una sola cosa hago'): la mirada hacia el pasado se clausura con el participio ἐπιλανθανόμενος (olvidando conscientemente tanto sus logros farisaicos pasados como sus fracasos y sufrimientos previos); la mirada hacia el porvenir se proyecta con ἐπεκτεινόμενος (epekteinomenos, participio medio de ἐπεκτείνομαι, imagen viva del corredor que se inclina con el torso y los brazos extendidos hacia adelante en el último esfuerzo agónico antes de cruzar la meta)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 14,
+    "greek_text": "κατὰ σκοπὸν διώκω εἰς τὸ βραβεῖον τῆς ἄνω κλήσεως τοῦ θεοῦ ἐν Χριστῷ Ἰησοῦ.",
+    "translation": "prosigo hacia la meta, al premio del supremo llamamiento de Dios en Cristo Jesús.",
+    "translation_notes": "Skopos, brabeion y la vocación celestial: El avance se dirige κατὰ σκοπόν (hacia el blanco o poste de llegada, σκοπός). El galardón es τὸ βραβεῖον (brabeion, la corona de laurel concedida por el juez árbitro al vencedor en los juegos ístmicos o panhelénicos), que consiste en τῆς ἄνω κλήσεως τοῦ θεοῦ ('el llamamiento hacia lo alto / vocación celestial de Dios') consumado ἐν Χριστῷ Ἰησοῦ."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 15,
+    "greek_text": "ὅσοι οὖν τέλειοι, τοῦτο φρονῶμεν· καὶ εἴ τι ἑτέρως φρονεῖτε, καὶ τοῦτο ὁ θεὸς ὑμῖν ἀποκαλύψει·",
+    "translation": "Así que, todos los que somos maduros, tengamos este mismo sentir; y si en algo sienten de otra manera, esto también se lo revelará Dios.",
+    "translation_notes": "La verdadera madurez cristiana: El adjetivo τέλειοι (teleioi) no denota perfección impecable absoluta (rechazada en el v. 12), sino madurez espiritual, los creyentes adultos que comprenden que el camino cristiano es una carrera constante de fe y dependencia de la gracia. Si surge alguna divergencia subjetiva en la congregación, Pablo confía en la pedagogía divina: καὶ τοῦτο ὁ θεὸς ὑμῖν ἀποκαλύψει ('también esto se lo revelará Dios por su Espíritu')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 16,
+    "greek_text": "πλὴν εἰς ὃ ἐφθάσαμεν, τῷ αὐτῷ στοιχεῖν.",
+    "translation": "Sin embargo, en aquello a lo que hemos llegado, sigamos caminando por la misma norma.",
+    "translation_notes": "Stoijein en la verdad alcanzada: El infinitivo estoico-militar στοιχεῖν (stoichein, marchar en fila, guardar la formación alineada) con el dativo τῷ αὐτῷ demanda consistencia: perseverar con fidelidad en la verdad y los principios doctrinales y éticos del evangelio que ya han sido asimilados por la comunidad."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 17,
+    "greek_text": "Συμμιμηταί μου γίνεσθε, ἀδελφοί, καὶ σκοπεῖτε τοὺς οὕτω περιπατοῦντας καθὼς ἔχετε τύπον ἡμᾶς·",
+    "translation": "Sean imitadores de mí, hermanos, y pongan la mirada en los que caminan según el ejemplo que tienen en nosotros.",
+    "translation_notes": "La imitación apostólica y el typos: El sustantivo compuesto Συμμιμηταί (Symmimētai, imitadores en conjunto, co-imitadores) exhorta a modelar la conducta comunitaria conforme a la vida de Pablo (cf. 1 Cor 11:1). El imperativo σκοπεῖτε ('observen con atención') propone fijarse en aquellos líderes fieles que caminan según el τύπος (typos, modelo, matriz o patrón visible) encarnado por el equipo apostólico."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 18,
+    "greek_text": "πολλοὶ γὰρ περιπατοῦσιν οὓς πολλάκις ἔλεγον ὑμῖν, νῦν δὲ καὶ κλαίων λέγω, τοὺς ἐχθροὺς τοῦ σταυροῦ τοῦ Χριστοῦ,",
+    "translation": "Porque muchos caminan, de los cuales les decía muchas veces, y ahora lo digo aun llorando, que son enemigos de la cruz de Cristo;",
+    "translation_notes": "Enemigos de la cruz y el llanto apostólico: Pablo interrumpe la instrucción con dolor pastoral desgarrador: νῦν δὲ καὶ κλαίων λέγω ('y ahora lo digo incluso derramando lágrimas'). Denuncia a los ἐχθροὶ τοῦ σταυροῦ τοῦ Χριστοῦ ('enemigos de la cruz de Cristo'), personas dentro o en los márgenes de las congregaciones cuya teología y conducta mundana niegan el principio del discipulado crucificado, el sufrimiento y la renuncia a la carne."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 19,
+    "greek_text": "ὧν τὸ τέλος ἀπώλεια, ὧν ὁ θεὸς ἡ κοιλία καὶ ἡ δόξα ἐν τῇ αἰσχύνῃ αὐτῶν, οἱ τὰ ἐπίγεια φρονοῦντες.",
+    "translation": "cuyo fin es la perdición, cuyo dios es el vientre, y cuya gloria está en su vergüenza; los que solo piensan en las cosas terrenales.",
+    "translation_notes": "Retrato del antievangelio hedonista y terrenal: Cuatro sentencias describen a estos falsos maestros: 1) ὧν τὸ τέλος ἀπώλεια (su destino final es la ruina y condenación escatológica); 2) ὧν ὁ θεὸς ἡ κοιλία (su dios es el vientre / apetito carnal, κοιλία, ya sea indulgencia sensual desmedida o escrupulosidad dietética ritualista vacía); 3) ἡ δόξα ἐν τῇ αἰσχύνῃ αὐτῶν (se enorgullecen de aquello que es moralmente vergonzoso); y 4) οἱ τὰ ἐπίγεια φρονοῦντες (participio nominativo enfático: su horizonte existencial y mental está confinado exclusivamente a lo terrenal)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 20,
+    "greek_text": "ἡμῶν γὰρ τὸ πολίτευμα ἐν οὐρανοῖς ὑπάρχει, ἐξ οὗ καὶ σωτῆρα ἀπεκδεχόμεθα κύριον Ἰησοῦν Χριστόν,",
+    "translation": "Porque nuestra ciudadanía está en los cielos, de donde también esperamos ardientemente al Salvador, el Señor Jesucristo;",
+    "translation_notes": "Politeuma en los cielos y el Salvador cósmico: La declaración frontal ἡμῶν γὰρ τὸ πολίτευμα ἐν οὐρανοῖς ὑπάρχει ('Porque nuestra ciudadanía / colonia cívica reside en los cielos'). El término πολίτευμα (politeuma) era el estatuto de una colonia de ciudadanos romanos viviendo en una provincia lejana que conservaba las leyes, derechos y lealtades de la metrópoli imperial. Los filipenses comprendían esto de inmediato: son una colonia del Reino celestial en la tierra. De esa patria celestial aguardan con anhelo ferviente (ἀπεκδεχόμεθα, esperar intensamente con paciencia escatológica) a un σωτήρ ('Salvador'), título imperial que la propaganda romana otorgaba a los césares (Augusto, Nerón), pero que Pablo confiere con exclusividad al único y verdadero Soberano: κύριον Ἰησοῦν Χριστόν."
+  },
+  {
+    "book": "PHP",
+    "chapter": 3,
+    "verse": 21,
+    "greek_text": "ὃς μετασχηματίσει τὸ σῶμα τῆς ταπεινώσεως ἡμῶν σύμμορφον τῷ σώματι τῆς δόξης αὐτοῦ κατὰ τὴν ἐνέργειαν τοῦ δύνασθαι αὐτὸν καὶ ὑποτάξαι αὑτῷ τὰ πάντα.",
+    "translation": "el cual transformará el cuerpo de nuestra humillación para que sea conforme al cuerpo de su gloria, según la acción eficaz de su poder para sujetar también a sí mismo todas las cosas.",
+    "translation_notes": "Transformación corporal en la resurrección: El verbo μετασχηματίσει (metaschēmatisei, alterar la forma exterior transitoria) opera sobre τὸ σῶμα τῆς ταπεινώσεως ἡμῶν ('el cuerpo de nuestra debilidad, mortalidad y humillación terrenal') para hacerlo σύμμορφον (conforme a la misma esencia y naturaleza) al σῶμα τῆς δόξης αὐτοῦ ('cuerpo de su gloria celestial resucitada', cf. 1 Cor 15:42–49). Esta victoria cósmica se realiza κατὰ τὴν ἐνέργειαν τοῦ δύνασθαι αὐτόν ('según la energía eficaz de su poder'): la misma soberanía cósmica con la que someterá bajo su dominio toda la creación (Sal 8:6; 1 Cor 15:27)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 1,
+    "greek_text": "ὥστε, ἀδελφοί μου ἀγαπητοὶ καὶ ἐπιπόθητοι, χαρὰ καὶ στέφανός μου, οὕτως στήκετε ἐν κυρίῳ, ἀγαπητοί.",
+    "translation": "Así que, hermanos míos amados y muy anhelados, gozo y corona mía, manténganse así firmes en el Señor, amados.",
+    "translation_notes": "Vocativos de afecto y el stéfanos: La exhortación conclusiva acumula epítetos tiernos: ἀγαπητοὶ καὶ ἐπιπόθητοι (amados y profundamente añorados), χαρὰ καὶ στέφανός μου (gozo y corona mía). El término στέφανος (stephanos) no es la diadema real (diadēma), sino la corona de triunfo atlético o festivo otorgada al vencedor, reflejando que la fidelidad de los filipenses es el galardón más preciado de Pablo en el día de Cristo. El imperativo στήκετε ἐν κυρίῳ ('estén firmes como centinelas apostados en el Señor') sintetiza la demanda de perseverancia."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 2,
+    "greek_text": "Εὐοδίαν παρακαλῶ καὶ Συντύχην παρακαλῶ τὸ αὐτὸ φρονεῖν ἐν κυρίῳ.",
+    "translation": "Ruego a Evodia y ruego a Síntique que tengan un mismo sentir en el Señor.",
+    "translation_notes": "Exhortación a la reconciliación entre lideresas: Pablo repite el verbo de súplica personal a cada una: Εὐοδίαν παρακαλῶ καὶ Συντύχην παρακαλῶ. Evodia ('buen viaje' o 'éxito') y Síntique ('afortunada' o 'coincidencia dichosa') eran dos mujeres prominentes de la iglesia de Filipos cuyo desacuerdo personal amenazaba la armonía comunitaria. Les demanda τὸ αὐτὸ φρονεῖν ἐν κυρίῳ ('tener una misma mente y propósito en el Señor')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 3,
+    "greek_text": "ναὶ ἐρωτῶ καὶ σέ, γνήσιε σύζυγε, συλλαμβάνου αὐταῖς, αἵτινες ἐν τῷ εὐαγγελίῳ συνήθλησάν μοι μετὰ καὶ Κλήμεντος καὶ τῶν λοιπῶν συνεργῶν μου, ὧν τὰ ὀνόματα ἐν βίβλῳ ζωῆς.",
+    "translation": "Sí, te pido también a ti, verdadero compañero de yugo, ayuda a estas mujeres, las cuales combatieron juntamente conmigo en el evangelio, junto con Clemente y los demás colaboradores míos, cuyos nombres están en el libro de la vida.",
+    "translation_notes": "El verdadero Sízigo y las atletas del evangelio: El vocativo γνήσιε σύζυγε (gnēsie syzyge, 'verdadero compañero de yugo') puede interpretarse como un nombre propio simbólico (Sízigo, haciendo un juego de palabras: 'Sízigo, que haces honor a tu nombre') o como una referencia al líder o pastor principal de Filipos (Epafrodito o el obispo local). Pablo reivindica el papel ministerial vital de las mujeres: αἵτινες ἐν τῷ εὐαγγελίῳ συνήθλησάν μοι (del verbo συναθλέω, combatieron a mi lado como atletas en la proclamación del evangelio). Menciona a Clemente (Κλήμης) y a los demás colaboradores. La garantía final trasciende la memoria terrenal: ὧν τὰ ὀνόματα ἐν βίβλῳ ζωῆς ('cuyos nombres están inscritos en el libro celestial de la vida', Éx 32:32; Sal 69:28; Dan 12:1; Lc 10:20; Ap 3:5)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 4,
+    "greek_text": "Χαίρετε ἐν κυρίῳ πάντοτε· πάλιν ἐρῶ, χαίρετε.",
+    "translation": "¡Regocíjense en el Señor siempre! Otra vez diré: ¡Regocíjense!",
+    "translation_notes": "El doble mandato imperativo del gozo: Χαίρετε ἐν κυρίῳ πάντοτε· πάλιν ἐρῶ, χαίρετε. El presente imperativo continuo prescribe un hábito permanente del corazón independientemente de los sufrimientos externos. El gozo cristiano no es una disposición anímica voluble ni un optimismo ingenuo, sino una postura teocéntrica anclada ἐν κυρίῳ ('en el Señor'). La reiteración πάλιν ἐρῶ ('otra vez lo diré') resalta su carácter innegociable."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 5,
+    "greek_text": "τὸ ἐπιεικὲς ὑμῶν γνωσθήτω πᾶσιν ἀνθρώποις. ὁ κύριος ἐγγύς·",
+    "translation": "Que la gentileza de ustedes sea conocida de todos los hombres. El Señor está cerca.",
+    "translation_notes": "Epieikes y la inminencia escatológica: El adjetivo neutro sustantivado τὸ ἐπιεικὲς ὑμῶν (to epieikes) denota ecuanimidad, afabilidad, tolerancia magnánime, clemencia razonable y moderación que no insiste tercamente en los propios derechos legales. Debe ser testimonio público visible: γνωσθήτω πᾶσιν ἀνθρώποις ('sea evidente ante creyentes y paganos'). La razón teológica que sostiene esta serenidad es la cercanía del Señor: ὁ κύριος ἐγγύς (ho kyrios engys), que evoca tanto la proximidad espacial del Señor en la oración (Sal 145:18) como la inminencia temporal de su parusía mesiánica (Marana tha, 1 Cor 16:22; Stg 5:8–9)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 6,
+    "greek_text": "μηδὲν μεριμνᾶτε, ἀλλ’ ἐν παντὶ τῇ προσευχῇ καὶ τῇ δεήσει μετ’ εὐχαριστίας τὰ αἰτήματα ὑμῶν γνωριζέσθω πρὸς τὸν θεόν·",
+    "translation": "Por nada estén afanosos; antes bien, en todo, mediante oración y súplica con acción de gracias, sean dadas a conocer sus peticiones delante de Dios.",
+    "translation_notes": "Terapia contra la ansiedad y la oración agradecida: El imperativo μηδὲν μεριμνᾶτε ('Por ninguna cosa anden angustiados / ansiosos', cf. Mt 6:25–34) condena la preocupación paralizante. El antídoto es el recurso continuo ante Dios: ἐν παντί ('en toda circunstancia'). Se combinan tres términos litúrgicos: προσευχή (oración general y adoración), δέησις (súplica ferviente por necesidades apremiantes) y εὐχαριστία (acción de gracias continua). La gratitud previa transforma la súplica en un acto de fe confiada. Las peticiones (τὰ αἰτήματα) deben exponerse abiertamente πρὸς τὸν θεόν."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 7,
+    "greek_text": "καὶ ἡ εἰρήνη τοῦ θεοῦ ἡ ὑπερέχουσα πάντα νοῦν φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν Χριστῷ Ἰησοῦ.",
+    "translation": "Y la paz de Dios, que sobrepasa todo entendimiento, guardará sus corazones y sus pensamientos en Cristo Jesús.",
+    "translation_notes": "La guarnición militar de la paz de Dios: La promesa resultante es ἡ εἰρήνη τοῦ θεοῦ (el shalom divino objetivo). Es calificada de ἡ ὑπερέχουσα πάντα νοῦν ('la cual trasciende y sobrepuja todo razonamiento humano y cálculo terrenal'). El verbo militar clave es φρουρήσει (phrourēsei, futuro activo de φρουρέω, actuar como guarnición militar de centinelas apostados en los muros de una fortaleza para custodiar una ciudad contra asedios enemigos). En una colonia romana protegida por guarniciones de legionarios, los filipenses entendían con viveza la imagen: la paz de Dios es la guarnición celestial que custodia dos fortalezas interiores: τὰς καρδίας (el corazón, sede de los afectos, la voluntad y las decisiones) y τὰ νοήματα (los pensamientos, facultades mentales e imaginación) salvaguardados ἐν Χριστῷ Ἰησοῦ."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 8,
+    "greek_text": "Τὸ λοιπόν, ἀδελφοί, ὅσα ἐστὶν ἀληθῆ, ὅσα σεμνά, ὅσα δίκαια, ὅσα ἁγνά, ὅσα προσφιλῆ, ὅσα εὔφημα, εἴ τις ἀρετὴ καὶ εἴ τις ἔπαινος, ταῦτα λογίζεσθε·",
+    "translation": "Por lo demás, hermanos, todo lo que es verdadero, todo lo digno, todo lo justo, todo lo puro, todo lo amable, todo lo que es de buen nombre; si hay alguna virtud y si algo digno de alabanza, en estas cosas piensen.",
+    "translation_notes": "El catálogo de virtudes helenístico-cristiano: Pablo adopta y santifica el léxico ético moral del mundo clásico y judío mediante un octálogo coordinado por ὅσα ('todo cuanto'): 1) ἀληθῆ (verdadero, congruente con la realidad divina); 2) σεμνά (digno, venerable, honorable, noble); 3) δίκαια (justo, recto según el pacto de Dios); 4) ἁγνá (puro, incontaminado moral y ceremonialmente); 5) προσφιλῆ (amable, grato, que suscita amor y concordia); 6) εὔφημα (de buen nombre, elogiable, respetable en la sociedad); 7) εἴ τις ἀρετή (aretē, la virtud moral de excelencia en la filosofía griega); y 8) εἴ τις ἔπαινος (lo que merece alabanza y reconocimiento de Dios). El imperativo presente ταῦτα λογίζεσθε (de λογίζομαι, meditar críticamente, reflexionar con atención y adoptar como norma mental habitual) demanda una disciplina activa del intelecto."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 9,
+    "greek_text": "ἃ καὶ ἐμάθετε καὶ παρελάβετε καὶ ἠκούσατε καὶ εἴδετε ἐν ἐμοί, ταῦτα πράσσετε· καὶ ὁ θεὸς τῆς εἰρήνης ἔσται μεθ’ ὑμῶν.",
+    "translation": "Lo que aprendieron, recibieron, oyeron y vieron en mí, esto pongan por obra; y el Dios de paz estará con ustedes.",
+    "translation_notes": "Ortodoxia y ortopraxis apostólica: Cuatro verbos describen la transmisión de la tradición: ἐμάθετε (aprendieron por catequesis), παρελάβετε (recibieron la paradosis doctrinal sagrada), ἠκούσατε (escucharon de la predicación de Pablo) y εἴδετε ἐν ἐμοί (observaron encarnado en su vida práctica). El mandato es práctico: ταῦτα πράσσετε ('pongan esto en práctica continuamente'). La promesa correlativa avanza del v. 7: ya no solo 'la paz de Dios', sino ὁ θεὸς τῆς εἰρήνης ('el Dios mismo de la paz') estará presente con su pueblo."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 10,
+    "greek_text": "Ἐχάρην δὲ ἐν κυρίῳ μεγάλως ὅτι ἤδη ποτὲ ἀνεθάλετε τὸ ὑπὲρ ἐμοῦ φρονεῖν, ἐφ’ ᾧ καὶ ἐφρονεῖτε ἠκαιρεῖσθε δέ.",
+    "translation": "Me alegré grandemente en el Señor de que ya al fin han hecho florecer de nuevo su cuidado por mí; sobre lo cual ciertamente tenían cuidado, pero les faltaba la oportunidad.",
+    "translation_notes": "La metáfora del rebrote botánico: Pablo agradece la llegada de la ofrenda económica filipense: Ἐχάρην δὲ ἐν κυρίῳ μεγάλως. El verbo metafórico ἀνεθάλετε (anethalete, aoristo activo de ἀναθάλλω, florecer de nuevo, brotar retoños como los árboles en primavera tras el invierno, Ez 17:24 LXX) describe con delicadeza poética la reanudación del apoyo financiero. Aclara con tacto pastoral que no dudaba de su preocupación (ἐφ’ ᾧ καὶ ἐφρονεῖτε), sino que carecían de ocasión propicia (ἠκαιρεῖσθε, de ἀκαιρέομαι, faltar oportunidad o transporte seguro para enviar los fondos)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 11,
+    "greek_text": "οὐχ ὅτι καθ’ ὑστέρησιν λέγω, ἐγὼ γὰρ ἔμαθον ἐν οἷς εἰμι αὐτάρκης εἶναι·",
+    "translation": "No lo digo porque tenga escasez, pues yo he aprendido a contentarme en cualquier situación en que me encuentre.",
+    "translation_notes": "Autarkeia cristiana vs. autosuficiencia estoica: Pablo aclara su desapego material: οὐχ ὅτι καθ’ ὑστέρησιν λέγω ('no porque hable movido por penuria'). El término filosófico estoico clave es αὐτάρκης (autarkēs, de αὐτός y ἀρκέω, autosuficiente, que se basta a sí mismo sin depender de factores externos). Mientras que en la filosofía estoica (Séneca, Epicteto) la autarquía era el fruto del orgullo racional autosuficiente y la apatheia (indiferencia ante las emociones), en Pablo la autarquía es un aprendizaje de sumisión humilde (ἔμαθον) que descansa no en los propios recursos humanos, sino en la soberanía providencial de Dios."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 12,
+    "greek_text": "οἶδα καὶ ταπεινοῦσθαι, οἶδα καὶ περισσεύειν· ἐν παντὶ καὶ ἐν πᾶσιν μεμύημαι, καὶ χορτάζεσθαι καὶ πεινᾶν, καὶ περισσεύειν καὶ ὑστερεῖσθαι·",
+    "translation": "Sé vivir en la pobreza, y sé tener abundancia; en todo y por todo he aprendido el secreto, tanto de estar saciado como de tener hambre, tanto de tener abundancia como de sufrir necesidad.",
+    "translation_notes": "El verbo memyēmai y la maestría en las circunstancias: Pablo detalla su experiencia pendular: οἶδα καὶ ταπεινοῦσθαι (sé ser humillado por la carencia extrema) y οἶδα καὶ περισσεύειν (sé gozar de abundancia sin idolotrarla). El verbo técnico μεμύημαι (memyēmai, perfecto pasivo de μυέω, ser iniciado en los misterios religiosos) se resignifica aquí: Pablo ha sido 'iniciado en el secreto' divino para la vida cotidiana: tanto estar saciado (χορτάζεσθαι) como padecer hambre (πεινᾶν), desmitificando el poder que la riqueza o la escasez ejercen sobre el ser humano."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 13,
+    "greek_text": "πάντα ἰσχύω ἐν τῷ ἐνδυναμοῦντί με.",
+    "translation": "¡Todo lo puedo en aquel que me fortalece!",
+    "translation_notes": "Panta ischyō y la cristología de la fortaleza: El célebre aforismo πάντα ἰσχύω ἐν τῷ ἐνδυναμοῦντί με ('Para todas las cosas tengo poder en aquel que me capacita / infunde dinamismo interior'). El verbo ἰσχύω denota vigor, capacidad y dominio operativo; el participio ἐνδυναμοῦντι (de ἐνδυναμόω, infundir fuerza activa) señala a Cristo como la fuente permanente de fortaleza espiritual. El alcance de πάντα ('todas las cosas') no es una promesa mágica de omnipotencia para ambiciones terrenales caprichosas, sino la capacidad sobrenatural de perseverar triunfante en cualquier contingencia física, penuria, hambre o prosperidad por la gracia de Cristo."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 14,
+    "greek_text": "πλὴν καλῶς ἐποιήσατε συγκοινωνήσαντές μου τῇ θλίψει.",
+    "translation": "Sin embargo, bien hicieron al participar conmigo en mi aflicción.",
+    "translation_notes": "Reconocimiento del valor moral de la ofrenda: Para no dar la impresión de desdén hacia su ayuda económica tras proclamar su contentamiento, Pablo añade con ternura: καλῶς ἐποιήσατε ('noble y rectamente han obrado'). La acción se describe con el participio συγκοινωνήσαντές μου τῇ θλίψει ('al hacerse copartícipes solidarios de mi tribulación y aflicción carcelaria')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 15,
+    "greek_text": "Οἴδατε δὲ καὶ ὑμεῖς, Φιλιππήσιοι, ὅτι ἐν ἀρχῇ τοῦ εὐαγγελίου, ὅτε ἐξῆλθον ἀπὸ Μακεδονίας, οὐδεμία μοι ἐκκλησία ἐκοινώνησεν εἰς λόγον δόσεως καὶ λήμψεως εἰ μὴ ὑμεῖς μόνοι,",
+    "translation": "Y saben también ustedes, filipenses, que al principio de la proclamación del evangelio, cuando salí de Macedonia, ninguna iglesia participó conmigo en razón de dar y recibir, sino solo ustedes;",
+    "translation_notes": "La contabilidad de dar y recibir: Pablo apela a su memoria histórica directa: Οἴδατε δὲ καὶ ὑμεῖς, Φιλιππήσιοι. Al inicio de la misión europea tras salir de Macedonia (Hch 17:14), ninguna otra congregación entró en sociedad comercial-espiritual con él εἰς λόγον δόσεως καὶ λήμψεως ('en cuenta de dar y recibir', ratio dati et accepti, fórmula técnica mercantil grecorromana para registrar transacciones recíprocas en los libros de contabilidad: ellos daban bienes materiales y recibían bendición y fruto espiritual)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 16,
+    "greek_text": "ὅτι καὶ ἐν Θεσσαλονίκῃ καὶ ἅπαξ καὶ δὶς εἰς τὴν χρείαν μοι ἐπέμψατε.",
+    "translation": "pues aun a Tesalónica me enviaron una y otra vez para mis necesidades.",
+    "translation_notes": "Apoyo temprano en Tesalónica: Aun en su siguiente estación misionera en Tesalónica (a unos 160 km al oeste de Filipos por la Vía Egnatia, cf. Hch 17:1–9), la joven iglesia filipense le envió subsidios repetidos: καὶ ἅπαξ καὶ δὶς εἰς τὴν χρείαν μοι ἐπέμψατε ('no una sola vez, sino dos veces para mi sustento necesario')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 17,
+    "greek_text": "οὐχ ὅτι ἐπιζητῶ τὸ δόμα, ἀλλὰ ἐπιζητῶ τὸν καρπὸν τὸν πλεονάζοντα εἰς λόγον ὑμῶν.",
+    "translation": "No es que busque la dádiva, sino que busco el fruto que abunda para la cuenta de ustedes.",
+    "translation_notes": "El rédito espiritual en la cuenta celestial: Pablo aclara nuevamente su móvil: οὐχ ὅτι ἐπιζητῶ τὸ δόμα ('No porque yo esté tras el donativo material'). Su anhelo es escatológico y pastoral: busca τὸν καρπὸν τὸν πλεονάζοντα εἰς λόγον ὑμῶν ('el fruto espiritual que se acumula con creces como interés divino en la cuenta celestial de ustedes')."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 18,
+    "greek_text": "ἀπέχω δὲ πάντα καὶ περισσεύω· πεπλήρωμαι δεξάμενος παρὰ Ἐπαφροδίτου τὰ παρ’ ὑμῶν, ὀσμὴν εὐωδίας, θυσίαν δεκτήν, εὐάρεστον τῷ θεῷ.",
+    "translation": "Pero todo lo he recibido, y tengo abundancia; estoy lleno, habiendo recibido de Epafrodito lo que enviaron de parte de ustedes, olor fragante, sacrificio aceptable, agradable a Dios.",
+    "translation_notes": "Recibo de pago completo y ofrenda sacerdotal: El verbo ἀπέχω (apechō, 'he recibido todo') era la fórmula jurídica y comercial estándar grabada en los recibos y facturas de la antigüedad grecorromana (ostraca y papiros) para certificar: 'pagado en su totalidad / recibido en conformidad'. Pablo otorga a la ayuda económica una dimensión sacra suprema mediante una triple aposición cultual del Antiguo Testamento: ὀσμὴν εὐωδίας (olor de suave fragancia, Gn 8:21; Éx 29:18), θυσίαν δεκτήν (sacrificio acepto) y εὐάρεστον τῷ θεῷ (plenamente grato y agradable a Dios). La caridad hacia el siervo perseguido es elevada a la dignidad de holocausto sacerdotal."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 19,
+    "greek_text": "ὁ δὲ θεός μου πληρώσει πᾶσαν χρείαν ὑμῶν κατὰ τὸ πλοῦτος αὐτοῦ ἐν δόξῃ ἐν Χριστῷ Ἰησοῦ.",
+    "translation": "Y mi Dios suplirá toda necesidad de ustedes conforme a sus riquezas en gloria en Cristo Jesús.",
+    "translation_notes": "La promesa providencial de retribución divina: En respuesta a la munificencia filipense, Pablo emite una solemne promesa de pacto: ὁ δὲ θεός μου πληρώσει πᾶσαν χρείαν ὑμῶν ('Mi Dios colmará plenamente toda necesidad material y espiritual de ustedes'). La medida de la provisión no es la pobreza terrenal, sino κατὰ τὸ πλοῦτος αὐτοῦ ἐν δόξῃ ('conforme a la inagotable riqueza de su gloria soberana'), canalizada y garantizada eternamente ἐν Χριστῷ Ἰησοῦ."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 20,
+    "greek_text": "τῷ δὲ θεῷ καὶ πατρὶ ἡμῶν ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.",
+    "translation": "A nuestro Dios y Padre sea la gloria por los siglos de los siglos. Amén.",
+    "translation_notes": "Doxología solemne: Concluye la sección de gratitud con la tradicional doxología paulina: τῷ δὲ θεῷ καὶ πατρὶ ἡμῶν ἡ δόξα. La alabanza se proyecta a la eternidad: εἰς τοὺς αἰῶνας τῶν αἰώνων ('por las edades de las edades / por los siglos eternos'), sellada por la respuesta comunitaria Ἀμήν."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 21,
+    "greek_text": "Ἀσπάσασθε πάντα ἅγιον ἐν Χριστῷ Ἰησοῦ. ἀσπάζονται ὑμᾶς οἱ σὺν ἐμοὶ ἀδελφοί.",
+    "translation": "Saluden a todos los santos en Cristo Jesús. Los hermanos que están conmigo los saludan.",
+    "translation_notes": "Saludos epistolares colectivos: El mandato Ἀσπάσασθε πάντα ἅγιον ἐν Χριστῷ Ἰησοῦ exige que el saludo sea personal e indiscriminado hacia cada miembro de la congregación, sin distinción de clases sociales o facciones. Se transmiten los saludos fraternos de los colaboradores inmediatos del equipo misionero presentes con Pablo en la prisión (οἱ σὺν ἐμοὶ ἀδελφοί)."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 22,
+    "greek_text": "ἀσπάζονται ὑμᾶς πάντες οἱ ἅγιοι, μάλιστα δὲ οἱ ἐκ τῆς Καίσαρος οἰκίας.",
+    "translation": "Todos los santos los saludan, y especialmente los de la casa del César.",
+    "translation_notes": "Los santos de la casa imperial romana: El saludo adquiere una resonancia histórica y sociológica formidable: μάλιστα δὲ οἱ ἐκ τῆς Καίσαρος οἰκίας ('muy especialmente los que pertenecen a la casa del César'). La expresión familia Caesaris (Καίσαρος οἰκία) no designaba a los parientes consanguíneos de Nerón, sino a la extensa corporación de funcionarios administrativos imperiales, escribas, mayordomos, recaudadores de impuestos y esclavos y libertos adscritos al palacio y gobierno imperial de Roma y sus dependencias provinciales. El evangelio no solo había penetrado en la guardia pretoriana (1:13), sino en el corazón mismo del aparato burocrático del emperador."
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 23,
+    "greek_text": "ἡ χάρις τοῦ κυρίου Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν.",
+    "translation": "La gracia del Señor Jesucristo sea con el espíritu de ustedes. Amén.",
+    "translation_notes": "Bendición apostólica de clausura: La epístola concluye con la bendición carismática característica: Ἡ χάρις τοῦ κυρίου Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν ('La gracia del Señor Jesucristo sea con el espíritu / ser interior de todos ustedes'). Muchos manuscritos antiguos (Sinaítico, Alejandrino, Vaticano) concluyen con el Ἀμήν litúrgico de la comunidad receptora."
+  }
+]

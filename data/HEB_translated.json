@@ -1,0 +1,2426 @@
+[
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 1,
+    "greek_text": "Πολυμερῶς καὶ πολυτρόπως πάλαι ὁ θεὸς λαλήσας τοῖς πατράσιν ἐν τοῖς προφήταις",
+    "translation": "Dios, habiendo hablado muchas veces y de muchas maneras en el pasado a los padres por medio de los profetas,",
+    "translation_notes": "Prólogo solemne en griego literario elevado (vv. 1-4 en una sola oración periódica): «muchas veces y de muchas maneras» (πολυμερῶς καὶ πολυτρόπως) destaca la revelación progresiva y diversa del Antiguo Testamento."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 2,
+    "greek_text": "ἐπ’ ἐσχάτου τῶν ἡμερῶν τούτων ἐλάλησεν ἡμῖν ἐν υἱῷ, ὃν ἔθηκεν κληρονόμον πάντων, δι’ οὗ καὶ ἐποίησεν τοὺς αἰῶνας·",
+    "translation": "en estos últimos días nos ha hablado en el Hijo, a quien constituyó heredero de todas las cosas, y por medio de quien también hizo el universo;",
+    "translation_notes": "«En el Hijo» (ἐν υἱῷ, sin artículo en griego para destacar la cualidad única de la revelación filial frente a los profetas). «El universo» traduce τοὺς αἰῶνας («los siglos / edades / mundo creado»)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 3,
+    "greek_text": "ὃς ὢν ἀπαύγασμα τῆς δόξης καὶ χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ, φέρων τε τὰ πάντα τῷ ῥήματι τῆς δυνάμεως, δι’ αὑτοῦ καθαρισμὸν τῶν ἁμαρτιῶν ποιησάμενος ἐκάθισεν ἐν δεξιᾷ τῆς μεγαλωσύνης ἐν ὑψηλοῖς,",
+    "translation": "quien, siendo el resplandor de su gloria y la expresión exacta de su ser, y sosteniendo todas las cosas con la palabra de su poder, después de haber efectuado la purificación de los pecados, se sentó a la diestra de la Majestad en las alturas,",
+    "translation_notes": "Cristología majestuosa: ἀπαύγασμα («resplandor / irradiación»), χαρακτήρ («impronta exacta», como un sello en cera o moneda) de la esencia (ὑποστάσεως) de Dios. Al sentarse a la diestra (Sal 110:1), señala la obra sacerdotal consumada."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 4,
+    "greek_text": "τοσούτῳ κρείττων γενόμενος τῶν ἀγγέλων ὅσῳ διαφορώτερον παρ’ αὐτοὺς κεκληρονόμηκεν ὄνομα.",
+    "translation": "hecho tanto superior a los ángeles cuanto más excelente que el de ellos es el nombre que ha heredado.",
+    "translation_notes": "Introduce el primer gran contraste de la epístola (1:5–2:18): el Hijo es infinitamente superior a los ángeles mediadores de la Ley (cf. 2:2)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 5,
+    "greek_text": "Τίνι γὰρ εἶπέν ποτε τῶν ἀγγέλων· Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε, καὶ πάλιν· Ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα, καὶ αὐτὸς ἔσται μοι εἰς υἱόν;",
+    "translation": "Porque ¿a cuál de los ángeles dijo Dios jamás: «Mi Hijo eres tú, yo te he engendrado hoy», y otra vez: «Yo seré para él un Padre, y él será para mí un Hijo»?",
+    "translation_notes": "Cadena de siete citas del AT (catena, vv. 5-13): aquí Salmo 2:7 (entronización mesiánica) y 2 Samuel 7:14 (pacto davídico)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 6,
+    "greek_text": "ὅταν δὲ πάλιν εἰσαγάγῃ τὸν πρωτότοκον εἰς τὴν οἰκουμένην, λέγει· Καὶ προσκυνησάτωσαν αὐτῷ πάντες ἄγγελοι θεοῦ.",
+    "translation": "Y cuando otra vez introduce al Primogénito en el mundo, dice: «Y adórenlo todos los ángeles de Dios».",
+    "translation_notes": "«Primogénito» (πρωτότοκον): título de preeminencia y herencia real (Sal 89:27). Cita de Deuteronomio 32:43 (LXX) / Salmo 97:7: los ángeles rinden adoración al Hijo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 7,
+    "greek_text": "καὶ πρὸς μὲν τοὺς ἀγγέλους λέγει· Ὁ ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα, καὶ τοὺς λειτουργοὺς αὐτοῦ πυρὸς φλόγα·",
+    "translation": "Y ciertamente de los ángeles dice: «El que hace a sus ángeles vientos, y a sus ministros llama de fuego»;",
+    "translation_notes": "Cita del Salmo 104:4 (LXX 103:4): los ángeles son criaturas y servidores cambiantes al servicio de Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 8,
+    "greek_text": "πρὸς δὲ τὸν υἱόν· Ὁ θρόνος σου ὁ θεὸς εἰς τὸν αἰῶνα τοῦ αἰῶνος, καὶ ἡ ῥάβδος τῆς εὐθύτητος ῥάβδος τῆς βασιλείας σου.",
+    "translation": "pero respecto al Hijo dice: «Tu trono, oh Dios, es por los siglos de los siglos; y cetro de rectitud es el cetro de tu reino.",
+    "translation_notes": "Cita del Salmo 45:6-7 (LXX 44:7-8), donde el Padre se dirige directamente al Hijo llamándolo «oh Dios» (ὁ θεός, vocativo cristológico explícito)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 9,
+    "greek_text": "ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν· διὰ τοῦτο ἔχρισέν σε ὁ θεός, ὁ θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου·",
+    "translation": "Amaste la justicia y aborreciste la iniquidad; por eso te ungió Dios, el Dios tuyo, con óleo de alegría más que a tus compañeros».",
+    "translation_notes": "«Tus compañeros» (τοὺς μετόχους σου): en el Salmo 45 alude a otros reyes; en Hebreos abarca también a los creyentes redimidos (cf. 3:14) o a los ángeles."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 10,
+    "greek_text": "καί· Σὺ κατ’ ἀρχάς, κύριε, τὴν γῆν ἐθεμελίωσας, καὶ ἔργα τῶν χειρῶν σού εἰσιν οἱ οὐρανοί·",
+    "translation": "Y: «Tú, Señor, en el principio fundaste la tierra, y obra de tus manos son los cielos.",
+    "translation_notes": "Cita del Salmo 102:25-27 (LXX 101:26-28), aplicando al Hijo el título Κύριε (YHWH de la LXX) como Creador eterno e inmutable."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 11,
+    "greek_text": "αὐτοὶ ἀπολοῦνται, σὺ δὲ διαμένεις· καὶ πάντες ὡς ἱμάτιον παλαιωθήσονται,",
+    "translation": "Ellos perecerán, pero tú permaneces; y todos como un vestido se envejecerán,",
+    "translation_notes": "Contraste entre la creación física transitoria y la eternidad inmutable del Hijo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 12,
+    "greek_text": "καὶ ὡσεὶ περιβόλαιον ἑλίξεις αὐτούς, ὡς ἱμάτιον καὶ ἀλλαγήσονται· σὺ δὲ ὁ αὐτὸς εἶ, καὶ τὰ ἔτη σου οὐκ ἐκλείψουσιν.",
+    "translation": "y como un manto los enrollarás, y como un vestido serán mudados; pero tú eres el mismo, y tus años no se acabarán».",
+    "translation_notes": "«Tú eres el mismo» (σὺ δὲ ὁ αὐτὸς εἶ): eco de la fidelidad inmutable del Hijo (cf. 13:8)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 13,
+    "greek_text": "πρὸς τίνα δὲ τῶν ἀγγέλων εἴρηκέν ποτε· Κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου;",
+    "translation": "Pero ¿a cuál de los ángeles ha dicho jamás: «Siéntate a mi diestra, hasta que ponga a tus enemigos por estrado de tus pies»?",
+    "translation_notes": "Cita culminante del Salmo 110:1: ningún ángel comparte jamás el trono soberano de Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 1,
+    "verse": 14,
+    "greek_text": "οὐχὶ πάντες εἰσὶν λειτουργικὰ πνεύματα εἰς διακονίαν ἀποστελλόμενα διὰ τοὺς μέλλοντας κληρονομεῖν σωτηρίαν;",
+    "translation": "¿No son todos ellos espíritus servidores, enviados para ministrar a favor de los que han de heredar la salvación?",
+    "translation_notes": "Define el papel subordinado de los ángeles: son «espíritus litúrgicos / servidores» (λειτουργικὰ πνεύματα) enviados en ayuda de los creyentes."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 1,
+    "greek_text": "Διὰ τοῦτο δεῖ περισσοτέρως προσέχειν ἡμᾶς τοῖς ἀκουσθεῖσιν, μήποτε παραρυῶμεν.",
+    "translation": "Por esto debemos prestar mucha más atención a lo que hemos oído, no sea que nos deslicemos y nos apartemos.",
+    "translation_notes": "Primera de las cinco grandes advertencias de Hebreos (2:1-4): «deslicemos» (παραρυῶμεν) evoca una barca que va a la deriva lejos del puerto por descuido."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 2,
+    "greek_text": "εἰ γὰρ ὁ δι’ ἀγγέλων λαληθεὶς λόγος ἐγένετο βέβαιος, καὶ πᾶσα παράβασις καὶ παρακοὴ ἔλαβεν ἔνδικον μισθαποδοσίαν,",
+    "translation": "Porque si la palabra hablada por medio de ángeles fue firme, y toda transgresión y desobediencia recibió justa retribución,",
+    "translation_notes": "Alude a la entrega de la Ley en el Sinaí mediada por ángeles (cf. Dt 33:2 LXX; Hch 7:53; Gá 3:19)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 3,
+    "greek_text": "πῶς ἡμεῖς ἐκφευξόμεθα τηλικαύτης ἀμελήσαντες σωτηρίας, ἥτις, ἀρχὴν λαβοῦσα λαλεῖσθαι διὰ τοῦ κυρίου, ὑπὸ τῶν ἀκουσάντων εἰς ἡμᾶς ἐβεβαιώθη,",
+    "translation": "¿cómo escaparemos nosotros si descuidamos una salvación tan grande? La cual, habiendo comenzado a ser anunciada por el Señor, nos fue confirmada por los que oyeron,",
+    "translation_notes": "El autor y sus lectores pertenecen a la segunda generación cristiana: recibieron el evangelio confirmado por testigos presenciales de Jesús («los que oyeron»)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 4,
+    "greek_text": "συνεπιμαρτυροῦντος τοῦ θεοῦ σημείοις τε καὶ τέρασιν καὶ ποικίλαις δυνάμεσιν καὶ πνεύματος ἁγίου μερισμοῖς κατὰ τὴν αὐτοῦ θέλησιν;",
+    "translation": "testificando juntamente Dios con señales y prodigios, y diversos milagros y repartimientos del Espíritu Santo según su voluntad.",
+    "translation_notes": "Confirmación trinitaria de la predicación apostólica mediante milagros y dones del Espíritu Santo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 5,
+    "greek_text": "Οὐ γὰρ ἀγγέλοις ὑπέταξεν τὴν οἰκουμένην τὴν μέλλουσαν, περὶ ἧς λαλοῦμεν·",
+    "translation": "Porque no sujetó a los ángeles el mundo venidero, del cual hablamos;",
+    "translation_notes": "«El mundo venidero» (τὴν οἰκουμένην τὴν μέλλουσαν): la nueva creación y orden escatológico gobernado por Cristo y sus redimidos."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 6,
+    "greek_text": "διεμαρτύρατο δέ πού τις λέγων· Τί ἐστιν ἄνθρωπος ὅτι μιμνῄσκῃ αὐτοῦ, ἢ υἱὸς ἀνθρώπου ὅτι ἐπισκέπτῃ αὐτόν;",
+    "translation": "antes bien, alguien testificó en cierto lugar diciendo: «¿Qué es el hombre para que te acuerdes de él, o el hijo del hombre para que lo visites?",
+    "translation_notes": "Cita del Salmo 8:4-6 (LXX 8:5-7): la dignidad original asignada al ser humano en la creación se cumple plenamente en Jesús, el Hijo del Hombre."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 7,
+    "greek_text": "ἠλάττωσας αὐτὸν βραχύ τι παρ’ ἀγγέλους, δόξῃ καὶ τιμῇ ἐστεφάνωσας αὐτόν,",
+    "translation": "Lo hiciste un poco menor que los ángeles; lo coronaste de gloria y de honra,",
+    "translation_notes": "«Un poco» (βραχύ τι) puede indicar grado («un poco inferior») o tiempo («por un breve tiempo», durante la encarnación terrenal de Jesús)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 8,
+    "greek_text": "πάντα ὑπέταξας ὑποκάτω τῶν ποδῶν αὐτοῦ· ἐν τῷ γὰρ ὑποτάξαι τὰ πάντα οὐδὲν ἀφῆκεν αὐτῷ ἀνυπότακτον. νῦν δὲ οὔπω ὁρῶμεν αὐτῷ τὰ πάντα ὑποτεταγμένα·",
+    "translation": "todo lo sujetaste debajo de sus pies». Porque al sujetarle todas las cosas, nada dejó que no le sea sujeto. Pero todavía no vemos que todas las cosas le estén sujetas;",
+    "translation_notes": "Tensión escatológica del «ya, pero todavía no»: la victoria ya está asegurada, aunque aún no es visible en toda la historia."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 9,
+    "greek_text": "τὸν δὲ βραχύ τι παρ’ ἀγγέλους ἠλαττωμένον βλέπομεν Ἰησοῦν διὰ τὸ πάθημα τοῦ θανάτου δόξῃ καὶ τιμῇ ἐστεφανωμένον, ὅπως χωρὶς θεοῦ ὑπὲρ παντὸς γεύσηται θανάτου.",
+    "translation": "pero vemos a aquel que fue hecho un poco menor que los ángeles, a Jesús, coronado de gloria y de honra a causa del sufrimiento de la muerte, para que, separado de Dios, gustara la muerte por todos.",
+    "translation_notes": "Nota textual: SBLGNT lee χωρὶς θεοῦ («separado de Dios» o «sin Dios», evocando el desamparo de la cruz en Mt 27:46); la gran mayoría de los manuscritos posteriores leen χάριτι θεοῦ («por la gracia de Dios»)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 10,
+    "greek_text": "Ἔπρεπεν γὰρ αὐτῷ, δι’ ὃν τὰ πάντα καὶ δι’ οὗ τὰ πάντα, πολλοὺς υἱοὺς εἰς δόξαν ἀγαγόντα τὸν ἀρχηγὸν τῆς σωτηρίας αὐτῶν διὰ παθημάτων τελειῶσαι.",
+    "translation": "Porque convenía a aquel por quien son todas las cosas y por medio de quien son todas las cosas, al llevar muchos hijos a la gloria, perfeccionar por medio de aflicciones al autor de la salvación de ellos.",
+    "translation_notes": "«Autor / pionero» (ἀρχηγόν): el capitán o precursor que abre camino. «Perfeccionar» (τελειῶσαι) no significa que Jesús tuviera pecado, sino capacitarlo plenamente mediante el sufrimiento real como Sumo Sacerdote compasivo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 11,
+    "greek_text": "ὅ τε γὰρ ἁγιάζων καὶ οἱ ἁγιαζόμενοι ἐξ ἑνὸς πάντες· δι’ ἣν αἰτίαν οὐκ ἐπαισχύνεται ἀδελφοὺς αὐτοὺς καλεῖν,",
+    "translation": "Porque tanto el que santifica como los que son santificados proceden todos de uno; por lo cual no se avergüenza de llamarlos hermanos,",
+    "translation_notes": "«Proceden de uno» (ἐξ ἑνός): de un mismo Padre (Dios) y de una misma humanidad compartida, haciendo posible la solidaridad fraterna de Cristo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 12,
+    "greek_text": "λέγων· Ἀπαγγελῶ τὸ ὄνομά σου τοῖς ἀδελφοῖς μου, ἐν μέσῳ ἐκκλησίας ὑμνήσω σε·",
+    "translation": "diciendo: «Anunciaré tu nombre a mis hermanos; en medio de la congregación te cantaré alabanzas».",
+    "translation_notes": "Cita del Salmo 22:22 (LXX 21:23): tras el sufrimiento de la cruz (Sal 22:1-21), el Resucitado llama «hermanos» a los redimidos."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 13,
+    "greek_text": "καὶ πάλιν· Ἐγὼ ἔσομαι πεποιθὼς ἐπ’ αὐτῷ· καὶ πάλιν· Ἰδοὺ ἐγὼ καὶ τὰ παιδία ἅ μοι ἔδωκεν ὁ θεός.",
+    "translation": "Y otra vez: «Yo confiaré en él». Y otra vez: «He aquí yo y los hijos que Dios me dio».",
+    "translation_notes": "Citas de Isaías 8:17 y 8:18 (LXX): Jesús se identifica plenamente con el pueblo creyente en confianza hacia el Padre."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 14,
+    "greek_text": "Ἐπεὶ οὖν τὰ παιδία κεκοινώνηκεν αἵματος καὶ σαρκός, καὶ αὐτὸς παραπλησίως μετέσχεν τῶν αὐτῶν, ἵνα διὰ τοῦ θανάτου καταργήσῃ τὸν τὸ κράτος ἔχοντα τοῦ θανάτου, τοῦτ’ ἔστι τὸν διάβολον,",
+    "translation": "Así que, por cuanto los hijos participaron de carne y sangre, él también participó de lo mismo, para destruir por medio de la muerte al que tenía el imperio de la muerte, esto es, al diablo,",
+    "translation_notes": "Necesidad de la encarnación: solo asumiendo verdadera naturaleza humana («carne y sangre», αἵματος καὶ σαρκός) podía Cristo morir y desarmar («destruir / anular», καταργήσῃ) al diablo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 15,
+    "greek_text": "καὶ ἀπαλλάξῃ τούτους, ὅσοι φόβῳ θανάτου διὰ παντὸς τοῦ ζῆν ἔνοχοι ἦσαν δουλείας.",
+    "translation": "y librar a todos los que por el temor de la muerte estaban durante toda la vida sujetos a esclavitud.",
+    "translation_notes": "La resurrección de Cristo rompe la tiranía existencial del miedo a la muerte."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 16,
+    "greek_text": "οὐ γὰρ δήπου ἀγγέλων ἐπιλαμβάνεται, ἀλλὰ σπέρματος Ἀβραὰμ ἐπιλαμβάνεται.",
+    "translation": "Porque ciertamente no viene en auxilio de los ángeles, sino que viene en auxilio de la descendencia de Abraham.",
+    "translation_notes": "«Viene en auxilio / toma de la mano» (ἐπιλαμβάνεται): Jesús no se encarnó para redimir ángeles caídos, sino a los hijos espirituales de Abraham (cf. Gá 3:7, 29)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 17,
+    "greek_text": "ὅθεν ὤφειλεν κατὰ πάντα τοῖς ἀδελφοῖς ὁμοιωθῆναι, ἵνα ἐλεήμων γένηται καὶ πιστὸς ἀρχιερεὺς τὰ πρὸς τὸν θεόν, εἰς τὸ ἱλάσκεσθαι τὰς ἁμαρτίας τοῦ λαοῦ·",
+    "translation": "Por lo cual debía ser hecho semejante en todo a sus hermanos, para llegar a ser un sumo sacerdote misericordioso y fiel en lo que a Dios se refiere, para hacer propiciación por los pecados del pueblo.",
+    "translation_notes": "Primera mención del gran tema distintivo de Hebreos: Jesús como «sumo sacerdote» (ἀρχιερεύς) misericordioso y fiel que ofrece «propiciación / expiación» (ἱλάσκεσθαι)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 2,
+    "verse": 18,
+    "greek_text": "ἐν ᾧ γὰρ πέπονθεν αὐτὸς πειρασθείς, δύναται τοῖς πειραζομένοις βοηθῆσαι.",
+    "translation": "Pues por cuanto él mismo padeció siendo tentado, es poderoso para socorrer a los que son tentados.",
+    "translation_notes": "«Socorrer» (βοηθῆσαι): correr en ayuda al oír el grito de auxilio; su experiencia real de tentación y dolor lo hace cercano y capaz."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 1,
+    "greek_text": "Ὅθεν, ἀδελφοὶ ἅγιοι, κλήσεως ἐπουρανίου μέτοχοι, κατανοήσατε τὸν ἀπόστολον καὶ ἀρχιερέα τῆς ὁμολογίας ἡμῶν Ἰησοῦν,",
+    "translation": "Por tanto, hermanos santos, participantes del llamamiento celestial, consideren atentamente al apóstol y sumo sacerdote de nuestra confesión: Jesús,",
+    "translation_notes": "Único lugar del NT donde Jesús recibe el título de «apóstol» (ἀπόστολον, el enviado supremo del Padre), unido a «sumo sacerdote»."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 2,
+    "greek_text": "πιστὸν ὄντα τῷ ποιήσαντι αὐτὸν ὡς καὶ Μωϋσῆς ἐν τῷ οἴκῳ αὐτοῦ.",
+    "translation": "quien es fiel al que lo constituyó, como también lo fue Moisés en toda su casa.",
+    "translation_notes": "Alusión a Números 12:7 (LXX), donde Dios elogia la fidelidad de Moisés en toda su «casa» (el pueblo de Israel)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 3,
+    "greek_text": "πλείονος γὰρ οὗτος δόξης παρὰ Μωϋσῆν ἠξίωται καθ’ ὅσον πλείονα τιμὴν ἔχει τοῦ οἴκου ὁ κατασκευάσας αὐτόν·",
+    "translation": "Porque de mayor gloria que Moisés ha sido considerado digno este, en la medida en que tiene mayor honor que la casa el que la construyó.",
+    "translation_notes": "Segundo contraste de la epístola (3:1-6): así como el arquitecto/constructor supera al edificio mismo, Cristo supera a Moisés."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 4,
+    "greek_text": "πᾶς γὰρ οἶκος κατασκευάζεται ὑπό τινος, ὁ δὲ πάντα κατασκευάσας θεός.",
+    "translation": "Porque toda casa es construida por alguien, pero el que construyó todas las cosas es Dios.",
+    "translation_notes": "Dios es el creador último de la comunidad del pacto en ambas dispensaciones."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 5,
+    "greek_text": "καὶ Μωϋσῆς μὲν πιστὸς ἐν ὅλῳ τῷ οἴκῳ αὐτοῦ ὡς θεράπων εἰς μαρτύριον τῶν λαληθησομένων,",
+    "translation": "Y Moisés a la verdad fue fiel en toda la casa de Dios como siervo, para testimonio de lo que se había de decir después;",
+    "translation_notes": "«Siervo» (θεράπων, asistente fiel de confianza, término tomado de Nm 12:7 LXX): el ministerio de Moisés apuntaba proféticamente hacia la revelación futura en Cristo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 6,
+    "greek_text": "Χριστὸς δὲ ὡς υἱὸς ἐπὶ τὸν οἶκον αὐτοῦ· ὃς οἶκός ἐσμεν ἡμεῖς, ἐὰν τὴν παρρησίαν καὶ τὸ καύχημα τῆς ἐλπίδος κατάσχωμεν.",
+    "translation": "pero Cristo como Hijo está sobre su casa; la cual casa somos nosotros, si retenemos firme hasta el fin la confianza y el orgullo de la esperanza.",
+    "translation_notes": "Contraste de preposiciones: Moisés fue fiel «en» la casa como siervo; Cristo es fiel «sobre» (ἐπί) la casa como Hijo y heredero. La perseverancia («si retenemos firme», ἐάν... κατάσχωμεν) evidencia la pertenencia genuina."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 7,
+    "greek_text": "Διό, καθὼς λέγει τὸ πνεῦμα τὸ ἅγιον· Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε,",
+    "translation": "Por lo cual, como dice el Espíritu Santo: «Si oyen hoy su voz,",
+    "translation_notes": "Inicia la segunda gran advertencia (3:7–4:13) citando el Salmo 95:7-11 (LXX 94:7-11) y atribuyendo directamente el texto de la Escritura al Espíritu Santo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 8,
+    "greek_text": "μὴ σκληρύνητε τὰς καρδίας ὑμῶν ὡς ἐν τῷ παραπικρασμῷ, κατὰ τὴν ἡμέραν τοῦ πειρασμοῦ ἐν τῇ ἐρήμῳ,",
+    "translation": "no endurezcan sus corazones, como en la rebelión, en el día de la prueba en el desierto,",
+    "translation_notes": "«La rebelión» (παραπικρασμῷ) y «la prueba» (πειρασμοῦ) traducen en la LXX los nombres hebreos Meribá y Masá (Éx 17:7; Nm 20:13)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 9,
+    "greek_text": "οὗ ἐπείρασαν οἱ πατέρες ὑμῶν ἐν δοκιμασίᾳ καὶ εἶδον τὰ ἔργα μου",
+    "translation": "donde me tentaron sus padres poniéndome a prueba, y vieron mis obras",
+    "translation_notes": "A pesar de presenciar los milagros del Éxodo, aquella generación puso a prueba la paciencia de Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 10,
+    "greek_text": "τεσσεράκοντα ἔτη· διὸ προσώχθισα τῇ γενεᾷ ταύτῃ καὶ εἶπον· Ἀεὶ πλανῶνται τῇ καρδίᾳ· αὐτοὶ δὲ οὐκ ἔγνωσαν τὰς ὁδούς μου·",
+    "translation": "durante cuarenta años. Por lo cual me indigné contra aquella generación, y dije: “Siempre se extravían en su corazón, y ellos no han conocido mis caminos”;",
+    "translation_notes": "El corazón extraviado rechaza confiar en la guía fiel de Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 11,
+    "greek_text": "ὡς ὤμοσα ἐν τῇ ὀργῇ μου· Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.",
+    "translation": "por eso juré en mi ira: “¡No entrarán en mi reposo!”».",
+    "translation_notes": "En griego, Εἰ εἰσελεύσονται es un hebraísmo de juramento negativo («¡Ciertamente no entrarán!»)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 12,
+    "greek_text": "βλέπετε, ἀδελφοί, μήποτε ἔσται ἔν τινι ὑμῶν καρδία πονηρὰ ἀπιστίας ἐν τῷ ἀποστῆναι ἀπὸ θεοῦ ζῶντος,",
+    "translation": "Miren, hermanos, que no haya en ninguno de ustedes un corazón malo de incredulidad, para apartarse del Dios viviente;",
+    "translation_notes": "«Apartarse» (ἀποστῆναι, de donde viene «apostasía»): el peligro real de abandonar la fe en Cristo bajo presión o persecución."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 13,
+    "greek_text": "ἀλλὰ παρακαλεῖτε ἑαυτοὺς καθ’ ἑκάστην ἡμέραν, ἄχρις οὗ τὸ Σήμερον καλεῖται, ἵνα μὴ σκληρυνθῇ τις ἐξ ὑμῶν ἀπάτῃ τῆς ἁμαρτίας·",
+    "translation": "antes bien, exhórtense los unos a los otros cada día, mientras se diga «Hoy», para que ninguno de ustedes se endurezca por el engaño del pecado.",
+    "translation_notes": "La perseverancia es una responsabilidad comunitaria cotidiana: el pecado engaña (ἀπάτῃ) endureciendo gradualmente la conciencia."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 14,
+    "greek_text": "μέτοχοι γὰρ τοῦ Χριστοῦ γεγόναμεν, ἐάνπερ τὴν ἀρχὴν τῆς ὑποστάσεως μέχρι τέλους βεβαίαν κατάσχωμεν.",
+    "translation": "Porque hemos llegado a ser participantes de Cristo, con tal que retengamos firme hasta el fin la confianza del principio,",
+    "translation_notes": "«Participantes» (μέτοχοι, socios/compañeros): el tiempo perfecto γεγόναμεν («hemos llegado a ser») se confirma mediante la perseverancia hasta el final."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 15,
+    "greek_text": "ἐν τῷ λέγεσθαι· Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, Μὴ σκληρύνητε τὰς καρδίας ὑμῶν ὡς ἐν τῷ παραπικρασμῷ.",
+    "translation": "en tanto que se dice: «Si oyen hoy su voz, no endurezcan sus corazones, como en la rebelión».",
+    "translation_notes": "Vuelve a enfatizar la urgencia del «Hoy» (Σήμερον) para responder con fe."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 16,
+    "greek_text": "τίνες γὰρ ἀκούσαντες παρεπίκραναν; ἀλλ’ οὐ πάντες οἱ ἐξελθόντες ἐξ Αἰγύπτου διὰ Μωϋσέως;",
+    "translation": "Porque ¿quiénes, habiendo oído, se rebelaron? ¿No fueron acaso todos los que salieron de Egipto por medio de Moisés?",
+    "translation_notes": "Tres preguntas retóricas (vv. 16-18) que analizan el Salmo 95 para demostrar que los privilegios externos no salvan sin fe obediente (cf. 1 Co 10:1-5)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 17,
+    "greek_text": "τίσιν δὲ προσώχθισεν τεσσεράκοντα ἔτη; οὐχὶ τοῖς ἁμαρτήσασιν, ὧν τὰ κῶλα ἔπεσεν ἐν τῇ ἐρήμῳ;",
+    "translation": "¿Y con quiénes estuvo indignado cuarenta años? ¿No fue con los que pecaron, cuyos cadáveres cayeron en el desierto?",
+    "translation_notes": "Referencia a Números 14:29: toda la generación incrédula murió en el desierto."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 18,
+    "greek_text": "τίσιν δὲ ὤμοσεν μὴ εἰσελεύσεσθαι εἰς τὴν κατάπαυσιν αὐτοῦ εἰ μὴ τοῖς ἀπειθήσασιν;",
+    "translation": "¿Y a quiénes juró que no entrarían en su reposo, sino a los que desobedecieron?",
+    "translation_notes": "Vincula íntimamente la desobediencia (τοῖς ἀπειθήσασιν, v. 18) con la incredulidad (ἀπιστίαν, v. 19)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 3,
+    "verse": 19,
+    "greek_text": "καὶ βλέπομεν ὅτι οὐκ ἠδυνήθησαν εἰσελθεῖν δι’ ἀπιστίαν.",
+    "translation": "Y vemos que no pudieron entrar a causa de su incredulidad.",
+    "translation_notes": "Diagnóstico final: la raíz de la caída fue la falta de fe (ἀπιστίαν) en la promesa de Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 1,
+    "greek_text": "Φοβηθῶμεν οὖν μήποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι·",
+    "translation": "Temamos, pues, no sea que permaneciendo aún la promesa de entrar en su reposo, alguno de ustedes parezca haber quedado atrás.",
+    "translation_notes": "«Parezca haber quedado atrás» (ὑστερηκέναι): quedarse corto o llegar demasiado tarde a la meta prometida."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 2,
+    "greek_text": "καὶ γάρ ἐσμεν εὐηγγελισμένοι καθάπερ κἀκεῖνοι, ἀλλ’ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους, μὴ συγκεκερασμένους τῇ πίστει τοῖς ἀκούσασιν.",
+    "translation": "Porque también a nosotros se nos ha anunciado el evangelio, así como a ellos; pero no les aprovechó la palabra oída, por no ir acompañada de fe en los que la oyeron.",
+    "translation_notes": "«Se nos ha anunciado el evangelio» (ἐσμεν εὐηγγελισμένοι): la buena noticia de la salvación requiere ser recibida y mezclada con fe viva."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 3,
+    "greek_text": "εἰσερχόμεθα γὰρ εἰς κατάπαυσιν οἱ πιστεύσαντες, καθὼς εἴρηκεν· Ὡς ὤμοσα ἐν τῇ ὀργῇ μου, Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου, καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων,",
+    "translation": "Porque los que hemos creído entramos en el reposo, de la manera que dijo: «Como juré en mi ira: ¡No entrarán en mi reposo!», aunque sus obras estaban acabadas desde la fundación del mundo.",
+    "translation_notes": "El «reposo» (κατάπαυσις) de Dios existe desde que concluyó la creación (Gn 2:2); los creyentes ya comienzan a disfrutarlo por fe."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 4,
+    "greek_text": "εἴρηκεν γάρ που περὶ τῆς ἑβδόμης οὕτως· Καὶ κατέπαυσεν ὁ θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ,",
+    "translation": "Porque en cierto lugar dijo así acerca del séptimo día: «Y reposó Dios en el séptimo día de todas sus obras».",
+    "translation_notes": "Cita de Génesis 2:2 (LXX): el reposo sabático divino es el arquetipo eterno del descanso escatológico prometido a su pueblo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 5,
+    "greek_text": "καὶ ἐν τούτῳ πάλιν· Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.",
+    "translation": "Y en este pasaje otra vez: «¡No entrarán en mi reposo!».",
+    "translation_notes": "Vuelve a enlazar Génesis 2:2 con el Salmo 95:11 mediante la palabra clave «reposo»."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 6,
+    "greek_text": "ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον δι’ ἀπείθειαν,",
+    "translation": "Por tanto, puesto que falta que algunos entren en él, y aquellos a quienes primero se les anunció no entraron por causa de su desobediencia,",
+    "translation_notes": "La promesa no quedó anulada por el fracaso de la generación del desierto: sigue abierta para quienes obedecen con fe."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 7,
+    "greek_text": "πάλιν τινὰ ὁρίζει ἡμέραν, Σήμερον, ἐν Δαυὶδ λέγων μετὰ τοσοῦτον χρόνον, καθὼς προείρηται, Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν·",
+    "translation": "otra vez determina un día: «Hoy», diciendo por medio de David después de tanto tiempo, como ya se ha citado: «Si oyen hoy su voz, no endurezcan sus corazones».",
+    "translation_notes": "Siglos después de Josué y Moisés, el Salmo 95 («en David», es decir, en el Salterio) sigue anunciando un «Hoy» de oportunidad."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 8,
+    "greek_text": "εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας.",
+    "translation": "Porque si Josué les hubiera dado el reposo, no hablaría después de otro día.",
+    "translation_notes": "En griego «Josué» se escribe Ἰησοῦς (Jesús): la entrada en Canaán bajo Josué fue solo un anticipo terrenal, no el reposo definitivo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 9,
+    "greek_text": "ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ·",
+    "translation": "Por tanto, queda aún un reposo sabático para el pueblo de Dios.",
+    "translation_notes": "«Reposo sabático» (σαββατισμός): término acuñado probablemente por el autor para expresar la celebración eterna y gozosa del pueblo de Dios en la nueva creación."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 10,
+    "greek_text": "ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ ὥσπερ ἀπὸ τῶν ἰδίων ὁ θεός.",
+    "translation": "Porque el que ha entrado en su reposo, también él ha reposado de sus obras, así como Dios de las suyas.",
+    "translation_notes": "Alude tanto a Cristo (que terminó su obra redentora y descansó a la diestra de Dios) como al creyente que descansa de sus fatigas terrenales y obras muertas en la salvación."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 11,
+    "greek_text": "σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας.",
+    "translation": "Esforcémonos, pues, por entrar en aquel reposo, para que nadie caiga en semejante ejemplo de desobediencia.",
+    "translation_notes": "Paradoja pastoral: «esforcémonos por entrar en el reposo» mediante la perseverancia fiel."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 12,
+    "greek_text": "Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας·",
+    "translation": "Porque la palabra de Dios es viva y eficaz, y más cortante que toda espada de dos filos, y penetra hasta partir el alma y el espíritu, las coyunturas y los tuétanos, y discierne los pensamientos y las intenciones del corazón.",
+    "translation_notes": "Descripción célebre de la Escritura hablada por Dios (como el Salmo 95 recién citado): «eficaz» (ἐνεργής, activa/poderosa) y «discierne» (κριτικός, juez penetrante de lo más íntimo del ser humano)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 13,
+    "greek_text": "καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ, πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ, πρὸς ὃν ἡμῖν ὁ λόγος.",
+    "translation": "Y no hay cosa creada que no sea manifiesta en su presencia; antes bien, todas las cosas están desnudas y abiertas a los ojos de aquel a quien tenemos que dar cuenta.",
+    "translation_notes": "«Abiertas» (τετραχηλισμένα): término que alude a inclinar hacia atrás el cuello de la víctima sacrificial o del luchador vencido, dejándolo totalmente expuesto; «a quien tenemos que dar cuenta» (πρὸς ὃν ἡμῖν ὁ λόγος)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 14,
+    "greek_text": "Ἔχοντες οὖν ἀρχιερέα μέγαν διεληλυθότα τοὺς οὐρανούς, Ἰησοῦν τὸν υἱὸν τοῦ θεοῦ, κρατῶμεν τῆς ὁμολογίας·",
+    "translation": "Teniendo, pues, un gran sumo sacerdote que traspasó los cielos, Jesús el Hijo de Dios, retengamos firme nuestra confesión.",
+    "translation_notes": "Retoma 2:17-18 y abre la gran sección sacerdotal (4:14–10:18): Jesús traspasó los cielos hacia el santuario celestial verdadero (como el sumo sacerdote atravesaba los velos hacia el Lugar Santísimo)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 15,
+    "greek_text": "οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθ’ ὁμοιότητα χωρὶς ἁμαρτίας.",
+    "translation": "Porque no tenemos un sumo sacerdote que no pueda compadecerse de nuestras debilidades, sino uno que fue tentado en todo según nuestra semejanza, pero sin pecado.",
+    "translation_notes": "«Compadecerse» (συμπαθῆσαι): sentir junto con nosotros. Jesús experimentó la tentación real sin ceder jamás al pecado («sin pecado», χωρὶς ἁμαρτίας)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 4,
+    "verse": 16,
+    "greek_text": "προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεος καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.",
+    "translation": "Acerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia y hallar gracia para el oportuno socorro.",
+    "translation_notes": "«Confiadamente / con plena libertad» (μετὰ παρρησίας): el antiguo propiciatorio inaccesible del arca se ha transformado en «trono de la gracia» abierto siempre al creyente necesitado."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 1,
+    "greek_text": "Πᾶς γὰρ ἀρχιερεὺς ἐξ ἀνθρώπων λαμβανόμενος ὑπὲρ ἀνθρώπων καθίσταται τὰ πρὸς τὸν θεόν, ἵνα προσφέρῃ δῶρά τε καὶ θυσίας ὑπὲρ ἁμαρτιῶν,",
+    "translation": "Porque todo sumo sacerdote tomado de entre los hombres es constituido a favor de los hombres en lo que a Dios se refiere, para que presente ofrendas y sacrificios por los pecados,",
+    "translation_notes": "Dos requisitos del sumo sacerdote levítico (vv. 1-4): solidaridad con los hombres (vv. 1-3) y llamamiento divino (v. 4), ambos cumplidos de manera superior en Cristo (vv. 5-10)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 2,
+    "greek_text": "μετριοπαθεῖν δυνάμενος τοῖς ἀγνοοῦσι καὶ πλανωμένοις ἐπεὶ καὶ αὐτὸς περίκειται ἀσθένειαν,",
+    "translation": "pudiendo mostrarse indulgente con los ignorantes y extraviados, puesto que él mismo también está rodeado de debilidad;",
+    "translation_notes": "«Mostrarse indulgente / tratar con moderación» (μετριοπαθεῖν): contener la dureza y tratar con compasión a quienes pecan por fragilidad."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 3,
+    "greek_text": "καὶ δι’ αὐτὴν ὀφείλει, καθὼς περὶ τοῦ λαοῦ, οὕτως καὶ περὶ αὑτοῦ προσφέρειν περὶ ἁμαρτιῶν.",
+    "translation": "y por causa de ella debe presentar ofrendas por los pecados tanto por sí mismo como por el pueblo.",
+    "translation_notes": "Diferencia clave que se desarrollará en 7:27: el sumo sacerdote aarónico debía ofrecer primero sacrificio por sus propios pecados (Lv 16:6, 11), mientras Cristo es sin pecado."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 4,
+    "greek_text": "καὶ οὐχ ἑαυτῷ τις λαμβάνει τὴν τιμήν, ἀλλὰ καλούμενος ὑπὸ τοῦ θεοῦ, καθώσπερ καὶ Ἀαρών.",
+    "translation": "Y nadie toma para sí esta honra, sino el que es llamado por Dios, como también lo fue Aarón.",
+    "translation_notes": "El sacerdocio legítimo nunca es autoimpuesto sino vocación divina (Éx 28:1)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 5,
+    "greek_text": "Οὕτως καὶ ὁ Χριστὸς οὐχ ἑαυτὸν ἐδόξασεν γενηθῆναι ἀρχιερέα, ἀλλ’ ὁ λαλήσας πρὸς αὐτόν· Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε·",
+    "translation": "Así tampoco Cristo se glorificó a sí mismo haciéndose sumo sacerdote, sino el que le dijo: «Mi Hijo eres tú, yo te he engendrado hoy»;",
+    "translation_notes": "Cita nuevamente el Salmo 2:7 (cf. 1:5) junto con el Salmo 110:4 (v. 6): el mismo Padre que entrona al Hijo lo designa sacerdote eterno."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 6,
+    "greek_text": "καθὼς καὶ ἐν ἑτέρῳ λέγει· Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισέδεκ,",
+    "translation": "como también dice en otro lugar: «Tú eres sacerdote para siempre, según el orden de Melquisedec».",
+    "translation_notes": "Cita clave del Salmo 110:4 (LXX 109:4), texto eje de Hebreos 5–7: un sacerdocio real y eterno distinto del orden levítico."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 7,
+    "greek_text": "ὃς ἐν ταῖς ἡμέραις τῆς σαρκὸς αὐτοῦ δεήσεις τε καὶ ἱκετηρίας πρὸς τὸν δυνάμενον σῴζειν αὐτὸν ἐκ θανάτου μετὰ κραυγῆς ἰσχυρᾶς καὶ δακρύων προσενέγκας καὶ εἰσακουσθεὶς ἀπὸ τῆς εὐλαβείας,",
+    "translation": "Cristo, en los días de su carne, habiendo ofrecido ruegos y súplicas con gran clamor y lágrimas al que lo podía librar de la muerte, fue oído a causa de su temor reverente;",
+    "translation_notes": "Evocación conmovedora de Getsemaní (cf. Mr 14:32-42; Lc 22:44): Jesús no fue librado «de morir», sino «desde/fuera de la muerte» mediante la resurrección, siendo oído por su piedad reverente (εὐλαβείας)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 8,
+    "greek_text": "καίπερ ὢν υἱός, ἔμαθεν ἀφ’ ὧν ἔπαθεν τὴν ὑπακοήν,",
+    "translation": "y aunque era Hijo, por lo que padeció aprendió la obediencia;",
+    "translation_notes": "No aprendió a dejar de ser desobediente (nunca pecó), sino que experimentó en carne propia el costo completo de la obediencia filial hasta la cruz (cf. Fil 2:8)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 9,
+    "greek_text": "καὶ τελειωθεὶς ἐγένετο πᾶσιν τοῖς ὑπακούουσιν αὐτῷ αἴτιος σωτηρίας αἰωνίου,",
+    "translation": "y habiendo sido perfeccionado, vino a ser autor de eterna salvación para todos los que le obedecen,",
+    "translation_notes": "«Perfeccionado» (τελειωθείς, cf. 2:10): consagrado y plenamente capacitado mediante su sacrificio para otorgar salvación definitiva."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 10,
+    "greek_text": "προσαγορευθεὶς ὑπὸ τοῦ θεοῦ ἀρχιερεὺς κατὰ τὴν τάξιν Μελχισέδεκ.",
+    "translation": "y fue proclamado por Dios sumo sacerdote según el orden de Melquisedec.",
+    "translation_notes": "«Proclamado» (προσαγορευθείς): designado solemnemente por Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 11,
+    "greek_text": "Περὶ οὗ πολὺς ἡμῖν ὁ λόγος καὶ δυσερμήνευτος λέγειν, ἐπεὶ νωθροὶ γεγόνατε ταῖς ἀκοαῖς·",
+    "translation": "Acerca de esto tenemos mucho que decir, y difícil de explicar, por cuanto ustedes se han vuelto tardos para oír.",
+    "translation_notes": "Inicia un paréntesis exhortativo (5:11–6:20, tercera gran advertencia) antes de desarrollar la teología de Melquisedec en el capítulo 7. «Tardos» (νωθροί) significa perezosos o embotados."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 12,
+    "greek_text": "καὶ γὰρ ὀφείλοντες εἶναι διδάσκαλοι διὰ τὸν χρόνον, πάλιν χρείαν ἔχετε τοῦ διδάσκειν ὑμᾶς τινὰ τὰ στοιχεῖα τῆς ἀρχῆς τῶν λογίων τοῦ θεοῦ, καὶ γεγόνατε χρείαν ἔχοντες γάλακτος, οὐ στερεᾶς τροφῆς.",
+    "translation": "Porque debiendo ser ya maestros por el tiempo transcurrido, tienen necesidad de que se les vuelva a enseñar cuáles son los primeros rudimentos de las palabras de Dios; y han llegado a tener necesidad de leche, y no de alimento sólido.",
+    "translation_notes": "Llevaban tiempo suficiente como creyentes para instruir a otros, pero habían retrocedido a la infancia espiritual (cf. 1 Co 3:1-2)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 13,
+    "greek_text": "πᾶς γὰρ ὁ μετέχων γάλακτος ἄπειρος λόγου δικαιοσύνης, νήπιος γάρ ἐστιν·",
+    "translation": "Pues todo el que participa de la leche es inexperto en la palabra de justicia, porque es niño;",
+    "translation_notes": "«Palabra de justicia» (λόγου δικαιοσύνης): la enseñanza madura sobre la obra sacerdotal de Cristo y sus implicaciones éticas."
+  },
+  {
+    "book": "HEB",
+    "chapter": 5,
+    "verse": 14,
+    "greek_text": "τελείων δέ ἐστιν ἡ στερεὰ τροφή, τῶν διὰ τὴν ἕξιν τὰ αἰσθητήρια γεγυμνασμένα ἐχόντων πρὸς διάκρισιν καλοῦ τε καὶ κακοῦ.",
+    "translation": "pero el alimento sólido es para los maduros, para los que por la práctica tienen los sentidos ejercitados en el discernimiento del bien y del mal.",
+    "translation_notes": "«Ejercitados» (γεγυμνασμένα, de donde viene «gimnasio»): la madurez espiritual se adquiere entrenando el discernimiento mediante la obediencia constante."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 1,
+    "greek_text": "Διὸ ἀφέντες τὸν τῆς ἀρχῆς τοῦ Χριστοῦ λόγον ἐπὶ τὴν τελειότητα φερώμεθα, μὴ πάλιν θεμέλιον καταβαλλόμενοι μετανοίας ἀπὸ νεκρῶν ἔργων, καὶ πίστεως ἐπὶ θεόν,",
+    "translation": "Por tanto, dejando atrás las enseñanzas elementales acerca de Cristo, avancemos hacia la madurez, sin echar de nuevo el fundamento del arrepentimiento de obras muertas y de la fe en Dios,",
+    "translation_notes": "«Enseñanzas elementales» (τὸν τῆς ἀρχῆς τοῦ Χριστοῦ λόγον): seis doctrinas fundacionales compartidas entre el judaísmo y el cristianismo primitivo (vv. 1-2); el autor urge a madurar hacia la comprensión plena de Cristo como Sumo Sacerdote."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 2,
+    "greek_text": "βαπτισμῶν διδαχὴν ἐπιθέσεώς τε χειρῶν, ἀναστάσεώς τε νεκρῶν καὶ κρίματος αἰωνίου.",
+    "translation": "de la doctrina sobre bautismos, de la imposición de manos, de la resurrección de los muertos y del juicio eterno.",
+    "translation_notes": "«Bautismos / abluciones» (βαπτισμῶν, plural): distingue probablemente el bautismo cristiano de los ritos judíos de purificación."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 3,
+    "greek_text": "καὶ τοῦτο ποιήσομεν ἐάνπερ ἐπιτρέπῃ ὁ θεός.",
+    "translation": "Y esto haremos, si en verdad Dios lo permite.",
+    "translation_notes": "Dependencia humilde de la gracia divina para el progreso espiritual de la congregación."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 4,
+    "greek_text": "Ἀδύνατον γὰρ τοὺς ἅπαξ φωτισθέντας γευσαμένους τε τῆς δωρεᾶς τῆς ἐπουρανίου καὶ μετόχους γενηθέντας πνεύματος ἁγίου",
+    "translation": "Porque es imposible que a los que una vez fueron iluminados, y gustaron del don celestial, y fueron hechos participantes del Espíritu Santo,",
+    "translation_notes": "Inicia la tercera y más solemne advertencia de la carta (vv. 4-8): enumera cinco privilegios extraordinarios experimentados en la comunidad cristiana antes de una apostasía deliberada y total."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 5,
+    "greek_text": "καὶ καλὸν γευσαμένους θεοῦ ῥῆμα δυνάμεις τε μέλλοντος αἰῶνος,",
+    "translation": "y asimismo gustaron de la buena palabra de Dios y de los poderes del mundo venidero,",
+    "translation_notes": "«Los poderes del mundo venidero» (δυνάμεις μέλλοντος αἰῶνος): las señales del Espíritu experimentadas ya en la iglesia (cf. 2:4)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 6,
+    "greek_text": "καὶ παραπεσόντας, πάλιν ἀνακαινίζειν εἰς μετάνοιαν, ἀνασταυροῦντας ἑαυτοῖς τὸν υἱὸν τοῦ θεοῦ καὶ παραδειγματίζοντας.",
+    "translation": "y luego cayeron, renovarlos otra vez para arrepentimiento, puesto que crucifican de nuevo para sí mismos al Hijo de Dios y lo exponen a pública ignominia.",
+    "translation_notes": "«Cayeron» (παραπεσόντας) no se refiere a tropiezos cotidianos de un creyente débil, sino al rechazo público y definitivo de Cristo (como indica el participio presente «crucificando de nuevo», ἀνασταυροῦντας): quien rechaza el único sacrificio de Cristo no tiene otro altar adonde acudir (cf. 10:26)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 7,
+    "greek_text": "γῆ γὰρ ἡ πιοῦσα τὸν ἐπ’ αὐτῆς ἐρχόμενον πολλάκις ὑετόν, καὶ τίκτουσα βοτάνην εὔθετον ἐκείνοις δι’ οὓς καὶ γεωργεῖται, μεταλαμβάνει εὐλογίας ἀπὸ τοῦ θεοῦ·",
+    "translation": "Porque la tierra que bebe la lluvia que muchas veces cae sobre ella, y produce vegetación provechosa para aquellos por los cuales es labrada, recibe bendición de parte de Dios;",
+    "translation_notes": "Parábola agrícola (vv. 7-8): la misma lluvia de la gracia revela la naturaleza real del suelo según produzca fruto o espinos."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 8,
+    "greek_text": "ἐκφέρουσα δὲ ἀκάνθας καὶ τριβόλους ἀδόκιμος καὶ κατάρας ἐγγύς, ἧς τὸ τέλος εἰς καῦσιν.",
+    "translation": "pero la que produce espinos y abrojos es reprobada y está próxima a maldición, y su fin es ser quemada.",
+    "translation_notes": "Eco de Génesis 3:17-18 («espinos y abrojos», ἀκάνθας καὶ τριβόλους): alude a la quema de maleza tras la cosecha como imagen del juicio."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 9,
+    "greek_text": "Πεπείσμεθα δὲ περὶ ὑμῶν, ἀγαπητοί, τὰ κρείσσονα καὶ ἐχόμενα σωτηρίας, εἰ καὶ οὕτως λαλοῦμεν·",
+    "translation": "Pero respecto a ustedes, amados, estamos persuadidos de cosas mejores y que acompañan a la salvación, aunque hablemos así.",
+    "translation_notes": "Cambio inmediato al tono pastoral alentador («amados», ἀγαπητοί, único uso en Hebreos): la advertencia busca prevenir, no condenar."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 10,
+    "greek_text": "οὐ γὰρ ἄδικος ὁ θεὸς ἐπιλαθέσθαι τοῦ ἔργου ὑμῶν καὶ τῆς ἀγάπης ἧς ἐνεδείξασθε εἰς τὸ ὄνομα αὐτοῦ, διακονήσαντες τοῖς ἁγίοις καὶ διακονοῦντες.",
+    "translation": "Porque Dios no es injusto para olvidar la obra de ustedes y el amor que han mostrado hacia su nombre, habiendo servido a los santos y sirviéndoles aún.",
+    "translation_notes": "El servicio perseverante a los hermanos («habiendo servido... y sirviendo aún») es evidencia real de la fe salvífica que Dios recuerda."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 11,
+    "greek_text": "ἐπιθυμοῦμεν δὲ ἕκαστον ὑμῶν τὴν αὐτὴν ἐνδείκνυσθαι σπουδὴν πρὸς τὴν πληροφορίαν τῆς ἐλπίδος ἄχρι τέλους,",
+    "translation": "Pero deseamos que cada uno de ustedes muestre la misma diligencia hasta el fin, para plena certeza de la esperanza,",
+    "translation_notes": "«Plena certeza» (πληροφορίαν): convicción madura y firme sostenida por la diligencia perseverante."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 12,
+    "greek_text": "ἵνα μὴ νωθροὶ γένησθε, μιμηταὶ δὲ τῶν διὰ πίστεως καὶ μακροθυμίας κληρονομούντων τὰς ἐπαγγελίας.",
+    "translation": "a fin de que no se vuelvan perezosos, sino imitadores de aquellos que por la fe y la paciencia heredan las promesas.",
+    "translation_notes": "Contraste con 5:11 («perezosos / tardos», νωθροί): introduce el modelo de Abraham (vv. 13-15) que luego culminará en el capítulo 11."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 13,
+    "greek_text": "Τῷ γὰρ Ἀβραὰμ ἐπαγγειλάμενος ὁ θεός, ἐπεὶ κατ’ οὐδενὸς εἶχεν μείζονος ὀμόσαι, ὤμοσεν καθ’ ἑαυτοῦ,",
+    "translation": "Porque cuando Dios hizo la promesa a Abraham, no teniendo nadie mayor por quien jurar, juró por sí mismo,",
+    "translation_notes": "Referencia a Génesis 22:16-17 tras el sacrificio de Isaac."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 14,
+    "greek_text": "λέγων· Εἰ μὴν εὐλογῶν εὐλογήσω σε καὶ πληθύνων πληθυνῶ σε·",
+    "translation": "diciendo: «Ciertamente te bendeciré con abundancia y te multiplicaré en gran manera».",
+    "translation_notes": "Cita exacta de Génesis 22:17 (LXX), usando la forma hebraizante intensiva del participio + verbo finito («bendiciendo te bendeciré»)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 15,
+    "greek_text": "καὶ οὕτως μακροθυμήσας ἐπέτυχεν τῆς ἐπαγγελίας.",
+    "translation": "Y así, habiendo esperado con paciencia, alcanzó la promesa.",
+    "translation_notes": "Abraham esperó largos años antes de ver el cumplimiento inicial en Isaac y las primicias del pacto."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 16,
+    "greek_text": "ἄνθρωποι γὰρ κατὰ τοῦ μείζονος ὀμνύουσιν, καὶ πάσης αὐτοῖς ἀντιλογίας πέρας εἰς βεβαίωσιν ὁ ὅρκος·",
+    "translation": "Porque los hombres juran por uno mayor que ellos, y para ellos el juramento es el fin de toda controversia como garantía firme.",
+    "translation_notes": "En el derecho antiguo, el juramento clausuraba todo litigio con máxima seguridad."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 17,
+    "greek_text": "ἐν ᾧ περισσότερον βουλόμενος ὁ θεὸς ἐπιδεῖξαι τοῖς κληρονόμοις τῆς ἐπαγγελίας τὸ ἀμετάθετον τῆς βουλῆς αὐτοῦ ἐμεσίτευσεν ὅρκῳ,",
+    "translation": "Por lo cual Dios, queriendo mostrar con mayor abundancia a los herederos de la promesa la inmutabilidad de su propósito, interpuso juramento,",
+    "translation_notes": "Dios no necesitaba jurar para decir verdad, pero condescendió a hacerlo por nuestro consuelo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 18,
+    "greek_text": "ἵνα διὰ δύο πραγμάτων ἀμεταθέτων, ἐν οἷς ἀδύνατον ψεύσασθαι θεόν, ἰσχυρὰν παράκλησιν ἔχωμεν οἱ καταφυγόντες κρατῆσαι τῆς προκειμένης ἐλπίδος·",
+    "translation": "para que por dos cosas inmutables, en las cuales es imposible que Dios mienta, tengamos un fortísimo consuelo los que hemos acudido a asirnos de la esperanza puesta delante de nosotros.",
+    "translation_notes": "Las «dos cosas inmutables» son la promesa de Dios y su juramento (cf. Sal 110:4 respecto al sacerdocio eterno de Cristo)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 19,
+    "greek_text": "ἣν ὡς ἄγκυραν ἔχομεν τῆς ψυχῆς, ἀσφαλῆ τε καὶ βεβαίαν καὶ εἰσερχομένην εἰς τὸ ἐσώτερον τοῦ καταπετάσματος,",
+    "translation": "La cual tenemos como ancla del alma, segura y firme, y que penetra hasta dentro del velo,",
+    "translation_notes": "Metáfora marítima invertida: en lugar de echar el ancla hacia abajo en el mar, nuestra esperanza está anclada arriba, en el Lugar Santísimo celestial («dentro del velo», τὸ ἐσώτερον τοῦ καταπετάσματος)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 6,
+    "verse": 20,
+    "greek_text": "ὅπου πρόδρομος ὑπὲρ ἡμῶν εἰσῆλθεν Ἰησοῦς, κατὰ τὴν τάξιν Μελχισέδεκ ἀρχιερεὺς γενόμενος εἰς τὸν αἰῶνα.",
+    "translation": "donde Jesús entró por nosotros como precursor, hecho sumo sacerdote para siempre según el orden de Melquisedec.",
+    "translation_notes": "«Precursor» (πρόδρομος): el explorador o guía que abre camino y garantiza la entrada de quienes lo siguen. Retoma así el tema de Melquisedec para desarrollarlo en el capítulo 7."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 1,
+    "greek_text": "Οὗτος γὰρ ὁ Μελχισέδεκ, βασιλεὺς Σαλήμ, ἱερεὺς τοῦ θεοῦ τοῦ ὑψίστου, ὁ συναντήσας Ἀβραὰμ ὑποστρέφοντι ἀπὸ τῆς κοπῆς τῶν βασιλέων καὶ εὐλογήσας αὐτόν,",
+    "translation": "Porque este Melquisedec, rey de Salem y sacerdote del Dios Altísimo, quien salió al encuentro de Abraham cuando regresaba de derrotar a los reyes y lo bendijo,",
+    "translation_notes": "Retoma el relato de Génesis 14:17-20: Melquisedec reúne en una sola persona los oficios de rey y sacerdote, algo vetado en el orden mosaico posterior."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 2,
+    "greek_text": "ᾧ καὶ δεκάτην ἀπὸ πάντων ἐμέρισεν Ἀβραάμ, πρῶτον μὲν ἑρμηνευόμενος βασιλεὺς δικαιοσύνης ἔπειτα δὲ καὶ βασιλεὺς Σαλήμ, ὅ ἐστιν βασιλεὺς εἰρήνης,",
+    "translation": "a quien también Abraham entregó el diezmo de todo: en primer lugar su nombre se traduce «rey de justicia», y además es rey de Salem, lo cual significa «rey de paz»;",
+    "translation_notes": "Etimología teológica de los títulos hebreos: Malki-tsedeq («rey de justicia») y Salem («paz», shalom), ambos cumplidos en el reinado mesiánico de Cristo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 3,
+    "greek_text": "ἀπάτωρ, ἀμήτωρ, ἀγενεαλόγητος, μήτε ἀρχὴν ἡμερῶν μήτε ζωῆς τέλος ἔχων, ἀφωμοιωμένος δὲ τῷ υἱῷ τοῦ θεοῦ, μένει ἱερεὺς εἰς τὸ διηνεκές.",
+    "translation": "sin padre, sin madre, sin genealogía registrada, sin tener principio de días ni fin de vida, sino hecho semejante al Hijo de Dios, permanece sacerdote de manera continua.",
+    "translation_notes": "Lectura tipológica desde el silencio narrativo del Génesis: al no registrarse ni origen ni muerte de Melquisedec en la Escritura, su figura sirve como tipo del sacerdocio eterno e ininterrumpido del Hijo de Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 4,
+    "greek_text": "Θεωρεῖτε δὲ πηλίκος οὗτος ᾧ δεκάτην Ἀβραὰμ ἔδωκεν ἐκ τῶν ἀκροθινίων ὁ πατριάρχης.",
+    "translation": "Consideren ahora cuán grande era este personaje, a quien hasta el patriarca Abraham le dio el diezmo de lo mejor del botín.",
+    "translation_notes": "«Lo mejor del botín» (τῶν ἀκροθινίων): literalmente la parte superior del montón de despojos reservada para Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 5,
+    "greek_text": "καὶ οἱ μὲν ἐκ τῶν υἱῶν Λευὶ τὴν ἱερατείαν λαμβάνοντες ἐντολὴν ἔχουσιν ἀποδεκατοῦν τὸν λαὸν κατὰ τὸν νόμον, τοῦτ’ ἔστιν τοὺς ἀδελφοὺς αὐτῶν, καίπερ ἐξεληλυθότας ἐκ τῆς ὀσφύος Ἀβραάμ·",
+    "translation": "Es verdad que los descendientes de Leví que reciben el sacerdocio tienen mandato según la ley de cobrar el diezmo al pueblo, es decir, a sus propios hermanos, aunque también estos hayan salido de los lomos de Abraham;",
+    "translation_notes": "Los sacerdotes levíticos recaudaban el diezmo de sus compatriotas solo por mandato legal (Nm 18:21), compartiendo el mismo linaje patriarcal."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 6,
+    "greek_text": "ὁ δὲ μὴ γενεαλογούμενος ἐξ αὐτῶν δεδεκάτωκεν Ἀβραάμ, καὶ τὸν ἔχοντα τὰς ἐπαγγελίας εὐλόγηκεν.",
+    "translation": "pero aquel cuya genealogía no procede de ellos recibió el diezmo de Abraham y bendijo al que tenía las promesas.",
+    "translation_notes": "Melquisedec, ajeno al linaje levítico, recibió el diezmo del propio patriarca depositario de las promesas del pacto."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 7,
+    "greek_text": "χωρὶς δὲ πάσης ἀντιλογίας τὸ ἔλαττον ὑπὸ τοῦ κρείττονος εὐλογεῖται.",
+    "translation": "Y sin discusión alguna, el menor es bendecido por el mayor.",
+    "translation_notes": "Principio jerárquico evidente en la bendición sacerdotal o patriarcal: quien bendice con autoridad espiritual es superior a quien recibe la bendición."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 8,
+    "greek_text": "καὶ ὧδε μὲν δεκάτας ἀποθνῄσκοντες ἄνθρωποι λαμβάνουσιν, ἐκεῖ δὲ μαρτυρούμενος ὅτι ζῇ.",
+    "translation": "Además, aquí reciben los diezmos hombres mortales; pero allá, uno de quien se testifica que vive.",
+    "translation_notes": "Contraste entre la mortalidad de los sacerdotes levitas y el testimonio bíblico de permanencia aplicado tipológicamente a Melquisedec (y plenamente real en Cristo resucitado)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 9,
+    "greek_text": "καὶ ὡς ἔπος εἰπεῖν, δι’ Ἀβραὰμ καὶ Λευὶ ὁ δεκάτας λαμβάνων δεδεκάτωται,",
+    "translation": "Y, por decirlo así, por medio de Abraham incluso Leví, el que recibe los diezmos, pagó el diezmo,",
+    "translation_notes": "«Por decirlo así» (ὡς ἔπος εἰπεῖν) marca una expresión figurada de solidaridad ancestral muy propia del pensamiento bíblico."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 10,
+    "greek_text": "ἔτι γὰρ ἐν τῇ ὀσφύϊ τοῦ πατρὸς ἦν ὅτε συνήντησεν αὐτῷ Μελχισέδεκ.",
+    "translation": "porque todavía estaba en el cuerpo de su antepasado cuando Melquisedec le salió al encuentro.",
+    "translation_notes": "Leví, bisnieto de Abraham, queda representado en el homenaje de Abraham a Melquisedec."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 11,
+    "greek_text": "Εἰ μὲν οὖν τελείωσις διὰ τῆς Λευιτικῆς ἱερωσύνης ἦν, ὁ λαὸς γὰρ ἐπ’ αὐτῆς νενομοθέτηται, τίς ἔτι χρεία κατὰ τὴν τάξιν Μελχισέδεκ ἕτερον ἀνίστασθαι ἱερέα καὶ οὐ κατὰ τὴν τάξιν Ἀαρὼν λέγεσθαι;",
+    "translation": "Ahora bien, si la perfección hubiera sido posible mediante el sacerdocio levítico —pues bajo él recibió la ley el pueblo—, ¿qué necesidad había aún de que surgiera otro sacerdote según el orden de Melquisedec y no se le designara según el orden de Aarón?",
+    "translation_notes": "La existencia misma del Salmo 110:4 (posterior a la entrega de la Ley) prueba que el sistema levítico era insuficiente para lograr la «perfección» (τελείωσις), es decir, el acceso pleno y limpio de conciencia ante Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 12,
+    "greek_text": "μετατιθεμένης γὰρ τῆς ἱερωσύνης ἐξ ἀνάγκης καὶ νόμου μετάθεσις γίνεται.",
+    "translation": "Porque al cambiarse el sacerdocio, necesariamente se produce también un cambio de ley.",
+    "translation_notes": "El sistema cultual y legal del Sinaí formaba una unidad con el sacerdocio aarónico; al inaugurarse un nuevo sacerdocio en Cristo, cambia el régimen del pacto."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 13,
+    "greek_text": "ἐφ’ ὃν γὰρ λέγεται ταῦτα φυλῆς ἑτέρας μετέσχηκεν, ἀφ’ ἧς οὐδεὶς προσέσχηκεν τῷ θυσιαστηρίῳ·",
+    "translation": "Pues aquel de quien se dicen estas cosas perteneció a otra tribu, de la cual nadie sirvió jamás en el altar;",
+    "translation_notes": "Jesús no era levita sino miembro de la tribu real de Judá."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 14,
+    "greek_text": "πρόδηλον γὰρ ὅτι ἐξ Ἰούδα ἀνατέταλκεν ὁ κύριος ἡμῶν, εἰς ἣν φυλὴν περὶ ἱερέων οὐδὲν Μωϋσῆς ἐλάλησεν.",
+    "translation": "porque es evidente que nuestro Señor descendió de Judá, tribu respecto a la cual Moisés nada dijo acerca de sacerdotes.",
+    "translation_notes": "«Descendió / brotó» (ἀνατέταλκεν): verbo usado para el amanecer de un astro o el brote de un renuevo mesiánico (cf. Nm 24:17; Is 11:1; Zac 6:12)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 15,
+    "greek_text": "Καὶ περισσότερον ἔτι κατάδηλόν ἐστιν, εἰ κατὰ τὴν ὁμοιότητα Μελχισέδεκ ἀνίσταται ἱερεὺς ἕτερος,",
+    "translation": "Y esto resulta aún más claro si a semejanza de Melquisedec surge otro sacerdote,",
+    "translation_notes": "«Otro sacerdote» (ἱερεὺς ἕτερος): de un orden cualitativamente distinto."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 16,
+    "greek_text": "ὃς οὐ κατὰ νόμον ἐντολῆς σαρκίνης γέγονεν ἀλλὰ κατὰ δύναμιν ζωῆς ἀκαταλύτου,",
+    "translation": "el cual no fue constituido conforme a la ley de un requisito carnal, sino conforme al poder de una vida indestructible.",
+    "translation_notes": "El sacerdocio levítico dependía de genealogía física («requisito carnal», ἐντολῆς σαρκίνης); el de Jesús se funda en su resurrección («vida indestructible», ζωῆς ἀκαταλύτου)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 17,
+    "greek_text": "μαρτυρεῖται γὰρ ὅτι Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισέδεκ.",
+    "translation": "Porque se da testimonio de él: «Tú eres sacerdote para siempre, según el orden de Melquisedec».",
+    "translation_notes": "Cita del Salmo 110:4 aplicada directamente al Cristo resucitado."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 18,
+    "greek_text": "ἀθέτησις μὲν γὰρ γίνεται προαγούσης ἐντολῆς διὰ τὸ αὐτῆς ἀσθενὲς καὶ ἀνωφελές,",
+    "translation": "Así queda anulado el mandamiento anterior por su debilidad e ineficacia",
+    "translation_notes": "«Anulado» (ἀθέτησις, abrogación legal): el ritual mosaico no podía quitar definitivamente la culpa del pecado (cf. 10:1-4)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 19,
+    "greek_text": "οὐδὲν γὰρ ἐτελείωσεν ὁ νόμος, ἐπεισαγωγὴ δὲ κρείττονος ἐλπίδος, δι’ ἧς ἐγγίζομεν τῷ θεῷ.",
+    "translation": "—pues la ley nada llevó a la perfección—, y se introduce una esperanza superior, por la cual nos acercamos a Dios.",
+    "translation_notes": "«Nos acercamos a Dios» (ἐγγίζομεν τῷ θεῷ): verbo cultual que expresa la meta última del sacerdocio de Cristo: comunión directa con Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 20,
+    "greek_text": "Καὶ καθ’ ὅσον οὐ χωρὶς ὁρκωμοσίας (οἱ μὲν γὰρ χωρὶς ὁρκωμοσίας εἰσὶν ἱερεῖς γεγονότες,",
+    "translation": "Y en cuanto esto no ocurrió sin juramento —pues aquellos llegaron a ser sacerdotes sin juramento,",
+    "translation_notes": "Los sacerdotes levíticos heredaban el cargo por nacimiento sin un juramento divino especial."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 21,
+    "greek_text": "ὁ δὲ μετὰ ὁρκωμοσίας διὰ τοῦ λέγοντος πρὸς αὐτόν· Ὤμοσεν κύριος, καὶ οὐ μεταμεληθήσεται, Σὺ ἱερεὺς εἰς τὸν αἰῶνα),",
+    "translation": "pero este con juramento, por medio de aquel que le dijo: «Juró el Señor y no se arrepentirá: Tú eres sacerdote para siempre»—,",
+    "translation_notes": "El juramento de Dios en el Salmo 110:4 garantiza el carácter definitivo e irrevocable del sacerdocio de Cristo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 22,
+    "greek_text": "κατὰ τοσοῦτο κρείττονος διαθήκης γέγονεν ἔγγυος Ἰησοῦς.",
+    "translation": "en esa misma medida Jesús ha llegado a ser garante de un pacto superior.",
+    "translation_notes": "«Garante / fiador» (ἔγγυος): término jurídico para quien respalda con su propia vida y bienes el cumplimiento de un contrato o pacto (διαθήκης)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 23,
+    "greek_text": "Καὶ οἱ μὲν πλείονές εἰσιν γεγονότες ἱερεῖς διὰ τὸ θανάτῳ κωλύεσθαι παραμένειν·",
+    "translation": "Además, aquellos fueron muchos hechos sacerdotes, porque la muerte les impedía continuar;",
+    "translation_notes": "Según Josefo, hubo decenas de sumos sacerdotes desde Aarón hasta el siglo I, todos limitados por la muerte."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 24,
+    "greek_text": "ὁ δὲ διὰ τὸ μένειν αὐτὸν εἰς τὸν αἰῶνα ἀπαράβατον ἔχει τὴν ἱερωσύνην·",
+    "translation": "pero este, por cuanto permanece para siempre, posee un sacerdocio intransferible.",
+    "translation_notes": "«Intransferible» (ἀπαράβατον): permanente, que no pasa a ningún sucesor."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 25,
+    "greek_text": "ὅθεν καὶ σῴζειν εἰς τὸ παντελὲς δύναται τοὺς προσερχομένους δι’ αὐτοῦ τῷ θεῷ, πάντοτε ζῶν εἰς τὸ ἐντυγχάνειν ὑπὲρ αὐτῶν.",
+    "translation": "Por eso también puede salvar por completo a los que por medio de él se acercan a Dios, viviendo siempre para interceder por ellos.",
+    "translation_notes": "«Por completo» (εἰς τὸ παντελές) significa tanto «plenamente / definitivamente» como «para siempre». La intercesión continua del Resucitado asegura la salvación de su pueblo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 26,
+    "greek_text": "Τοιοῦτος γὰρ ἡμῖν καὶ ἔπρεπεν ἀρχιερεύς, ὅσιος, ἄκακος, ἀμίαντος, κεχωρισμένος ἀπὸ τῶν ἁμαρτωλῶν, καὶ ὑψηλότερος τῶν οὐρανῶν γενόμενος·",
+    "translation": "Porque tal sumo sacerdote nos convenía: santo, inocente, sin mancha, apartado de los pecadores y exaltado más alto que los cielos;",
+    "translation_notes": "Cinco atributos del Sumo Sacerdote perfecto: pureza moral absoluta ante Dios y los hombres, sin contaminación de pecado y entronizado en la gloria celestial."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 27,
+    "greek_text": "ὃς οὐκ ἔχει καθ’ ἡμέραν ἀνάγκην, ὥσπερ οἱ ἀρχιερεῖς, πρότερον ὑπὲρ τῶν ἰδίων ἁμαρτιῶν θυσίας ἀναφέρειν, ἔπειτα τῶν τοῦ λαοῦ (τοῦτο γὰρ ἐποίησεν ἐφάπαξ ἑαυτὸν ἀνενέγκας)·",
+    "translation": "quien no tiene necesidad cada día, como aquellos sumos sacerdotes, de ofrecer sacrificios primero por sus propios pecados y luego por los del pueblo; porque esto lo hizo una vez para siempre ofreciéndose a sí mismo.",
+    "translation_notes": "«Una vez para siempre» (ἐφάπαξ): término decisivo en Hebreos (cf. 9:12; 10:10) que contrasta los sacrificios repetidos del templo con el sacrificio único y suficiente de Cristo mismo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 7,
+    "verse": 28,
+    "greek_text": "ὁ νόμος γὰρ ἀνθρώπους καθίστησιν ἀρχιερεῖς ἔχοντας ἀσθένειαν, ὁ λόγος δὲ τῆς ὁρκωμοσίας τῆς μετὰ τὸν νόμον υἱόν, εἰς τὸν αἰῶνα τετελειωμένον.",
+    "translation": "Pues la ley designa como sumos sacerdotes a hombres que tienen debilidad; pero la palabra del juramento, posterior a la ley, designa al Hijo, hecho perfecto para siempre.",
+    "translation_notes": "Cierra el capítulo 7 contrastando la fragilidad mortal de los sacerdotes levíticos con la perfección eterna del Hijo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 1,
+    "greek_text": "Κεφάλαιον δὲ ἐπὶ τοῖς λεγομένοις, τοιοῦτον ἔχομεν ἀρχιερέα, ὃς ἐκάθισεν ἐν δεξιᾷ τοῦ θρόνου τῆς μεγαλωσύνης ἐν τοῖς οὐρανοῖς,",
+    "translation": "Ahora bien, el punto principal de lo que venimos diciendo es este: tenemos tal sumo sacerdote, el cual se sentó a la diestra del trono de la Majestad en los cielos,",
+    "translation_notes": "«El punto principal» (Κεφάλαιον): resumen medular de todo el argumento sacerdotal: nuestro Sumo Sacerdote no está en un santuario terrenal, sino sentado en el trono celestial."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 2,
+    "greek_text": "τῶν ἁγίων λειτουργὸς καὶ τῆς σκηνῆς τῆς ἀληθινῆς, ἣν ἔπηξεν ὁ κύριος, οὐκ ἄνθρωπος.",
+    "translation": "ministro del santuario y del verdadero tabernáculo, el cual levantó el Señor, y no un ser humano.",
+    "translation_notes": "«Verdadero» (ἀληθινῆς) significa aquí el original celestial y definitivo, en contraste con la réplica o sombra terrenal."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 3,
+    "greek_text": "πᾶς γὰρ ἀρχιερεὺς εἰς τὸ προσφέρειν δῶρά τε καὶ θυσίας καθίσταται· ὅθεν ἀναγκαῖον ἔχειν τι καὶ τοῦτον ὃ προσενέγκῃ.",
+    "translation": "Porque todo sumo sacerdote es constituido para presentar ofrendas y sacrificios; por lo cual era necesario que también este tuviera algo que ofrecer.",
+    "translation_notes": "La función sacerdotal exige una ofrenda real: en el caso de Cristo, su propia vida entregada (9:12-14)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 4,
+    "greek_text": "εἰ μὲν οὖν ἦν ἐπὶ γῆς, οὐδ’ ἂν ἦν ἱερεύς, ὄντων τῶν προσφερόντων κατὰ νόμον τὰ δῶρα·",
+    "translation": "De modo que si estuviera en la tierra, ni siquiera sería sacerdote, ya que existen los que presentan las ofrendas conforme a la ley;",
+    "translation_notes": "Mientras el templo terrenal seguía en pie (dato que sugiere redacción anterior al 70 d.C.), los sacerdotes levitas oficiaban allí según la Ley; el ministerio de Cristo pertenece a una esfera superior."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 5,
+    "greek_text": "(οἵτινες ὑποδείγματι καὶ σκιᾷ λατρεύουσιν τῶν ἐπουρανίων, καθὼς κεχρημάτισται Μωϋσῆς μέλλων ἐπιτελεῖν τὴν σκηνήν, Ὅρα γάρ, φησίν, ποιήσεις πάντα κατὰ τὸν τύπον τὸν δειχθέντα σοι ἐν τῷ ὄρει)·",
+    "translation": "los cuales sirven a lo que es copia y sombra de las realidades celestiales, tal como le fue advertido a Moisés cuando iba a construir el tabernáculo: «Mira —le dice—, harás todas las cosas conforme al modelo que te fue mostrado en el monte».",
+    "translation_notes": "Cita de Éxodo 25:40 (LXX): el tabernáculo del Sinaí era «copia y sombra» (ὑποδείγματι καὶ σκιᾷ) del santuario celestial verdadero."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 6,
+    "greek_text": "νυνὶ δὲ διαφορωτέρας τέτυχεν λειτουργίας, ὅσῳ καὶ κρείττονός ἐστιν διαθήκης μεσίτης, ἥτις ἐπὶ κρείττοσιν ἐπαγγελίαις νενομοθέτηται.",
+    "translation": "Pero ahora él ha obtenido un ministerio tanto más excelente cuanto es también mediador de un pacto superior, el cual ha sido establecido sobre mejores promesas.",
+    "translation_notes": "Introduce la gran cita de Jeremías 31:31-34 sobre el Nuevo Pacto, fundamentado en promesas superiores de perdón definitivo y transformación interior."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 7,
+    "greek_text": "Εἰ γὰρ ἡ πρώτη ἐκείνη ἦν ἄμεμπτος, οὐκ ἂν δευτέρας ἐζητεῖτο τόπος·",
+    "translation": "Porque si aquel primer pacto hubiera sido irreprensible, no se habría buscado lugar para un segundo.",
+    "translation_notes": "El anuncio profético de un nuevo pacto demuestra que el primero (el del Sinaí) tenía carácter provisional."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 8,
+    "greek_text": "μεμφόμενος γὰρ αὐτοὺς λέγει· Ἰδοὺ ἡμέραι ἔρχονται, λέγει κύριος, καὶ συντελέσω ἐπὶ τὸν οἶκον Ἰσραὴλ καὶ ἐπὶ τὸν οἶκον Ἰούδα διαθήκην καινήν,",
+    "translation": "Pues reprochándolos dice: «He aquí vienen días, dice el Señor, en que estableceré con la casa de Israel y con la casa de Judá un nuevo pacto;",
+    "translation_notes": "Cita más extensa del AT en todo el Nuevo Testamento (Jeremías 31:31-34 LXX, vv. 8-12)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 9,
+    "greek_text": "οὐ κατὰ τὴν διαθήκην ἣν ἐποίησα τοῖς πατράσιν αὐτῶν ἐν ἡμέρᾳ ἐπιλαβομένου μου τῆς χειρὸς αὐτῶν ἐξαγαγεῖν αὐτοὺς ἐκ γῆς Αἰγύπτου, ὅτι αὐτοὶ οὐκ ἐνέμειναν ἐν τῇ διαθήκῃ μου, κἀγὼ ἠμέλησα αὐτῶν, λέγει κύριος.",
+    "translation": "no como el pacto que hice con sus padres el día en que los tomé de la mano para sacarlos de la tierra de Egipto; porque ellos no permanecieron en mi pacto, y yo me desentendí de ellos, dice el Señor.",
+    "translation_notes": "El primer pacto fue quebrantado por la infidelidad del pueblo, a pesar del cuidado paternal de Dios («los tomé de la mano»)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 10,
+    "greek_text": "ὅτι αὕτη ἡ διαθήκη ἣν διαθήσομαι τῷ οἴκῳ Ἰσραὴλ μετὰ τὰς ἡμέρας ἐκείνας, λέγει κύριος, διδοὺς νόμους μου εἰς τὴν διάνοιαν αὐτῶν, καὶ ἐπὶ καρδίας αὐτῶν ἐπιγράψω αὐτούς, καὶ ἔσομαι αὐτοῖς εἰς θεόν καὶ αὐτοὶ ἔσονταί μοι εἰς λαόν.",
+    "translation": "Porque este es el pacto que haré con la casa de Israel después de aquellos días, dice el Señor: Pondré mis leyes en la mente de ellos, y sobre sus corazones las escribiré; y seré para ellos un Dios, y ellos serán para mí un pueblo.",
+    "translation_notes": "Primera gran promesa del nuevo pacto: interiorización de la voluntad de Dios por el Espíritu en la mente y el corazón, asegurando fidelidad."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 11,
+    "greek_text": "καὶ οὐ μὴ διδάξωσιν ἕκαστος τὸν πολίτην αὐτοῦ καὶ ἕκαστος τὸν ἀδελφὸν αὐτοῦ, λέγων· Γνῶθι τὸν κύριον, ὅτι πάντες εἰδήσουσίν με ἀπὸ μικροῦ ἕως μεγάλου αὐτῶν.",
+    "translation": "Y no enseñará cada uno a su conciudadano ni cada uno a su hermano, diciendo: “Conoce al Señor”, porque todos me conocerán, desde el menor hasta el mayor de ellos.",
+    "translation_notes": "Segunda promesa: conocimiento personal y directo del Señor compartido por todos los miembros del nuevo pacto."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 12,
+    "greek_text": "ὅτι ἵλεως ἔσομαι ταῖς ἀδικίαις αὐτῶν, καὶ τῶν ἁμαρτιῶν αὐτῶν οὐ μὴ μνησθῶ ἔτι.",
+    "translation": "Porque seré misericordioso respecto a sus injusticias, y de sus pecados no me acordaré jamás».",
+    "translation_notes": "Tercera promesa y fundamento de las anteriores: perdón definitivo y total de los pecados (SBLGNT lee τῶν ἁμαρτιῶν αὐτῶν sin «y de sus iniquidades»)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 8,
+    "verse": 13,
+    "greek_text": "ἐν τῷ λέγειν Καινὴν πεπαλαίωκεν τὴν πρώτην, τὸ δὲ παλαιούμενον καὶ γηράσκον ἐγγὺς ἀφανισμοῦ.",
+    "translation": "Al decir «nuevo», ha declarado anticuado al primero; y lo que se vuelve anticuado y envejece está próximo a desaparecer.",
+    "translation_notes": "Si Dios prometió un pacto «nuevo» (Καινήν) en tiempos de Jeremías, el pacto sinaítico quedó superado en la historia de la salvación."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 1,
+    "greek_text": "Εἶχε μὲν οὖν ἡ πρώτη δικαιώματα λατρείας τό τε ἅγιον κοσμικόν.",
+    "translation": "Ahora bien, el primer pacto tenía también ordenanzas de culto y un santuario terrenal.",
+    "translation_notes": "«Santuario terrenal» (ἅγιον κοσμικόν): pertenecía al orden físico creado, en contraste con el santuario celestial."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 2,
+    "greek_text": "σκηνὴ γὰρ κατεσκευάσθη ἡ πρώτη ἐν ᾗ ἥ τε λυχνία καὶ ἡ τράπεζα καὶ ἡ πρόθεσις τῶν ἄρτων, ἥτις λέγεται Ἅγια·",
+    "translation": "Porque se dispuso un primer compartimento del tabernáculo, en el cual estaban el candelabro, la mesa y la presentación de los panes; este se llama el Lugar Santo.",
+    "translation_notes": "Describe la primera cámara del tabernáculo (Éx 25–26): la menorá (candelabro de siete brazos) y la mesa con los doce panes de la presencia."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 3,
+    "greek_text": "μετὰ δὲ τὸ δεύτερον καταπέτασμα σκηνὴ ἡ λεγομένη Ἅγια Ἁγίων,",
+    "translation": "Y detrás del segundo velo estaba la parte del tabernáculo llamada el Lugar Santísimo,",
+    "translation_notes": "«Segundo velo» (δεύτερον καταπέτασμα): la cortina gruesa que separaba el Lugar Santo del Lugar Santísimo (Ἅγια Ἁγίων)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 4,
+    "greek_text": "χρυσοῦν ἔχουσα θυμιατήριον καὶ τὴν κιβωτὸν τῆς διαθήκης περικεκαλυμμένην πάντοθεν χρυσίῳ, ἐν ᾗ στάμνος χρυσῆ ἔχουσα τὸ μάννα καὶ ἡ ῥάβδος Ἀαρὼν ἡ βλαστήσασα καὶ αἱ πλάκες τῆς διαθήκης,",
+    "translation": "el cual tenía un incensario de oro y el arca del pacto recubierta de oro por todas partes, en la cual había una urna de oro que contenía el maná, la vara de Aarón que reverdeció y las tablas del pacto;",
+    "translation_notes": "«Incensario de oro» (χρυσοῦν θυμιατήριον): alude probablemente al incensario portátil de oro empleado dentro del Lugar Santísimo en el Día de la Expiación (Lv 16:12) o al altar del incienso asociado litúrgicamente a él."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 5,
+    "greek_text": "ὑπεράνω δὲ αὐτῆς Χερουβὶν δόξης κατασκιάζοντα τὸ ἱλαστήριον· περὶ ὧν οὐκ ἔστιν νῦν λέγειν κατὰ μέρος.",
+    "translation": "y encima de ella los querubines de gloria que cubrían el propiciatorio; de cuyas cosas no es posible ahora hablar en detalle.",
+    "translation_notes": "«Propiciatorio» (τὸ ἱλαστήριον, heb. kapporet): la tapa de oro del arca donde se rociaba la sangre expiatoria y se manifestaba la gloria de Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 6,
+    "greek_text": "Τούτων δὲ οὕτως κατεσκευασμένων, εἰς μὲν τὴν πρώτην σκηνὴν διὰ παντὸς εἰσίασιν οἱ ἱερεῖς τὰς λατρείας ἐπιτελοῦντες,",
+    "translation": "Dispuestas así estas cosas, en el primer compartimento del tabernáculo entran continuamente los sacerdotes para realizar los servicios del culto;",
+    "translation_notes": "Contraste de acceso (vv. 6-7): el servicio diario en el Lugar Santo era continuo, pero limitado a los sacerdotes."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 7,
+    "greek_text": "εἰς δὲ τὴν δευτέραν ἅπαξ τοῦ ἐνιαυτοῦ μόνος ὁ ἀρχιερεύς, οὐ χωρὶς αἵματος, ὃ προσφέρει ὑπὲρ ἑαυτοῦ καὶ τῶν τοῦ λαοῦ ἀγνοημάτων,",
+    "translation": "pero en el segundo entra solo el sumo sacerdote una vez al año, no sin sangre, la cual ofrece por sí mismo y por los pecados cometidos por ignorancia del pueblo.",
+    "translation_notes": "Describe el Día de la Expiación (Yom Kippur, Lv 16): una sola persona, un solo día al año, llevando sangre sacrificial."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 8,
+    "greek_text": "τοῦτο δηλοῦντος τοῦ πνεύματος τοῦ ἁγίου, μήπω πεφανερῶσθαι τὴν τῶν ἁγίων ὁδὸν ἔτι τῆς πρώτης σκηνῆς ἐχούσης στάσιν,",
+    "translation": "Con esto el Espíritu Santo daba a entender que aún no se había manifestado el camino al Lugar Santísimo mientras el primer tabernáculo siguiera en pie,",
+    "translation_notes": "La restricción física de la cortina y los rituales repetidos enseñaban simbólicamente que el acceso libre a la presencia de Dios aún estaba cerrado."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 9,
+    "greek_text": "ἥτις παραβολὴ εἰς τὸν καιρὸν τὸν ἐνεστηκότα, καθ’ ἣν δῶρά τε καὶ θυσίαι προσφέρονται μὴ δυνάμεναι κατὰ συνείδησιν τελειῶσαι τὸν λατρεύοντα,",
+    "translation": "lo cual es una figura para el tiempo presente, según la cual se presentan ofrendas y sacrificios que no pueden perfeccionar la conciencia del que rinde culto,",
+    "translation_notes": "«Figura / parábola» (παραβολή): las ceremonias levíticas lograban pureza ritual externa, pero no podían limpiar la conciencia interior culpable."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 10,
+    "greek_text": "μόνον ἐπὶ βρώμασιν καὶ πόμασιν καὶ διαφόροις βαπτισμοῖς, δικαιώματα σαρκὸς μέχρι καιροῦ διορθώσεως ἐπικείμενα.",
+    "translation": "consistiendo solamente en comidas, bebidas y diversas abluciones, ordenanzas externas impuestas hasta el tiempo de la reforma.",
+    "translation_notes": "«Tiempo de la reforma / nuevo orden» (καιροῦ διορθώσεως): la inauguración del nuevo pacto en Cristo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 11,
+    "greek_text": "Χριστὸς δὲ παραγενόμενος ἀρχιερεὺς τῶν γενομένων ἀγαθῶν διὰ τῆς μείζονος καὶ τελειοτέρας σκηνῆς οὐ χειροποιήτου, τοῦτ’ ἔστιν οὐ ταύτης τῆς κτίσεως,",
+    "translation": "Pero al venir Cristo como sumo sacerdote de los bienes ya realizados, a través del tabernáculo mayor y más perfecto, no hecho por manos humanas —es decir, no de esta creación—,",
+    "translation_notes": "Nota textual: SBLGNT lee τῶν γενομένων ἀγαθῶν («de los bienes ya realizados / venidos»). Cristo ministra en el santuario celestial verdadero."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 12,
+    "greek_text": "οὐδὲ δι’ αἵματος τράγων καὶ μόσχων διὰ δὲ τοῦ ἰδίου αἵματος, εἰσῆλθεν ἐφάπαξ εἰς τὰ ἅγια, αἰωνίαν λύτρωσιν εὑράμενος.",
+    "translation": "y no por medio de sangre de machos cabríos ni de becerros, sino por medio de su propia sangre, entró una vez para siempre en el Lugar Santísimo, habiendo obtenido eterna redención.",
+    "translation_notes": "«Habiendo obtenido» (εὑράμενος, aoristo medio): Cristo aseguró de una vez para siempre una «redención eterna» (αἰωνίαν λύτρωσιν)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 13,
+    "greek_text": "εἰ γὰρ τὸ αἷμα τράγων καὶ ταύρων καὶ σποδὸς δαμάλεως ῥαντίζουσα τοὺς κεκοινωμένους ἁγιάζει πρὸς τὴν τῆς σαρκὸς καθαρότητα,",
+    "translation": "Porque si la sangre de machos cabríos y de toros, y las cenizas de la novilla rociadas sobre los impuros, santifican para la pureza de la carne,",
+    "translation_notes": "Combina los sacrificios de Yom Kippur (Lv 16) con el rito de la vaca alazana (Nm 19) para la purificación ritual externa."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 14,
+    "greek_text": "πόσῳ μᾶλλον τὸ αἷμα τοῦ Χριστοῦ, ὃς διὰ πνεύματος αἰωνίου ἑαυτὸν προσήνεγκεν ἄμωμον τῷ θεῷ, καθαριεῖ τὴν συνείδησιν ἡμῶν ἀπὸ νεκρῶν ἔργων εἰς τὸ λατρεύειν θεῷ ζῶντι.",
+    "translation": "¿cuánto más la sangre de Cristo, quien por medio del Espíritu eterno se ofreció a sí mismo sin mancha a Dios, limpiará nuestra conciencia de obras muertas para servir al Dios viviente?",
+    "translation_notes": "Participación trinitaria en la expiación: Cristo se ofrece a Dios Padre por medio del «Espíritu eterno» (πνεύματος αἰωνίου), purificando la conciencia de «obras muertas» para adorar («servir», λατρεύειν) al Dios vivo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 15,
+    "greek_text": "Καὶ διὰ τοῦτο διαθήκης καινῆς μεσίτης ἐστίν, ὅπως θανάτου γενομένου εἰς ἀπολύτρωσιν τῶν ἐπὶ τῇ πρώτῃ διαθήκῃ παραβάσεων τὴν ἐπαγγελίαν λάβωσιν οἱ κεκλημένοι τῆς αἰωνίου κληρονομίας.",
+    "translation": "Y por eso es mediador de un nuevo pacto, a fin de que, habiendo ocurrido una muerte para redención de las transgresiones cometidas bajo el primer pacto, los llamados reciban la promesa de la herencia eterna.",
+    "translation_notes": "La muerte expiatoria de Cristo tiene alcance retroactivo y definitivo, redimiendo incluso los pecados cometidos bajo el pacto antiguo (cf. Ro 3:25)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 16,
+    "greek_text": "ὅπου γὰρ διαθήκη, θάνατον ἀνάγκη φέρεσθαι τοῦ διαθεμένου·",
+    "translation": "Porque donde hay un testamento, es necesario que se haga constar la muerte del testador;",
+    "translation_notes": "En griego, διαθήκη significa tanto «pacto» como «testamento» (vv. 16-17): el autor aprovecha el doble sentido legal para ilustrar que la muerte de Cristo pone en vigor la herencia prometida."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 17,
+    "greek_text": "διαθήκη γὰρ ἐπὶ νεκροῖς βεβαία, ἐπεὶ μήποτε ἰσχύει ὅτε ζῇ ὁ διαθέμενος.",
+    "translation": "pues un testamento entra en vigor tras la muerte, ya que nunca tiene validez mientras vive el testador.",
+    "translation_notes": "Mientras el testador vive, el testamento puede modificarse y no distribuye aún la herencia."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 18,
+    "greek_text": "ὅθεν οὐδὲ ἡ πρώτη χωρὶς αἵματος ἐγκεκαίνισται·",
+    "translation": "De ahí que ni siquiera el primer pacto fue inaugurado sin sangre.",
+    "translation_notes": "Regresa al sentido bíblico de «pacto» (Éx 24:3-8): la ratificación del pacto del Sinaí también requirió sangre sacrificial."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 19,
+    "greek_text": "λαληθείσης γὰρ πάσης ἐντολῆς κατὰ τὸν νόμον ὑπὸ Μωϋσέως παντὶ τῷ λαῷ, λαβὼν τὸ αἷμα τῶν μόσχων μετὰ ὕδατος καὶ ἐρίου κοκκίνου καὶ ὑσσώπου αὐτό τε τὸ βιβλίον καὶ πάντα τὸν λαὸν ἐράντισεν,",
+    "translation": "Porque habiendo proclamado Moisés todo mandamiento conforme a la ley a todo el pueblo, tomó la sangre de los becerros y de los machos cabríos, con agua, lana escarlata e hisopo, y roció tanto el libro mismo como a todo el pueblo,",
+    "translation_notes": "Evoca Éxodo 24:6-8 integrando detalles rituales tradicionales de purificación con hisopo y lana escarlata (cf. Lv 14:4; Nm 19:6)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 20,
+    "greek_text": "λέγων· Τοῦτο τὸ αἷμα τῆς διαθήκης ἧς ἐνετείλατο πρὸς ὑμᾶς ὁ θεός·",
+    "translation": "diciendo: «Esta es la sangre del pacto que Dios les ha mandado».",
+    "translation_notes": "Cita de Éxodo 24:8 (LXX), eco directo de las palabras de Jesús en la Última Cena (Mt 26:28; Mr 14:24; 1 Co 11:25)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 21,
+    "greek_text": "καὶ τὴν σκηνὴν δὲ καὶ πάντα τὰ σκεύη τῆς λειτουργίας τῷ αἵματι ὁμοίως ἐράντισεν.",
+    "translation": "Y asimismo roció con la sangre el tabernáculo y todos los utensilios del servicio sagrado.",
+    "translation_notes": "Consagración ritual de todo el espacio y mobiliario cultual (cf. Éx 40:9; Lv 8:15)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 22,
+    "greek_text": "καὶ σχεδὸν ἐν αἵματι πάντα καθαρίζεται κατὰ τὸν νόμον, καὶ χωρὶς αἱματεκχυσίας οὐ γίνεται ἄφεσις.",
+    "translation": "Y según la ley, casi todo es purificado con sangre; y sin derramamiento de sangre no hay perdón.",
+    "translation_notes": "«Casi todo» (σχεδόν), porque la Ley contemplaba excepciones menores con agua o harina para los muy pobres (Lv 5:11; Nm 31:23). Principio central de Levítico 17:11: la vida entregada en la sangre expía el pecado."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 23,
+    "greek_text": "Ἀνάγκη οὖν τὰ μὲν ὑποδείγματα τῶν ἐν τοῖς οὐρανοῖς τούτοις καθαρίζεσθαι, αὐτὰ δὲ τὰ ἐπουράνια κρείττοσι θυσίαις παρὰ ταύτας.",
+    "translation": "Era, pues, necesario que las figuras de las realidades celestiales fueran purificadas con estas cosas, pero las realidades celestiales mismas, con sacrificios mejores que estos.",
+    "translation_notes": "El santuario celestial es inaugurado y abierto para nosotros mediante un sacrificio infinitamente superior: el de Cristo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 24,
+    "greek_text": "οὐ γὰρ εἰς χειροποίητα εἰσῆλθεν ἅγια Χριστός, ἀντίτυπα τῶν ἀληθινῶν, ἀλλ’ εἰς αὐτὸν τὸν οὐρανόν, νῦν ἐμφανισθῆναι τῷ προσώπῳ τοῦ θεοῦ ὑπὲρ ἡμῶν·",
+    "translation": "Porque no entró Cristo en un santuario hecho por manos humanas, figura del verdadero, sino en el cielo mismo, para presentarse ahora delante de Dios a favor nuestro;",
+    "translation_notes": "«Presentarse» (ἐμφανισθῆναι): término forense para comparecer como representante y abogado delante del Juez supremo en nuestro favor (ὑπὲρ ἡμῶν)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 25,
+    "greek_text": "οὐδ’ ἵνα πολλάκις προσφέρῃ ἑαυτόν, ὥσπερ ὁ ἀρχιερεὺς εἰσέρχεται εἰς τὰ ἅγια κατ’ ἐνιαυτὸν ἐν αἵματι ἀλλοτρίῳ,",
+    "translation": "y no para ofrecerse a sí mismo muchas veces, como entra el sumo sacerdote en el Lugar Santísimo cada año con sangre ajena;",
+    "translation_notes": "A diferencia del sacerdote levítico que repetía el rito anualmente con sangre de animales («sangre ajena», αἵματι ἀλλοτρίῳ), Cristo entregó su propia sangre una sola vez."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 26,
+    "greek_text": "ἐπεὶ ἔδει αὐτὸν πολλάκις παθεῖν ἀπὸ καταβολῆς κόσμου· νυνὶ δὲ ἅπαξ ἐπὶ συντελείᾳ τῶν αἰώνων εἰς ἀθέτησιν ἁμαρτίας διὰ τῆς θυσίας αὐτοῦ πεφανέρωται.",
+    "translation": "de otro modo le habría sido necesario padecer muchas veces desde la fundación del mundo; pero ahora, en la consumación de los siglos, se ha manifestado una sola vez para quitar el pecado mediante el sacrificio de sí mismo.",
+    "translation_notes": "«Una sola vez» (ἅπαξ): la encarnación y cruz marcan el punto culminante de la historia («la consumación de los siglos», συντελείᾳ τῶν αἰώνων) para anular definitivamente el poder y la culpa del pecado."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 27,
+    "greek_text": "καὶ καθ’ ὅσον ἀπόκειται τοῖς ἀνθρώποις ἅπαξ ἀποθανεῖν, μετὰ δὲ τοῦτο κρίσις,",
+    "translation": "Y así como está establecido para los hombres que mueran una sola vez, y después de esto el juicio,",
+    "translation_notes": "Paralelo entre la singularidad irreversible de la muerte humana y la singularidad definitiva del sacrificio de Cristo (v. 28)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 9,
+    "verse": 28,
+    "greek_text": "οὕτως καὶ ὁ Χριστός, ἅπαξ προσενεχθεὶς εἰς τὸ πολλῶν ἀνενεγκεῖν ἁμαρτίας, ἐκ δευτέρου χωρὶς ἁμαρτίας ὀφθήσεται τοῖς αὐτὸν ἀπεκδεχομένοις εἰς σωτηρίαν.",
+    "translation": "así también Cristo, habiendo sido ofrecido una sola vez para llevar los pecados de muchos, aparecerá por segunda vez, sin relación con el pecado, para salvación de los que lo esperan.",
+    "translation_notes": "Alusión a Isaías 53:12 («llevar los pecados de muchos»). En su segunda venida («aparecerá por segunda vez», ἐκ δευτέρου ὀφθήσεται) ya no viene como víctima por el pecado, sino para consumar la salvación de quienes lo aguardan con fe."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 1,
+    "greek_text": "Σκιὰν γὰρ ἔχων ὁ νόμος τῶν μελλόντων ἀγαθῶν, οὐκ αὐτὴν τὴν εἰκόνα τῶν πραγμάτων, κατ’ ἐνιαυτὸν ταῖς αὐταῖς θυσίαις ἃς προσφέρουσιν εἰς τὸ διηνεκὲς οὐδέποτε δύναται τοὺς προσερχομένους τελειῶσαι·",
+    "translation": "Porque la ley, teniendo apenas una sombra de los bienes venideros y no la forma misma de esas realidades, jamás puede, mediante los mismos sacrificios que ofrecen continuamente año tras año, hacer perfectos a quienes se acercan.",
+    "translation_notes": "Contraste entre «sombra» (σκιάν, silueta borrosa) e «imagen/realidad misma» (εἰκόνα): los sacrificios repetidos de Yom Kippur no podían otorgar acceso perfecto ni paz definitiva a la conciencia."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 2,
+    "greek_text": "ἐπεὶ οὐκ ἂν ἐπαύσαντο προσφερόμεναι, διὰ τὸ μηδεμίαν ἔχειν ἔτι συνείδησιν ἁμαρτιῶν τοὺς λατρεύοντας ἅπαξ κεκαθαρισμένους;",
+    "translation": "De otro modo, ¿no habrían dejado de ofrecerse, ya que los adoradores, purificados de una vez por todas, no tendrían ya más conciencia de pecados?",
+    "translation_notes": "La propia repetición anual del ritual demostraba su carácter provisional."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 3,
+    "greek_text": "ἀλλ’ ἐν αὐταῖς ἀνάμνησις ἁμαρτιῶν κατ’ ἐνιαυτόν,",
+    "translation": "Pero en esos sacrificios hay un recordatorio de pecados cada año,",
+    "translation_notes": "Lejos de borrar la deuda para siempre, cada Día de la Expiación renovaba el recuerdo («recordatorio», ἀνάμνησις) de los pecados pendientes."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 4,
+    "greek_text": "ἀδύνατον γὰρ αἷμα ταύρων καὶ τράγων ἀφαιρεῖν ἁμαρτίας.",
+    "translation": "porque es imposible que la sangre de toros y de machos cabríos quite los pecados.",
+    "translation_notes": "Los sacrificios animales no tenían eficacia moral intrínseca para expiar la culpa humana: eran figuras pedagógicas que apuntaban a Cristo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 5,
+    "greek_text": "διὸ εἰσερχόμενος εἰς τὸν κόσμον λέγει· Θυσίαν καὶ προσφορὰν οὐκ ἠθέλησας, σῶμα δὲ κατηρτίσω μοι·",
+    "translation": "Por eso, al entrar en el mundo, dice: «Sacrificio y ofrenda no quisiste, pero me preparaste un cuerpo;",
+    "translation_notes": "Cita del Salmo 40:6-8 (LXX 39:7-9) puesta en labios del Hijo encarnado: la LXX lee σῶμα δὲ κατηρτίσω μοι («un cuerpo me preparaste»), preparando el sacrificio voluntario de su propio cuerpo (v. 10)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 6,
+    "greek_text": "ὁλοκαυτώματα καὶ περὶ ἁμαρτίας οὐκ εὐδόκησας.",
+    "translation": "en holocaustos y sacrificios por el pecado no te agradaste.",
+    "translation_notes": "Dios no deseaba ritos animales mecánicos separados de la obediencia del corazón."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 7,
+    "greek_text": "τότε εἶπον· Ἰδοὺ ἥκω, ἐν κεφαλίδι βιβλίου γέγραπται περὶ ἐμοῦ, τοῦ ποιῆσαι, ὁ θεός, τὸ θέλημά σου.",
+    "translation": "Entonces dije: “He aquí, vengo —en el rollo del libro está escrito de mí— para hacer, oh Dios, tu voluntad”».",
+    "translation_notes": "«En el rollo del libro» (ἐν κεφαλίδι βιβλίου): la Escritura entera anunciaba la obediencia voluntaria del Mesías."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 8,
+    "greek_text": "ἀνώτερον λέγων ὅτι Θυσίας καὶ προσφορὰς καὶ ὁλοκαυτώματα καὶ περὶ ἁμαρτίας οὐκ ἠθέλησας οὐδὲ εὐδόκησας, αἵτινες κατὰ νόμον προσφέρονται,",
+    "translation": "Diciendo arriba: «Sacrificios, ofrendas, holocaustos y sacrificios por el pecado no quisiste ni te agradaron» —los cuales se ofrecen conforme a la ley—,",
+    "translation_notes": "El autor analiza el Salmo 40 en dos pasos (vv. 8-9) para mostrar el reemplazo del culto levítico."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 9,
+    "greek_text": "τότε εἴρηκεν· Ἰδοὺ ἥκω τοῦ ποιῆσαι τὸ θέλημά σου· ἀναιρεῖ τὸ πρῶτον ἵνα τὸ δεύτερον στήσῃ.",
+    "translation": "entonces dijo: «He aquí, vengo para hacer tu voluntad». Quita lo primero para establecer lo segundo.",
+    "translation_notes": "«Quita lo primero» (el sistema de sacrificios animales) «para establecer lo segundo» (la obediencia perfecta de Cristo en la cruz)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 10,
+    "greek_text": "ἐν ᾧ θελήματι ἡγιασμένοι ἐσμὲν διὰ τῆς προσφορᾶς τοῦ σώματος Ἰησοῦ Χριστοῦ ἐφάπαξ.",
+    "translation": "En esa voluntad hemos sido santificados mediante la ofrenda del cuerpo de Jesucristo hecha una vez para siempre.",
+    "translation_notes": "El perfecto ἡγιασμένοι ἐσμέν («hemos sido santificados y permanecemos consagrados») descansa en el sacrificio único (ἐφάπαξ) del cuerpo de Jesús."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 11,
+    "greek_text": "Καὶ πᾶς μὲν ἱερεὺς ἕστηκεν καθ’ ἡμέραν λειτουργῶν καὶ τὰς αὐτὰς πολλάκις προσφέρων θυσίας, αἵτινες οὐδέποτε δύνανται περιελεῖν ἁμαρτίας.",
+    "translation": "Y ciertamente todo sacerdote está de pie día tras día ministrando y ofreciendo muchas veces los mismos sacrificios, que jamás pueden quitar los pecados;",
+    "translation_notes": "Detalle elocuente: en el templo levítico no había sillas para los sacerdotes, porque su tarea nunca terminaba («está de pie», ἕστηκεν)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 12,
+    "greek_text": "οὗτος δὲ μίαν ὑπὲρ ἁμαρτιῶν προσενέγκας θυσίαν εἰς τὸ διηνεκὲς ἐκάθισεν ἐν δεξιᾷ τοῦ θεοῦ,",
+    "translation": "pero este, habiendo ofrecido un solo sacrificio por los pecados para siempre, se sentó a la diestra de Dios,",
+    "translation_notes": "En contraste con los sacerdotes que permanecen de pie, Cristo «se sentó» (ἐκάθισεν, Sal 110:1) porque su obra expiatoria quedó consumada para siempre."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 13,
+    "greek_text": "τὸ λοιπὸν ἐκδεχόμενος ἕως τεθῶσιν οἱ ἐχθροὶ αὐτοῦ ὑποπόδιον τῶν ποδῶν αὐτοῦ,",
+    "translation": "esperando desde entonces hasta que sus enemigos sean puestos por estrado de sus pies.",
+    "translation_notes": "Alude de nuevo al Salmo 110:1: el intervalo presente entre la ascensión y el retorno victorioso de Cristo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 14,
+    "greek_text": "μιᾷ γὰρ προσφορᾷ τετελείωκεν εἰς τὸ διηνεκὲς τοὺς ἁγιαζομένους.",
+    "translation": "Porque con una sola ofrenda hizo perfectos para siempre a los que están siendo santificados.",
+    "translation_notes": "Combina el perfecto τετελείωκεν (posición definitiva ante Dios) con el participio presente τοὺς ἁγιαζομένους (transformación continua de los creyentes)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 15,
+    "greek_text": "μαρτυρεῖ δὲ ἡμῖν καὶ τὸ πνεῦμα τὸ ἅγιον, μετὰ γὰρ τὸ εἰρηκέναι·",
+    "translation": "Y también nos lo atestigua el Espíritu Santo; porque después de haber dicho:",
+    "translation_notes": "Cita nuevamente al Espíritu Santo hablando en la Escritura (Jer 31:33-34)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 16,
+    "greek_text": "Αὕτη ἡ διαθήκη ἣν διαθήσομαι πρὸς αὐτοὺς μετὰ τὰς ἡμέρας ἐκείνας, λέγει κύριος, διδοὺς νόμους μου ἐπὶ καρδίας αὐτῶν, καὶ ἐπὶ τὴν διάνοιαν αὐτῶν ἐπιγράψω αὐτούς,",
+    "translation": "«Este es el pacto que haré con ellos después de aquellos días —dice el Señor—: Pondré mis leyes en sus corazones, y en sus mentes las escribiré»,",
+    "translation_notes": "Resume la promesa de Jeremías 31:33 ya citada en 8:10."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 17,
+    "greek_text": "καὶ τῶν ἁμαρτιῶν αὐτῶν καὶ τῶν ἀνομιῶν αὐτῶν οὐ μὴ μνησθήσομαι ἔτι·",
+    "translation": "añade: «Y de sus pecados y de sus transgresiones no me acordaré jamás».",
+    "translation_notes": "El perdón absoluto y definitivo es la firma del Nuevo Pacto."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 18,
+    "greek_text": "ὅπου δὲ ἄφεσις τούτων, οὐκέτι προσφορὰ περὶ ἁμαρτίας.",
+    "translation": "Pues donde hay perdón de estas cosas, ya no hace falta ofrenda por el pecado.",
+    "translation_notes": "Conclusión lógica que cierra toda la sección doctrinal (4:14–10:18): cualquier intento de volver a sacrificios expiatorios niega la suficiencia de la cruz."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 19,
+    "greek_text": "Ἔχοντες οὖν, ἀδελφοί, παρρησίαν εἰς τὴν εἴσοδον τῶν ἁγίων ἐν τῷ αἵματι Ἰησοῦ,",
+    "translation": "Así que, hermanos, teniendo confianza para entrar al Lugar Santísimo por la sangre de Jesús,",
+    "translation_notes": "Inicia la gran aplicación práctica de la carta (10:19–13:25) con tres exhortaciones («acerquémonos... mantengamos firme... considerémonos», vv. 22-24)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 20,
+    "greek_text": "ἣν ἐνεκαίνισεν ἡμῖν ὁδὸν πρόσφατον καὶ ζῶσαν διὰ τοῦ καταπετάσματος, τοῦτ’ ἔστιν τῆς σαρκὸς αὐτοῦ,",
+    "translation": "por el camino nuevo y vivo que él inauguró para nosotros a través del velo, esto es, de su carne,",
+    "translation_notes": "«Camino nuevo» (πρόσφατον, recién abierto, fresco) y «vivo»: la carne entregada de Jesús en la cruz rasgó el velo (cf. Mr 15:38) para darnos entrada directa a Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 21,
+    "greek_text": "καὶ ἱερέα μέγαν ἐπὶ τὸν οἶκον τοῦ θεοῦ,",
+    "translation": "y teniendo un gran sacerdote sobre la casa de Dios,",
+    "translation_notes": "Une el sacerdocio de Cristo (4:14) con su señorío filial sobre la casa de Dios (3:6)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 22,
+    "greek_text": "προσερχώμεθα μετὰ ἀληθινῆς καρδίας ἐν πληροφορίᾳ πίστεως, ῥεραντισμένοι τὰς καρδίας ἀπὸ συνειδήσεως πονηρᾶς καὶ λελουσμένοι τὸ σῶμα ὕδατι καθαρῷ·",
+    "translation": "acerquémonos con corazón sincero, en plena certidumbre de fe, purificados los corazones de mala conciencia y lavados los cuerpos con agua pura.",
+    "translation_notes": "Alude a la consagración interior (aspersión espiritual de la conciencia, cf. Ez 36:25) y al bautismo cristiano («lavados los cuerpos con agua pura»)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 23,
+    "greek_text": "κατέχωμεν τὴν ὁμολογίαν τῆς ἐλπίδος ἀκλινῆ, πιστὸς γὰρ ὁ ἐπαγγειλάμενος·",
+    "translation": "Mantengamos firme la confesión de nuestra esperanza sin vacilar, porque fiel es el que hizo la promesa.",
+    "translation_notes": "La constancia del creyente se apoya en la fidelidad inquebrantable de Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 24,
+    "greek_text": "καὶ κατανοῶμεν ἀλλήλους εἰς παροξυσμὸν ἀγάπης καὶ καλῶν ἔργων,",
+    "translation": "Y considerémonos unos a otros para estimularnos al amor y a las buenas obras,",
+    "translation_notes": "«Estimularnos» (παροξυσμόν): provocar o avivar positivamente el amor práctico dentro de la iglesia."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 25,
+    "greek_text": "μὴ ἐγκαταλείποντες τὴν ἐπισυναγωγὴν ἑαυτῶν, καθὼς ἔθος τισίν, ἀλλὰ παρακαλοῦντες, καὶ τοσούτῳ μᾶλλον ὅσῳ βλέπετε ἐγγίζουσαν τὴν ἡμέραν.",
+    "translation": "no dejando de congregarnos, como algunos tienen por costumbre, sino animándonos unos a otros, y tanto más cuanto ven que aquel día se acerca.",
+    "translation_notes": "Algunos creyentes dejaban de asistir a la asamblea por miedo al rechazo social o persecución; la comunidad unida es indispensable ante la cercanía del Día del Señor."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 26,
+    "greek_text": "Ἑκουσίως γὰρ ἁμαρτανόντων ἡμῶν μετὰ τὸ λαβεῖν τὴν ἐπίγνωσιν τῆς ἀληθείας, οὐκέτι περὶ ἁμαρτιῶν ἀπολείπεται θυσία,",
+    "translation": "Porque si pecamos voluntariamente después de haber recibido el conocimiento pleno de la verdad, ya no queda sacrificio por los pecados,",
+    "translation_notes": "Cuarta gran advertencia (vv. 26-31): «pecar voluntariamente» (presente continuo, Ἑκουσίως ἁμαρτανόντων) se define en el v. 29 como pisotear al Hijo de Dios y rechazar su sacrificio; no alude a caídas involuntarias o arrepentidas."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 27,
+    "greek_text": "φοβερὰ δέ τις ἐκδοχὴ κρίσεως καὶ πυρὸς ζῆλος ἐσθίειν μέλλοντος τοὺς ὑπεναντίους.",
+    "translation": "sino una horrenda expectación de juicio y un fuego ardiente que ha de consumir a los adversarios.",
+    "translation_notes": "Eco de Isaías 26:11 (LXX): rechazar el único camino de salvación deja al apóstata ante el juicio divino."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 28,
+    "greek_text": "ἀθετήσας τις νόμον Μωϋσέως χωρὶς οἰκτιρμῶν ἐπὶ δυσὶν ἢ τρισὶν μάρτυσιν ἀποθνῄσκει·",
+    "translation": "El que viola la ley de Moisés, por el testimonio de dos o tres testigos muere sin misericordia.",
+    "translation_notes": "Referencia a Deuteronomio 17:6 (pena capital por idolatría o apostasía bajo el pacto antiguo)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 29,
+    "greek_text": "πόσῳ δοκεῖτε χείρονος ἀξιωθήσεται τιμωρίας ὁ τὸν υἱὸν τοῦ θεοῦ καταπατήσας, καὶ τὸ αἷμα τῆς διαθήκης κοινὸν ἡγησάμενος ἐν ᾧ ἡγιάσθη, καὶ τὸ πνεῦμα τῆς χάριτος ἐνυβρίσας.",
+    "translation": "¿Cuánto mayor castigo piensan ustedes que merecerá el que ha pisoteado al Hijo de Dios, y tenido por impura la sangre del pacto en la cual fue santificado, y ultrajado al Espíritu de gracia?",
+    "translation_notes": "Tres actos de traición contra la Trinidad: pisotear al Hijo, profanar la sangre redentora («tenido por común/impura», κοινόν) e insultar al Espíritu Santo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 30,
+    "greek_text": "οἴδαμεν γὰρ τὸν εἰπόντα· Ἐμοὶ ἐκδίκησις, ἐγὼ ἀνταποδώσω· καὶ πάλιν· Κρινεῖ κύριος τὸν λαὸν αὐτοῦ.",
+    "translation": "Pues conocemos al que dijo: «Mía es la venganza; yo daré el pago»; y otra vez: «El Señor juzgará a su pueblo».",
+    "translation_notes": "Citas del cántico de Moisés en Deuteronomio 32:35-36 (LXX)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 31,
+    "greek_text": "φοβερὸν τὸ ἐμπεσεῖν εἰς χεῖρας θεοῦ ζῶντος.",
+    "translation": "¡Horrenda cosa es caer en manos del Dios viviente!",
+    "translation_notes": "Advertencia sobrecogedora sobre la seriedad de jugar con la gracia de Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 32,
+    "greek_text": "Ἀναμιμνῄσκεσθε δὲ τὰς πρότερον ἡμέρας, ἐν αἷς φωτισθέντες πολλὴν ἄθλησιν ὑπεμείνατε παθημάτων,",
+    "translation": "Pero recuerden los días pasados, en los cuales, después de haber sido iluminados, soportaron un gran combate de sufrimientos;",
+    "translation_notes": "Transición de aliento (vv. 32-39): «combate» (ἄθλησιν) evoca una lucha atlética heroica vivida recién convertidos."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 33,
+    "greek_text": "τοῦτο μὲν ὀνειδισμοῖς τε καὶ θλίψεσιν θεατριζόμενοι, τοῦτο δὲ κοινωνοὶ τῶν οὕτως ἀναστρεφομένων γενηθέντες·",
+    "translation": "por una parte, siendo expuestos públicamente como espectáculo entre insultos y tribulaciones; y por otra, haciéndose solidarios con los que eran tratados así.",
+    "translation_notes": "«Expuestos como espectáculo» (θεατριζόμενοι, lit. «llevados al teatro»): escarnio público en la ciudad."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 34,
+    "greek_text": "καὶ γὰρ τοῖς δεσμίοις συνεπαθήσατε, καὶ τὴν ἁρπαγὴν τῶν ὑπαρχόντων ὑμῶν μετὰ χαρᾶς προσεδέξασθε, γινώσκοντες ἔχειν ἑαυτοὺς κρείττονα ὕπαρξιν καὶ μένουσαν.",
+    "translation": "Porque se compadecieron de los presos, y aceptaron con alegría el despojo de sus bienes, sabiendo que tienen ustedes mismos una posesión mejor y permanente.",
+    "translation_notes": "Nota textual: SBLGNT lee τοῖς δεσμίοις («de los presos», no «de mis prisiones» de mss. tardíos). En el mundo romano, visitar a presos implicaba identificarse públicamente con ellos y exponerse a confiscaciones."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 35,
+    "greek_text": "μὴ ἀποβάλητε οὖν τὴν παρρησίαν ὑμῶν, ἥτις ἔχει μεγάλην μισθαποδοσίαν,",
+    "translation": "No pierdan, pues, su confianza, que tiene una gran recompensa.",
+    "translation_notes": "«Confianza» (παρρησίαν): valentía pública y firmeza de fe."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 36,
+    "greek_text": "ὑπομονῆς γὰρ ἔχετε χρείαν ἵνα τὸ θέλημα τοῦ θεοῦ ποιήσαντες κομίσησθε τὴν ἐπαγγελίαν·",
+    "translation": "Porque les hace falta perseverancia, para que, habiendo hecho la voluntad de Dios, obtengan la promesa.",
+    "translation_notes": "«Perseverancia» (ὑπομονῆς): resistencia paciente bajo presión prolongada."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 37,
+    "greek_text": "ἔτι γὰρ μικρὸν ὅσον ὅσον, ὁ ἐρχόμενος ἥξει καὶ οὐ χρονίσει·",
+    "translation": "Porque aún dentro de muy poco tiempo, «el que ha de venir vendrá, y no tardará;",
+    "translation_notes": "Cita combinada de Isaías 26:20 y Habacuc 2:3-4 (LXX, vv. 37-38), aplicando la promesa de liberación pronta al regreso de Cristo («el que ha de venir», ὁ ἐρχόμενος)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 38,
+    "greek_text": "ὁ δὲ δίκαιός μου ἐκ πίστεως ζήσεται, καὶ ἐὰν ὑποστείληται, οὐκ εὐδοκεῖ ἡ ψυχή μου ἐν αὐτῷ.",
+    "translation": "pero mi justo vivirá por la fe; y si retrocede, no se agradará mi alma de él».",
+    "translation_notes": "Cita de Habacuc 2:4 (LXX) enlazando la fe perseverante con el capítulo 11."
+  },
+  {
+    "book": "HEB",
+    "chapter": 10,
+    "verse": 39,
+    "greek_text": "ἡμεῖς δὲ οὐκ ἐσμὲν ὑποστολῆς εἰς ἀπώλειαν, ἀλλὰ πίστεως εἰς περιποίησιν ψυχῆς.",
+    "translation": "Pero nosotros no somos de los que retroceden para perdición, sino de los que tienen fe para preservación del alma.",
+    "translation_notes": "Expresión de confianza pastoral que abre la gran galería de la fe en el capítulo 11."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 1,
+    "greek_text": "Ἔστιν δὲ πίστις ἐλπιζομένων ὑπόστασις, πραγμάτων ἔλεγχος οὐ βλεπομένων·",
+    "translation": "Ahora bien, la fe es la certeza de lo que se espera, la convicción de realidades que no se ven.",
+    "translation_notes": "Descripción funcional de la fe (πίστις): ὑπόστασις («certeza / garantía sustancial») y ἔλεγχος («convicción / prueba») de las promesas invisibles y futuras de Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 2,
+    "greek_text": "ἐν ταύτῃ γὰρ ἐμαρτυρήθησαν οἱ πρεσβύτεροι.",
+    "translation": "Porque por ella recibieron buen testimonio los antiguos.",
+    "translation_notes": "«Los antiguos» (οἱ πρεσβύτεροι): los patriarcas, profetas y fieles del Antiguo Testamento aprobados por Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 3,
+    "greek_text": "πίστει νοοῦμεν κατηρτίσθαι τοὺς αἰῶνας ῥήματι θεοῦ, εἰς τὸ μὴ ἐκ φαινομένων τὸ βλεπόμενον γεγονέναι.",
+    "translation": "Por la fe entendemos que el universo fue formado por la palabra de Dios, de modo que lo que se ve no fue hecho de cosas visibles.",
+    "translation_notes": "La creación ex nihilo (por el mandato creador de Dios, Gn 1) se capta mediante la fe revelada."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 4,
+    "greek_text": "Πίστει πλείονα θυσίαν Ἅβελ παρὰ Κάϊν προσήνεγκεν τῷ θεῷ, δι’ ἧς ἐμαρτυρήθη εἶναι δίκαιος, μαρτυροῦντος ἐπὶ τοῖς δώροις αὐτοῦ τοῦ θεοῦ, καὶ δι’ αὐτῆς ἀποθανὼν ἔτι λαλεῖ.",
+    "translation": "Por la fe Abel ofreció a Dios un sacrificio más excelente que Caín, por lo cual alcanzó testimonio de que era justo, dando Dios testimonio acerca de sus ofrendas; y por ella, aun habiendo muerto, todavía habla.",
+    "translation_notes": "Alusión a Génesis 4:3-10: la excelencia del sacrificio de Abel radicaba en la fe obediente con que lo presentó."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 5,
+    "greek_text": "Πίστει Ἑνὼχ μετετέθη τοῦ μὴ ἰδεῖν θάνατον, καὶ οὐχ ηὑρίσκετο διότι μετέθηκεν αὐτὸν ὁ θεός· πρὸ γὰρ τῆς μεταθέσεως μεμαρτύρηται εὐαρεστηκέναι τῷ θεῷ,",
+    "translation": "Por la fe Enoc fue trasladado para que no viera la muerte, y no fue hallado porque Dios lo trasladó; pues antes de su traslado recibió testimonio de haber agradado a Dios.",
+    "translation_notes": "Alusión a Génesis 5:21-24 (LXX, donde «caminó con Dios» se traduce «agradó a Dios», εὐαρεστηκέναι)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 6,
+    "greek_text": "χωρὶς δὲ πίστεως ἀδύνατον εὐαρεστῆσαι, πιστεῦσαι γὰρ δεῖ τὸν προσερχόμενον τῷ θεῷ ὅτι ἔστιν καὶ τοῖς ἐκζητοῦσιν αὐτὸν μισθαποδότης γίνεται.",
+    "translation": "Pero sin fe es imposible agradar a Dios; porque es necesario que el que se acerca a Dios crea que él existe y que recompensa a quienes lo buscan con diligencia.",
+    "translation_notes": "Principio teológico universal: toda relación verdadera con Dios exige confiar en su existencia y en su fidelidad remuneradora."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 7,
+    "greek_text": "πίστει χρηματισθεὶς Νῶε περὶ τῶν μηδέπω βλεπομένων εὐλαβηθεὶς κατεσκεύασεν κιβωτὸν εἰς σωτηρίαν τοῦ οἴκου αὐτοῦ, δι’ ἧς κατέκρινεν τὸν κόσμον, καὶ τῆς κατὰ πίστιν δικαιοσύνης ἐγένετο κληρονόμος.",
+    "translation": "Por la fe Noé, advertido por Dios acerca de cosas que aún no se veían, movido por temor reverente construyó un arca para salvación de su familia; por esa fe condenó al mundo y llegó a ser heredero de la justicia que es conforme a la fe.",
+    "translation_notes": "Noé obedeció durante décadas ante una advertencia divina sin precedentes visibles (Gn 6–7)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 8,
+    "greek_text": "Πίστει καλούμενος Ἀβραὰμ ὑπήκουσεν ἐξελθεῖν εἰς τόπον ὃν ἤμελλεν λαμβάνειν εἰς κληρονομίαν, καὶ ἐξῆλθεν μὴ ἐπιστάμενος ποῦ ἔρχεται.",
+    "translation": "Por la fe Abraham, al ser llamado, obedeció para salir hacia un lugar que había de recibir por herencia; y salió sin saber adónde iba.",
+    "translation_notes": "Obediencia inmediata de Abraham (Gn 12:1-4) confiando únicamente en la palabra de Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 9,
+    "greek_text": "πίστει παρῴκησεν εἰς γῆν τῆς ἐπαγγελίας ὡς ἀλλοτρίαν, ἐν σκηναῖς κατοικήσας μετὰ Ἰσαὰκ καὶ Ἰακὼβ τῶν συγκληρονόμων τῆς ἐπαγγελίας τῆς αὐτῆς·",
+    "translation": "Por la fe residió como extranjero en la tierra prometida como en tierra ajena, habitando en tiendas junto con Isaac y Jacob, coherederos de la misma promesa;",
+    "translation_notes": "«Habitando en tiendas» simboliza su condición de peregrinos sin posesión permanente aún en Canaán."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 10,
+    "greek_text": "ἐξεδέχετο γὰρ τὴν τοὺς θεμελίους ἔχουσαν πόλιν, ἧς τεχνίτης καὶ δημιουργὸς ὁ θεός.",
+    "translation": "porque esperaba la ciudad que tiene cimientos, cuyo arquitecto y constructor es Dios.",
+    "translation_notes": "La meta última de Abraham trascendía el territorio terrenal: apuntaba a la Jerusalén celestial (cf. 12:22; 13:14)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 11,
+    "greek_text": "πίστει καὶ αὐτῇ Σάρρᾳ δύναμιν εἰς καταβολὴν σπέρματος ἔλαβεν καὶ παρὰ καιρὸν ἡλικίας, ἐπεὶ πιστὸν ἡγήσατο τὸν ἐπαγγειλάμενον·",
+    "translation": "Por la fe también Sara misma recibió fuerza para concebir descendencia, aun fuera de la edad oportuna, porque consideró fiel al que lo había prometido.",
+    "translation_notes": "Nota textual: el sujeto griego admite leer la fe de Sara (καὶ αὐτῇ Σάρρᾳ, «también Sara misma») o la de Abraham junto con Sara; SBLGNT preserva el dativo Σάρρᾳ reflejando la tradición de la fe compartida de la pareja patriarcal."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 12,
+    "greek_text": "διὸ καὶ ἀφ’ ἑνὸς ἐγεννήθησαν, καὶ ταῦτα νενεκρωμένου, καθὼς τὰ ἄστρα τοῦ οὐρανοῦ τῷ πλήθει καὶ ὡς ἡ ἄμμος ἡ παρὰ τὸ χεῖλος τῆς θαλάσσης ἡ ἀναρίθμητος.",
+    "translation": "Por lo cual también de uno solo, y ese ya casi muerto, nacieron descendientes como las estrellas del cielo en multitud y como la arena innumerable que está a la orilla del mar.",
+    "translation_notes": "Alusión a Génesis 15:5 y 22:17: del cuerpo estéril y anciano («casi muerto», νενεκρωμένου) brotó todo un pueblo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 13,
+    "greek_text": "Κατὰ πίστιν ἀπέθανον οὗτοι πάντες, μὴ λαβόντες τὰς ἐπαγγελίας, ἀλλὰ πόρρωθεν αὐτὰς ἰδόντες καὶ ἀσπασάμενοι, καὶ ὁμολογήσαντες ὅτι ξένοι καὶ παρεπίδημοί εἰσιν ἐπὶ τῆς γῆς.",
+    "translation": "Conforme a la fe murieron todos estos sin haber recibido las promesas, sino mirándolas de lejos y saludándolas, y confesando que eran extranjeros y peregrinos sobre la tierra.",
+    "translation_notes": "«Saludándolas» (ἀσπασάμενοι): como navegantes que divisan la costa lejana y la saludan con gozo antes de arribar."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 14,
+    "greek_text": "οἱ γὰρ τοιαῦτα λέγοντες ἐμφανίζουσιν ὅτι πατρίδα ἐπιζητοῦσιν.",
+    "translation": "Porque los que dicen tales cosas dan a entender claramente que buscan una patria.",
+    "translation_notes": "Confesar que somos peregrinos implica que nuestro verdadero hogar está por venir."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 15,
+    "greek_text": "καὶ εἰ μὲν ἐκείνης μνημονεύουσιν ἀφ’ ἧς ἐξέβησαν, εἶχον ἂν καιρὸν ἀνακάμψαι·",
+    "translation": "Y si hubieran estado pensando en aquella de donde salieron, habrían tenido tiempo para regresar;",
+    "translation_notes": "Abraham nunca volvió a Ur ni permitió que Isaac regresara a Mesopotamia (Gn 24:6)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 16,
+    "greek_text": "νῦν δὲ κρείττονος ὀρέγονται, τοῦτ’ ἔστιν ἐπουρανίου. διὸ οὐκ ἐπαισχύνεται αὐτοὺς ὁ θεὸς θεὸς ἐπικαλεῖσθαι αὐτῶν, ἡτοίμασεν γὰρ αὐτοῖς πόλιν.",
+    "translation": "pero en realidad anhelan una mejor, esto es, la celestial. Por lo cual Dios no se avergüenza de ellos, de ser llamado Dios de ellos; porque les ha preparado una ciudad.",
+    "translation_notes": "Alusión al título divino «Dios de Abraham, de Isaac y de Jacob» (Éx 3:6): Dios se honra en asociar su nombre con quienes peregrinan por fe."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 17,
+    "greek_text": "Πίστει προσενήνοχεν Ἀβραὰμ τὸν Ἰσαὰκ πειραζόμενος, καὶ τὸν μονογενῆ προσέφερεν ὁ τὰς ἐπαγγελίας ἀναδεξάμενος,",
+    "translation": "Por la fe Abraham, cuando fue puesto a prueba, ofreció a Isaac; y el que había recibido las promesas ofrecía a su unigénito,",
+    "translation_notes": "Relato de Génesis 22:1-14: el perfecto προσενήνοχεν («ofreció») indica que en su corazón el acto de entrega fue completo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 18,
+    "greek_text": "πρὸς ὃν ἐλαλήθη ὅτι Ἐν Ἰσαὰκ κληθήσεταί σοι σπέρμα,",
+    "translation": "aquel a quien se le había dicho: «En Isaac te será llamada descendencia»,",
+    "translation_notes": "Cita de Génesis 21:12: la promesa entera dependía de la vida de Isaac, haciendo aún más radical la prueba."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 19,
+    "greek_text": "λογισάμενος ὅτι καὶ ἐκ νεκρῶν ἐγείρειν δυνατὸς ὁ θεός· ὅθεν αὐτὸν καὶ ἐν παραβολῇ ἐκομίσατο.",
+    "translation": "considerando que Dios es poderoso para resucitar aun de entre los muertos; de donde también, en sentido figurado, lo volvió a recibir.",
+    "translation_notes": "«En sentido figurado» (ἐν παραβολῇ): la devolución de Isaac del altar fue una parábola anticipada de la resurrección."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 20,
+    "greek_text": "Πίστει καὶ περὶ μελλόντων εὐλόγησεν Ἰσαὰκ τὸν Ἰακὼβ καὶ τὸν Ἠσαῦ.",
+    "translation": "Por la fe también bendijo Isaac a Jacob y a Esaú respecto a cosas venideras.",
+    "translation_notes": "Alusión a Génesis 27:27-40: la bendición patriarcal miraba más allá de la muerte hacia el futuro del pacto."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 21,
+    "greek_text": "πίστει Ἰακὼβ ἀποθνῄσκων ἕκαστον τῶν υἱῶν Ἰωσὴφ εὐλόγησεν, καὶ προσεκύνησεν ἐπὶ τὸ ἄκρον τῆς ῥάβδου αὐτοῦ.",
+    "translation": "Por la fe Jacob, al morir, bendijo a cada uno de los hijos de José, y adoró apoyado sobre la punta de su bastón.",
+    "translation_notes": "Cita de Génesis 47:31 (LXX, que lee «bastón» [ῥάβδου] donde el texto masorético vocaliza «cabecera de la cama») y Gn 48:15-20."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 22,
+    "greek_text": "πίστει Ἰωσὴφ τελευτῶν περὶ τῆς ἐξόδου τῶν υἱῶν Ἰσραὴλ ἐμνημόνευσεν, καὶ περὶ τῶν ὀστέων αὐτοῦ ἐνετείλατο.",
+    "translation": "Por la fe José, al llegar su fin, hizo mención de la salida de los hijos de Israel y dio instrucciones acerca de sus huesos.",
+    "translation_notes": "Alusión a Génesis 50:24-25: José creyó en el Éxodo siglos antes de que ocurriera."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 23,
+    "greek_text": "Πίστει Μωϋσῆς γεννηθεὶς ἐκρύβη τρίμηνον ὑπὸ τῶν πατέρων αὐτοῦ, διότι εἶδον ἀστεῖον τὸ παιδίον καὶ οὐκ ἐφοβήθησαν τὸ διάταγμα τοῦ βασιλέως.",
+    "translation": "Por la fe Moisés, cuando nació, fue escondido durante tres meses por sus padres, porque vieron que el niño era hermoso, y no temieron el decreto del rey.",
+    "translation_notes": "Alusión a Éxodo 2:2: la fe vence el temor al edicto infanticida del faraón."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 24,
+    "greek_text": "πίστει Μωϋσῆς μέγας γενόμενος ἠρνήσατο λέγεσθαι υἱὸς θυγατρὸς Φαραώ,",
+    "translation": "Por la fe Moisés, hecho ya grande, rehusó ser llamado hijo de la hija de Faraón,",
+    "translation_notes": "Renuncia deliberada a los privilegios reales de la corte egipcia (Éx 2:11)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 25,
+    "greek_text": "μᾶλλον ἑλόμενος συγκακουχεῖσθαι τῷ λαῷ τοῦ θεοῦ ἢ πρόσκαιρον ἔχειν ἁμαρτίας ἀπόλαυσιν,",
+    "translation": "escogiendo antes ser maltratado junto con el pueblo de Dios, que disfrutar los placeres temporales del pecado,",
+    "translation_notes": "Solidaridad valiente con los esclavos hebreos oprimidos antes que una comodidad egoísta pasajera."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 26,
+    "greek_text": "μείζονα πλοῦτον ἡγησάμενος τῶν Αἰγύπτου θησαυρῶν τὸν ὀνειδισμὸν τοῦ Χριστοῦ, ἀπέβλεπεν γὰρ εἰς τὴν μισθαποδοσίαν.",
+    "translation": "estimando como mayor riqueza que los tesoros de Egipto el oprobio de Cristo; porque tenía puesta la mirada en el galardón.",
+    "translation_notes": "«El oprobio de Cristo» (τὸν ὀνειδισμὸν τοῦ Χριστοῦ): sufrir desprecio por fidelidad al pueblo mesiánico de Dios participa ya de la cruz de Cristo (cf. 13:13)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 27,
+    "greek_text": "πίστει κατέλιπεν Αἴγυπτον, μὴ φοβηθεὶς τὸν θυμὸν τοῦ βασιλέως, τὸν γὰρ ἀόρατον ὡς ὁρῶν ἐκαρτέρησεν.",
+    "translation": "Por la fe dejó a Egipto, sin temer la ira del rey; porque se sostuvo firme como viendo al Invisible.",
+    "translation_notes": "La visión espiritual del Dios invisible supera el miedo al poder político visible."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 28,
+    "greek_text": "πίστει πεποίηκεν τὸ πάσχα καὶ τὴν πρόσχυσιν τοῦ αἵματος, ἵνα μὴ ὁ ὀλοθρεύων τὰ πρωτότοκα θίγῃ αὐτῶν.",
+    "translation": "Por la fe celebró la Pascua y el rociamiento de la sangre, para que el que destruía a los primogénitos no los tocara.",
+    "translation_notes": "Alusión a Éxodo 12:21-28: la sangre en los dinteles protegió a Israel por fe obediente."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 29,
+    "greek_text": "Πίστει διέβησαν τὴν Ἐρυθρὰν Θάλασσαν ὡς διὰ ξηρᾶς γῆς, ἧς πεῖραν λαβόντες οἱ Αἰγύπτιοι κατεπόθησαν.",
+    "translation": "Por la fe atravesaron el mar Rojo como por tierra seca; lo cual intentando hacer los egipcios, fueron ahogados.",
+    "translation_notes": "Paso del mar Rojo (Éx 14:21-31): lo que salvó a los creyentes destruyó a los perseguidores presuntuosos."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 30,
+    "greek_text": "πίστει τὰ τείχη Ἰεριχὼ ἔπεσαν κυκλωθέντα ἐπὶ ἑπτὰ ἡμέρας.",
+    "translation": "Por la fe cayeron los muros de Jericó después de ser rodeados durante siete días.",
+    "translation_notes": "Alusión a Josué 6: estrategia militar humanamente absurda que triunfó por obediencia confiada."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 31,
+    "greek_text": "πίστει Ῥαὰβ ἡ πόρνη οὐ συναπώλετο τοῖς ἀπειθήσασιν, δεξαμένη τοὺς κατασκόπους μετ’ εἰρήνης.",
+    "translation": "Por la fe Rahab la ramera no pereció juntamente con los desobedientes, habiendo recibido a los espías en paz.",
+    "translation_notes": "Inclusión significativa de una mujer gentil marginada (Jos 2; 6:22-25) junto a los grandes patriarcas."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 32,
+    "greek_text": "Καὶ τί ἔτι λέγω; ἐπιλείψει με γὰρ διηγούμενον ὁ χρόνος περὶ Γεδεών, Βαράκ, Σαμψών, Ἰεφθάε, Δαυίδ τε καὶ Σαμουὴλ καὶ τῶν προφητῶν,",
+    "translation": "¿Y qué más digo? Porque el tiempo me faltaría para contar de Gedeón, de Barac, de Sansón, de Jefté, de David, así como de Samuel y de los profetas,",
+    "translation_notes": "Menciona jueces, reyes y profetas con todas sus luces y fragilidades humanas, demostrando que la fe no exige perfección impecable sino confianza en Dios."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 33,
+    "greek_text": "οἳ διὰ πίστεως κατηγωνίσαντο βασιλείας, εἰργάσαντο δικαιοσύνην, ἐπέτυχον ἐπαγγελιῶν, ἔφραξαν στόματα λεόντων,",
+    "translation": "quienes por fe conquistaron reinos, hicieron justicia, alcanzaron promesas, taparon bocas de leones,",
+    "translation_notes": "«Taparon bocas de leones» evoca claramente a Daniel (Dn 6), así como a Sansón y David."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 34,
+    "greek_text": "ἔσβεσαν δύναμιν πυρός, ἔφυγον στόματα μαχαίρης, ἐδυναμώθησαν ἀπὸ ἀσθενείας, ἐγενήθησαν ἰσχυροὶ ἐν πολέμῳ, παρεμβολὰς ἔκλιναν ἀλλοτρίων·",
+    "translation": "apagaron la fuerza del fuego, escaparon del filo de la espada, sacaron fuerzas de la debilidad, se hicieron poderosos en batalla y pusieron en fuga ejércitos extranjeros.",
+    "translation_notes": "«Apagaron la fuerza del fuego» alude a los tres jóvenes en el horno (Dn 3)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 35,
+    "greek_text": "ἔλαβον γυναῖκες ἐξ ἀναστάσεως τοὺς νεκροὺς αὐτῶν· ἄλλοι δὲ ἐτυμπανίσθησαν, οὐ προσδεξάμενοι τὴν ἀπολύτρωσιν, ἵνα κρείττονος ἀναστάσεως τύχωσιν·",
+    "translation": "Hubo mujeres que recibieron por resurrección a sus muertos; otros fueron atormentados, no aceptando el rescate, para obtener una mejor resurrección.",
+    "translation_notes": "Alude a las resurrecciones de Elías y Eliseo (1 R 17; 2 R 4) y al martirio heroico de los macabeos (2 Mac 6–7), que rechazaron salvar la vida apostatando porque esperaban una «mejor resurrección»."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 36,
+    "greek_text": "ἕτεροι δὲ ἐμπαιγμῶν καὶ μαστίγων πεῖραν ἔλαβον, ἔτι δὲ δεσμῶν καὶ φυλακῆς·",
+    "translation": "Otros experimentaron burlas y azotes, y además cadenas y cárceles.",
+    "translation_notes": "La fe no siempre libra del sufrimiento en esta vida (vv. 36-38), sino que capacita para permanecer fiel en medio de él."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 37,
+    "greek_text": "ἐλιθάσθησαν, ἐπρίσθησαν, ἐν φόνῳ μαχαίρης ἀπέθανον, περιῆλθον ἐν μηλωταῖς, ἐν αἰγείοις δέρμασιν, ὑστερούμενοι, θλιβόμενοι, κακουχούμενοι,",
+    "translation": "Fueron apedreados, aserrados, murieron a filo de espada; anduvieron errantes cubiertos de pieles de ovejas y de cabras, pasando necesidades, afligidos y maltratados",
+    "translation_notes": "«Aserrados» (ἐπρίσθησαν) refleja la tradición judía sobre el martirio del profeta Isaías bajo Manasés."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 38,
+    "greek_text": "ὧν οὐκ ἦν ἄξιος ὁ κόσμος ἐπὶ ἐρημίαις πλανώμενοι καὶ ὄρεσι καὶ σπηλαίοις καὶ ταῖς ὀπαῖς τῆς γῆς·",
+    "translation": "—de los cuales el mundo no era digno—, vagando por desiertos, montes, cuevas y cavernas de la tierra.",
+    "translation_notes": "Veredicto invertido: aunque el mundo los rechazó como escoria, en realidad el mundo no merecía su presencia."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 39,
+    "greek_text": "καὶ πάντες μαρτυρηθέντες διὰ τῆς πίστεως οὐκ ἐκομίσαντο τὴν ἐπαγγελίαν,",
+    "translation": "Y todos estos, aunque recibieron buen testimonio mediante la fe, no obtuvieron la promesa,",
+    "translation_notes": "No vieron aún en vida la venida del Mesías y la consumación definitiva del reino."
+  },
+  {
+    "book": "HEB",
+    "chapter": 11,
+    "verse": 40,
+    "greek_text": "τοῦ θεοῦ περὶ ἡμῶν κρεῖττόν τι προβλεψαμένου, ἵνα μὴ χωρὶς ἡμῶν τελειωθῶσιν.",
+    "translation": "habiendo provisto Dios algo mejor para nosotros, para que no fueran hechos perfectos aparte de nosotros.",
+    "translation_notes": "Unidad del pueblo de Dios de ambos Testamentos: los santos del AT y la iglesia comparten juntos la consumación final en Cristo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 1,
+    "greek_text": "Τοιγαροῦν καὶ ἡμεῖς, τοσοῦτον ἔχοντες περικείμενον ἡμῖν νέφος μαρτύρων, ὄγκον ἀποθέμενοι πάντα καὶ τὴν εὐπερίστατον ἁμαρτίαν, δι’ ὑπομονῆς τρέχωμεν τὸν προκείμενον ἡμῖν ἀγῶνα,",
+    "translation": "Por tanto, también nosotros, teniendo en derredor nuestro tan grande nube de testigos, despojémonos de todo peso y del pecado que tan fácilmente nos enreda, y corramos con perseverancia la carrera que tenemos por delante,",
+    "translation_notes": "Metáfora del estadio atlético: «nube de testigos» (νέφος μαρτύρων) son los héroes del cap. 11 cuyo ejemplo atestigua que la fe triunfa. «Peso» (ὄγκον) alude a estorbos innecesarios y «pecado que enreda» (εὐπερίστατον) a una túnica suelta que traba los pasos al correr."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 2,
+    "greek_text": "ἀφορῶντες εἰς τὸν τῆς πίστεως ἀρχηγὸν καὶ τελειωτὴν Ἰησοῦν, ὃς ἀντὶ τῆς προκειμένης αὐτῷ χαρᾶς ὑπέμεινεν σταυρὸν αἰσχύνης καταφρονήσας, ἐν δεξιᾷ τε τοῦ θρόνου τοῦ θεοῦ κεκάθικεν.",
+    "translation": "puestos los ojos en Jesús, el autor y consumador de la fe, quien por el gozo puesto delante de él soportó la cruz, menospreciando la vergüenza, y se sentó a la diestra del trono de Dios.",
+    "translation_notes": "«Puestos los ojos» (ἀφορῶντες): apartar la vista de las distracciones para fijarla en Jesús, «pionero y perfeccionador» (ἀρχηγὸν καὶ τελειωτήν) de nuestra fe."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 3,
+    "greek_text": "Ἀναλογίσασθε γὰρ τὸν τοιαύτην ὑπομεμενηκότα ὑπὸ τῶν ἁμαρτωλῶν εἰς ἑαυτοὺς ἀντιλογίαν, ἵνα μὴ κάμητε ταῖς ψυχαῖς ὑμῶν ἐκλυόμενοι.",
+    "translation": "Consideren atentamente a aquel que soportó tal hostilidad de los pecadores contra sí mismo, para que no se cansen ni desmayen en sus ánimos.",
+    "translation_notes": "Meditar en la perseverancia de Cristo fortalece contra el agotamiento espiritual."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 4,
+    "greek_text": "οὔπω μέχρις αἵματος ἀντικατέστητε πρὸς τὴν ἁμαρτίαν ἀνταγωνιζόμενοι,",
+    "translation": "Todavía no han resistido hasta la sangre luchando contra el pecado,",
+    "translation_notes": "Aunque habían sufrido insultos y confiscaciones (10:32-34), aún no habían llegado al martirio sangriento como Jesús."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 5,
+    "greek_text": "καὶ ἐκλέλησθε τῆς παρακλήσεως, ἥτις ὑμῖν ὡς υἱοῖς διαλέγεται, Υἱέ μου, μὴ ὀλιγώρει παιδείας κυρίου, μηδὲ ἐκλύου ὑπ’ αὐτοῦ ἐλεγχόμενος·",
+    "translation": "y han olvidado la exhortación que les habla como a hijos: «Hijo mío, no menosprecies la disciplina del Señor, ni desmayes cuando eres reprendido por él;",
+    "translation_notes": "Cita de Proverbios 3:11-12 (LXX, vv. 5-6): reinterpreta las pruebas actuales no como abandono divino, sino como «disciplina» paternal formativa (παιδεία)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 6,
+    "greek_text": "ὃν γὰρ ἀγαπᾷ κύριος παιδεύει, μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται.",
+    "translation": "porque el Señor al que ama disciplina, y azota a todo el que recibe por hijo».",
+    "translation_notes": "La corrección amorosa confirma nuestra adopción filial."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 7,
+    "greek_text": "εἰς παιδείαν ὑπομένετε· ὡς υἱοῖς ὑμῖν προσφέρεται ὁ θεός· τίς γὰρ υἱὸς ὃν οὐ παιδεύει πατήρ;",
+    "translation": "Soporten con miras a la disciplina; Dios los trata como a hijos; porque ¿qué hijo es aquel a quien su padre no disciplina?",
+    "translation_notes": "«Soporten» (ὑπομένετε): perseverar bajo la prueba sabiendo que tiene propósito pedagógico de Padre."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 8,
+    "greek_text": "εἰ δὲ χωρίς ἐστε παιδείας ἧς μέτοχοι γεγόνασι πάντες, ἄρα νόθοι καὶ οὐχ υἱοί ἐστε.",
+    "translation": "Pero si están sin disciplina, de la cual todos han llegado a ser participantes, entonces son ilegítimos y no hijos.",
+    "translation_notes": "Ningún hijo legítimo queda exento de la formación del Padre."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 9,
+    "greek_text": "εἶτα τοὺς μὲν τῆς σαρκὸς ἡμῶν πατέρας εἴχομεν παιδευτὰς καὶ ἐνετρεπόμεθα· οὐ πολὺ μᾶλλον ὑποταγησόμεθα τῷ πατρὶ τῶν πνευμάτων καὶ ζήσομεν;",
+    "translation": "Por otra parte, tuvimos a nuestros padres terrenales que nos disciplinaban, y los respetábamos; ¿no nos someteremos mucho más al Padre de los espíritus, y viviremos?",
+    "translation_notes": "Argumento de menor a mayor: si aceptamos la corrección imperfecta de padres humanos, cuánto más la del «Padre de los espíritus» (Nm 16:22)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 10,
+    "greek_text": "οἱ μὲν γὰρ πρὸς ὀλίγας ἡμέρας κατὰ τὸ δοκοῦν αὐτοῖς ἐπαίδευον, ὁ δὲ ἐπὶ τὸ συμφέρον εἰς τὸ μεταλαβεῖν τῆς ἁγιότητος αὐτοῦ.",
+    "translation": "Porque aquellos, a la verdad, por pocos días nos disciplinaban como les parecía bien, pero este lo hace para nuestro provecho, a fin de que participemos de su santidad.",
+    "translation_notes": "El objetivo supremo de la disciplina de Dios es nuestra participación en su propia santidad."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 11,
+    "greek_text": "πᾶσα δὲ παιδεία πρὸς μὲν τὸ παρὸν οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ λύπης, ὕστερον δὲ καρπὸν εἰρηνικὸν τοῖς δι’ αὐτῆς γεγυμνασμένοις ἀποδίδωσιν δικαιοσύνης.",
+    "translation": "Es verdad que ninguna disciplina al presente parece ser causa de gozo, sino de tristeza; pero después da fruto apacible de justicia a los que por medio de ella han sido ejercitados.",
+    "translation_notes": "«Fruto apacible de justicia» (καρπὸν εἰρηνικὸν... δικαιοσύνης): madurez ética y paz interior tras el entrenamiento."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 12,
+    "greek_text": "Διὸ τὰς παρειμένας χεῖρας καὶ τὰ παραλελυμένα γόνατα ἀνορθώσατε,",
+    "translation": "Por lo cual, levanten las manos caídas y las rodillas debilitadas,",
+    "translation_notes": "Alusión a Isaías 35:3: imagen del corredor exhausto que recobra vigor en la pista."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 13,
+    "greek_text": "καὶ τροχιὰς ὀρθὰς ποιεῖτε τοῖς ποσὶν ὑμῶν, ἵνα μὴ τὸ χωλὸν ἐκτραπῇ, ἰαθῇ δὲ μᾶλλον.",
+    "translation": "y hagan sendas derechas para sus pies, para que lo cojo no se disloque, sino que más bien sea sanado.",
+    "translation_notes": "Alusión a Proverbios 4:26 (LXX): caminar con rectitud evita que los miembros débiles de la comunidad se extravíen."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 14,
+    "greek_text": "Εἰρήνην διώκετε μετὰ πάντων, καὶ τὸν ἁγιασμόν, οὗ χωρὶς οὐδεὶς ὄψεται τὸν κύριον,",
+    "translation": "Busquen la paz con todos, y la santificación, sin la cual nadie verá al Señor;",
+    "translation_notes": "Exhortación paralela a Ro 12:18 y Mt 5:8: la paz relacional y una vida consagrada son inseparables de la esperanza cristiana."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 15,
+    "greek_text": "ἐπισκοποῦντες μή τις ὑστερῶν ἀπὸ τῆς χάριτος τοῦ θεοῦ, μή τις ῥίζα πικρίας ἄνω φύουσα ἐνοχλῇ καὶ δι’ αὐτῆς μιανθῶσιν πολλοί,",
+    "translation": "vigilando bien que ninguno quede privado de la gracia de Dios; que ninguna raíz de amargura brote y cause perturbación, y por ella muchos queden contaminados;",
+    "translation_notes": "Cuidado mutuo pastoral (ἐπισκοποῦντες): «raíz de amargura» evoca Dt 29:18 (LXX), advirtiendo contra la apostasía contagiosa que envenena a la congregación."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 16,
+    "greek_text": "μή τις πόρνος ἢ βέβηλος ὡς Ἠσαῦ, ὃς ἀντὶ βρώσεως μιᾶς ἀπέδετο τὰ πρωτοτόκια ἑαυτοῦ.",
+    "translation": "que no haya ningún inmoral sexual, ni profano como Esaú, que por una sola comida vendió su primogenitura.",
+    "translation_notes": "Esaú (Gn 25:29-34) encarna al hombre «profano» (βέβηλος) que cambia las promesas eternas por un alivio inmediato."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 17,
+    "greek_text": "ἴστε γὰρ ὅτι καὶ μετέπειτα θέλων κληρονομῆσαι τὴν εὐλογίαν ἀπεδοκιμάσθη, μετανοίας γὰρ τόπον οὐχ εὗρεν, καίπερ μετὰ δακρύων ἐκζητήσας αὐτήν.",
+    "translation": "Porque saben que aun después, queriendo heredar la bendición, fue rechazado, pues no halló ocasión de arrepentimiento, aunque la buscó con lágrimas.",
+    "translation_notes": "«Ocasión de arrepentimiento» (μετανοίας τόπον): en Gn 27:30-40, Esaú no pudo revertir la decisión ya tomada por Isaac ni deshacer las consecuencias de haber despreciado la primogenitura."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 18,
+    "greek_text": "Οὐ γὰρ προσεληλύθατε ψηλαφωμένῳ καὶ κεκαυμένῳ πυρὶ καὶ γνόφῳ καὶ ζόφῳ καὶ θυέλλῃ",
+    "translation": "Porque no se han acercado a un monte palpable que ardía en fuego, ni a oscuridad, ni a tinieblas, ni a torbellino,",
+    "translation_notes": "Contraste majestuoso (vv. 18-24) entre la teofanía aterradora del monte Sinaí (Éx 19–20; Dt 4–5) y el gozo festivo del monte Sion celestial."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 19,
+    "greek_text": "καὶ σάλπιγγος ἤχῳ καὶ φωνῇ ῥημάτων, ἧς οἱ ἀκούσαντες παρῃτήσαντο μὴ προστεθῆναι αὐτοῖς λόγον·",
+    "translation": "ni al sonido de trompeta, ni a la voz de palabras que quienes la oyeron suplicaron que no se les hablara más;",
+    "translation_notes": "El pueblo en el Sinaí temió morir ante la voz audible de Dios (Éx 20:19; Dt 5:25)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 20,
+    "greek_text": "οὐκ ἔφερον γὰρ τὸ διαστελλόμενον· Κἂν θηρίον θίγῃ τοῦ ὄρους, λιθοβοληθήσεται·",
+    "translation": "porque no podían soportar lo que se ordenaba: «Si aun una bestia toca el monte, será apedreada».",
+    "translation_notes": "Cita abreviada de Éxodo 19:12-13, destacando la distancia infranqueable impuesta en el Sinaí."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 21,
+    "greek_text": "καί, οὕτω φοβερὸν ἦν τὸ φανταζόμενον, Μωϋσῆς εἶπεν· Ἔκφοβός εἰμι καὶ ἔντρομος.",
+    "translation": "Y tan terrible era aquel espectáculo, que Moisés dijo: «Estoy espantado y temblando».",
+    "translation_notes": "Eco de Deuteronomio 9:19: hasta el propio mediador Moisés tembló."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 22,
+    "greek_text": "ἀλλὰ προσεληλύθατε Σιὼν ὄρει καὶ πόλει θεοῦ ζῶντος, Ἰερουσαλὴμ ἐπουρανίῳ, καὶ μυριάσιν ἀγγέλων, πανηγύρει",
+    "translation": "Antes bien, se han acercado al monte Sion, y a la ciudad del Dios viviente, la Jerusalén celestial, y a miríadas de ángeles en asamblea festiva,",
+    "translation_notes": "«Se han acercado» (προσεληλύθατε, perfecto): en el culto cristiano los creyentes ya participan espiritualmente de la liturgia celestial de Sion."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 23,
+    "greek_text": "καὶ ἐκκλησίᾳ πρωτοτόκων ἀπογεγραμμένων ἐν οὐρανοῖς, καὶ κριτῇ θεῷ πάντων, καὶ πνεύμασι δικαίων τετελειωμένων,",
+    "translation": "y a la congregación de los primogénitos inscritos en los cielos, y a Dios el Juez de todos, y a los espíritus de los justos hechos perfectos,",
+    "translation_notes": "«Inscritos en los cielos» (ἀπογεγραμμένων, registro ciudadano del cielo, cf. Lc 10:20; Fil 3:20); «espíritus de los justos hechos perfectos» designa a los creyentes fallecidos ya en la presencia divina."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 24,
+    "greek_text": "καὶ διαθήκης νέας μεσίτῃ Ἰησοῦ, καὶ αἵματι ῥαντισμοῦ κρεῖττον λαλοῦντι παρὰ τὸν Ἅβελ.",
+    "translation": "y a Jesús el mediador del nuevo pacto, y a la sangre rociada que habla mejor que la de Abel.",
+    "translation_notes": "La sangre de Abel clamaba por venganza desde la tierra (Gn 4:10); la sangre de Jesús clama por perdón, paz y reconciliación."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 25,
+    "greek_text": "Βλέπετε μὴ παραιτήσησθε τὸν λαλοῦντα· εἰ γὰρ ἐκεῖνοι οὐκ ἐξέφυγον ἐπὶ γῆς παραιτησάμενοι τὸν χρηματίζοντα, πολὺ μᾶλλον ἡμεῖς οἱ τὸν ἀπ’ οὐρανῶν ἀποστρεφόμενοι·",
+    "translation": "Miren que no rechacen al que habla; porque si no escaparon aquellos que rechazaron al que los amonestaba en la tierra, mucho menos nosotros, si nos apartamos del que amonesta desde los cielos.",
+    "translation_notes": "Quinta y última gran advertencia de Hebreos (vv. 25-29): rechazar la voz de Dios en Cristo conlleva mayor responsabilidad que rechazar la revelación en el Sinaí."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 26,
+    "greek_text": "οὗ ἡ φωνὴ τὴν γῆν ἐσάλευσεν τότε, νῦν δὲ ἐπήγγελται λέγων· Ἔτι ἅπαξ ἐγὼ σείσω οὐ μόνον τὴν γῆν ἀλλὰ καὶ τὸν οὐρανόν.",
+    "translation": "Su voz conmovió entonces la tierra, pero ahora ha prometido diciendo: «Aún una vez más yo haré temblar no solo la tierra, sino también el cielo».",
+    "translation_notes": "Cita de Hageo 2:6 (LXX): anuncia el juicio cósmico final que renovará toda la creación."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 27,
+    "greek_text": "τὸ δὲ Ἔτι ἅπαξ δηλοῖ τῶν σαλευομένων μετάθεσιν ὡς πεποιημένων, ἵνα μείνῃ τὰ μὴ σαλευόμενα.",
+    "translation": "Y esta frase: «Aún una vez más», indica la remoción de las cosas movibles, como cosas creadas, para que permanezcan las inconmovibles.",
+    "translation_notes": "Todo el orden creado transitorio será transformado para dejar en pie únicamente el reino eterno."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 28,
+    "greek_text": "διὸ βασιλείαν ἀσάλευτον παραλαμβάνοντες ἔχωμεν χάριν, δι’ ἧς λατρεύωμεν εὐαρέστως τῷ θεῷ μετὰ εὐλαβείας καὶ δέους,",
+    "translation": "Por tanto, recibiendo un reino inconmovible, tengamos gratitud, mediante la cual sirvamos a Dios de manera agradable, con temor reverente y piedad;",
+    "translation_notes": "«Tengamos gratitud» (ἔχωμεν χάριν, también «aferrémonos a la gracia»): la seguridad del reino eterno impulsa una adoración reverente y gozosa."
+  },
+  {
+    "book": "HEB",
+    "chapter": 12,
+    "verse": 29,
+    "greek_text": "καὶ γὰρ ὁ θεὸς ἡμῶν πῦρ καταναλίσκον.",
+    "translation": "porque nuestro Dios es fuego consumidor.",
+    "translation_notes": "Cita de Deuteronomio 4:24: la santidad majestuosa de Dios exige reverencia tanto en el Antiguo como en el Nuevo Pacto."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 1,
+    "greek_text": "Ἡ φιλαδελφία μενέτω.",
+    "translation": "Permanezca el amor fraternal.",
+    "translation_notes": "Inicia la exhortación ética final (vv. 1-6): «amor fraternal» (φιλαδελφία, afecto entre hermanos en Cristo)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 2,
+    "greek_text": "τῆς φιλοξενίας μὴ ἐπιλανθάνεσθε, διὰ ταύτης γὰρ ἔλαθόν τινες ξενίσαντες ἀγγέλους.",
+    "translation": "No se olviden de la hospitalidad, porque por ella algunos, sin saberlo, hospedaron ángeles.",
+    "translation_notes": "Alusión a Abraham y Sara en Mamre (Gn 18) y a Lot en Sodoma (Gn 19): la hospitalidad con creyentes viajeros y desconocidos era vital en el siglo I."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 3,
+    "greek_text": "μιμνῄσκεσθε τῶν δεσμίων ὡς συνδεδεμένοι, τῶν κακουχουμένων ὡς καὶ αὐτοὶ ὄντες ἐν σώματι.",
+    "translation": "Acuérdense de los presos, como si estuvieran presos juntamente con ellos; y de los maltratados, ya que también ustedes están en el cuerpo.",
+    "translation_notes": "Solidaridad práctica con los encarcelados por la fe (cf. 10:34) y con quienes sufren violencia, recordando nuestra propia fragilidad física compartida."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 4,
+    "greek_text": "τίμιος ὁ γάμος ἐν πᾶσιν καὶ ἡ κοίτη ἀμίαντος, πόρνους γὰρ καὶ μοιχοὺς κρινεῖ ὁ θεός.",
+    "translation": "Honroso sea en todos el matrimonio, y el lecho conyugal sin mancilla; porque a los inmorales sexuales y a los adúlteros los juzgará Dios.",
+    "translation_notes": "Defiende la santidad y dignidad del matrimonio frente al libertinaje y frente al ascetismo que lo despreciaba."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 5,
+    "greek_text": "ἀφιλάργυρος ὁ τρόπος· ἀρκούμενοι τοῖς παροῦσιν· αὐτὸς γὰρ εἴρηκεν· Οὐ μή σε ἀνῶ οὐδ’ οὐ μή σε ἐγκαταλίπω·",
+    "translation": "Sea la conducta de ustedes sin avaricia, contentándose con lo que tienen; porque él mismo dijo: «Nunca te dejaré ni jamás te desampararé»;",
+    "translation_notes": "Cita de Deuteronomio 31:6, 8 / Josué 1:5: el contentamiento económico descansa en la presencia fiel de Dios, no en las riquezas."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 6,
+    "greek_text": "ὥστε θαρροῦντας ἡμᾶς λέγειν· Κύριος ἐμοὶ βοηθός, οὐ φοβηθήσομαι· τί ποιήσει μοι ἄνθρωπος;",
+    "translation": "de manera que podamos decir confiadamente: «El Señor es mi ayudador; no temeré; ¿qué me podrá hacer el hombre?».",
+    "translation_notes": "Cita del Salmo 118:6 (LXX 117:6): antídoto contra el miedo a la persecución o pérdida material."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 7,
+    "greek_text": "Μνημονεύετε τῶν ἡγουμένων ὑμῶν, οἵτινες ἐλάλησαν ὑμῖν τὸν λόγον τοῦ θεοῦ, ὧν ἀναθεωροῦντες τὴν ἔκβασιν τῆς ἀναστροφῆς μιμεῖσθε τὴν πίστιν.",
+    "translation": "Acuérdense de sus dirigentes, los que les hablaron la palabra de Dios; considerando cuál fue el resultado de su conducta, imiten su fe.",
+    "translation_notes": "Evoca a los primeros líderes ya fallecidos (quizá algunos mártires) que fundaron la comunidad, invitando a imitar su fidelidad hasta el fin."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 8,
+    "greek_text": "Ἰησοῦς Χριστὸς ἐχθὲς καὶ σήμερον ὁ αὐτός, καὶ εἰς τοὺς αἰῶνας.",
+    "translation": "Jesucristo es el mismo ayer, y hoy, y por los siglos.",
+    "translation_notes": "Aclamación cristológica clásica (cf. 1:12): aunque los líderes humanos pasen, Cristo y su evangelio permanecen inmutables."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 9,
+    "greek_text": "διδαχαῖς ποικίλαις καὶ ξέναις μὴ παραφέρεσθε· καλὸν γὰρ χάριτι βεβαιοῦσθαι τὴν καρδίαν, οὐ βρώμασιν, ἐν οἷς οὐκ ὠφελήθησαν οἱ περιπατοῦντες.",
+    "translation": "No se dejen llevar por doctrinas diversas y extrañas; porque bueno es fortalecer el corazón con la gracia, y no con alimentos, los cuales nunca aprovecharon a quienes los siguieron.",
+    "translation_notes": "Advierte contra prácticas rituales alimentarias o cultos externos que prometían seguridad espiritual aparte de la gracia en Cristo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 10,
+    "greek_text": "ἔχομεν θυσιαστήριον ἐξ οὗ φαγεῖν οὐκ ἔχουσιν ἐξουσίαν οἱ τῇ σκηνῇ λατρεύοντες.",
+    "translation": "Tenemos un altar del cual no tienen derecho a comer los que sirven al tabernáculo.",
+    "translation_notes": "«Altar» (θυσιαστήριον) alude al sacrificio único de Cristo en la cruz, incompatible con seguir confiando en el culto levítico."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 11,
+    "greek_text": "ὧν γὰρ εἰσφέρεται ζῴων τὸ αἷμα περὶ ἁμαρτίας εἰς τὰ ἅγια διὰ τοῦ ἀρχιερέως, τούτων τὰ σώματα κατακαίεται ἔξω τῆς παρεμβολῆς·",
+    "translation": "Porque los cuerpos de aquellos animales cuya sangre es introducida en el santuario por el sumo sacerdote como ofrenda por el pecado, se queman fuera del campamento.",
+    "translation_notes": "Referencia al Día de la Expiación (Lv 16:27): las víctimas por el pecado no se comían, sino que se quemaban fuera del campamento."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 12,
+    "greek_text": "διὸ καὶ Ἰησοῦς, ἵνα ἁγιάσῃ διὰ τοῦ ἰδίου αἵματος τὸν λαόν, ἔξω τῆς πύλης ἔπαθεν.",
+    "translation": "Por lo cual también Jesús, para santificar al pueblo mediante su propia sangre, padeció fuera de la puerta.",
+    "translation_notes": "«Fuera de la puerta» (ἔξω τῆς πύλης): el Gólgota estaba extramuros de Jerusalén, cumpliendo la tipología de Lv 16:27."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 13,
+    "greek_text": "τοίνυν ἐξερχώμεθα πρὸς αὐτὸν ἔξω τῆς παρεμβολῆς, τὸν ὀνειδισμὸν αὐτοῦ φέροντες.",
+    "translation": "Salgamos, pues, hacia él fuera del campamento, llevando su oprobio;",
+    "translation_notes": "Llamado decisivo a romper con la seguridad religiosa del sistema antiguo y aceptar con valentía el rechazo social por causa de Cristo."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 14,
+    "greek_text": "οὐ γὰρ ἔχομεν ὧδε μένουσαν πόλιν, ἀλλὰ τὴν μέλλουσαν ἐπιζητοῦμεν·",
+    "translation": "porque no tenemos aquí ciudad permanente, sino que buscamos la que está por venir.",
+    "translation_notes": "Reafirma la identidad peregrina de la iglesia (cf. 11:10, 16; 12:22)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 15,
+    "greek_text": "δι’ αὐτοῦ οὖν ἀναφέρωμεν θυσίαν αἰνέσεως διὰ παντὸς τῷ θεῷ, τοῦτ’ ἔστιν καρπὸν χειλέων ὁμολογούντων τῷ ὀνόματι αὐτοῦ.",
+    "translation": "Así que, por medio de él, ofrezcamos continuamente a Dios sacrificio de alabanza, es decir, fruto de labios que confiesan su nombre.",
+    "translation_notes": "En el nuevo pacto, los sacrificios agradables a Dios son la alabanza verbal (Os 14:2; Sal 50:14) y la generosidad solidaria (v. 16)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 16,
+    "greek_text": "τῆς δὲ εὐποιΐας καὶ κοινωνίας μὴ ἐπιλανθάνεσθε, τοιαύταις γὰρ θυσίαις εὐαρεστεῖται ὁ θεός.",
+    "translation": "Y de hacer el bien y de la ayuda mutua no se olviden, porque con tales sacrificios se agrada Dios.",
+    "translation_notes": "«Ayuda mutua» traduce κοινωνίας (compartir generosamente los bienes con los necesitados)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 17,
+    "greek_text": "Πείθεσθε τοῖς ἡγουμένοις ὑμῶν καὶ ὑπείκετε, αὐτοὶ γὰρ ἀγρυπνοῦσιν ὑπὲρ τῶν ψυχῶν ὑμῶν ὡς λόγον ἀποδώσοντες, ἵνα μετὰ χαρᾶς τοῦτο ποιῶσιν καὶ μὴ στενάζοντες, ἀλυσιτελὲς γὰρ ὑμῖν τοῦτο.",
+    "translation": "Obedezcan a sus dirigentes y sométanse a ellos, porque ellos velan por sus almas como quienes han de dar cuenta; para que lo hagan con alegría y no quejándose, porque eso no les sería provechoso a ustedes.",
+    "translation_notes": "Autoridad pastoral actual ejercida con responsabilidad («han de dar cuenta», λόγον ἀποδώσοντες) y correspondida con cooperación gozosa."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 18,
+    "greek_text": "Προσεύχεσθε περὶ ἡμῶν, πειθόμεθα γὰρ ὅτι καλὴν συνείδησιν ἔχομεν, ἐν πᾶσιν καλῶς θέλοντες ἀναστρέφεσθαι.",
+    "translation": "Oren por nosotros; pues confiamos en que tenemos buena conciencia, deseando comportarnos honradamente en todo.",
+    "translation_notes": "Petición de oración mutua antes de la bendición final."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 19,
+    "greek_text": "περισσοτέρως δὲ παρακαλῶ τοῦτο ποιῆσαι ἵνα τάχιον ἀποκατασταθῶ ὑμῖν.",
+    "translation": "Y mucho más les ruego que lo hagan, para que yo les sea restituido más pronto.",
+    "translation_notes": "El autor esperaba reunirse pronto con los destinatarios, quizá tras superar algún impedimento o viaje."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 20,
+    "greek_text": "Ὁ δὲ θεὸς τῆς εἰρήνης, ὁ ἀναγαγὼν ἐκ νεκρῶν τὸν ποιμένα τῶν προβάτων τὸν μέγαν ἐν αἵματι διαθήκης αἰωνίου, τὸν κύριον ἡμῶν Ἰησοῦν,",
+    "translation": "Y el Dios de paz, que levantó de entre los muertos al gran Pastor de las ovejas mediante la sangre de un pacto eterno, a nuestro Señor Jesús,",
+    "translation_notes": "Gran bendición litúrgica (vv. 20-21): única mención explícita de la resurrección en Hebreos, unida al título de «gran Pastor» (Is 63:11 LXX; Zac 9:11; Jn 10:11) y al «pacto eterno»."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 21,
+    "greek_text": "καταρτίσαι ὑμᾶς ἐν παντὶ ἀγαθῷ εἰς τὸ ποιῆσαι τὸ θέλημα αὐτοῦ, ποιῶν ἐν ἡμῖν τὸ εὐάρεστον ἐνώπιον αὐτοῦ διὰ Ἰησοῦ Χριστοῦ, ᾧ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν.",
+    "translation": "los capacite en todo lo bueno para que hagan su voluntad, obrando en nosotros lo que es agradable delante de él por medio de Jesucristo; a quien sea la gloria por los siglos de los siglos. Amén.",
+    "translation_notes": "«Capacite / perfeccione» (καταρτίσαι): Dios mismo efectúa en el creyente la obediencia que agrada al Padre."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 22,
+    "greek_text": "Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, ἀνέχεσθε τοῦ λόγου τῆς παρακλήσεως, καὶ γὰρ διὰ βραχέων ἐπέστειλα ὑμῖν.",
+    "translation": "Les ruego, hermanos, que soporten esta palabra de exhortación, pues en verdad les he escrito brevemente.",
+    "translation_notes": "El autor define toda la epístola como una «palabra de exhortación» (λόγου τῆς παρακλήσεως, expresión técnica para una homilía sinagogal o sermón cristiano, cf. Hch 13:15)."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 23,
+    "greek_text": "γινώσκετε τὸν ἀδελφὸν ἡμῶν Τιμόθεον ἀπολελυμένον, μεθ’ οὗ ἐὰν τάχιον ἔρχηται ὄψομαι ὑμᾶς.",
+    "translation": "Sepan que nuestro hermano Timoteo ha sido puesto en libertad; si viene pronto, iré con él a verlos.",
+    "translation_notes": "Mención histórica de Timoteo recién liberado de prisión, vinculando la carta con el círculo apostólico paulino."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 24,
+    "greek_text": "ἀσπάσασθε πάντας τοὺς ἡγουμένους ὑμῶν καὶ πάντας τοὺς ἁγίους. ἀσπάζονται ὑμᾶς οἱ ἀπὸ τῆς Ἰταλίας.",
+    "translation": "Saluden a todos sus dirigentes y a todos los santos. Los saludan los de Italia.",
+    "translation_notes": "«Los de Italia» (οἱ ἀπὸ τῆς Ἰταλίας) puede significar creyentes italianos residentes fuera de Italia (junto al autor) o la comunidad de Roma enviando saludos."
+  },
+  {
+    "book": "HEB",
+    "chapter": 13,
+    "verse": 25,
+    "greek_text": "ἡ χάρις μετὰ πάντων ὑμῶν.",
+    "translation": "La gracia sea con todos ustedes.",
+    "translation_notes": "Despedida epistolar breve característica (SBLGNT omite el «Amén» final de manuscritos tardíos)."
+  }
+]

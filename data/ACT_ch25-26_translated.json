@@ -1,0 +1,474 @@
+[
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 1,
+    "greek_text": "Φῆστος οὖν ἐπιβὰς τῇ ἐπαρχείᾳ μετὰ τρεῖς ἡμέρας ἀνέβη εἰς Ἱεροσόλυμα ἀπὸ Καισαρείας,",
+    "translation": "Festo, pues, habiendo tomado posesión de su provincia, a los tres días subió de Cesarea a Jerusalén.",
+    "translation_notes": "Toma de posesión y protocolo de gobierno: El participio ἐπιβάς (aoristo de ἐπιβαίνω) junto con el dativo τῇ ἐπαρχείᾳ ('habiendo entrado en su provincia') es una fórmula administrativa oficial del derecho romano para registrar la llegada y asunción solemne del mando por parte de un nuevo gobernador provincial. Porcio Festo (gobernador de Judea entre c. 60 y 62 d.C., recordado por Josefo en Ant. 20.182-196 como un administrador mucho más enérgico, competente e íntegro que su predecesor Félix) viaja a Jerusalén apenas tres días después de arribar a Cesarea para presentarse protocolariamente ante las élites y familiarizarse con el centro religioso de su jurisdicción."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 2,
+    "greek_text": "ἐνεφάνισάν τε αὐτῷ οἱ ἀρχιερεῖς καὶ οἱ πρῶτοι τῶν Ἰουδαίων κατὰ τοῦ Παύλου, καὶ παρεκάλουν αὐτὸν",
+    "translation": "Y los principales sacerdotes y los dignatarios prominentes de los judíos presentaron acusación formal ante él contra Pablo, y le rogaban con insistencia,",
+    "translation_notes": "Reanudación del litigio ante el nuevo gobernador: La élite jerosolimitana aprovecha la visita inaugural de Festo para revivir la causa penal contra Pablo. Lucas precisa los dos estamentos acusadores: οἱ ἀρχιερεῖς (el alto sacerdocio saduceo) y οἱ πρῶτοι τῶν Ἰουδαίων (los hombres principales o dignatarios civiles de la aristocracia laica judía). Nuevamente emplean el tecnicismo procesal ἐνεφάνισαν (de ἐμφανίζω, formalizar una querella judicial ante la magistratura romana)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 3,
+    "greek_text": "αἰτούμενοι χάριν κατ’ αὐτοῦ ὅπως μεταπέμψηται αὐτὸν εἰς Ἰερουσαλήμ, ἐνέδραν ποιοῦντες ἀνελεῖν αὐτὸν κατὰ τὴν ὁδόν.",
+    "translation": "pidiendo como un favor especial en contra de Pablo que lo hiciera traer a Jerusalén, preparando ellos una emboscada para matarlo en el camino.",
+    "translation_notes": "Petición de favor político y reactivación del complot: El sustantivo χάρις (charis) denota aquí un 'favor procesal' o concesión graciosa extrajudicial que los dirigentes judíos solicitaban al flamante gobernador para poner a prueba su condescendencia política. Lucas devela la intención homicida encubierta: los conjurados planeaban una nueva emboscada (ἐνέδραν ποιοῦντες, reactivando la táctica armada de Hch 23:12-15) en el abrupto trayecto montañoso entre Cesarea y Jerusalén para asesinar al prisionero (ἀνελεῖν αὐτόν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 4,
+    "greek_text": "ὁ μὲν οὖν Φῆστος ἀπεκρίθη τηρεῖσθαι τὸν Παῦλον εἰς Καισάρειαν, ἑαυτὸν δὲ μέλλειν ἐν τάχει ἐκπορεύεσθαι·",
+    "translation": "Pero Festo respondió que Pablo estaba bajo custodia en Cesarea, y que él mismo estaba a punto de partir hacia allá en breve.",
+    "translation_notes": "Firmeza jurisdiccional del magistrado: Festo no cede a las presiones del Sanedrín. Argumenta razones prácticas y de soberanía legal: el reo se encuentra legítimamente recluido bajo custodia militar (τηρεῖσθαι) en la capital administrativa de Cesarea y él mismo regresará a la sede de su tribunal en un plazo muy breve (ἐν τάχει)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 5,
+    "greek_text": "Οἱ οὖν ἐν ὑμῖν, φησίν, δυνατοὶ συγκαταβάντες εἴ τί ἐστιν ἐν τῷ ἀνδρὶ ἄτοπον κατηγορείτωσαν αὐτοῦ.",
+    "translation": "«Por lo tanto, los hombres de influencia y autoridad entre ustedes —dijo— que desciendan conmigo, y si hay algo delictivo en este hombre, que formulen su acusación contra él».",
+    "translation_notes": "Convocatoria a los dirigentes capacitados: El término οἱ δυνατοί (hoi dynatoi) se refiere a las personas que ostentan autoridad oficial, influencia política o representación jurídica autorizada del pueblo judío. El adjetivo ἄτοπον (atopon, literalmente 'fuera de lugar', anómalo) tiene aquí significado jurídico: una conducta criminal, impropia o merecedora de sanción penal tipificada."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 6,
+    "greek_text": "Διατρίψας δὲ ἐν αὐτοῖς ἡμέρας οὐ πλείους ὀκτὼ ἢ δέκα, καταβὰς εἰς Καισάρειαν, τῇ ἐπαύριον καθίσας ἐπὶ τοῦ βήματος ἐκέλευσεν τὸν Παῦλον ἀχθῆναι.",
+    "translation": "Habiendo permanecido entre ellos no más de ocho o diez días, descendió a Cesarea; y al día siguiente, sentándose en el tribunal, ordenó que Pablo fuera traído.",
+    "translation_notes": "Apertura solemne de la sesión judicial: Festo actúa con expedición administrativa. Al día siguiente de su retorno a Cesarea, toma asiento en el tribunal oficial (καθίσας ἐπὶ τοῦ βήματος). El bēma (tribunal / sella curulis) era la sede física elevada desde la cual el magistrado romano revestido de imperium ejercía la cognitio extra ordinem y dictaba sentencias públicas vinculantes."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 7,
+    "greek_text": "παραγενομένου δὲ αὐτοῦ περιέστησαν αὐτὸν οἱ ἀπὸ Ἱεροσολύμων καταβεβηκότες Ἰουδαῖοι, πολλὰ καὶ βαρέα αἰτιώματα καταφέροντες ἃ οὐκ ἴσχυον ἀποδεῖξαι,",
+    "translation": "Cuando Pablo compareció, los judíos que habían descendido de Jerusalén se apostaron a su alrededor, presentando muchas y graves imputaciones que no podían probar;",
+    "translation_notes": "Imputaciones carentes de prueba probatoria: El verbo περιέστησαν (aoristo de περιΐστημι, rodear en postura intimidatoria) describe la hostilidad física de los acusadores jerosolimitanos. El término αἰτιώματα (aitiōmata, acusaciones o cargos formales) es acompañado por los calificativos πολλὰ καὶ βαρέα ('muchas y gravosas'), abarcando delitos de orden religioso y de seguridad imperial. Sin embargo, Lucas resalta el defecto procesal insalvable bajo la ley romana: carecían de capacidad probatoria objetiva (ἃ οὐκ ἴσχυον ἀποδεῖξαι, de ἀποδείκνυμι, demostrar judicialmente con evidencias concluyentes)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 8,
+    "greek_text": "τοῦ Παύλου ἀπολογουμένου ὅτι Οὔτε εἰς τὸν νόμον τῶν Ἰουδαίων οὔτε εἰς τὸ ἱερὸν οὔτε εἰς Καίσαρά τι ἥμαρτον.",
+    "translation": "mientras Pablo se defendía diciendo: «Ni contra la ley de los judíos, ni contra el templo, ni contra el César he cometido delito alguno».",
+    "translation_notes": "La triple absolución de la defensa paulina: La apología de Pablo responde con simetría categórica a las tres esferas de imputación: 1) Οὔτε εἰς τὸν νόμον τῶν Ἰουδαίων (inocencia halájica y teológica frente a la Torá); 2) Οὔτε εἰς τὸ ἱερὸν (inocencia cúltica y sacra frente al santuario de Jerusalén); 3) Οὔτε εἰς Καίσαρά τι ἥμαρτον (inocencia política y civil frente al emperador y las leyes imperiales, descartando cualquier cargo de sedición o crimen maiestatis)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 9,
+    "greek_text": "ὁ Φῆστος δὲ θέλων τοῖς Ἰουδαίοις χάριν καταθέσθαι ἀποκριθεὶς τῷ Παύλῳ εἶπεν· Θέλεις εἰς Ἱεροσόλυμα ἀναβὰς ἐκεῖ περὶ τούτων κριθῆναι ἐπ’ ἐμοῦ;",
+    "translation": "Pero Festo, queriendo congraciarse con los judíos, respondiendo a Pablo dijo: «¿Deseas subir a Jerusalén y ser juzgado allí sobre estas cosas ante mí?».",
+    "translation_notes": "Vacilación política de Festo: Festo, recién llegado y necesitado de consolidar la gobernabilidad con la aristocracia sacerdotal, busca congraciarse políticamente con ellos (θέλων τοῖς Ἰουδαίοις χάριν καταθέσθαι, el mismo cálculo oportunista que exhibió Félix en 24:27). Propone trasladar el juicio a Jerusalén bajo su propia supervisión judicial (ἐπ’ ἐμοῦ, 'delante de mí / en mi presencia'). Aunque Festo conservaría formalmente la presidencia del tribunal, Pablo sabía que en Jerusalén el ambiente era hostil y los sicarios aguardaban para atentar contra su vida."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 10,
+    "greek_text": "εἶπεν δὲ ὁ Παῦλος· Ἐπὶ τοῦ βήματος Καίσαρος ἑστώς εἰμι, οὗ με δεῖ κρίνεσθαι. Ἰουδαίους οὐδὲν ἠδίκησα, ὡς καὶ σὺ κάλλιον ἐπιγινώσκεις.",
+    "translation": "Pablo respondió: «Estoy de pie ante el tribunal del César, que es donde debo ser juzgado. A los judíos no les he hecho ningún agravio, tal como tú mismo sabes muy bien.",
+    "translation_notes": "Afirmación del estatus de ciudadanía y competencia imperial: Pablo rechaza categóricamente el cambio de sede procesal. Declara su radicación ante el fuero supremo: Ἐπὶ τοῦ βήματος Καίσαρος ἑστώς εἰμι ('delante del tribunal del César estoy de pie'); el tribunal del gobernador provincial romano representaba legítima y legalmente la jurisdicción directa del propio emperador. El uso de δεῖ (dei, necesidad jurídica obligatoria) afirma que un ciudadano romano acusado de crímenes públicos tiene derecho inalienable a ser juzgado en un tribunal imperial y no en una asamblea provincial judía. Concluye con una interpelación a la conciencia judicial de Festo: ὡς καὶ σὺ κάλλιον ἐπιγινώσκεις ('como tú mismo conoces con mayor claridad / sabes de sobra', con el comparativo κάλλιον en sentido enfático superlativo)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 11,
+    "greek_text": "εἰ μὲν οὖν ἀδικῶ καὶ ἄξιον θανάτου πέπραχά τι, οὐ παραιτοῦμαι τὸ ἀποθανεῖν· εἰ δὲ οὐδέν ἐστιν ὧν οὗτοι κατηγοροῦσίν μου, οὐδείς με δύναται αὐτοῖς χαρίσασθαι· Καίσαρα ἐπικαλοῦμαι.",
+    "translation": "Si, pues, soy culpable y he cometido algo digno de muerte, no rehúso morir; pero si nada hay de verdad en lo que estos me acusan, nadie puede entregarme a ellos como una dádiva. ¡Apelo al César!».",
+    "translation_notes": "La apelación solemne al emperador (Provocatio ad Caesarem): El versículo culmina con uno de los hitos jurídicos más célebres de la antigüedad. Pablo demuestra su disposición a someterse a la pena capital si existiera causa legal legítima (οὐ παραιτοῦμαι τὸ ἀποθανεῖν, 'no rehúso la muerte'). Pero denuncia la prevaricación: ningún magistrado tiene facultad constitucional de entregar a un ciudadano romano inocente como regalo político a sus enemigos (οὐδείς με δύναται αὐτοῖς χαρίσασθαι, usando el verbo χαρίζομαι en sentido peyorativo de dádiva arbitraria). Pronuncia entonces la fórmula sacramental del derecho público romano: Καίσαρα ἐπικαλοῦμαι ('¡Apelo al César!', traducción griega del latín Caesarem appello / provoco ad Caesarem, derivada de las leyes Porcias y la Lex Iulia de vi publica). Este recurso sustraía instantáneamente la causa del tribunal del procurador y la transfería directamente a la corte suprema del emperador Nerón en Roma."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 12,
+    "greek_text": "τότε ὁ Φῆστος συλλαλήσας μετὰ τοῦ συμβουλίου ἀπεκρίθη· Καίσαρα ἐπικέκλησαι, ἐπὶ Καίσαρα πορεύσῃ.",
+    "translation": "Entonces Festo, después de deliberar con su consejo de asesores, respondió: «¿Al César has apelado? ¡Al César irás!».",
+    "translation_notes": "Deliberación con el consilium y ratificación de la apelación: Conforme al protocolo penal romano, el gobernador no resolvía una apelación de manera unipersonal; consulta con su consilium (συλλαλήσας μετὰ τοῦ συμβουλίου), cuerpo consultivo integrado por asesores jurídicos, oficiales superiores y secretarios imperiales. El propósito de la consulta era verificar la validez técnica de la apelación (comprobar la ciudadanía romana del apelante y constatar que no se tratara de un reo confeso o pirata sorprendido in flagranti). Comprobada la procedencia legal, Festo pronuncia el dictamen confirmatorio: Καίσαρα ἐπικέκλησαι, ἐπὶ Καίσαρα πορεύσῃ ('Al César has apelado, ante el César marcharás')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 13,
+    "greek_text": "Ἡμερῶν δὲ διαγενομένων τινῶν Ἀγρίππας ὁ βασιλεὺς καὶ Βερνίκη κατήντησαν εἰς Καισάρειαν ἀσπασάμενοι τὸν Φῆστον.",
+    "translation": "Habiendo transcurrido algunos días, el rey Agripa y Berenice llegaron a Cesarea para presentar sus respetos y saludar a Festo.",
+    "translation_notes": "Visita de Estado de Agripa II y Berenice: Marco Julio Agripa II (hijo de Herodes Agripa I y bisnieto de Herodes el Grande) gobernaba como rey cliente de Roma sobre territorios en el norte y este de Galilea, Iturea y Traconite. Ejercía además, por concesión imperial, la tutela sobre el Templo de Jerusalén, el tesoro sagrado y el derecho de nombrar y destituir al sumo sacerdote judío. Lo acompañaba su hermana Berenice, célebre por su belleza, influencia política y los insistentes rumores de una relación incestuosa con su hermano (Josefo, Ant. 20.145-147; Juvenal, Sátiras 6.156-160), que más tarde sería amante del futuro emperador Tito. La visita a Cesarea constituía un saludo oficial de cortesía protocolaria (ἀσπασάμενοι, adventus diplomático) ante el nuevo procurador romano."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 14,
+    "greek_text": "ὡς δὲ πλείους ἡμέρας διέτριβον ἐκεῖ, ὁ Φῆστος τῷ βασιλεῖ ἀνέθετο τὰ κατὰ τὸν Παῦλον λέγων· Ἀνήρ τίς ἐστιν καταλελειμμένος ὑπὸ Φήλικος δέσμιος,",
+    "translation": "Y como se quedaron allí muchos días, Festo expuso al rey el caso de Pablo, diciendo: «Hay un hombre aquí que Félix dejó como prisionero,",
+    "translation_notes": "Consulta consultiva a la autoridad monárquica judía: Festo aprovecha la estadía de Agripa II para someter a su consideración el expediente de Pablo (ἀνέθετο, de ἀνατίθημι, término para someter un asunto complejo al juicio o dictamen pericial de un experto). Agripa, conocedor consumado de las sutilezas de la Torá y de la teología judía, resultaba el consejero idóneo para ayudar al gobernador romano a clarificar las imputaciones."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 15,
+    "greek_text": "περὶ οὗ γενομένου μου εἰς Ἱεροσόλυμα ἐνεφάνισαν οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι τῶν Ἰουδαίων, αἰτούμενοι κατ’ αὐτοῦ καταδίκην·",
+    "translation": "acerca del cual, cuando estuve en Jerusalén, los principales sacerdotes y los ancianos de los judíos presentaron acusación formal, exigiendo sentencia condenatoria contra él.",
+    "translation_notes": "Exigencia de condena sumaria por la jerarquía: Festo refiere que los jerarcas jerosolimitanos no pedían una mera investigación procesal, sino una sentencia condenatoria directa y sumaria (αἰτούμενοι κατ’ αὐτοῦ καταδίκην, exigiendo pena de muerte o entrega del reo para ejecución)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 16,
+    "greek_text": "πρὸς οὓς ἀπεκρίθην ὅτι οὐκ ἔστιν ἔθος Ῥωμαίοις χαρίζεσθαί τινα ἄνθρωπον πρὶν ἢ ὁ κατηγορούμενος κατὰ πρόσωπον ἔχοι τοὺς κατηγόρους τόπον τε ἀπολογίας λάβοι περὶ τοῦ ἐγκλήματος.",
+    "translation": "A ellos les respondí que no es costumbre de los romanos entregar a ningún hombre como un favor antes de que el acusado tenga a sus acusadores cara a cara y disponga de oportunidad para defenderse del cargo penal.",
+    "translation_notes": "El principio fundamental del derecho procesal romano: Festo formula con gran orgullo institucional una de las máximas cardinales de la jurisprudencia romana: la interdicción de condenas arbitrarias o concesiones graciosa (οὐκ ἔστιν ἔθος Ῥωμαίοις χαρίζεσθαί τινα ἄνθρωπον). Dos garantías procesales inviolables eran requeridas: 1) El derecho al careo presencial frente a los demandantes (κατὰ πρόσωπον ἔχοι τοὺς κατηγόρους); 2) El derecho irrestricto a la defensa material y oratoria (τόπον ἀπολογίας λάβοι) respecto al cargo penal imputado (περὶ τοῦ ἐγκλήματος)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 17,
+    "greek_text": "συνελθόντων οὖν ἐνθάδε ἀναβολὴν μηδεμίαν ποιησάμενος τῇ ἑξῆς καθίσας ἐπὶ τοῦ βήματος ἐκέλευσα ἀχθῆναι τὸν ἄνδρα·",
+    "translation": "Así que, habiendo venido ellos aquí juntos, sin demora alguna, al día siguiente me senté en el tribunal y ordené que trajeran al hombre;",
+    "translation_notes": "Celeridad de la instrucción: Festo recalca la diligencia de su administración: ἀναβολὴν μηδεμίαν ποιησάμενος ('sin recurrir a ninguna dilación ni aplazamiento injustificado'), asumiendo el juicio formal de inmediato desde la sede del tribunal (βῆμα)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 18,
+    "greek_text": "περὶ οὗ σταθέντες οἱ κατήγοροι οὐδεμίαν αἰτίαν ἔφερον ὧν ἐγὼ ὑπενόουν πονηρῶν,",
+    "translation": "acerca del cual, cuando los acusadores se pusieron en pie, no presentaron ningún cargo de los delitos que yo sospechaba,",
+    "translation_notes": "Inexistencia de delitos comunes o sediciosos: Como magistrado imperial, Festo esperaba imputaciones graves de orden público (ὧν ἐγὼ ὑπενόουν πονηρῶν): homicidio, latrocinio, fraude o conspiración armada contra el Estado romano. Para su sorpresa, los demandantes no presentaron indicio alguno de criminalidad civil."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 19,
+    "greek_text": "ζητήματα δέ τινα περὶ τῆς ἰδίας δεισιδαιμονίας εἶχον πρὸς αὐτὸν καὶ περί τινος Ἰησοῦ τεθνηκότος, ὃν ἔφασκεν ὁ Παῦλος ζῆν.",
+    "translation": "sino que tenían contra él ciertas controversias relativas a su propia religión y acerca de cierto Jesús ya muerto, de quien Pablo afirmaba que está vivo.",
+    "translation_notes": "La perspectiva romana pagana sobre el conflicto: El término δεισιδαιμονία (deisidaimonia) significa literalmente 'temor / reverencia a las divinidades'. En boca de un magistrado pagano culto, puede tener un sentido neutral ('religión propia') o un matiz escéptico ('superstición extranjera'). La síntesis que Festo hace del nudo teológico es de una ironía historiográfica magistral: para el Imperio se trataba de una disputa bizantina sobre 'cierto Jesús ya muerto (Ἰησοῦ τεθνηκότος), a quien Pablo afirmaba que vive (ὃν ἔφασκεν ὁ Παῦλος ζῆν)'. Sin saberlo, el gobernador identifica con precisión el corazón kerigmático de la fe apostólica: la realidad histórica de la resurrección de Cristo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 20,
+    "greek_text": "ἀπορούμενος δὲ ἐγὼ τὴν περὶ τούτων ζήτησιν ἔλεγον εἰ βούλοιτο πορεύεσθαι εἰς Ἱεροσόλυμα κἀκεῖ κρίνεσθαι περὶ τούτων.",
+    "translation": "Y yo, sintiéndome perplejo en cuanto a cómo investigar tales cuestiones, le pregunté si quería ir a Jerusalén y ser juzgado allí acerca de estos asuntos.",
+    "translation_notes": "Perplejidad pericial de Festo: El participio ἀπορούμενος (de ἀπορέω, hallarse perplejo, sin salida conceptual ni competencia pericial) explica por qué Festo propuso trasladar la causa a Jerusalén: siendo lego en las complejas controversias hermenéuticas judías (τὴν περὶ τούτων ζήτησιν), pretendía juzgar el caso con la asistencia de los letrados locales."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 21,
+    "greek_text": "τοῦ δὲ Παύλου ἐπικαλεσαμένου τηρηθῆναι αὐτὸν εἰς τὴν τοῦ Σεβαστοῦ διάγνωσιν, ἐκέλευσα τηρεῖσθαι αὐτὸν ἕως οὗ ἀναπέμψω αὐτὸν πρὸς Καίσαρα.",
+    "translation": "Pero al apelar Pablo para que quedara en custodia para la decisión del Augusto, ordené que fuera custodiado hasta que yo lo envíe al César».",
+    "translation_notes": "Títulos imperiales y la διάγνωσις soberana: El término griego Σεβαστός (Sebastos, 'venerable, sagrado') es la traducción canónica del título latino Augustus, adoptado por los emperadores desde César Augusto. El término διάγνωσις (diagnōsis) es la voz técnica para la cognición, examen pericial y pronunciamiento de un veredicto definitivo por parte de la suprema magistratura judicial imperial. Festo emite el mandato de detención precautoria hasta remitir al reo (ἀναπέμψω, término oficial para la remisión de un preso a una instancia superior) a Roma."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 22,
+    "greek_text": "Ἀγρίππας δὲ πρὸς τὸν Φῆστον· Ἐβουλόμην καὶ αὐτὸς τοῦ ἀνθρώπου ἀκοῦσαι. Αὔριον, φησίν, ἀκούσῃ αὐτοῦ.",
+    "translation": "Entonces Agripa dijo a Festo: «A mí también me gustaría escuchar al hombre». «Mañana mismo lo escucharás», respondió.",
+    "translation_notes": "Interés de Agripa y concesión de la audiencia: El imperfecto desiderativo Ἐβουλόμην ('desearía / me gustaría') denota cortesía y un vivo interés intelectual y político por parte de Agripa II, análogo al que su padre y su tío Herodes Antipas habían manifestado respecto a los profetas y a Jesús (cf. Lc 9:9; 23:8). Festo accede de inmediato fijando la audiencia pública para el día siguiente."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 23,
+    "greek_text": "Τῇ οὖν ἐπαύριον ἐλθόντος τοῦ Ἀγρίππα καὶ τῆς Βερνίκης μετὰ πολλῆς φαντασίας καὶ εἰσελθόντων εἰς τὸ ἀκροατήριον σύν τε χιλιάρχοις καὶ ἀνδράσιν τοῖς κατ’ ἐξοχὴν τῆς πόλεως καὶ κελεύσαντος τοῦ Φήστου ἤχθη ὁ Παῦλος.",
+    "translation": "Al día siguiente, pues, habiendo venido Agripa y Berenice con gran pompa y ostentación, y habiendo entrado en el salón de audiencias acompañados por los comandantes militares y los hombres más distinguidos de la ciudad, por orden de Festo fue traído Pablo.",
+    "translation_notes": "Escenografía cortesana y contraste lucano: Lucas describe la escena con extraordinaria maestría teatral: la entrada de la realeza herodiana se realiza μετὰ πολλῆς φαντασίας ('con gran pompa, magnificencia visual y ostentación teatral', de donde deriva 'fantasía', sugiriendo el carácter efímero y vano del poder mundano). Se reúnen en el ἀκροατήριον (akroatērion, aula regia de audiencias del pretorio) junto a los cinco comandantes o tribunos de cohorte acantonados en Cesarea (σύν τε χιλιάρχοις) y los patricios prominentes de la urbe (ἀνδράσιν τοῖς κατ’ ἐξοχήν). En medio de este deslumbrante despliegue de armaduras romanas, insignias consulares y ropajes dorados, es introducido el humilde predicador encadenado."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 24,
+    "greek_text": "καί φησιν ὁ Φῆστος· Ἀγρίππα βασιλεῦ καὶ πάντες οἱ συμπαρόντες ἡμῖν ἄνδρες, θεωρεῖτε τοῦτον περὶ οὗ ἅπαν τὸ πλῆθος τῶν Ἰουδαίων ἐνέτυχόν μοι ἔν τε Ἱεροσολύμοις καὶ ἐνθάδε, βοῶντες μὴ δεῖν αὐτὸν ζῆν μηκέτι.",
+    "translation": "Y Festo dijo: «Rey Agripa y todos los varones presentes con nosotros: están viendo a este hombre, respecto de quien toda la multitud de los judíos me ha abordado con insistencia tanto en Jerusalén como aquí, clamando a voces que él no debe vivir más.",
+    "translation_notes": "Presentación formal del reo ante la asamblea: Festo abre la sesión plenaria dirigiéndose en primer término al monarca invitado: Ἀγρίππα βασιλεῦ. Describe el clamor fanático popular mediante el verbo ἐντυγχάνω (aquí en aoristo ἐνέτυχον, 'interpelar vehementemente o instar con insistencia procesal'), corroborando que la multitud exigía su eliminación sumaria (μὴ δεῖν αὐτὸν ζῆν μηκέτι, 'que no era admisible que continuara viviendo')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 25,
+    "greek_text": "ἐγὼ δὲ κατελαβόμην μηδὲν ἄξιον αὐτὸν θανάτου πεπραχέναι, αὐτοῦ δὲ τούτου ἐπικαλεσαμένου τὸν Σεβαστὸν ἔκρινα πέμπειν.",
+    "translation": "Yo, por mi parte, comprobé fehacientemente que no había cometido nada digno de muerte; pero habiendo él mismo apelado al Augusto, he decidido enviarlo.",
+    "translation_notes": "Dictamen exculpatorio oficial del gobernador: El verbo κατελαβόμην (aoristo medio de καταλαμβάνω) significa percibir con certeza empírica, comprobar judicialmente o alcanzar una convicción indudable. Por tercera vez en el libro de los Hechos, la máxima autoridad imperial ratifica formalmente la inocencia jurídica de Pablo respecto a crímenes capitales (μηδὲν ἄξιον αὐτὸν θανάτου πεπραχέναι). La remisión a Roma obedece exclusivamente al derecho procesal ejercido por el reo al apelar al Augusto (τὸν Σεβαστόν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 26,
+    "greek_text": "περὶ οὗ ἀσφαλές τι γράψαι τῷ κυρίῳ οὐκ ἔχω· διὸ προήγαγον αὐτὸν ἐφ’ ὑμῶν καὶ μάλιστα ἐπὶ σοῦ, βασιλεῦ Ἀγρίππα, ὅπως τῆς ἀνακρίσεως γενομένης σχῶ τί γράψω·",
+    "translation": "Sin embargo, no tengo nada fidedigno y definido que escribir a mi señor. Por esta razón lo he traído ante ustedes, y especialmente delante de ti, rey Agripa, para que, realizada esta investigación preliminar, tenga yo algo concreto que redactar;",
+    "translation_notes": "El problema del informe oficial (literas dimissorias) y el título Kyrios: Festo confiesa su dilema burocrático: no dispone de una formulación delictiva precisa y documentada (ἀσφαλές τι, 'nada seguro, fiable o categórico') para remitir en su despacho al emperador. El título empleado para Nerón es ὁ κύριος ('el soberano / señor', equivalente al latín Dominus, título que Augusto y Tiberio habían rehusado por considerarlo excesivamente monárquico y servil, pero que Calígula, Nerón y Domiciano promovieron con celo cortesano). La sesión actual no es un nuevo juicio vinculante (pues la apelación ya clausuró la instancia de Festo), sino una ἀνάκρισις (anakrisis, investigación instructora o examen pericial preliminar) para fundamentar el informe procesal (elogium / litterae dimissoriae)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 25,
+    "verse": 27,
+    "greek_text": "ἄλογον γάρ μοι δοκεῖ πέμποντα δέσμιον μὴ καὶ τὰς κατ’ αὐτοῦ αἰτίας σημᾶναι.",
+    "translation": "porque me parece totalmente absurdo e insensato enviar a un prisionero sin especificar a la vez los cargos formulados contra él».",
+    "translation_notes": "Principio de racionalidad en el derecho penal: Festo concluye con una sentencia impregnada de lógica judicial romana: el adjetivo ἄλογος (alogos, carente de razón, irracional, absurdo o insensato). Remitir a un prisionero a la corte del emperador sin acompañarlo de una especificación razonada de los cargos (τὰς κατ’ αὐτοῦ αἰτίας σημᾶναι, con el verbo σημαίνω, indicar o consignar documentalmente las imputaciones) expondría al propio magistrado al ridículo burocrático y a la censura del tribunal imperial en Roma."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 1,
+    "greek_text": "Ἀγρίππας δὲ πρὸς τὸν Παῦλον ἔφη· Ἐπιτρέπεταί σοι ὑπὲρ σεαυτοῦ λέγειν. τότε ὁ Παῦλος ἐκτείνας τὴν χεῖρα ἀπελογεῖτο·",
+    "translation": "Agripa dijo a Pablo: «Se te concede la palabra para hablar en tu propia defensa». Entonces Pablo, extendiendo la mano, comenzó su defensa:",
+    "translation_notes": "Apertura del discurso regio y el gesto oratorio clásico: El rey Agripa II, como presidente honorario y figura de rango superior en la audiencia, concede formalmente la palabra (Ἐπιτρέπεταί σοι, 'te está permitido / se te autoriza'). Pablo adopta la postura física clásica de los oradores grecorromanos: ἐκτείνας τὴν χεῖρα ('extendiendo la mano', participio de ἐκτείνω; en la retórica latina de Quintiliano, Inst. Orat. 11.3.84, se describe el gesto manum porrigere: extender el brazo derecho con los dedos índice y corazón estirados para reclamar la atención silenciosa y respetuosa del auditorio). A pesar de estar cargado de cadenas, asume el turno oratorio con la dignidad de una apología forense formal (ἀπελογεῖτο)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 2,
+    "greek_text": "Περὶ πάντων ὧν ἐγκαλοῦμαι ὑπὸ Ἰουδαίων, βασιλεῦ Ἀγρίππα, ἥγημαι ἐμαυτὸν μακάριον ἐπὶ σοῦ μέλλων σήμερον ἀπολογεῖσθαι,",
+    "translation": "«Acerca de todas las cosas de las que soy acusado por los judíos, rey Agripa, me considero dichoso de tener que presentar hoy mi defensa delante de ti,",
+    "translation_notes": "Exordio y captatio benevolentiae: Pablo inicia con una captatio benevolentiae genuina y mesurada, dirigida al monarca (βασιλεῦ Ἀγρίππα). El adjetivo μακάριος (makarios, 'dichoso, afortunado, privilegiado') no es una lisonja vacía, sino la expresión de un alivio procesal: Pablo comparece ante un gobernante de estirpe judía que comprende el marco conceptual y escriturario de la controversia, a diferencia de los gobernadores paganos como Félix y Festo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 3,
+    "greek_text": "μάλιστα γνώστην ὄντα σε πάντων τῶν κατὰ Ἰουδαίους ἐθῶν τε καὶ ζητημάτων· διὸ δέομαι μακροθύμως ἀκοῦσαί μου.",
+    "translation": "sobre todo porque tú eres un conocedor experto de todas las costumbres y controversias que hay entre los judíos; por lo cual te ruego que me escuches con paciencia.",
+    "translation_notes": "La competencia pericial de Agripa: El sustantivo γνώστης (gnōstēs, 'conocedor pericial, perito o experto') resalta la idoneidad teológica y legal del rey. Agripa II administraba las vestiduras del sumo sacerdote y designaba a las autoridades cúlticas del Templo; dominaba a fondo tanto las tradiciones ancestrales (ἔθη) como las controversias exegéticas y halájicas internas (ζητήματα). Pablo apela a su virtud monárquica de la paciencia y tolerancia procesal (μακροθύμως)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 4,
+    "greek_text": "Τὴν μὲν οὖν βίωσίν μου τὴν ἐκ νεότητος τὴν ἀπ’ ἀρχῆς γενομένην ἐν τῷ ἔθνει μου ἔν τε Ἱεροσολύμοις ἴσασι πάντες Ἰουδαῖοι,",
+    "translation": "Mi vida, pues, desde mi juventud, que desde el principio transcurrió en medio de mi nación y en Jerusalén, la conocen todos los judíos,",
+    "translation_notes": "Notoriedad pública de su formación: El sustantivo helenístico βίωσις (biōsis, 'modo de vida, conducta biográfica, carrera moral') es un hápax legómeno neotestamentario de alta distinción literaria. Pablo sostiene que su biografía desde los años formativos de juventud (ἐκ νεότητος) no fue clandestina ni disidente, sino de conocimiento público y notorio (ἴσασι πάντες Ἰουδαῖοι) en el corazón espiritual y político del judaísmo: su patria y Jerusalén."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 5,
+    "greek_text": "προγινώσκοντές με ἄνωθεν, ἐὰν θέλωσι μαρτυρεῖν, ὅτι κατὰ τὴν ἀκριβεστάτην αἵρεσιν τῆς ἡμετέρας θρησκείας ἔζησα Φαρισαῖος.",
+    "translation": "los cuales me conocen de antemano desde hace mucho tiempo, si es que quieren testificarlo, que conforme a la secta más estricta de nuestra religión viví como fariseo.",
+    "translation_notes": "Ortodoxia farisea y rigorismo halájico: El adverbio ἄνωθεν (anōthen) significa 'desde el principio / desde tiempo atrás'. Pablo desafía a sus acusadores a atestiguar bajo juramento (ἐὰν θέλωσι μαρτυρεῖν) sobre su militancia religiosa. El superlativo ἀκριβεστάτη (akribestatē, 'la más rigurosa, minuciosa y exigente') describe la escuela farisea (αἵρεσις) dentro de la práctica cúltica nacional (θρησκεία, th rēskeia, culto religioso ceremonial y observancia de la piedad). Lejos de ser un hereje iconoclasta, su raíz doctrinaria se sitúa en la vanguardia más devota del pacto mosaico."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 6,
+    "greek_text": "καὶ νῦν ἐπ’ ἐλπίδι τῆς εἰς τοὺς πατέρας ἡμῶν ἐπαγγελίας γενομένης ὑπὸ τοῦ θεοῦ ἕστηκα κρινόμενος,",
+    "translation": "Y ahora, por la esperanza de la promesa hecha por Dios a nuestros antepasados, estoy aquí procesado;",
+    "translation_notes": "El fundamento de la acusación: la promesa patriarcal: Pablo define el litigio no como un desacato civil o ritual, sino como la reivindicación de la gran promesa divina dada a los patriarcas de Israel (ἐπ’ ἐλπίδι τῆς εἰς τοὺς πατέρας ἡμῶν ἐπαγγελίας; Gn 12:3; 22:18; 26:4; 2S 7:12-16). El perfecto de presente ἕστηκα ('estoy aquí plantado / de pie') resalta su inquebrantable solidez moral ante el tribunal judicial (κρινόμενος)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 7,
+    "greek_text": "εἰς ἣν τὸ δωδεκάφυλον ἡμῶν ἐν ἐκτενείᾳ νύκτα καὶ ἡμέραν λατρεῦον ἐλπίζει καταντῆσαι· περὶ ἧς ἐλπίδος ἐγκαλοῦμαι ὑπὸ Ἰουδαίων, βασιλεῦ·",
+    "translation": "promesa a la cual nuestras doce tribus, sirviendo a Dios fervientemente día y noche, esperan alcanzar. ¡Y por esta misma esperanza soy acusado por los judíos, oh rey!",
+    "translation_notes": "La esperanza escatológica de las doce tribus: El sustantivo colectivo neutro τὸ δωδεκάφυλον (to dōdekapbylon, 'las doce tribus', cuerpo eclesial e histórico de la totalidad del pueblo de Dios unificado escatológicamente) subraya que la fe que Pablo proclama no es una innovación cismática, sino el anhelo unánime de todo Israel. La piedad nacional se expresa en el culto continuo y ferviente (ἐν ἐκτενείᾳ νύκτα καὶ ἡμέραν λατρεῦον). La ironía procesal es mayúscula: Pablo es acusado formalmente (ἐγκαλοῦμαι) por sus propios compatriotas por sostener precisamente la esperanza nacional que da sentido al culto del Templo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 8,
+    "greek_text": "τί ἄπιστον κρίνεται παρ’ ὑμῖν εἰ ὁ θεὸς νεκροὺς ἐγείρει;",
+    "translation": "¿Por qué se juzga entre ustedes cosa increíble que Dios resucite a los muertos?",
+    "translation_notes": "Interpelación teológica al auditorio: Pablo pasa de la defensa a la confrontación metafísica directa. El pronombre de segunda persona del plural παρ’ ὑμῖν ('entre ustedes') interpela a la totalidad de la asamblea aristocrática y judicial. El adjetivo ἄπιστος (apistos) significa 'increíble, imposible de creer'. Pablo argumenta que si se acepta la premisa monoteísta fundamental del Dios creador y todopoderoso de Israel, la resurrección física de los muertos (ὁ θεὸς νεκροὺς ἐγείρει) deja de ser un absurdo ontológico para convertirse en una consecuencia lógica de Su soberanía divina."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 9,
+    "greek_text": "Ἐγὼ μὲν οὖν ἔδοξα ἐμαυτῷ πρὸς τὸ ὄνομα Ἰησοῦ τοῦ Ναζωραίου δεῖν πολλὰ ἐναντία πρᾶξαι·",
+    "translation": "Yo, por mi parte, verdaderamente llegué a convencerme a mí mismo de que debía hacer muchas cosas hostiles en contra del nombre de Jesús el Nazareno;",
+    "translation_notes": "La convicción subjetiva del celo persecutor anterior: Con absoluta honestidad psicológica, Pablo confiesa que él mismo compartió en el pasado el mismo fanatismo ciego de sus actuales acusadores: ἔδοξα ἐμαυτῷ ('juzgué en mí mismo / me pareció razonable a mi propio juicio'). Creía sinceramente que constituía un imperativo de lealtad a Dios (δεῖν, 'era mi deber') combatir frontalmente con medidas hostiles (πολλὰ ἐναντία πρᾶξαι) la proclamación del nombre de Jesús."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 10,
+    "greek_text": "ὃ καὶ ἐποίησα ἐν Ἱεροσολύμοις, καὶ πολλούς τε τῶν ἁγίων ἐγὼ ἐν φυλακαῖς κατέκλεισα τὴν παρὰ τῶν ἀρχιερέων ἐξουσίαν λαβών, ἀναιρουμένων τε αὐτῶν κατήνεγκα ψῆφον,",
+    "translation": "lo cual también hice en Jerusalén; y yo no solo encerré en cárceles a muchos de los santos, habiendo recibido autorización de los principales sacerdotes, sino que cuando eran ejecutados, di mi voto en contra de ellos.",
+    "translation_notes": "La represión judicial y el voto de muerte: Pablo detalla su rol inquisitorial: encarcelamiento masivo (κατέκλεισα, de κατακλείω, encerrar bajo cerrojo) de los discípulos, a quienes llama reverentemente 'los santos' (τῶν ἁγίων), actuando investido con comisión ejecutiva formal de los sumos sacerdotes (ἐξουσία). La frase ἀναιρουμένων τε αὐτῶν κατήνεγκα ψῆφον ('y cuando eran ejecutados, emití mi voto', literalmente 'arrojé mi piedrecilla / guijarro de votación') es de capital trascendencia histórica: alude al uso griego y romano de depositar una ψῆφος (piedrecilla negra de condena o blanca de absolución) en una urna electoral o judicial; indica que Saulo de Tarso participó formalmente en tribunales penales (como el que condenó a Esteban u otros martirios tempranos no narrados en detalle), sugiriendo su probable membresía o estrecha colaboración judicial en el Sanedrín."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 11,
+    "greek_text": "καὶ κατὰ πάσας τὰς συναγωγὰς πολλάκις τιμωρῶν αὐτοὺς ἠνάγκαζον βλασφημεῖν, περισσῶς τε ἐμμαινόμενος αὐτοῖς ἐδίωκον ἕως καὶ εἰς τὰς ἔξω πόλεις.",
+    "translation": "Y castigándolos con frecuencia por todas las sinagogas, intentaba forzarlos a blasfemar; y enfurecido desmedidamente contra ellos, los perseguía incluso hasta en las ciudades del extranjero.",
+    "translation_notes": "Coacción para renegar y persecución extraterritorial: El verbo τιμωρέω (timōreō) alude a los castigos corporales disciplinarios prescritos en las sinagogas (como los 39 azotes por flagelación). El imperfecto de conato ἠνάγκαζον βλασφημεῖν ('intentaba forzarlos a blasfemar') describe la presión inquisitorial para obligar a los creyentes en Jesús a maldecir su nombre o retractarse de su confesión mesiánica. El participio περισσῶς ἐμμαινόμενος ('furiosamente enfurecido / enloquecido de ira fanática', del verbo ἐμμαίνομαι, estar poseído por un furor demencial) pinta un cuadro escalofriante de su fanatismo anterior, extendiendo sus incursiones militares más allá de las fronteras de Judea hacia urbes extranjeras (τὰς ἔξω πόλεις), como Damasco."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 12,
+    "greek_text": "Ἐν οἷς πορευόμενος εἰς τὴν Δαμασκὸν μετ’ ἐξουσίας καὶ ἐπιτροπῆς τῆς τῶν ἀρχιερέων",
+    "translation": "Ocupado en esto, cuando viajaba a Damasco con la autorización y el mandato comisionado de los principales sacerdotes,",
+    "translation_notes": "Comisión oficial plenipotenciaria: Pablo viajaba a la ciudad siria de Damasco respaldado por dos títulos jurídicos: ἐξουσία (exousia, autoridad legal delegada) y ἐπιτροπή (epitropē, mandato formal de comisión especial o procuración), expedidos por la jerarquía del Sanedrín."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 13,
+    "greek_text": "ἡμέρας μέσης κατὰ τὴν ὁδὸν εἶδον, βασιλεῦ, οὐρανόθεν ὑπὲρ τὴν λαμπρότητα τοῦ ἡλίου περιλάμψαν με φῶς καὶ τοὺς σὺν ἐμοὶ πορευομένους·",
+    "translation": "al mediodía, por el camino vi, oh rey, una luz del cielo más brillante que el resplandor del sol, la cual brilló en derredor mío y de los que marchaban conmigo.",
+    "translation_notes": "La teofanía meridiana: El relato del camino a Damasco ante Agripa II alcanza una cumbre poética y visual. Ocurre al mediodía (ἡμέρας μέσης), cuando el sol del desierto de Siria se encuentra en su punto de máxima incandescencia. La luz celestial supera e hiperboliza la radiación solar: ὑπὲρ τὴν λαμπρότητα τοῦ ἡλίου ('por encima del resplandor del sol'), envolviendo con su resplandor (περιλάμψαν, aoristo de περιλάμπω) a toda la comitiva armada."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 14,
+    "greek_text": "πάντων τε καταπεσόντων ἡμῶν εἰς τὴν γῆν ἤκουσα φωνὴν λέγουσαν πρός με τῇ Ἑβραΐδι διαλέκτῳ· Σαοὺλ Σαούλ, τί με διώκεις; σκληρόν σοι πρὸς κέντρα λακτίζειν.",
+    "translation": "Y habiendo caído todos nosotros a tierra, oí una voz que me decía en lengua hebrea: “Saúl, Saúl, ¿por qué me persigues? Dura cosa te es dar coces contra los aguijones”.",
+    "translation_notes": "La voz celestial y el proverbio de los aguijones: La manifestación derriba a toda la expedición a tierra (καταπεσόντων πάντων εἰς τὴν γῆν). La voz interpela a Saulo en dialecto hebreo/arameo con el solemne llamamiento duplicado bíblico (Σαοὺλ Σαούλ; cf. Gn 22:11; Ex 3:4). Jesús añade una conocida máxima proverbial del mundo helenístico: σκληρόν σοι πρὸς κέντρα λακτίζειν ('Dura cosa te es dar coces contra el aguijón'). El κέντρον (kentron) era la vara puntiaguda de metal utilizada por los labradores para guiar a los bueyes uncados al arado; si el animal coceaba contra el aguijón por rebeldía, solo conseguía lastimarse más profundamente sus propias patas. La metáfora, documentada en los poetas trágicos clásicos (Esquilo, Agamenón 1624; Píndaro, Pítica 2.173; Eurípides, Bacantes 795), ilustra la insensatez y futilidad ontológica del hombre que pretende combatir los designios soberanos de Dios."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 15,
+    "greek_text": "ἐγὼ δὲ εἶπα· Τίς εἶ, κύριε; ὁ δὲ κύριος εἶπεν· Ἐγώ εἰμι Ἰησοῦς ὃν σὺ διώκεις·",
+    "translation": "Yo entonces dije: “¿Quién eres, Señor?”. Y el Señor respondió: “Yo soy Jesús, a quien tú estás persiguiendo.",
+    "translation_notes": "La revelación de la identidad mesiánica: Saulo interpela a la fuente de la gloria teofánica con el título reverente κύριε ('Señor'). La respuesta del Resucitado sintetiza el misterio de la comunión orgánica entre Cristo y Su comunidad: Ἐγώ εἰμι Ἰησοῦς ὃν σὺ διώκεις ('Yo soy Jesús, a quien tú persigues'). Al perseguir a los miembros vulnerables de Su cuerpo, el perseguidor atacaba directamente a la cabeza celestial resucitada."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 16,
+    "greek_text": "ἀλλὰ ἀνάστηθι καὶ στῆθι ἐπὶ τοὺς πόδας σου· εἰς τοῦτο γὰρ ὤφθην σοι, προχειρίσασθαί σε ὑπηρέτην καὶ μάρτυρα ὧν τε εἶδές με ὧν τε ὀφθήσομαί σοι,",
+    "translation": "Pero levántate y ponte sobre tus pies; porque para esto me he aparecido a ti: para designarte como servidor y testigo tanto de las cosas que has visto de mí como de aquellas en las cuales todavía me apareceré a ti,",
+    "translation_notes": "Investidura ministerial profética: El mandato de incorporarse (ἀνάστηθι καὶ στῆθι ἐπὶ τοὺς πόδας σου) reproduce la consagración profética de Ezequiel 2:1. La aparición cristofánica (ὤφθην σοι) tiene un propósito teleológico explícito: designar soberanamente a Pablo (προχειρίσασθαι, aoristo medio de προχειρίζω, designar de antemano o elegir para una misión soberana) con una doble función: 1) ὑπηρέτης (hypēretēs, servidor, remero de rango subalterno totalmente sometido a su capitán); 2) μάρτυς (martys, testigo ocular y testimonial) tanto de las visiones ya experimentadas como de las futuras revelaciones de gloria."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 17,
+    "greek_text": "ἐξαιρούμενός σε ἐκ τοῦ λαοῦ καὶ ἐκ τῶν ἐθνῶν, εἰς οὓς ἐγὼ ἀποστέλλω σε",
+    "translation": "rescatándote de tu propio pueblo y de entre los gentiles, a los cuales yo te envío,",
+    "translation_notes": "Promesa de liberación y envío apostólico a las naciones: El participio ἐξαιρούμενος (de ἐξαιρέω, rescatar, librar eficazmente sacando fuera del peligro) constituye una garantía providencial divina de inmunidad: el Señor lo protegerá de las amenazas que provengan tanto de su propio pueblo judío (ἐκ τοῦ λαοῦ) como del mundo pagano (ἐκ τῶν ἐθνῶν). El verbo de envío soberano es ἀποστέλλω (apostellō, en presente enfático ἐγὼ ἀποστέλλω σε), invistiéndolo formalmente con la autoridad de apóstol de las naciones."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 18,
+    "greek_text": "ἀνοῖξαι ὀφθαλμοὺς αὐτῶν, τοῦ ἐπιστρέψαι ἀπὸ σκότους εἰς φῶς καὶ τῆς ἐξουσίας τοῦ Σατανᾶ ἐπὶ τὸν θεόν, τοῦ λαβεῖν αὐτοὺς ἄφεσιν ἁμαρτιῶν καὶ κλῆρον ἐν τοῖς ἡγιασμένοις πίστει τῇ εἰς ἐμέ.",
+    "translation": "para abrir sus ojos, a fin de que se conviertan de las tinieblas a la luz y del dominio de Satanás a Dios; para que reciban, por la fe que es en mí, perdón de pecados y una herencia entre los santificados».",
+    "translation_notes": "El compendio teológico de la misión apostólica: Este versículo es uno de los resúmenes soteriológicos más ricos de los escritos lucanos y paulinos. La misión se estructura en tres infinitivos de propósito: 1) Iluminación espiritual: ἀνοῖξαι ὀφθαλμοὺς αὐτῶν ('abrir los ojos de ellos', cumplimiento de la vocación del Siervo del Señor en Is 42:7, 16); 2) Conversión y liberación cósmica: ἐπιστρέψαι ἀπὸ σκότους εἰς φῶς ('hacer volver de las tinieblas a la luz') y rescate de la tiranía diabólica (τῆς ἐξουσίας τοῦ Σατανᾶ ἐπὶ τὸν θεόν; cf. Col 1:13); 3) Apropiación salvífica: recibir el perdón de los pecados (ἄφεσις ἁμαρτιῶν) y la herencia imperecedera (κλῆρος, la cuota asignada en el reino de Dios) entre los consagrados (τοῖς ἡγιασμένοις), todo lo cual opera mediante el instrumento de la fe en Jesús (πίστει τῇ εἰς ἐμέ)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 19,
+    "greek_text": "Ὅθεν, βασιλεῦ Ἀγρίππα, οὐκ ἐγενόμην ἀπειθὴς τῇ οὐρανίῳ ὀπτασίᾳ,",
+    "translation": "Por lo cual, oh rey Agripa, no fui desobediente a la visión celestial,",
+    "translation_notes": "La obediencia ineludible al imperativo divino: La conjunción ilativa Ὅθεν ('por consiguiente / de ahí que') enlaza la revelación con la conducta práctica del apóstol. Pablo utiliza una sobria litote: οὐκ ἐγενόμην ἀπειθής ('no me hice desobediente / no fui rebelde', de ἀπειθής, renuente o insumiso). La visión no era una alucinación subjetiva, sino una teofanía de origen sobrenatural: οὐράνιος ὀπτασία ('visión celestial'). Ante semejante mandato del cielo, cualquier ser humano piadoso tenía la obligación ineludible de someter su voluntad."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 20,
+    "greek_text": "ἀλλὰ τοῖς ἐν Δαμασκῷ πρῶτόν τε καὶ Ἱεροσολύμοις, πᾶσάν τε τὴν χώραν τῆς Ἰουδαίας, καὶ τοῖς ἔθνεσιν ἀπήγγελλον μετανοεῖν καὶ ἐπιστρέφειν ἐπὶ τὸν θεόν, ἄξια τῆς μετανοίας ἔργα πράσσοντας.",
+    "translation": "sino que anuncié, primeramente a los que estaban en Damasco y en Jerusalén, luego por toda la región de Judea, y también a los gentiles, que se arrepintieran y se volvieran a Dios, practicando obras dignas de un auténtico arrepentimiento.",
+    "translation_notes": "Geografía del anuncio y la ética de la conversión: Pablo resume su ministerio itinerante respetando la prioridad histórica: Damasco primero, luego Jerusalén, la comarca de Judea y finalmente el amplio orbe gentil (τοῖς ἔθνεσιν). El núcleo del kerigma es una doble demanda con resonancias proféticas y bautistas: 1) μετανοεῖν (arrepentirse, experimentar una profunda transformación interior del entendimiento y de los afectos); 2) ἐπιστρέφειν ἐπὶ τὸν θεόν (volverse o reorientar la existencia de manera activa hacia Dios). La autenticidad de este giro espiritual debe corroborarse de manera tangible en la praxis ética cotidiana: ἄξια τῆς μετανοίας ἔργα πράσσοντας ('practicando obras dignas del arrepentimiento', eco literal de las palabras de Juan el Bautista en Lc 3:8)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 21,
+    "greek_text": "ἕνεκα τούτων με Ἰουδαῖοι συλλαβόμενοι ἐν τῷ ἱερῷ ἐπειρῶντο διαχειρίσασθαι.",
+    "translation": "Por causa de estas cosas, unos judíos me apresaron en el templo e intentaron asesinarme con sus propias manos.",
+    "translation_notes": "La causa real del linchamiento en el Templo: La expresión enfática ἕνεκα τούτων ('precisamente por causa de estas cosas') deslinda la verdadera motivación del conflicto: no la profanación cultual ni la sedición política, sino su proclamación de la gracia divina abierta a los gentiles. El verbo διαχειρίσασθαι (infinitivo aoristo medio de διαχειρίζομαι, compuesto de διά y χείρ, mano; literalmente 'despachar con las propias manos', linchar o ejecutar extrajudicialmente) describe con exactitud el conato de homicidio que los amotinados intentaron perpetrar en el atrio del Templo antes de la intervención de Lisias (Hch 21:31)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 22,
+    "greek_text": "ἐπικουρίας οὖν τυχὼν τῆς ἀπὸ τοῦ θεοῦ ἄχρι τῆς ἡμέρας ταύτης ἕστηκα μαρτυρόμενος μικρῷ τε καὶ μεγάλῳ, οὐδὲν ἐκτὸς λέγων ὧν τε οἱ προφῆται ἐλάλησαν μελλόντων γίνεσθαι καὶ Μωϋσῆς,",
+    "translation": "Habiendo, pues, obtenido el auxilio que viene de Dios, hasta el día de hoy permanezco firme, testificando solemnemente tanto a pequeños como a grandes, sin decir absolutamente nada más allá de lo que los profetas y Moisés dijeron que había de suceder:",
+    "translation_notes": "El auxilio divino y la fidelidad escrituraria estricta: El sustantivo ἐπικουρία (epikouria, 'socorro, protección, auxilio asistencial providencial') es otro término de refinada literatura clásica presente en este discurso lucano. Pablo declara que su supervivencia no obedece a la casualidad, sino a la providencia divina. Da testimonio sin acepción de personas: μικρῷ τε καὶ μεγάλῳ ('tanto a pequeños como a grandes', desde el ciudadano humilde hasta reyes y procuradores). Ratifica solemnemente su fidelidad canónica: οὐδὲν ἐκτὸς λέγων ('sin decir nada fuera de / sin apartarse un ápice'), demostrando que su teología coincide plenamente con la revelación profética de Moisés y los profetas de Israel."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 23,
+    "greek_text": "εἰ παθητὸς ὁ χριστός, εἰ πρῶτος ἐξ ἀναστάσεως νεκρῶν φῶς μέλλει καταγγέλλειν τῷ τε λαῷ καὶ τοῖς ἔθνεσιν.",
+    "translation": "que el Cristo había de padecer, y que siendo el primero en resucitar de entre los muertos, habría de proclamar luz tanto al pueblo judío como a los gentiles».",
+    "translation_notes": "El doble eje mesiánico escriturario: Las cláusulas introducidas por εἰ poseen sentido afirmativo/interrogativo indirecto que resumen los dos enigmas teológicos del mesianismo: 1) εἰ παθητὸς ὁ χριστός ('que el Mesías era pasible / sujeto al padecimiento y la muerte', concepto escandaloso para el judaísmo del siglo I que aguardaba un Mesías rey militar triunfante, pero sustentado proféticamente en Isaías 53 y Salmo 22; cf. Lc 24:26, 46); 2) εἰ πρῶτος ἐξ ἀναστάσεως νεκρῶν ('que siendo el primero por la resurrección de los muertos', primicia de la nueva creación escatológica, cf. 1Co 15:20, 23; Col 1:18) estaba destinado a anunciar la luz salvífica (φῶς καταγγέλλειν) tanto a la nación del pacto (τῷ λαῷ) como a los gentiles (τοῖς ἔθνεσιν; cf. Is 42:6; 49:6)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 24,
+    "greek_text": "Ταῦτα δὲ αὐτοῦ ἀπολογουμένου ὁ Φῆστος μεγάλῃ τῇ φωνῇ φησιν· Μαίνῃ, Παῦλε· τὰ πολλά σε γράμματα εἰς μανίαν περιτρέπει.",
+    "translation": "Mientras él decía estas cosas en su defensa, Festo exclamó a gran voz: «¡Estás loco, Pablo! ¡Las muchas letras te están haciendo perder el juicio!».",
+    "translation_notes": "La interrupción destemplada de Festo: Festo, hombre pragmático romano educado en la sobriedad aristocrática y la filosofía materialista o estoica pagana, no tolera más la disertación sobre resurrección corporal y apariciones luminosas celestiales. Interrumpe el alegato con un grito estridente (μεγάλῃ τῇ φωνῇ). El verbo μαίνομαι (mainomai) denota estar demente, alienado o poseído por la locura furiosa (μανía). El diagnóstico de Festo atribuye el estado mental de Pablo a un exceso de erudición académica: τὰ πολλά σε γράμματα εἰς μανίαν περιτρέπει ('tu inmensa erudición / el estudio exhaustivo de tantos libros y rollos sagrados te está arrastrando a la demencia')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 25,
+    "greek_text": "ὁ δὲ Παῦλος· Οὐ μαίνομαι, φησίν, κράτιστε Φῆστε, ἀλλὰ ἀληθείας καὶ σωφροσύνης ῥήματα ἀποφθέγγομαι.",
+    "translation": "Pero Pablo respondió: «No estoy loco, excelentísimo Festo, sino que pronuncio palabras de verdad y de supremo juicio y sobriedad.",
+    "translation_notes": "La respuesta mesurada y el ideal de la sōphrosynē: La compostura de Pablo ante el exabrupto del gobernador es un monumento a la elocuencia y dignidad apostólica. Mantiene el respeto al protocolo oficial llamándolo κράτιστε Φῆστε ('excelentísimo Festo'). Rechaza la imputación con serena contundencia (Οὐ μαίνομαι). Opone a la manía la gran virtud cardinal del pensamiento ético griego: la σωφροσύνη (sōphrosynē, cordura, templanza mental, dominio de la razón, lucidez y sensatez serena). El verbo ἀποφθέγγομαι (apophthengomai, pronunciar con autoridad solemne sentencias verídicas e inspiradas, el mismo utilizado en Hch 2:4 para Pentecostés) reivindica que su discurso armoniza la más absoluta fidelidad factual (ἀλήθεια) con el equilibrio racional más acabado."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 26,
+    "greek_text": "ἐπίσταται γὰρ περὶ τούτων ὁ βασιλεύς, πρὸς ὃν καὶ παρρησιαζόμενος λαλῶ· λανθάνειν γὰρ αὐτὸν τούτων οὐ πείθομαι οὐθέν, οὐ γάρ ἐστιν ἐν γωνίᾳ πεπραγμένον τοῦτο.",
+    "translation": "Porque de estas cosas el rey tiene pleno conocimiento, y ante él también hablo con total franqueza y libertad; pues estoy convencido de que nada de esto escapa a su conocimiento, ya que esto no se ha hecho en ningún rincón oscuro.",
+    "translation_notes": "Apelación a la notoriedad pública y la parresía: Pablo gira hábilmente hacia Agripa II, cuya familiaridad con la historia reciente de Judea garantizaba que no considerara la resurrección o el ministerio de Jesús como desvaríos demenciales. Pablo habla ante el monarca con plena parresía (παρρησιαζόμενος, con valentía, franqueza y libertad oratoria). La célebre expresión idiomática proverbial οὐ γάρ ἐστιν ἐν γωνίᾳ πεπραγμένον τοῦτο ('pues esto no ha acontecido en un rincón', aludiendo a Platón, Gorgias 485d) proclama que los acontecimientos fundamentales de la encarnación, ministerio público, juicio, crucifixión y resurrección de Jesús de Nazaret fueron hechos históricos abiertos, verificables y de impacto público masivo en el corazón del Imperio y no fabulaciones esotéricas tramadas en secreto."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 27,
+    "greek_text": "πιστεύεις, βασιλεῦ Ἀγρίππα, τοῖς προφήταις; οἶδα ὅτι πιστεύεις.",
+    "translation": "¿Crees, rey Agripa, a los profetas? ¡Yo sé que crees!».",
+    "translation_notes": "La trampa dialéctica sobre la fe profética: Pablo coloca a Agripa II en una encrucijada dialéctica formidable: ¿Cree en los profetas de las Escrituras de Israel? Si el rey responde negativamente, perdería de inmediato su autoridad moral y religiosa ante el pueblo judío sobre cuyo Templo ejercía patronato tutelar; si responde afirmativamente, se vería obligado por coherencia hermenéutica a examinar si las profecías del Siervo Sufriente y la resurrección se cumplieron en Jesús de Nazaret. Pablo anticipa su propia respuesta con convicción retórica: οἶδα ὅτι πιστεύεις ('¡Sé que crees!')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 28,
+    "greek_text": "ὁ δὲ Ἀγρίππας πρὸς τὸν Παῦλον· Ἐν ὀλίγῳ με πείθεις Χριστιανὸν ποιῆσαι.",
+    "translation": "Entonces Agripa dijo a Pablo: «¡Por poco me persuades a hacerme cristiano!».",
+    "translation_notes": "La famosa réplica de Agripa: La réplica del rey (Ἐν ὀλίγῳ με πείθεις Χριστιανὸν ποιῆσαι) ha generado un extenso debate exegético en torno al giro idiomático Ἐν ὀλίγῳ (en oligō). Puede traducirse como: 1) 'En poco tiempo / tan rápidamente crees convencerme'; 2) 'Con tan pocos argumentos / con tan escaso esfuerzo pretendes hacerme cristiano'; 3) 'Por poco me persuades'. La ironía aristocrática y la agudeza cortesana de Agripa le permiten eludir el dilema teológico planteado por Pablo sin ofender al apóstol ni comprometer su dignidad monárquica ante Festo y los dignatarios paganos presentes. Es además uno de los tres únicos lugares en todo el Nuevo Testamento donde se emplea explícitamente el término Χριστιανός (Hch 11:26; 26:28; 1P 4:16)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 29,
+    "greek_text": "ὁ δὲ Παῦλος· Εὐξαίμην ἂν τῷ θεῷ καὶ ἐν ὀλίγῳ καὶ ἐν μεγάλῳ οὐ μόνον σὲ ἀλλὰ καὶ πάντας τοὺς ἀκούοντάς μου σήμερον γενέσθαι τοιούτους ὁποῖος καὶ ἐγώ εἰμι παρεκτὸς τῶν δεσμῶν τούτων.",
+    "translation": "Y Pablo respondió: «¡Quisiera Dios que, sea por poco o por mucho, no solo tú, sino también todos los que hoy me escuchan, llegaran a ser tales como yo soy, a excepción de estas cadenas!».",
+    "translation_notes": "El culmen de la benevolencia apostólica: Pablo responde al juego de palabras de Agripa mediante una plegaria optativa solemne (Εὐξαίμην ἂν τῷ θεῷ, 'rogaría / suplicaría a Dios'). Retoma los dos extremos temporales y retóricos: καὶ ἐν ὀλίγῳ καὶ ἐν μεγάλῳ ('sea en poco o en mucho / sea rápido o difícil'). Su deseo no es sectario ni vengativo, sino universalmente redentor: anhela que el rey, el procurador romano y toda la élite aristocrática experimenten la misma libertad espiritual y esperanza que él posee. El remate es un toque dramático de inigualable fuerza visual y moral: señalando los grilletes que aprisionaban sus muñecas (παρεκτὸς τῶν δεσμῶν τούτων, 'con excepción de estas cadenas'), demuestra que el verdadero hombre libre en esa fastuosa sala no era el monarca ni el gobernador, sino el embajador de Cristo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 30,
+    "greek_text": "Ἀνέστη τε ὁ βασιλεὺς καὶ ὁ ἡγεμὼν ἥ τε Βερνίκη καὶ οἱ συγκαθήμενοι αὐτοῖς,",
+    "translation": "Entonces se levantó el rey, y el gobernador, y Berenice, y los que estaban sentados con ellos;",
+    "translation_notes": "Conclusión de la sesión plenaria: El orden protocolario jerárquico se refleja en el orden de los sujetos al ponerse de pie: en primer lugar el rey Agripa (ὁ βασιλεύς), seguido por el gobernador imperial Porcio Festo (ὁ ἡγεμών), la princesa Berenice (ἥ τε Βερνίκη) y el resto del consejo y magistrados (οἱ συγκαθήμενοι αὐτοῖς). La audiencia llega formalmente a su término."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 31,
+    "greek_text": "καὶ ἀναχωρήσαντες ἐλάλουν πρὸς ἀλλήλους λέγοντες ὅτι Οὐδὲν θανάτου ἢ δεσμῶν ἄξιον τι πράσσει ὁ ἄνθρωπος οὗτος.",
+    "translation": "y habiéndose retirado a deliberar en privado, hablaban entre sí diciendo: «Ninguna cosa digna de muerte o de prisión hace este hombre».",
+    "translation_notes": "Veredicto unánime de inocencia en deliberación privada: Retirados a deliberar en privado (ἀναχωρήσαντες), la conclusión unánime de las más altas autoridades políticas romanas y judías de la provincia coincide punto por punto con la declaración de Claudio Lisias (23:29) y el dictamen inicial de Festo (25:25): Pablo no ha cometido infracción alguna merecedora de la pena capital o reclusión penal (Οὐδὲν θανάτου ἢ δεσμῶν ἄξιον). El apóstol queda total y absolutamente vindicado."
+  },
+  {
+    "book": "ACT",
+    "chapter": 26,
+    "verse": 32,
+    "greek_text": "Ἀγρίππας δὲ τῷ Φήστῳ ἔφη· Ἀπολελύσθαι ἐδύνατο ὁ ἄνθρωπος οὗτος εἰ μὴ ἐπεκέκλητο Καίσαρα.",
+    "translation": "Y Agripa dijo a Festo: «Este hombre podría haber sido puesto en libertad si no hubiera apelado al César».",
+    "translation_notes": "El dictamen definitivo de Agripa y la irrevocabilidad de la apelación: Agripa II pronuncia la sentencia evaluativa final: Ἀπολελύσθαι ἐδύνατο ('podría haber sido sobreseído y puesto en libertad', con el infinitivo perfecto pasivo de ἀπολύω). Sin embargo, bajo el riguroso derecho procesal penal del Imperio Romano, una vez que un ciudadano ejercía formalmente la provocatio / appellatio ad Caesarem y esta era admitida judicialmente por el magistrado provincial (Hch 25:12), la causa quedaba irrevocablemente sustraída de la jurisdicción local; ningún gobernador ni rey provincial tenía ya potestad legal para absolver, condenar o liberar al reo. Esta paradoja legal servirá providencialmente como el vehículo mediante el cual se cumplirá la promesa soberana de Jesús: Pablo viajará a Roma con salvoconducto y escolta imperial sufragada por el Estado romano para testificar ante el mismísimo trono imperial."
+  }
+]

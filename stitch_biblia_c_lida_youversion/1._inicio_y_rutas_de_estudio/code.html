@@ -1,0 +1,324 @@
+<!DOCTYPE html><html class="light" lang="es"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Sagradas Escrituras - Inicio</title>
+<!-- Material Symbols Outlined -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<!-- Google Fonts: Merriweather & Inter -->
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<!-- Tailwind CSS with Container Queries -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          "colors": {
+            "primary-fixed": "#ffdbce",
+            "secondary-fixed": "#ffdea8",
+            "on-secondary-container": "#785817",
+            "on-tertiary": "#ffffff",
+            "surface-container-high": "#f0e6e1",
+            "tertiary-container": "#b75a37",
+            "surface-dim": "#e2d8d3",
+            "secondary-container": "#fdd184",
+            "surface-container-lowest": "#ffffff",
+            "surface-tint": "#9a4522",
+            "on-primary-fixed-variant": "#7b2f0c",
+            "on-error": "#ffffff",
+            "inverse-surface": "#352f2c",
+            "on-tertiary-fixed": "#380d00",
+            "outline": "#88726b",
+            "primary-fixed-dim": "#ffb59a",
+            "secondary-fixed-dim": "#ebc075",
+            "surface-container-highest": "#ebe0dc",
+            "surface-variant": "#ebe0dc",
+            "secondary": "#795918",
+            "inverse-primary": "#ffb59a",
+            "on-secondary": "#ffffff",
+            "on-secondary-fixed": "#271900",
+            "on-surface": "#1f1b18",
+            "on-surface-variant": "#55433c",
+            "surface-container-low": "#fcf2ec",
+            "on-error-container": "#93000a",
+            "background": "#fff8f5",
+            "error-container": "#ffdad6",
+            "on-primary": "#ffffff",
+            "on-tertiary-fixed-variant": "#7c2e0e",
+            "on-primary-fixed": "#370e00",
+            "on-background": "#1f1b18",
+            "on-primary-container": "#fffbff",
+            "tertiary": "#984221",
+            "surface-bright": "#fff8f5",
+            "surface": "#fff8f5",
+            "inverse-on-surface": "#f9efea",
+            "primary-container": "#b65b35",
+            "surface-container": "#f6ece7",
+            "tertiary-fixed-dim": "#ffb59b",
+            "outline-variant": "#dbc1b8",
+            "error": "#ba1a1a",
+            "tertiary-fixed": "#ffdbcf",
+            "on-tertiary-container": "#fffbff",
+            "on-secondary-fixed-variant": "#5e4200",
+            "primary": "#974320"
+          },
+          "borderRadius": {
+            "DEFAULT": "0.25rem",
+            "lg": "0.5rem",
+            "xl": "0.75rem",
+            "full": "9999px"
+          },
+          "spacing": {
+            "space-md": "1rem",
+            "space-lg": "1.5rem",
+            "space-xl": "2.25rem",
+            "margin": "1.25rem",
+            "space-sm": "0.5rem",
+            "space-xs": "0.25rem",
+            "gutter": "1rem"
+          },
+          "fontFamily": {
+            "label-sm": ["Inter"],
+            "headline-lg": ["Merriweather"],
+            "label-lg": ["Inter"],
+            "label-md": ["Inter"],
+            "scripture-verse-num": ["Inter"],
+            "scripture-body": ["Merriweather"],
+            "headline-sm": ["Merriweather"],
+            "body-lg": ["Inter"],
+            "body-md": ["Inter"],
+            "headline-md": ["Merriweather"],
+            "headline-xl": ["Merriweather"],
+            "headline-xl-mobile": ["Merriweather"]
+          },
+          "fontSize": {
+            "label-sm": ["10px", {"lineHeight": "14px", "letterSpacing": "0.04em", "fontWeight": "600"}],
+            "headline-lg": ["24px", {"lineHeight": "32px", "letterSpacing": "-0.01em", "fontWeight": "600"}],
+            "label-lg": ["14px", {"lineHeight": "18px", "letterSpacing": "0.01em", "fontWeight": "600"}],
+            "label-md": ["12px", {"lineHeight": "16px", "letterSpacing": "0.02em", "fontWeight": "500"}],
+            "scripture-verse-num": ["11px", {"lineHeight": "14px", "letterSpacing": "0.02em", "fontWeight": "600"}],
+            "scripture-body": ["19px", {"lineHeight": "32px", "letterSpacing": "0.01em", "fontWeight": "400"}],
+            "headline-sm": ["18px", {"lineHeight": "26px", "fontWeight": "400"}],
+            "body-lg": ["16px", {"lineHeight": "24px", "fontWeight": "400"}],
+            "body-md": ["14px", {"lineHeight": "20px", "fontWeight": "400"}],
+            "headline-md": ["20px", {"lineHeight": "28px", "fontWeight": "600"}],
+            "headline-xl": ["32px", {"lineHeight": "42px", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+            "headline-xl-mobile": ["26px", {"lineHeight": "34px", "letterSpacing": "-0.015em", "fontWeight": "700"}]
+          }
+        }
+      }
+    }
+  </script>
+<style>
+    .material-symbols-outlined {
+      font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+      display: inline-block;
+      vertical-align: middle;
+      line-height: 1;
+    }
+    /* Hide scrollbars for clean sanctuary reading */
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+    .no-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+  </style>
+</head>
+<body class="bg-background text-on-surface antialiased min-h-screen pb-28 selection:bg-primary-fixed selection:text-on-primary-fixed-variant">
+<!-- Shared Component: TopAppBar -->
+<header class="sticky top-0 z-40 bg-surface/90 backdrop-blur-md shadow-sm">
+<div class="w-full flex items-center justify-between px-space-md py-space-sm max-w-screen-md mx-auto">
+<div class="flex items-center space-x-2">
+<button aria-label="Menú de Biblia" class="p-2 rounded-lg text-primary hover:bg-surface-container transition-colors duration-150 active:scale-95">
+</button>
+</div>
+<div class="flex items-center space-x-1">
+<button aria-label="Buscar" class="p-2 rounded-lg text-on-surface-variant hover:bg-surface-container transition-colors duration-150 active:scale-95">
+</button>
+</div>
+</div>
+</header>
+<!-- Main Container / Safe Canvas -->
+<main class="max-w-screen-md mx-auto px-margin pt-space-md space-y-space-xl">
+<!-- Saludo Personalizado, Racha & Avatar -->
+<section class="flex items-center justify-between">
+<div class="flex items-center space-x-3.5">
+<div class="relative">
+<img class="w-12 h-12 rounded-full object-cover ring-2 ring-outline-variant/60 shadow-sm" data-alt="A tranquil portrait photo of a contemplative young man named Mateo in a soft linen shirt, bathed in warm gentle morning sunlight with peaceful organic bokeh background, warm terracotta and parchment tones, natural lighting, editorial aesthetic." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDkIrDMacl12uZDgo4cHStXI7tRcpcLBV0sAKMarqlD7nS2YQMeWyHkfL8B5uyyIg4JD-UoxJXiySSp86NpFkMiRjCPXYd8YZ3PqnGuOwo1ycXGKBfotGaRZ656mr9ENQ5o8p5kcSiZbdH0vXZA38zNDOGFL8JZ_4Fe0ZKPKbaO4ccYvZrzLqzJvLaMWsD7FfdlooySsCI3L-gTDymkVk0bOCbwqVGdbNJAIUPBuQ">
+<span class="absolute bottom-0 right-0 w-3.5 h-3.5 bg-secondary rounded-full ring-2 ring-surface"></span>
+</div>
+<div>
+<span class="font-label-md text-label-md text-on-surface-variant block">Miércoles, 24 de Mayo</span>
+<h1 class="font-headline-sm text-headline-sm font-semibold text-on-surface">Buenos días, Mateo</h1>
+</div>
+</div>
+<!-- Badge de Racha -->
+<div class="flex items-center space-x-1.5 bg-secondary-container/70 text-on-secondary-container px-3 py-1.5 rounded-full shadow-sm">
+<span class="material-symbols-outlined text-base text-secondary" data-icon="wb_sunny">wb_sunny</span>
+<span class="font-label-lg text-label-lg font-bold">14 días de luz</span>
+</div>
+</section>
+<!-- Versículo del Día: High-Impact Warm Editorial Card -->
+<section class="relative overflow-hidden rounded-xl bg-gradient-to-br from-surface-container-low via-surface-container to-secondary-container/40 p-space-lg shadow-[0_4px_20px_-2px_rgba(45,40,37,0.04),0_2px_6px_-1px_rgba(194,100,62,0.03)] border border-outline-variant/50">
+<!-- Faint decorative warm accent line -->
+<div class="absolute left-0 top-0 bottom-0 w-1.5 bg-secondary"></div>
+<div class="pl-2 space-y-space-md">
+<!-- Tag & Fecha -->
+<div class="flex items-center justify-between">
+<div class="flex items-center space-x-2">
+<span class="material-symbols-outlined text-primary text-base" data-icon="wb_sunny">wb_sunny</span>
+<span class="font-label-md text-label-md uppercase tracking-wider text-primary font-bold">Versículo del Día</span>
+</div>
+<span class="font-label-sm text-label-sm bg-surface-container-highest/80 text-on-surface-variant px-2.5 py-0.5 rounded-full">RVR1960</span>
+</div>
+<!-- Scripture Passage -->
+<blockquote class="relative">
+<p class="font-scripture-body text-scripture-body italic text-on-surface leading-relaxed">
+            «Lámpara es a mis pies tu palabra, y lumbrera a mi camino.»
+          </p>
+<cite class="block mt-space-sm not-italic font-headline-sm text-headline-sm font-semibold text-primary">
+            Salmos 119:105
+          </cite>
+</blockquote>
+<!-- Quick Action Buttons Grid -->
+<div class="pt-space-xs grid grid-cols-2 sm:grid-cols-4 gap-2">
+<!-- Compartir -->
+<button class="flex items-center justify-center space-x-1.5 py-2 px-3 bg-surface-container-lowest/90 hover:bg-surface-container-lowest text-on-surface rounded-lg border border-outline-variant/40 active:scale-95 transition duration-150 shadow-xs">
+<span class="material-symbols-outlined text-lg text-primary" data-icon="share">share</span>
+<span class="font-label-md text-label-md">Compartir</span>
+</button>
+<!-- Crear Imagen -->
+<!-- Guardar -->
+<button class="flex items-center justify-center space-x-1.5 py-2 px-3 bg-surface-container-lowest/90 hover:bg-surface-container-lowest text-on-surface rounded-lg border border-outline-variant/40 active:scale-95 transition duration-150 shadow-xs">
+<span class="material-symbols-outlined text-lg text-primary" data-icon="bookmark">bookmark</span>
+<span class="font-label-md text-label-md">Guardar</span>
+</button>
+<!-- Escuchar Versículo -->
+</div>
+</div>
+</section>
+<!-- Reproductor Devocional Rápido: 'Tu Guía Diaria' -->
+<!-- Continuar Lectura -->
+<section class="space-y-space-sm">
+<div class="flex items-center justify-between">
+<h2 class="font-headline-sm text-headline-sm font-semibold text-on-surface">Continuar Lectura</h2>
+<span class="font-label-md text-label-md text-primary font-semibold cursor-pointer hover:underline">Ver Historial</span>
+</div>
+<div class="bg-surface-container rounded-xl p-space-md border border-outline-variant/40 flex items-center justify-between shadow-xs hover:border-primary/40 transition duration-150">
+<div class="flex items-center space-x-3">
+<div class="w-12 h-12 rounded-lg bg-surface-container-highest flex items-center justify-center text-primary">
+<span class="material-symbols-outlined text-2xl" data-icon="local_library">local_library</span>
+</div>
+<div>
+<span class="font-label-sm text-label-sm text-on-surface-variant font-medium">Nuevo Testamento • Evangelios</span>
+<h3 class="font-headline-sm text-headline-sm font-bold text-on-surface">Mateo 5: Las Bienaventuranzas</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">Última lectura: versículo 12</p>
+</div>
+</div>
+<button class="flex items-center space-x-1 py-2 px-3.5 bg-primary text-on-primary rounded-lg hover:bg-tertiary active:scale-95 transition duration-150 flex-shrink-0 shadow-sm">
+<span class="font-label-md text-label-md font-semibold">Leer</span>
+<span class="material-symbols-outlined text-base" data-icon="chevron_right">chevron_right</span>
+</button>
+</div>
+</section>
+<!-- Planes para Ti: Bento / Carrusel Horizontal -->
+<section class="space-y-space-sm">
+<div class="flex items-center justify-between">
+<div><h2 class="font-headline-sm text-headline-sm font-semibold text-on-surface">Rutas de Estudio Semanal</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">Inmersión exegética y teológica para profundizar en la biblia</p></div>
+<button class="font-label-md text-label-md text-primary font-semibold hover:underline">Explorar</button>
+</div>
+<!-- Horizontal Cards Container -->
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-space-md pt-1">
+<!-- Plan 1: Paz en la Tormenta -->
+<article class="bg-surface-container-low rounded-xl overflow-hidden border border-outline-variant/40 shadow-sm flex flex-col group hover:shadow-md transition duration-200"><div class="relative h-32 w-full overflow-hidden">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" data-alt="Peaceful mist-covered lake at sunrise with still water reflecting soft warm terracotta and amber morning skies, warm and deeply calming spiritual atmosphere, tranquil nature photograph, fine art editorial lighting." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDMbmTNwaXgYj_C7YMLfxmRVSyn6YY8IAAbQ3F53RZfZAgOuSg83BiwmNi2HgcD24Xo0PNNJpNxSAFW8SGDhbd2hJ9udSc2n4QsZ4PXCA3j8nZ0oChWYoEb2-b7v_fHXq9_FRsw3BMBb2b_KhAhmtk38LQtUGH3eWOcdonaX2qWBSDrYCRxdbf4n40RvnAoIyEvNUkNrzCRAXbdgRaJF75jQ909IcjeNYywdVW4VQ">
+<div class="absolute inset-0 bg-gradient-to-t from-surface-container-low via-transparent to-transparent"></div>
+<span class="absolute top-2.5 left-2.5 bg-surface-container-lowest/90 backdrop-blur-sm text-on-surface font-label-sm text-label-sm px-2.5 py-1 rounded-full font-bold">
+  6 Capítulos
+</span>
+</div>
+<div class="p-space-md flex-1 flex flex-col justify-between space-y-2">
+<div>
+<span class="font-label-sm text-label-sm text-secondary font-bold uppercase tracking-wider">Contexto Histórico y Teológico</span>
+<h3 class="font-headline-sm text-headline-sm font-bold text-on-surface mt-0.5">Esta semana: Epístola a los Gálatas</h3>
+<p class="font-body-md text-body-md text-on-surface-variant line-clamp-2 mt-1">
+  Analiza la justificación por la fe y la libertad cristiana en el contexto apostólico primitivo.
+</p>
+</div>
+<div class="pt-2 flex items-center justify-between border-t border-outline-variant/20">
+<span class="font-label-sm text-label-sm text-on-surface-variant flex items-center space-x-1">
+<span class="material-symbols-outlined text-sm text-secondary" data-icon="menu_book">menu_book</span>
+<span class="">Estudio Guiado</span>
+</span>
+<button class="font-label-md text-label-md text-primary font-bold hover:text-tertiary flex items-center space-x-0.5">
+<span class="">Comenzar</span>
+<span class="material-symbols-outlined text-sm" data-icon="arrow_forward">arrow_forward</span>
+</button>
+</div>
+</div></article>
+<!-- Plan 2: Sabiduría en Proverbios -->
+<article class="bg-surface-container-low rounded-xl overflow-hidden border border-outline-variant/40 shadow-sm flex flex-col group hover:shadow-md transition duration-200"><div class="relative h-32 w-full overflow-hidden">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" data-alt="An illuminated open vintage manuscript on an old rustic dark wooden lectern with warm soft candlelight, ancient linen paper texture, warm gold and terracotta shadows, contemplative quiet aesthetic." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDqX9caPRyCtOy6hUUDyG9tl55ZETOy81eFDtBixYhwUE7tYw_1vekvnrhBLySrctjyjXlCc1FfCScqZsLNDTqo0GMX91jUP0CvXj08C074Ps3k0vsb0sjoVXxu1ia1v7OvdkTO0uWLf7eVeW-uAJvQyoMmSFaqP0fX55a2vBQNoc-RbZLgIhrinrms5qYncfjnG-JTzq-ioHFNXSXdI1CFM9KMXNV1CV2Z_Ipt_A">
+<div class="absolute inset-0 bg-gradient-to-t from-surface-container-low via-transparent to-transparent"></div>
+<span class="absolute top-2.5 left-2.5 bg-surface-container-lowest/90 backdrop-blur-sm text-on-surface font-label-sm text-label-sm px-2.5 py-1 rounded-full font-bold">
+  Crítica Textual
+</span>
+</div>
+<div class="p-space-md flex-1 flex flex-col justify-between space-y-2">
+<div>
+<span class="font-label-sm text-label-sm text-secondary font-bold uppercase tracking-wider">Manuscritos Originales</span>
+<h3 class="font-headline-sm text-headline-sm font-bold text-on-surface mt-0.5">Acerca de nuestra traducción</h3>
+<p class="font-body-md text-body-md text-on-surface-variant line-clamp-2 mt-1">
+  Descubre la metodología detrás de nuestra traducción directa del griego Koiné (SBLGNT).
+</p>
+</div>
+<div class="pt-2 flex items-center justify-between border-t border-outline-variant/20">
+<span class="font-label-sm text-label-sm text-on-surface-variant flex items-center space-x-1">
+<span class="material-symbols-outlined text-sm text-secondary" data-icon="translate">translate</span>
+<span class="">SBLGNT</span>
+</span>
+<button class="font-label-md text-label-md text-primary font-bold hover:text-tertiary flex items-center space-x-0.5">
+<span class="">Conocer más</span>
+<span class="material-symbols-outlined text-sm" data-icon="arrow_forward">arrow_forward</span>
+</button>
+</div>
+</div></article>
+</div>
+</section>
+<!-- Oración Rápida / Espacio Comunitario -->
+</main>
+<!-- Shared Component: BottomNavBar (Execution of Exact Tokens & Styles) -->
+<nav aria-label="Navegación principal" class="fixed bottom-0 left-0 w-full z-50 flex justify-around items-center px-space-sm py-space-xs bg-surface/90 backdrop-blur-md shadow-[0_-4px_24px_rgba(45,40,37,0.06)]"><!-- Item 1: Inicio (Activo) -->
+<a class="flex flex-col items-center justify-center bg-secondary-container text-on-secondary-container rounded-xl px-space-sm py-space-xs active:scale-95 transition-transform duration-150" href="#">
+<span class="material-symbols-outlined text-xl" data-icon="home" style="font-variation-settings: 'FILL' 1;">home</span>
+<span class="font-label-sm text-label-sm font-bold">Inicio</span>
+</a>
+<!-- Item 2: Lector -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant px-space-sm py-space-xs hover:text-primary transition-colors duration-150 active:scale-95" href="#">
+<span class="material-symbols-outlined text-xl" data-icon="menu_book">menu_book</span>
+<span class="font-label-sm text-label-sm">Lector</span>
+</a>
+<!-- Item 3: Estudio -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant px-space-sm py-space-xs hover:text-primary transition-colors duration-150 active:scale-95" href="#">
+<span class="material-symbols-outlined text-xl" data-icon="auto_stories">auto_stories</span>
+<span class="font-label-sm text-label-sm">Estudio</span>
+</a>
+<!-- Item 4: Notas -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant px-space-sm py-space-xs hover:text-primary transition-colors duration-150 active:scale-95" href="#">
+<span class="material-symbols-outlined text-xl" data-icon="edit_note">edit_note</span>
+<span class="font-label-sm text-label-sm">Notas</span>
+</a>
+<!-- Item 5: Perfil -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant px-space-sm py-space-xs hover:text-primary transition-colors duration-150 active:scale-95" href="#">
+<span class="material-symbols-outlined text-xl" data-icon="person">person</span>
+<span class="font-label-sm text-label-sm">Perfil</span>
+</a></nav>
+
+
+</body></html>

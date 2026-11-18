@@ -1,0 +1,714 @@
+[
+  {
+    "book": "1TH",
+    "chapter": 1,
+    "verse": 1,
+    "greek_text": "Παῦλος καὶ Σιλουανὸς καὶ Τιμόθεος τῇ ἐκκλησίᾳ Θεσσαλονικέων ἐν θεῷ πατρὶ καὶ κυρίῳ Ἰησοῦ Χριστῷ· χάρις ὑμῖν καὶ εἰρήνη.",
+    "translation": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios Padre y en el Señor Jesucristo: Gracia a ustedes y paz.",
+    "translation_notes": "Prescripto temprano (una de las primeras cartas de Pablo, hacia 50–51 d.C.): Silvano (Silas en Hechos) y Timoteo co-firman con Pablo sin usar títulos jerárquicos. La iglesia existe «en Dios Padre y en el Señor Jesucristo», reflejando una alta cristología desde el principio."
+  },
+  {
+    "book": "1TH",
+    "chapter": 1,
+    "verse": 2,
+    "greek_text": "Εὐχαριστοῦμεν τῷ θεῷ πάντοτε περὶ πάντων ὑμῶν μνείαν ποιούμενοι ἐπὶ τῶν προσευχῶν ἡμῶν, ἀδιαλείπτως",
+    "translation": "Damos gracias a Dios siempre por todos ustedes, haciéndolos presentes en nuestras oraciones,",
+    "translation_notes": "Acción de gracias continua (πάντοτε... ἀδιαλείπτως): μνείαν ποιούμενοι («haciendo memoria/mención») con afecto comunitario hacia todos los creyentes de Tesalónica."
+  },
+  {
+    "book": "1TH",
+    "chapter": 1,
+    "verse": 3,
+    "greek_text": "μνημονεύοντες ὑμῶν τοῦ ἔργου τῆς πίστεως καὶ τοῦ κόπου τῆς ἀγάπης καὶ τῆς ὑπομονῆς τῆς ἐλπίδος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἔμπροσθεν τοῦ θεοῦ καὶ πατρὸς ἡμῶν,",
+    "translation": "acordándonos sin cesar delante de nuestro Dios y Padre de la obra de su fe, del trabajo de su amor y de la firmeza de su esperanza en nuestro Señor Jesucristo,",
+    "translation_notes": "Primera aparición de la tríada paulina clásica (fe, amor, esperanza) en forma dinámica: τοῦ ἔργου τῆς πίστεως («la fe que produce obras»), τοῦ κόπου τῆς ἀγάπης («el amor que se fatiga sirviendo», κόπος = esfuerzo hasta el cansancio) y τῆς ὑπομονῆς τῆς ἐλπίδος («la perseverancia firme sostenida por la esperanza en Cristo»)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 1,
+    "verse": 4,
+    "greek_text": "εἰδότες, ἀδελφοὶ ἠγαπημένοι ὑπὸ θεοῦ, τὴν ἐκλογὴν ὑμῶν,",
+    "translation": "sabiendo, hermanos amados por Dios, su elección,",
+    "translation_notes": "Τὴν ἐκλογὴν ὑμῶν («su elección» por Dios): la evidencia visible de esa elección eterna se describe inmediatamente en el v. 5 (cómo recibieron el evangelio en el poder del Espíritu)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 1,
+    "verse": 5,
+    "greek_text": "ὅτι τὸ εὐαγγέλιον ἡμῶν οὐκ ἐγενήθη εἰς ὑμᾶς ἐν λόγῳ μόνον ἀλλὰ καὶ ἐν δυνάμει καὶ ἐν πνεύματι ἁγίῳ καὶ πληροφορίᾳ πολλῇ, καθὼς οἴδατε οἷοι ἐγενήθημεν ἐν ὑμῖν δι’ ὑμᾶς·",
+    "translation": "porque nuestro evangelio no llegó a ustedes solo en palabras, sino también en poder, en el Espíritu Santo y en plena convicción; como bien saben cómo nos portamos entre ustedes por su bien.",
+    "translation_notes": "Cuatro marcas de la predicación apostólica: no mera retórica vacía (ἐν λόγῳ μόνον), sino acompañada de δύναμις («poder transformador»), Espíritu Santo y πληροφορίᾳ πολλῇ («profunda certeza/convicción plena»), respaldada por la integridad personal de los misioneros."
+  },
+  {
+    "book": "1TH",
+    "chapter": 1,
+    "verse": 6,
+    "greek_text": "καὶ ὑμεῖς μιμηταὶ ἡμῶν ἐγενήθητε καὶ τοῦ κυρίου, δεξάμενοι τὸν λόγον ἐν θλίψει πολλῇ μετὰ χαρᾶς πνεύματος ἁγίου,",
+    "translation": "Y ustedes llegaron a ser imitadores de nosotros y del Señor, recibiendo la palabra en medio de mucha tribulación, con el gozo del Espíritu Santo,",
+    "translation_notes": "Paradoja cristiana: sufrieron persecución severa desde su conversión (ἐν θλίψει πολλῇ, cf. Hch 17:5–9) y a la vez experimentaron χαρὰ πνεύματος ἁγίου («gozo infundido por el Espíritu Santo»)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 1,
+    "verse": 7,
+    "greek_text": "ὥστε γενέσθαι ὑμᾶς τύπον πᾶσιν τοῖς πιστεύουσιν ἐν τῇ Μακεδονίᾳ καὶ ἐν τῇ Ἀχαΐᾳ.",
+    "translation": "de manera que llegaron a ser un modelo para todos los creyentes en Macedonia y en Acaya.",
+    "translation_notes": "Τύπος (typos, «sello/molde/ejemplo visible»): en poco tiempo, la joven iglesia de Tesalónica se convirtió en referente para el norte (Macedonia) y el sur (Acaya, incluida Corinto) de Grecia."
+  },
+  {
+    "book": "1TH",
+    "chapter": 1,
+    "verse": 8,
+    "greek_text": "ἀφ’ ὑμῶν γὰρ ἐξήχηται ὁ λόγος τοῦ κυρίου οὐ μόνον ἐν τῇ Μακεδονίᾳ καὶ Ἀχαΐᾳ, ἀλλ’ ἐν παντὶ τόπῳ ἡ πίστις ὑμῶν ἡ πρὸς τὸν θεὸν ἐξελήλυθεν, ὥστε μὴ χρείαν ἔχειν ἡμᾶς λαλεῖν τι·",
+    "translation": "Porque desde ustedes ha resonado la palabra del Señor no solo en Macedonia y Acaya, sino que en todo lugar su fe en Dios se ha divulgado, de modo que no tenemos necesidad de decir nada.",
+    "translation_notes": "Verbo sonoro: ἐξήχηται (exēchētai, perfecto pasivo de ἐξηχέω, «ha retumbado como eco de trompeta o trueno»), indicando que los viajeros y comerciantes de esta ciudad portuaria sobre la Vía Egnatia difundían por todas partes el testimonio de los tesalonicenses."
+  },
+  {
+    "book": "1TH",
+    "chapter": 1,
+    "verse": 9,
+    "greek_text": "αὐτοὶ γὰρ περὶ ἡμῶν ἀπαγγέλλουσιν ὁποίαν εἴσοδον ἔσχομεν πρὸς ὑμᾶς, καὶ πῶς ἐπεστρέψατε πρὸς τὸν θεὸν ἀπὸ τῶν εἰδώλων δουλεύειν θεῷ ζῶντι καὶ ἀληθινῷ,",
+    "translation": "Pues ellos mismos cuentan acerca de nosotros qué clase de recepción tuvimos entre ustedes, y cómo se convirtieron de los ídolos a Dios, para servir al Dios vivo y verdadero,",
+    "translation_notes": "Síntesis clásica de la conversión gentil (vv. 9–10): ἐπεστρέψατε («se volvieron dando un giro radical») ἀπὸ τῶν εἰδώλων («de los ídolos muertos») para servir como siervos (δουλεύειν) al «Dios vivo y verdadero» (θεῷ ζῶντι καὶ ἀληθινῷ)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 1,
+    "verse": 10,
+    "greek_text": "καὶ ἀναμένειν τὸν υἱὸν αὐτοῦ ἐκ τῶν οὐρανῶν, ὃν ἤγειρεν ἐκ τῶν νεκρῶν, Ἰησοῦν τὸν ῥυόμενον ἡμᾶς ἐκ τῆς ὀργῆς τῆς ἐρχομένης.",
+    "translation": "y para esperar de los cielos a su Hijo, al cual resucitó de entre los muertos, a Jesús, quien nos libra de la ira venidera.",
+    "translation_notes": "Expectativa escatológica activa: ἀναμένειν («aguardar con esperanza atenta») la venida del Hijo resucitado, Jesús, llamado τὸν ῥυόμενον ἡμᾶς («nuestro Libertador presente y futuro») de la ira justa final."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 1,
+    "greek_text": "Αὐτοὶ γὰρ οἴδατε, ἀδελφοί, τὴν εἴσοδον ἡμῶν τὴν πρὸς ὑμᾶς ὅτι οὐ κενὴ γέγονεν,",
+    "translation": "Porque ustedes mismos saben, hermanos, que nuestra visita a ustedes no fue en vano;",
+    "translation_notes": "Defensa pastoral (vv. 1–12) ante posibles calumnias de opositores locales que acusaban a Pablo de huir como un charlatán interesado: οὐ κενὴ γέγονεν («no fue vacía ni infructuosa»)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 2,
+    "greek_text": "ἀλλὰ προπαθόντες καὶ ὑβρισθέντες καθὼς οἴδατε ἐν Φιλίπποις ἐπαρρησιασάμεθα ἐν τῷ θεῷ ἡμῶν λαλῆσαι πρὸς ὑμᾶς τὸ εὐαγγέλιον τοῦ θεοῦ ἐν πολλῷ ἀγῶνι.",
+    "translation": "sino que, habiendo padecido antes y sido ultrajados en Filipos, como saben, tuvimos denuedo en nuestro Dios para anunciarles el evangelio de Dios en medio de una gran lucha.",
+    "translation_notes": "Referencia histórica a Hch 16:19–24 (azotes y cárcel en Filipos). Lejos de acobardarse, predicaron con valentía (ἐπαρρησιασάμεθα) «en nuestro Dios» en medio de mucha oposición (ἐν πολλῷ ἀγῶνι)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 3,
+    "greek_text": "ἡ γὰρ παράκλησις ἡμῶν οὐκ ἐκ πλάνης οὐδὲ ἐξ ἀκαθαρσίας οὐδὲ ἐν δόλῳ,",
+    "translation": "Porque nuestra exhortación no procede de error, ni de impureza, ni con engaño,",
+    "translation_notes": "Tres acusaciones habituales contra oradores ambulantes descartadas: no hay engaño doctrinal (πλάνη), ni motivos impuros (ἀκαθαρσία), ni trampa manipuladora (δόλος)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 4,
+    "greek_text": "ἀλλὰ καθὼς δεδοκιμάσμεθα ὑπὸ τοῦ θεοῦ πιστευθῆναι τὸ εὐαγγέλιον οὕτως λαλοῦμεν, οὐχ ὡς ἀνθρώποις ἀρέσκοντες ἀλλὰ θεῷ τῷ δοκιμάζοντι τὰς καρδίας ἡμῶν.",
+    "translation": "sino que, así como fuimos aprobados por Dios para que se nos confiara el evangelio, así hablamos, no para agradar a los hombres, sino a Dios, que examina nuestros corazones.",
+    "translation_notes": "Juego con el verbo δοκιμάζω («aprobar tras examen»): Dios ya los examinó y aprobó (δεδοκιμάσμεθα) para confiarles el evangelio, y sigue probando continuamente (δοκιμάζοντι) las intenciones del corazón."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 5,
+    "greek_text": "οὔτε γάρ ποτε ἐν λόγῳ κολακείας ἐγενήθημεν, καθὼς οἴδατε, οὔτε ἐν προφάσει πλεονεξίας, θεὸς μάρτυς,",
+    "translation": "Porque nunca usamos palabras lisonjeras, como saben, ni pretexto de avaricia; Dios es testigo,",
+    "translation_notes": "Κολακεία (kolakeia, «adulación interesada para sacar provecho») y πρόφασις πλεονεξίας («pretexto encubierto de codicia»): Pablo apela primero a la memoria de ellos y luego al testimonio de Dios (θεὸς μάρτυς)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 6,
+    "greek_text": "οὔτε ζητοῦντες ἐξ ἀνθρώπων δόξαν, οὔτε ἀφ’ ὑμῶν οὔτε ἀπ’ ἄλλων,",
+    "translation": "ni buscamos gloria de los hombres, ni de ustedes ni de otros,",
+    "translation_notes": "Renuncia a la vanagloria humana (δόξαν), tan buscada por los sofistas grecorromanos."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 7,
+    "greek_text": "δυνάμενοι ἐν βάρει εἶναι ὡς Χριστοῦ ἀπόστολοι· ἀλλὰ ἐγενήθημεν ἤπιοι ἐν μέσῳ ὑμῶν, ὡς ἐὰν τροφὸς θάλπῃ τὰ ἑαυτῆς τέκνα·",
+    "translation": "aunque pudimos haber sido una carga como apóstoles de Cristo; antes bien, nos portamos con ternura en medio de ustedes, como una madre que cría con calor a sus propios hijos.",
+    "translation_notes": "Metáfora materna conmovedora: aunque podían exigir sustento económico (ἐν βάρει εἶναι, «imponer peso/autoridad»), fueron ἤπιοι («tiernos/suaves» —variante cercana a νήπιοι «inocentes como niños»—) como una madre nodriza (τροφός) que abriga con calor (θάλπῃ) a sus hijos."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 8,
+    "greek_text": "οὕτως ὁμειρόμενοι ὑμῶν εὐδοκοῦμεν μεταδοῦναι ὑμῖν οὐ μόνον τὸ εὐαγγέλιον τοῦ θεοῦ ἀλλὰ καὶ τὰς ἑαυτῶν ψυχάς, διότι ἀγαπητοὶ ἡμῖν ἐγενήθητε.",
+    "translation": "Teniendo tanto cariño por ustedes, queríamos entregarles no solo el evangelio de Dios, sino también nuestras propias vidas, porque llegaron a sernos muy queridos.",
+    "translation_notes": "El verbo raro ὁμειρόμενοι (homeiromenoi, «anhelar con profundo afecto/estar estrechamente unidos en cariño») muestra que la misión apostólica no es entrega fría de información, sino entrega de la propia vida (τὰς ἑαυτῶν ψυχάς)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 9,
+    "greek_text": "Μνημονεύετε γάρ, ἀδελφοί, τὸν κόπον ἡμῶν καὶ τὸν μόχθον· νυκτὸς καὶ ἡμέρας ἐργαζόμενοι πρὸς τὸ μὴ ἐπιβαρῆσαί τινα ὑμῶν ἐκηρύξαμεν εἰς ὑμᾶς τὸ εὐαγγέλιον τοῦ θεοῦ.",
+    "translation": "Porque se acuerdan, hermanos, de nuestro trabajo y fatiga: trabajando de noche y de día para no ser carga a ninguno de ustedes, les proclamamos el evangelio de Dios.",
+    "translation_notes": "Kόπος καὶ μόχθος («trabajo arduo y fatiga agotadora»): Pablo fabricaba tiendas de campaña desde antes del amanecer (νυκτὸς καὶ ἡμέρας) para no resultar gravoso financieramente (μὴ ἐπιβαρῆσαι) a los recién convertidos."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 10,
+    "greek_text": "ὑμεῖς μάρτυρες καὶ ὁ θεός, ὡς ὁσίως καὶ δικαίως καὶ ἀμέμπτως ὑμῖν τοῖς πιστεύουσιν ἐγενήθημεν,",
+    "translation": "Ustedes son testigos, y Dios también, de cuán santa, justa e irreprensiblemente nos comportamos con ustedes los que creen;",
+    "translation_notes": "Tres adverbios de integridad moral: ὁσίως («santamente» ante Dios), δικαίως («justamente» ante el prójimo) y ἀμέμπτως («irreprensiblemente» sin dar motivo de reproche)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 11,
+    "greek_text": "καθάπερ οἴδατε ὡς ἕνα ἕκαστον ὑμῶν ὡς πατὴρ τέκνα ἑαυτοῦ",
+    "translation": "así como saben de qué manera tratamos a cada uno de ustedes, como un padre a sus propios hijos,",
+    "translation_notes": "Transición de la imagen materna (v. 7) a la paterna (ὡς πατὴρ τέκνα ἑαυτοῦ): atención individualizada («a cada uno de ustedes», ἕνα ἕκαστον) combinando firmeza y ternura."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 12,
+    "greek_text": "παρακαλοῦντες ὑμᾶς καὶ παραμυθούμενοι καὶ μαρτυρόμενοι, εἰς τὸ περιπατεῖν ὑμᾶς ἀξίως τοῦ θεοῦ τοῦ καλοῦντος ὑμᾶς εἰς τὴν ἑαυτοῦ βασιλείαν καὶ δόξαν.",
+    "translation": "exhortándolos, consolándolos y encargándoles solemnemente que anden como es digno de Dios, quien los llama a su propio reino y gloria.",
+    "translation_notes": "Tres verbos de cuidado paternal: παρακαλοῦντες (animar/exhortar), παραμυθούμενοι (consolar con cercanía) y μαρτυρόμενοι (exigir/testificar con seriedad), con la meta de vivir a la altura del Dios que los llama continuamente (τοῦ καλοῦντος, participio presente) a su reino y gloria."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 13,
+    "greek_text": "Καὶ διὰ τοῦτο καὶ ἡμεῖς εὐχαριστοῦμεν τῷ θεῷ ἀδιαλείπτως, ὅτι παραλαβόντες λόγον ἀκοῆς παρ’ ἡμῶν τοῦ θεοῦ ἐδέξασθε οὐ λόγον ἀνθρώπων ἀλλὰ καθὼς ἀληθῶς ἐστὶν λόγον θεοῦ, ὃς καὶ ἐνεργεῖται ἐν ὑμῖν τοῖς πιστεύουσιν.",
+    "translation": "Y por esto también nosotros damos gracias a Dios sin cesar: porque al recibir la palabra de Dios que oyeron de nosotros, la aceptaron no como palabra de hombres, sino según es en verdad, como palabra de Dios, la cual también actúa eficazmente en ustedes los que creen.",
+    "translation_notes": "Naturaleza divina de la predicación apostólica: distingue entre παραλαβόντες («recibir objetivamente al oído») y ἐδέξασθε («acoger personalmente en el corazón») como λόγον θεοῦ («palabra de Dios»), la cual opera activamente (ἐνεργεῖται) en los creyentes."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 14,
+    "greek_text": "ὑμεῖς γὰρ μιμηταὶ ἐγενήθητε, ἀδελφοί, τῶν ἐκκλησιῶν τοῦ θεοῦ τῶν οὐσῶν ἐν τῇ Ἰουδαίᾳ ἐν Χριστῷ Ἰησοῦ, ὅτι τὰ αὐτὰ ἐπάθετε καὶ ὑμεῖς ὑπὸ τῶν ἰδίων συμφυλετῶν καθὼς καὶ αὐτοὶ ὑπὸ τῶν Ἰουδαίων",
+    "translation": "Porque ustedes, hermanos, llegaron a ser imitadores de las iglesias de Dios que están en Judea en Cristo Jesús, pues padecieron las mismas cosas de parte de sus propios compatriotas, así como también ellos de parte de los judíos,",
+    "translation_notes": "Paralelo histórico en la persecución: los tesalonicenses sufrieron hostilidad de sus propios conciudadanos gentiles (τῶν ἰδίων συμφυλετῶν), así como las iglesias judeocristianas de Judea sufrieron persecución de dirigentes judíos incrédulos."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 15,
+    "greek_text": "τῶν καὶ τὸν κύριον ἀποκτεινάντων Ἰησοῦν καὶ τοὺς προφήτας καὶ ἡμᾶς ἐκδιωξάντων, καὶ θεῷ μὴ ἀρεσκόντων, καὶ πᾶσιν ἀνθρώποις ἐναντίων,",
+    "translation": "quienes mataron tanto al Señor Jesús como a los profetas, y a nosotros nos expulsaron; y no agradan a Dios, y son contrarios a todos los hombres,",
+    "translation_notes": "Crítica profética intrajudía (en línea con Jesús en Mt 23:29–37 y Esteban en Hch 7:52): apunta específicamente a los líderes opositores que persiguieron a los mensajeros e impidieron anunciar la salvación a las naciones (v. 16), no a todo el pueblo judío por raza (como aclara Pablo en Ro 9–11)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 16,
+    "greek_text": "κωλυόντων ἡμᾶς τοῖς ἔθνεσιν λαλῆσαι ἵνα σωθῶσιν, εἰς τὸ ἀναπληρῶσαι αὐτῶν τὰς ἁμαρτίας πάντοτε. ἔφθασεν δὲ ἐπ’ αὐτοὺς ἡ ὀργὴ εἰς τέλος.",
+    "translation": "impidiéndonos hablar a los gentiles para que sean salvos, colmando así siempre la medida de sus pecados; pero la ira ha llegado sobre ellos hasta el extremo.",
+    "translation_notes": "Eco de Gn 15:16 y Mt 23:32 («llenar la medida de los pecados»): el verbo ἔφθασεν («ha alcanzado/sobrevenido») refleja la certeza profética del juicio divino por oponerse a la salvación de los gentiles."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 17,
+    "greek_text": "Ἡμεῖς δέ, ἀδελφοί, ἀπορφανισθέντες ἀφ’ ὑμῶν πρὸς καιρὸν ὥρας, προσώπῳ οὐ καρδίᾳ, περισσοτέρως ἐσπουδάσαμεν τὸ πρόσωπον ὑμῶν ἰδεῖν ἐν πολλῇ ἐπιθυμίᾳ.",
+    "translation": "Pero nosotros, hermanos, separados de ustedes por un breve tiempo —de vista, no de corazón—, procuramos con mucho mayor empeño y gran deseo ver su rostro.",
+    "translation_notes": "Verbo emotivo: ἀπορφανισθέντες (aporphanisthentes, «dejados huérfanos / arrancados dolorosamente como padres privados de sus hijos») explica que su salida rápida de Tesalónica (Hch 17:10) fue separación física («de rostro, no de corazón»), no abandono."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 18,
+    "greek_text": "διότι ἠθελήσαμεν ἐλθεῖν πρὸς ὑμᾶς, ἐγὼ μὲν Παῦλος καὶ ἅπαξ καὶ δίς, καὶ ἐνέκοψεν ἡμᾶς ὁ Σατανᾶς.",
+    "translation": "Por eso quisimos ir a ustedes —yo, Pablo, una y otra vez—, pero Satanás nos lo impidió.",
+    "translation_notes": "El verbo ἐνέκοψεν (enekopsen, término militar: «cortar el camino / abrir zanja para frenar el avance») atribuye los obstáculos legales o persecuciones en Tesalónica a la oposición de Satanás."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 19,
+    "greek_text": "τίς γὰρ ἡμῶν ἐλπὶς ἢ χαρὰ ἢ στέφανος καυχήσεως— ἢ οὐχὶ καὶ ὑμεῖς— ἔμπροσθεν τοῦ κυρίου ἡμῶν Ἰησοῦ ἐν τῇ αὐτοῦ παρουσίᾳ;",
+    "translation": "Porque ¿cuál es nuestra esperanza, o gozo, o corona de gloria? ¿Acaso no lo son ustedes delante de nuestro Señor Jesús en su venida?",
+    "translation_notes": "Primera aparición en la carta de παρουσία (parousia, «presencia/venida real» de Cristo): los creyentes fieles son el στέφανος καυχήσεως («la corona triunfal de regocijo») del apóstol en el día de Cristo."
+  },
+  {
+    "book": "1TH",
+    "chapter": 2,
+    "verse": 20,
+    "greek_text": "ὑμεῖς γάρ ἐστε ἡ δόξα ἡμῶν καὶ ἡ χαρά.",
+    "translation": "Sí, ustedes son nuestra gloria y nuestro gozo.",
+    "translation_notes": "Afirmación enfática: ellos mismos (ὑμεῖς) son el motivo presente y futuro de alegría y honor del equipo misionero."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 1,
+    "greek_text": "Διὸ μηκέτι στέγοντες εὐδοκήσαμεν καταλειφθῆναι ἐν Ἀθήναις μόνοι,",
+    "translation": "Por lo cual, no pudiendo soportarlo más, nos pareció bien quedarnos solos en Atenas,",
+    "translation_notes": "El participio μηκέτι στέγοντες («no pudiendo aguantar/contener más» la inquietud pastoral, v. 1 y v. 5) muestra cuánto amaba Pablo a esta iglesia recién nacida, prefiriendo quedarse solo en Atenas (Hch 17:15–16)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 2,
+    "greek_text": "καὶ ἐπέμψαμεν Τιμόθεον, τὸν ἀδελφὸν ἡμῶν καὶ συνεργὸν τοῦ θεοῦ ἐν τῷ εὐαγγελίῳ τοῦ Χριστοῦ, εἰς τὸ στηρίξαι ὑμᾶς καὶ παρακαλέσαι ὑπὲρ τῆς πίστεως ὑμῶν",
+    "translation": "y enviamos a Timoteo, nuestro hermano y colaborador de Dios en el evangelio de Cristo, para fortalecerlos y animarlos en su fe,",
+    "translation_notes": "Doble elogio para Timoteo: «nuestro hermano» y συνεργὸς τοῦ θεοῦ («colaborador de Dios», título de gran honor). Su misión es στηρίξαι («afirmar/estabilizar») y παρακαλέσαι («alentar/consolar»)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 3,
+    "greek_text": "τὸ μηδένα σαίνεσθαι ἐν ταῖς θλίψεσιν ταύταις. αὐτοὶ γὰρ οἴδατε ὅτι εἰς τοῦτο κείμεθα·",
+    "translation": "a fin de que nadie se inquiete por estas tribulaciones; porque ustedes mismos saben que para esto estamos puestos.",
+    "translation_notes": "El verbo raro σαίνεσθαι (sainesthai) significaba originalmente «menear la cola (un perro) / halagar», y aquí «ser sacudido/turbado emocionalmente». Εἰς τοῦτο κείμεθα («para esto estamos destinados/puestos») recuerda que las aflicciones forman parte normal de la vida cristiana."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 4,
+    "greek_text": "καὶ γὰρ ὅτε πρὸς ὑμᾶς ἦμεν, προελέγομεν ὑμῖν ὅτι μέλλομεν θλίβεσθαι, καθὼς καὶ ἐγένετο καὶ οἴδατε.",
+    "translation": "Porque aun cuando estábamos con ustedes, les predecíamos que íbamos a sufrir tribulaciones, como en efecto sucedió y ustedes saben.",
+    "translation_notes": "Desde la catequesis inicial en Tesalónica (imperfecto προελέγομεν, «les advertíamos repetidamente»), Pablo nunca ocultó el costo de seguir a Cristo."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 5,
+    "greek_text": "διὰ τοῦτο κἀγὼ μηκέτι στέγων ἔπεμψα εἰς τὸ γνῶναι τὴν πίστιν ὑμῶν, μή πως ἐπείρασεν ὑμᾶς ὁ πειράζων καὶ εἰς κενὸν γένηται ὁ κόπος ἡμῶν.",
+    "translation": "Por esto también yo, no pudiendo soportarlo más, envié para conocer la fe de ustedes, no fuera que los hubiera tentado el tentador y nuestro trabajo hubiera sido en vano.",
+    "translation_notes": "Preocupación apostólica realista: ὁ πειράζων («el Tentador», Satanás) busca usar la persecución para hacer flaquear la fe (ἐπείρασεν), arruinando aparentemente la labor misionera."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 6,
+    "greek_text": "Ἄρτι δὲ ἐλθόντος Τιμοθέου πρὸς ἡμᾶς ἀφ’ ὑμῶν καὶ εὐαγγελισαμένου ἡμῖν τὴν πίστιν καὶ τὴν ἀγάπην ὑμῶν, καὶ ὅτι ἔχετε μνείαν ἡμῶν ἀγαθὴν πάντοτε ἐπιποθοῦντες ἡμᾶς ἰδεῖν καθάπερ καὶ ἡμεῖς ὑμᾶς,",
+    "translation": "Pero ahora, cuando Timoteo regresó de allá hasta nosotros y nos trajo buenas noticias de la fe y del amor de ustedes, y de que siempre guardan buen recuerdo de nosotros, deseando vernos así como también nosotros a ustedes,",
+    "translation_notes": "Verbo significativo: εὐαγγελισαμένου («nos anunció como un evangelio/buena nueva») la fidelidad de los tesalonicenses, reflejando el alivio inmenso que sintió Pablo en Corinto al recibir el informe de Timoteo."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 7,
+    "greek_text": "διὰ τοῦτο παρεκλήθημεν, ἀδελφοί, ἐφ’ ὑμῖν ἐπὶ πάσῃ τῇ ἀνάγκῃ καὶ θλίψει ἡμῶν διὰ τῆς ὑμῶν πίστεως,",
+    "translation": "por eso, hermanos, fuimos consolados respecto a ustedes en medio de toda nuestra necesidad y aflicción por medio de su fe;",
+    "translation_notes": "Reciprocidad pastoral: mientras Pablo sufría angustia y apuros (ἀνάγκῃ καὶ θλίψει) en Corinto, la perseverancia de la fe de ellos fue el instrumento de consuelo para el apóstol."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 8,
+    "greek_text": "ὅτι νῦν ζῶμεν ἐὰν ὑμεῖς στήκετε ἐν κυρίῳ.",
+    "translation": "porque ahora vivimos, si ustedes están firmes en el Señor.",
+    "translation_notes": "Expresión apasionada: νῦν ζῶμεν («ahora cobramos vida nueva / respiramos de verdad») condicionada a la firmeza de ustedes en el Señor (στήκετε ἐν κυρίῳ)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 9,
+    "greek_text": "τίνα γὰρ εὐχαριστίαν δυνάμεθα τῷ θεῷ ἀνταποδοῦναι περὶ ὑμῶν ἐπὶ πάσῃ τῇ χαρᾷ ᾗ χαίρομεν δι’ ὑμᾶς ἔμπροσθεν τοῦ θεοῦ ἡμῶν,",
+    "translation": "Pues ¿qué acción de gracias podemos devolver a Dios por ustedes, por todo el gozo con que nos gozamos por causa de ustedes delante de nuestro Dios,",
+    "translation_notes": "Gratitud desbordante que reconoce no poder pagarle (ἀνταποδοῦναι) a Dios por la alegría experimentada ante él."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 10,
+    "greek_text": "νυκτὸς καὶ ἡμέρας ὑπερεκπερισσοῦ δεόμενοι εἰς τὸ ἰδεῖν ὑμῶν τὸ πρόσωπον καὶ καταρτίσαι τὰ ὑστερήματα τῆς πίστεως ὑμῶν;",
+    "translation": "rogando de noche y de día con gran insistencia ver su rostro y completar lo que falta a su fe?",
+    "translation_notes": "El verbo καταρτίσαι (katartisai, «completar, ajustar, remendar lo que falta») indica que, aunque su fe era ejemplar, la salida apresurada de Pablo dejó enseñanzas doctrinales (como el estado de los fallecidos, cap. 4–5) que ahora suple por carta."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 11,
+    "greek_text": "Αὐτὸς δὲ ὁ θεὸς καὶ πατὴρ ἡμῶν καὶ ὁ κύριος ἡμῶν Ἰησοῦς κατευθύναι τὴν ὁδὸν ἡμῶν πρὸς ὑμᾶς·",
+    "translation": "Ahora bien, el mismo Dios y Padre nuestro, y nuestro Señor Jesús, dirijan nuestro camino hacia ustedes;",
+    "translation_notes": "Oración de deseo (optativo aoristo singular κατευθύναι, «enderece/allane el camino») que toma conjuntamente a Dios Padre y al Señor Jesús como un solo sujeto que gobierna los pasos misioneros."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 12,
+    "greek_text": "ὑμᾶς δὲ ὁ κύριος πλεονάσαι καὶ περισσεύσαι τῇ ἀγάπῃ εἰς ἀλλήλους καὶ εἰς πάντας, καθάπερ καὶ ἡμεῖς εἰς ὑμᾶς,",
+    "translation": "y a ustedes el Señor los haga crecer y abundar en amor unos para con otros y para con todos, así como también nosotros para con ustedes,",
+    "translation_notes": "Doble verbo de abundancia (πλεονάσαι καὶ περισσεύσαι): el amor cristiano crece primero dentro de la comunidad («unos para con otros») y se desborda hacia afuera («para con todos»)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 3,
+    "verse": 13,
+    "greek_text": "εἰς τὸ στηρίξαι ὑμῶν τὰς καρδίας ἀμέμπτους ἐν ἁγιωσύνῃ ἔμπροσθεν τοῦ θεοῦ καὶ πατρὸς ἡμῶν ἐν τῇ παρουσίᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ μετὰ πάντων τῶν ἁγίων αὐτοῦ.",
+    "translation": "a fin de afirmar sus corazones irreprensibles en santidad delante de nuestro Dios y Padre, en la venida de nuestro Señor Jesús con todos sus santos.",
+    "translation_notes": "Vínculo entre amor y santidad: la meta del amor abundante es fortalecer el corazón en santidad intachable (ἀμέμπτους ἐν ἁγιωσύνῃ) para el día de la parusía de Jesús con todos sus santos (μετὰ πάντων τῶν ἁγίων, eco de Zac 14:5 LXX)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 1,
+    "greek_text": "Λοιπὸν οὖν, ἀδελφοί, ἐρωτῶμεν ὑμᾶς καὶ παρακαλοῦμεν ἐν κυρίῳ Ἰησοῦ, ἵνα καθὼς παρελάβετε παρ’ ἡμῶν τὸ πῶς δεῖ ὑμᾶς περιπατεῖν καὶ ἀρέσκειν θεῷ, καθὼς καὶ περιπατεῖτε, ἵνα περισσεύητε μᾶλλον.",
+    "translation": "Por lo demás, hermanos, les rogamos y exhortamos en el Señor Jesús que, tal como aprendieron de nosotros cómo deben andar y agradar a Dios —como de hecho ya andan—, sigan progresando aún más.",
+    "translation_notes": "Inicio de las exhortaciones prácticas (4:1–5:22): Pablo reconoce con cariño que ya caminan bien (καθὼς καὶ περιπατεῖτε), pero los anima a «abundar todavía más» (ἵνα περισσεύητε μᾶλλον)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 2,
+    "greek_text": "οἴδατε γὰρ τίνας παραγγελίας ἐδώκαμεν ὑμῖν διὰ τοῦ κυρίου Ἰησοῦ.",
+    "translation": "Porque saben qué instrucciones les dimos por autoridad del Señor Jesús.",
+    "translation_notes": "Παραγγελία (parangelia) era un mandato firme o instrucción militar recibida del comandante: estas normas morales no son meras costumbres culturales de Pablo, sino mandatos del Señor Jesús."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 3,
+    "greek_text": "τοῦτο γάρ ἐστιν θέλημα τοῦ θεοῦ, ὁ ἁγιασμὸς ὑμῶν, ἀπέχεσθαι ὑμᾶς ἀπὸ τῆς πορνείας,",
+    "translation": "Pues esta es la voluntad de Dios: la santificación de ustedes, que se aparten de la inmoralidad sexual;",
+    "translation_notes": "La santificación (ἁγιασμός, consagración ética y espiritual continua) en una ciudad pagana grecorromana comienza por el dominio propio frente a la πορνεία (toda práctica sexual ilícita)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 4,
+    "greek_text": "εἰδέναι ἕκαστον ὑμῶν τὸ ἑαυτοῦ σκεῦος κτᾶσθαι ἐν ἁγιασμῷ καὶ τιμῇ,",
+    "translation": "que cada uno de ustedes sepa controlar su propio cuerpo en santidad y honor,",
+    "translation_notes": "Expresión debatida: τὸ ἑαυτοῦ σκεῦος κτᾶσθαι («poseer/adquirir o saber controlar su propio vaso»). Σκεῦος («vaso/recipiente») suele interpretarse aquí bien como «su propio cuerpo» (mantenerlo en dominio propio, cf. 2 Co 4:7; 1 S 21:5) o como «tomar/tratar a su propia esposa» en santidad y honra (cf. 1 P 3:7). Traducir «controlar su propio cuerpo» conserva la fuerza ética directa."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 5,
+    "greek_text": "μὴ ἐν πάθει ἐπιθυμίας καθάπερ καὶ τὰ ἔθνη τὰ μὴ εἰδότα τὸν θεόν,",
+    "translation": "no en pasión de concupiscencia, como los gentiles que no conocen a Dios;",
+    "translation_notes": "Contraste entre la ética cristiana y el entorno idolátrico: πάθος ἐπιθυμίας («pasión desenfrenada de lujuria») brota de desconocer al Dios santo (τὰ μὴ εἰδότα τὸν θεόν)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 6,
+    "greek_text": "τὸ μὴ ὑπερβαίνειν καὶ πλεονεκτεῖν ἐν τῷ πράγματι τὸν ἀδελφὸν αὐτοῦ, διότι ἔκδικος κύριος περὶ πάντων τούτων, καθὼς καὶ προείπαμεν ὑμῖν καὶ διεμαρτυράμεθα.",
+    "translation": "y que nadie traspase los límites ni se aproveche de su hermano en este asunto, porque el Señor es vengador de todo esto, como ya les dijimos antes y les advertimos solemnemente.",
+    "translation_notes": "Los verbos ὑπερβαίνειν («cruzar el límite/transgredir») y πλεονεκτεῖν («sacar ventaja codiciosa/defraudar») señalan que la inmoralidad sexual hiere gravemente al prójimo y a la familia del hermano («en este asunto», ἐν τῷ πράγματι), atrayendo el juicio de Dios (ἔκδικος κύριος, cf. Dt 32:35)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 7,
+    "greek_text": "οὐ γὰρ ἐκάλεσεν ἡμᾶς ὁ θεὸς ἐπὶ ἀκαθαρσίᾳ ἀλλ’ ἐν ἁγιασμῷ.",
+    "translation": "Porque Dios no nos llamó a impureza, sino a vivir en santidad.",
+    "translation_notes": "El cambio de preposición es intencional: no ἐπὶ ἀκαθαρσίᾳ («con miras a impureza»), sino ἐν ἁγιασμῷ («dentro de la esfera de la santificación»)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 8,
+    "greek_text": "τοιγαροῦν ὁ ἀθετῶν οὐκ ἄνθρωπον ἀθετεῖ ἀλλὰ τὸν θεὸν τὸν καὶ διδόντα τὸ πνεῦμα αὐτοῦ τὸ ἅγιον εἰς ὑμᾶς.",
+    "translation": "Por tanto, el que rechaza esto no rechaza a un hombre, sino a Dios, quien también les da su Espíritu Santo.",
+    "translation_notes": "El participio presente διδόντα («quien sigue dando continuamente») subraya que el Espíritu es *Santo* y habita en los creyentes (εἰς ὑμᾶς), haciendo incompatible la vida cristiana con la impureza."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 9,
+    "greek_text": "Περὶ δὲ τῆς φιλαδελφίας οὐ χρείαν ἔχετε γράφειν ὑμῖν, αὐτοὶ γὰρ ὑμεῖς θεοδίδακτοί ἐστε εἰς τὸ ἀγαπᾶν ἀλλήλους·",
+    "translation": "En cuanto al amor fraternal, no tienen necesidad de que les escriba, porque ustedes mismos han sido enseñados por Dios a amarse los unos a los otros;",
+    "translation_notes": "Neologismo cristiano notable: θεοδίδακτοι (theodidaktoi, «enseñados directamente por Dios», con eco de Is 54:13 y Jer 31:33–34), demostrando que el Espíritu ya estaba produciendo φιλαδελφία («amor entre hermanos»)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 10,
+    "greek_text": "καὶ γὰρ ποιεῖτε αὐτὸ εἰς πάντας τοὺς ἀδελφοὺς τοὺς ἐν ὅλῃ τῇ Μακεδονίᾳ. παρακαλοῦμεν δὲ ὑμᾶς, ἀδελφοί, περισσεύειν μᾶλλον,",
+    "translation": "y en verdad lo practican con todos los hermanos que están en toda Macedonia. Pero les rogamos, hermanos, que abunden aún más,",
+    "translation_notes": "Su hospitalidad y ayuda mutua alcanzaban a toda la provincia de Macedonia (Filipos, Berea, etc.)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 11,
+    "greek_text": "καὶ φιλοτιμεῖσθαι ἡσυχάζειν καὶ πράσσειν τὰ ἴδια καὶ ἐργάζεσθαι ταῖς χερσὶν ὑμῶν, καθὼς ὑμῖν παρηγγείλαμεν,",
+    "translation": "y que procuren vivir tranquilos, ocuparse de sus propios asuntos y trabajar con sus propias manos, tal como les mandamos,",
+    "translation_notes": "Paradoja verbal: φιλοτιμεῖσθαι ἡσυχάζειν («tengan como ambición honorable llevar una vida serena/tranquila»), opuesto al alboroto ocioso de quienes dejaban de trabajar esperando el regreso inmediato de Cristo (cf. 2 Ts 3:11)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 12,
+    "greek_text": "ἵνα περιπατῆτε εὐσχημόνως πρὸς τοὺς ἔξω καὶ μηδενὸς χρείαν ἔχητε.",
+    "translation": "a fin de que anden honradamente para con los de afuera y no dependan de nadie.",
+    "translation_notes": "Testimonio ético ante la sociedad (πρὸς τοὺς ἔξω): el trabajo digno da buen nombre al evangelio y evita convertirse en carga económica innecesaria."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 13,
+    "greek_text": "Οὐ θέλομεν δὲ ὑμᾶς ἀγνοεῖν, ἀδελφοί, περὶ τῶν κοιμωμένων, ἵνα μὴ λυπῆσθε καθὼς καὶ οἱ λοιποὶ οἱ μὴ ἔχοντες ἐλπίδα.",
+    "translation": "Tampoco queremos, hermanos, que ignoren acerca de los que duermen, para que no se entristezcan como los demás, que no tienen esperanza.",
+    "translation_notes": "Consuelo ante el duelo (vv. 13–18): a los creyentes fallecidos se les llama τῶν κοιμωμένων («los que duermen», metáfora bíblica de la muerte física como descanso temporal antes de la resurrección). El creyente siente dolor humano, pero no desesperanza pagana (οἱ μὴ ἔχοντες ἐλπίδα)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 14,
+    "greek_text": "εἰ γὰρ πιστεύομεν ὅτι Ἰησοῦς ἀπέθανεν καὶ ἀνέστη, οὕτως καὶ ὁ θεὸς τοὺς κοιμηθέντας διὰ τοῦ Ἰησοῦ ἄξει σὺν αὐτῷ.",
+    "translation": "Porque si creemos que Jesús murió y resucitó, así también traerá Dios con Jesús a los que durmieron en él.",
+    "translation_notes": "La resurrección histórica de Jesús es la garantía de la resurrección de los creyentes que murieron unidos a él (τοὺς κοιμηθέντας διὰ τοῦ Ἰησοῦ)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 15,
+    "greek_text": "τοῦτο γὰρ ὑμῖν λέγομεν ἐν λόγῳ κυρίου, ὅτι ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι εἰς τὴν παρουσίαν τοῦ κυρίου οὐ μὴ φθάσωμεν τοὺς κοιμηθέντας·",
+    "translation": "Por lo cual les decimos esto por palabra del Señor: que nosotros, los que vivimos, los que hayamos quedado hasta la venida del Señor, de ningún modo precederemos a los que durmieron.",
+    "translation_notes": "«Por palabra del Señor» (ἐν λόγῳ κυρίου): enseñanza autoritativa de Jesús (cf. Mt 24:30–31). Los vivos en la parusía no tendrán ventaja ni precederán (οὐ μὴ φθάσωμεν) a quienes ya murieron en Cristo."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 16,
+    "greek_text": "ὅτι αὐτὸς ὁ κύριος ἐν κελεύσματι, ἐν φωνῇ ἀρχαγγέλου καὶ ἐν σάλπιγγι θεοῦ, καταβήσεται ἀπ’ οὐρανοῦ, καὶ οἱ νεκροὶ ἐν Χριστῷ ἀναστήσονται πρῶτον,",
+    "translation": "Porque el Señor mismo descenderá del cielo con voz de mando, con voz de arcángel y con trompeta de Dios, y los muertos en Cristo resucitarán primero.",
+    "translation_notes": "Tres señales audibles de triunfo real: κέλευσμα (grito de mando militar/capitán), voz de arcángel y trompeta de Dios (cf. Éx 19:16; Mt 24:31). Primero resucitan con cuerpo glorioso «los muertos en Cristo»."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 17,
+    "greek_text": "ἔπειτα ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι ἅμα σὺν αὐτοῖς ἁρπαγησόμεθα ἐν νεφέλαις εἰς ἀπάντησιν τοῦ κυρίου εἰς ἀέρα· καὶ οὕτως πάντοτε σὺν κυρίῳ ἐσόμεθα.",
+    "translation": "Luego nosotros, los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire; y así estaremos siempre con el Señor.",
+    "translation_notes": "El verbo ἁρπαγησόμεθα («seremos arrebatados repentinamente») se une a la imagen cívica grecorromana de ἀπάντησις (eis apantēsin, «salir al encuentro»): cuando un rey o dignatario se acercaba a una ciudad, los ciudadanos salían a recibirlo afuera para escoltarlo triunfalmente de regreso. La promesa central es «estaremos siempre con el Señor»."
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 18,
+    "greek_text": "ὥστε παρακαλεῖτε ἀλλήλους ἐν τοῖς λόγοις τούτοις.",
+    "translation": "Por lo tanto, aliéntense unos a otros con estas palabras.",
+    "translation_notes": "Propósito pastoral de la escatología: no alimentar especulación curiosa, sino consolar y fortalecer mutuamente (παρακαλεῖτε ἀλλήλους) frente a la muerte."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 1,
+    "greek_text": "Περὶ δὲ τῶν χρόνων καὶ τῶν καιρῶν, ἀδελφοί, οὐ χρείαν ἔχετε ὑμῖν γράφεσθαι,",
+    "translation": "Pero acerca de los tiempos y las ocasiones, hermanos, no tienen necesidad de que les escriba,",
+    "translation_notes": "Doble término temporal: χρόνοι (chronoi, lapsos de tiempo/duración) y καιροί (kairoi, momentos decisivos/ocasiones señaladas, cf. Hch 1:7)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 2,
+    "greek_text": "αὐτοὶ γὰρ ἀκριβῶς οἴδατε ὅτι ἡμέρα κυρίου ὡς κλέπτης ἐν νυκτὶ οὕτως ἔρχεται.",
+    "translation": "porque ustedes mismos saben perfectamente que el día del Señor vendrá así como ladrón en la noche.",
+    "translation_notes": "Imagen tomada directamente de la enseñanza de Jesús (Mt 24:43; Lc 12:39): «el día del Señor» (ἡμέρα κυρίου, el Día de Yahvé del AT aplicado a la venida de Cristo) llegará de manera repentina e imprevisible para quienes viven descuidados."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 3,
+    "greek_text": "ὅταν λέγωσιν· Εἰρήνη καὶ ἀσφάλεια, τότε αἰφνίδιος αὐτοῖς ἐφίσταται ὄλεθρος ὥσπερ ἡ ὠδὶν τῇ ἐν γαστρὶ ἐχούσῃ, καὶ οὐ μὴ ἐκφύγωσιν.",
+    "translation": "Cuando digan: «Paz y seguridad», entonces vendrá sobre ellos destrucción repentina, como los dolores de parto a la mujer encinta, y de ninguna manera escaparán.",
+    "translation_notes": "Alusión posible al lema propagandístico imperial romano (*Pax et Securitas*): la falsa confianza humana precede al juicio súbito e inevitable, ilustrado con la metáfora bíblica de los dolores de parto (Is 13:8; Jer 6:24)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 4,
+    "greek_text": "ὑμεῖς δέ, ἀδελφοί, οὐκ ἐστὲ ἐν σκότει, ἵνα ἡ ἡμέρα ὑμᾶς ὡς κλέπτης καταλάβῃ,",
+    "translation": "Pero ustedes, hermanos, no están en tinieblas, para que aquel día los sorprenda como ladrón;",
+    "translation_notes": "El creyente vigilante no vive a oscuras, por lo que el regreso de Cristo no lo toma desprevenido como a un incauto."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 5,
+    "greek_text": "πάντες γὰρ ὑμεῖς υἱοὶ φωτός ἐστε καὶ υἱοὶ ἡμέρας. οὐκ ἐσμὲν νυκτὸς οὐδὲ σκότους·",
+    "translation": "porque todos ustedes son hijos de la luz e hijos del día; no somos de la noche ni de las tinieblas.",
+    "translation_notes": "Semitismo de pertenencia moral («hijos de la luz / del día»): pertenecen al nuevo orden luminoso inaugurado por Cristo."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 6,
+    "greek_text": "ἄρα οὖν μὴ καθεύδωμεν ὡς οἱ λοιποί, ἀλλὰ γρηγορῶμεν καὶ νήφωμεν.",
+    "translation": "Por tanto, no durmamos como los demás, sino velemos y seamos sobrios.",
+    "translation_notes": "Juego verbal con el cap. 4: allí «dormir» (κοιμάω) era la muerte física; aquí «dormir» (καθεύδω) significa letargo moral y espiritual. Exige γρηγορῶμεν («mantengámonos despiertos») y νήφωμεν («seamos lúcidos y sobrios»)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 7,
+    "greek_text": "οἱ γὰρ καθεύδοντες νυκτὸς καθεύδουσιν, καὶ οἱ μεθυσκόμενοι νυκτὸς μεθύουσιν·",
+    "translation": "Pues los que duermen, de noche duermen, y los que se embriagan, de noche se embriagan.",
+    "translation_notes": "Observación cotidiana de la vida nocturna antigua usada como metáfora moral de quienes viven sin conciencia de Dios."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 8,
+    "greek_text": "ἡμεῖς δὲ ἡμέρας ὄντες νήφωμεν, ἐνδυσάμενοι θώρακα πίστεως καὶ ἀγάπης καὶ περικεφαλαίαν ἐλπίδα σωτηρίας·",
+    "translation": "Pero nosotros, que somos del día, seamos sobrios, habiéndonos vestido con la coraza de la fe y del amor, y por casco la esperanza de la salvación.",
+    "translation_notes": "Versión temprana y compacta de la armadura espiritual (Is 59:17; cf. Ef 6:14–17), estructurada según la tríada paulina: coraza = fe y amor; yelmo = esperanza de salvación."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 9,
+    "greek_text": "ὅτι οὐκ ἔθετο ἡμᾶς ὁ θεὸς εἰς ὀργὴν ἀλλὰ εἰς περιποίησιν σωτηρίας διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ,",
+    "translation": "Porque no nos puso Dios para ira, sino para alcanzar salvación por medio de nuestro Señor Jesucristo,",
+    "translation_notes": "Seguridad salvífica: el propósito soberano de Dios (ἔθετο) para su pueblo no es la condenación futura (εἰς ὀργήν), sino περιποίησις σωτηρίας («posesión plena de la salvación») por Cristo."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 10,
+    "greek_text": "τοῦ ἀποθανόντος περὶ ἡμῶν ἵνα εἴτε γρηγορῶμεν εἴτε καθεύδωμεν ἅμα σὺν αὐτῷ ζήσωμεν.",
+    "translation": "quien murió por nosotros para que, ya sea que velemos o que durmamos, vivamos juntamente con él.",
+    "translation_notes": "Aquí «velar o dormir» vuelve al sentido de «estar vivos o haber muerto» en el momento de su venida (cf. Ro 14:8): la muerte expiatoria de Cristo (περὶ ἡμῶν) garantiza la unión eterna con él en ambos casos."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 11,
+    "greek_text": "διὸ παρακαλεῖτε ἀλλήλους καὶ οἰκοδομεῖτε εἷς τὸν ἕνα, καθὼς καὶ ποιεῖτε.",
+    "translation": "Por eso, anímense unos a otros y edifíquense el uno al otro, así como en efecto lo hacen.",
+    "translation_notes": "Edificación mutua comunitaria (οἰκοδομεῖτε εἷς τὸν ἕνα): cada creyente participa en sostener la esperanza de los demás."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 12,
+    "greek_text": "Ἐρωτῶμεν δὲ ὑμᾶς, ἀδελφοί, εἰδέναι τοὺς κοπιῶντας ἐν ὑμῖν καὶ προϊσταμένους ὑμῶν ἐν κυρίῳ καὶ νουθετοῦντας ὑμᾶς,",
+    "translation": "Ahora les rogamos, hermanos, que reconozcan a los que trabajan arduamente entre ustedes, que los dirigen en el Señor y los amonestan,",
+    "translation_notes": "Tres participios bajo un solo artículo que describen a los líderes locales de la iglesia naciente por su *función* pastoral más que por un título formal: los que se esfuerzan trabajando (κοπιῶντας), cuidan/presiden (προϊσταμένους) y orientan/exhortan (νουθετοῦντας)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 13,
+    "greek_text": "καὶ ἡγεῖσθαι αὐτοὺς ὑπερεκπερισσοῦ ἐν ἀγάπῃ διὰ τὸ ἔργον αὐτῶν. εἰρηνεύετε ἐν ἑαυτοῖς.",
+    "translation": "y que los tengan en muy alta estima con amor a causa de su obra. Vivan en paz unos con otros.",
+    "translation_notes": "El adverbio compuesto ὑπερεκπερισσοῦ («sobreabundantemente») pide estima amorosa hacia quienes sirven fielmente, culminando en el llamado a la paz interna (εἰρηνεύετε ἐν ἑαυτοῖς)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 14,
+    "greek_text": "παρακαλοῦμεν δὲ ὑμᾶς, ἀδελφοί, νουθετεῖτε τοὺς ἀτάκτους, παραμυθεῖσθε τοὺς ὀλιγοψύχους, ἀντέχεσθε τῶν ἀσθενῶν, μακροθυμεῖτε πρὸς πάντας.",
+    "translation": "También les exhortamos, hermanos: amonesten a los indisciplinados, animen a los de poco ánimo, sostengan a los débiles, sean pacientes con todos.",
+    "translation_notes": "Cuidado pastoral diferenciado según cada necesidad (vv. 14–15): los ἀτάκτους («indisciplinados/desordenados que abandonan su puesto», término militar, cf. 2 Ts 3:6–11) necesitan firme amonestación; los ὀλιγοψύχους («desalentados/de espíritu pequeño»), consuelo cálido; los débiles (ἀσθενῶν), apoyo firme; y todos, paciencia."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 15,
+    "greek_text": "ὁρᾶτε μή τις κακὸν ἀντὶ κακοῦ τινι ἀποδῷ, ἀλλὰ πάντοτε τὸ ἀγαθὸν διώκετε εἰς ἀλλήλους καὶ εἰς πάντας.",
+    "translation": "Miren que ninguno devuelva a otro mal por mal; antes bien, sigan siempre lo bueno unos para con otros y para con todos.",
+    "translation_notes": "Rechazo radical de la venganza (eco de Mt 5:39, 44; Ro 12:17): el verbo διώκετε («persigan con empeño») ordena buscar activamente el bien incluso de quienes nos hostigan."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 16,
+    "greek_text": "πάντοτε χαίρετε,",
+    "translation": "Estén siempre gozosos.",
+    "translation_notes": "Primer miembro de la tríada espiritual de los vv. 16–18: πάντοτε χαίρετε —gozo continuo arraigado en el Señor, no en las circunstancias."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 17,
+    "greek_text": "ἀδιαλείπτως προσεύχεσθε,",
+    "translation": "Oren sin cesar.",
+    "translation_notes": "Ἀδιαλείπτως προσεύχεσθε: actitud constante de dependencia, comunión y diálogo continuo con Dios a lo largo del día."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 18,
+    "greek_text": "ἐν παντὶ εὐχαριστεῖτε· τοῦτο γὰρ θέλημα θεοῦ ἐν Χριστῷ Ἰησοῦ εἰς ὑμᾶς.",
+    "translation": "Den gracias en todo, porque esta es la voluntad de Dios para ustedes en Cristo Jesús.",
+    "translation_notes": "Ἐν παντί («en toda circunstancia»): no necesariamente *por* el mal mismo, sino *en medio de* toda situación, confiando en la soberanía bondadosa de Dios en Cristo Jesús."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 19,
+    "greek_text": "τὸ πνεῦμα μὴ σβέννυτε,",
+    "translation": "No apaguen el Espíritu;",
+    "translation_notes": "Metáfora del fuego (μὴ σβέννυτε): advierte contra sofocar la acción y los dones del Espíritu en el culto comunitario por miedo a abusos o frialdad formalista."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 20,
+    "greek_text": "προφητείας μὴ ἐξουθενεῖτε·",
+    "translation": "no menosprecien las profecías,",
+    "translation_notes": "Equilibrio espiritual (vv. 19–22): no despreciar la palabra profética edificante (1 Co 14:3), pero tampoco aceptarla sin examen (v. 21)."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 21,
+    "greek_text": "πάντα δὲ δοκιμάζετε, τὸ καλὸν κατέχετε,",
+    "translation": "antes bien, examínenlo todo, retengan lo bueno;",
+    "translation_notes": "El verbo δοκιμάζετε («pongan a prueba como se examina una moneda o metal genuino») exige discernimiento bíblico frente a toda enseñanza o manifestación espiritual."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 22,
+    "greek_text": "ἀπὸ παντὸς εἴδους πονηροῦ ἀπέχεσθε.",
+    "translation": "absténganse de toda clase de mal.",
+    "translation_notes": "Ἀπὸ παντὸς εἴδους πονηροῦ («de toda forma/especie de mal»): rechazar toda expresión de error o maldad tras haberlo examinado."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 23,
+    "greek_text": "Αὐτὸς δὲ ὁ θεὸς τῆς εἰρήνης ἁγιάσαι ὑμᾶς ὁλοτελεῖς, καὶ ὁλόκληρον ὑμῶν τὸ πνεῦμα καὶ ἡ ψυχὴ καὶ τὸ σῶμα ἀμέμπτως ἐν τῇ παρουσίᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τηρηθείη.",
+    "translation": "Y el mismo Dios de paz los santifique por completo; y todo su ser —espíritu, alma y cuerpo— sea guardado irreprensible para la venida de nuestro Señor Jesucristo.",
+    "translation_notes": "Bendición integral: ὁλοτελεῖς («completamente hasta la meta») y ὁλόκληρον («íntegro en todas sus partes»). La enumeración «espíritu, alma y cuerpo» enfatiza la totalidad indivisible de la persona consagrada a Dios para la parusía."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 24,
+    "greek_text": "πιστὸς ὁ καλῶν ὑμᾶς, ὃς καὶ ποιήσει.",
+    "translation": "Fiel es el que los llama, quien también lo hará.",
+    "translation_notes": "Garantía de la santificación final: quien comenzó el llamado (ὁ καλῶν, presente continuo) es fiel (πιστός) para llevarlo a término."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 25,
+    "greek_text": "Ἀδελφοί, προσεύχεσθε περὶ ἡμῶν.",
+    "translation": "Hermanos, oren también por nosotros.",
+    "translation_notes": "Humildad apostólica: Pablo pide el respaldo en oración de la joven congregación."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 26,
+    "greek_text": "ἀσπάσασθε τοὺς ἀδελφοὺς πάντας ἐν φιλήματι ἁγίῳ.",
+    "translation": "Saluden a todos los hermanos con un beso santo.",
+    "translation_notes": "Ἐν φιλήματι ἁγίῳ («con un beso santo»): gesto cultural mediterráneo de afecto familiar y reconciliación que en el culto cristiano rompía barreras entre judíos, gentiles, esclavos y libres."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 27,
+    "greek_text": "ἐνορκίζω ὑμᾶς τὸν κύριον ἀναγνωσθῆναι τὴν ἐπιστολὴν πᾶσιν τοῖς ἀδελφοῖς.",
+    "translation": "Les encargo solemnemente por el Señor que esta carta sea leída a todos los hermanos.",
+    "translation_notes": "Verbo fuerte ἐνορκίζω («conjuro bajo juramento por el Señor»): Pablo exige lectura pública integral ante toda la comunidad, incluidos los recién convertidos y quienes tenían conflictos o dudas."
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 28,
+    "greek_text": "ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μεθ’ ὑμῶν.",
+    "translation": "La gracia de nuestro Señor Jesucristo sea con ustedes.",
+    "translation_notes": "Bendición breve de despedida centrada en la gracia suficiente de Cristo."
+  }
+]

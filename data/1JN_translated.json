@@ -1,0 +1,842 @@
+[
+  {
+    "book": "1JN",
+    "chapter": 1,
+    "verse": 1,
+    "greek_text": "Ὃ ἦν ἀπ’ ἀρχῆς, ὃ ἀκηκόαμεν, ὃ ἑωράκαμεν τοῖς ὀφθαλμοῖς ἡμῶν, ὃ ἐθεασάμεθα καὶ αἱ χεῖρες ἡμῶν ἐψηλάφησαν, περὶ τοῦ λόγου τῆς ζωῆς—",
+    "translation": "Lo que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que contemplamos y palparon nuestras manos acerca de la Palabra de vida",
+    "translation_notes": "Prólogo paralelo al Evangelio de Juan (Jn 1:1, 14): afirma tanto la preexistencia eterna («lo que era [ἦν] desde el principio») como la encarnación física verificable por tres sentidos apostólicos —oído (ἀκηκόαμεν), vista detenida (ἐθεασάμεθα) y tacto directo (ἐψηλάφησαν, cf. Lc 24:39; Jn 20:27)— refutando todo docetismo."
+  },
+  {
+    "book": "1JN",
+    "chapter": 1,
+    "verse": 2,
+    "greek_text": "καὶ ἡ ζωὴ ἐφανερώθη, καὶ ἑωράκαμεν καὶ μαρτυροῦμεν καὶ ἀπαγγέλλομεν ὑμῖν τὴν ζωὴν τὴν αἰώνιον ἥτις ἦν πρὸς τὸν πατέρα καὶ ἐφανερώθη ἡμῖν—",
+    "translation": "—y la vida fue manifestada, y la hemos visto, y testificamos y les anunciamos la vida eterna, la cual estaba con el Padre y nos fue manifestada—,",
+    "translation_notes": "Paréntesis apostólico enfático: la «vida eterna» (τὴν ζωὴν τὴν αἰώνιον) existía en comunión íntima «cara a cara con el Padre» (πρὸς τὸν πατέρα, igual que Jn 1:1) y se hizo visible en Jesucristo."
+  },
+  {
+    "book": "1JN",
+    "chapter": 1,
+    "verse": 3,
+    "greek_text": "ὃ ἑωράκαμεν καὶ ἀκηκόαμεν ἀπαγγέλλομεν καὶ ὑμῖν, ἵνα καὶ ὑμεῖς κοινωνίαν ἔχητε μεθ’ ἡμῶν· καὶ ἡ κοινωνία δὲ ἡ ἡμετέρα μετὰ τοῦ πατρὸς καὶ μετὰ τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ·",
+    "translation": "lo que hemos visto y oído, eso también les anunciamos a ustedes, para que también ustedes tengan comunión con nosotros; y nuestra comunión verdaderamente es con el Padre y con su Hijo Jesucristo.",
+    "translation_notes": "Propósito del testimonio apostólico: incluir a los lectores en la κοινωνία (koinōnia, participación viva compartida) horizontal con los apóstoles y vertical con el Padre y con su Hijo Jesucristo."
+  },
+  {
+    "book": "1JN",
+    "chapter": 1,
+    "verse": 4,
+    "greek_text": "καὶ ταῦτα γράφομεν ἡμεῖς ἵνα ἡ χαρὰ ἡμῶν ᾖ πεπληρωμένη.",
+    "translation": "Estas cosas les escribimos, para que nuestro gozo sea completo.",
+    "translation_notes": "Nota textual: SBLGNT lee ἡ χαρὰ ἡμῶν («nuestro gozo», con B, Sinaiticus, etc.), expresando que la alegría del apóstol se colma (πεπληρωμένη) cuando la iglesia permanece en comunión con Cristo (cf. Jn 15:11)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 1,
+    "verse": 5,
+    "greek_text": "Καὶ ἔστιν αὕτη ἡ ἀγγελία ἣν ἀκηκόαμεν ἀπ’ αὐτοῦ καὶ ἀναγγέλλομεν ὑμῖν, ὅτι ὁ θεὸς φῶς ἐστιν καὶ σκοτία ἐν αὐτῷ οὐκ ἔστιν οὐδεμία.",
+    "translation": "Y este es el mensaje que hemos oído de él y les anunciamos: que Dios es luz y en él no hay ninguna oscuridad.",
+    "translation_notes": "Primera definición esencial de Dios en la carta (junto con «Dios es amor», 4:8): ὁ θεὸς φῶς ἐστιν («Dios es luz» en santidad, verdad y pureza absoluta). La doble negación en griego (οὐκ ἔστιν οὐδεμία) descarta por completo la menor sombra de mal o engaño en Dios."
+  },
+  {
+    "book": "1JN",
+    "chapter": 1,
+    "verse": 6,
+    "greek_text": "ἐὰν εἴπωμεν ὅτι κοινωνίαν ἔχομεν μετ’ αὐτοῦ καὶ ἐν τῷ σκότει περιπατῶμεν, ψευδόμεθα καὶ οὐ ποιοῦμεν τὴν ἀλήθειαν·",
+    "translation": "Si decimos que tenemos comunión con él, y andamos en oscuridad, mentimos y no practicamos la verdad.",
+    "translation_notes": "Primera de las tres afirmaciones falsas («Si decimos...», vv. 6, 8, 10): la verdad en Juan no es solo algo que se sabe, sino algo que se *hace* o practica (οὐ ποιοῦμεν τὴν ἀλήθειαν, cf. Jn 3:21)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 1,
+    "verse": 7,
+    "greek_text": "ἐὰν δὲ ἐν τῷ φωτὶ περιπατῶμεν ὡς αὐτός ἐστιν ἐν τῷ φωτί, κοινωνίαν ἔχομεν μετ’ ἀλλήλων καὶ τὸ αἷμα Ἰησοῦ τοῦ υἱοῦ αὐτοῦ καθαρίζει ἡμᾶς ἀπὸ πάσης ἁμαρτίας.",
+    "translation": "Pero si andamos en la luz, así como él está en la luz, tenemos comunión unos con otros, y la sangre de Jesús su Hijo nos limpia continuamente de todo pecado.",
+    "translation_notes": "El verbo presente καθαρίζει («limpia continuamente») muestra una purificación constante para quien camina en transparencia ante la luz de Dios, produciendo auténtica comunión fraterna."
+  },
+  {
+    "book": "1JN",
+    "chapter": 1,
+    "verse": 8,
+    "greek_text": "ἐὰν εἴπωμεν ὅτι ἁμαρτίαν οὐκ ἔχομεν, ἑαυτοὺς πλανῶμεν καὶ ἡ ἀλήθεια οὐκ ἔστιν ἐν ἡμῖν.",
+    "translation": "Si decimos que no tenemos pecado, nos engañamos a nosotros mismos y la verdad no está en nosotros.",
+    "translation_notes": "Segunda afirmación falsa: negar la presencia de nuestra condición pecaminosa (ἁμαρτίαν οὐκ ἔχομεν) es autoengaño (ἑαυτοὺς πλανῶμεν)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 1,
+    "verse": 9,
+    "greek_text": "ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν, πιστός ἐστιν καὶ δίκαιος ἵνα ἀφῇ ἡμῖν τὰς ἁμαρτίας καὶ καθαρίσῃ ἡμᾶς ἀπὸ πάσης ἀδικίας.",
+    "translation": "Si confesamos nuestros pecados, él es fiel y justo para perdonarnos los pecados y limpiarnos de toda maldad.",
+    "translation_notes": "Ὁμολογῶμεν (presente continuo: «confesamos / reconocemos estando de acuerdo con Dios sobre nuestro pecado»). Dios perdona porque es *fiel* (πιστός a sus promesas del pacto) y *justo* (δίκαιος porque el castigo ya fue pagado en la sangre de Cristo, v. 7)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 1,
+    "verse": 10,
+    "greek_text": "ἐὰν εἴπωμεν ὅτι οὐχ ἡμαρτήκαμεν, ψεύστην ποιοῦμεν αὐτὸν καὶ ὁ λόγος αὐτοῦ οὐκ ἔστιν ἐν ἡμῖν.",
+    "translation": "Si decimos que no hemos pecado, lo hacemos a él mentiroso, y su palabra no está en nosotros.",
+    "translation_notes": "Tercera afirmación falsa: negar actos concretos de pecado (οὐχ ἡμαρτήκαμεν, perfecto) contradice el diagnóstico de toda la Escritura y llama mentiroso a Dios."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 1,
+    "greek_text": "Τεκνία μου, ταῦτα γράφω ὑμῖν ἵνα μὴ ἁμάρτητε. καὶ ἐάν τις ἁμάρτῃ, παράκλητον ἔχομεν πρὸς τὸν πατέρα Ἰησοῦν Χριστὸν δίκαιον,",
+    "translation": "Hijitos míos, estas cosas les escribo para que no pequen; y si alguno peca, abogado tenemos delante del Padre, a Jesucristo el justo.",
+    "translation_notes": "Equilibrio pastoral tierno (Τεκνία μου, «hijitos míos»): la meta es no pecar (μὴ ἁμάρτητε, aoristo subjuntivo), pero si cae en pecado (ἐάν τις ἁμάρτῃ), tenemos un παράκλητος (paraklētos, «Abogado/Defensor/Intercesor») junto al Padre: Jesucristo «el Justo» (δίκαιον)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 2,
+    "greek_text": "καὶ αὐτὸς ἱλασμός ἐστιν περὶ τῶν ἁμαρτιῶν ἡμῶν, οὐ περὶ τῶν ἡμετέρων δὲ μόνον ἀλλὰ καὶ περὶ ὅλου τοῦ κόσμου.",
+    "translation": "Y él es la propiciación por nuestros pecados; y no solamente por los nuestros, sino también por los de todo el mundo.",
+    "translation_notes": "Ἱλασμός (hilasmos, «sacrificio propiciatorio que satisface la justicia divina y remueve la culpa del pecado», cf. 4:10; Ro 3:25): Cristo mismo es nuestro Abogado *y* nuestra ofrenda expiatoria, suficiente para el mundo entero."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 3,
+    "greek_text": "Καὶ ἐν τούτῳ γινώσκομεν ὅτι ἐγνώκαμεν αὐτόν, ἐὰν τὰς ἐντολὰς αὐτοῦ τηρῶμεν.",
+    "translation": "Y en esto sabemos que nosotros lo hemos conocido: si guardamos sus mandamientos.",
+    "translation_notes": "Prueba moral del conocimiento de Dios (vv. 3–6): conocerlo de verdad (ἐγνώκαμεν, perfecto) se demuestra en obediencia fiel y cuidadosa (τηρῶμεν)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 4,
+    "greek_text": "ὁ λέγων ὅτι Ἔγνωκα αὐτὸν καὶ τὰς ἐντολὰς αὐτοῦ μὴ τηρῶν ψεύστης ἐστίν, καὶ ἐν τούτῳ ἡ ἀλήθεια οὐκ ἔστιν·",
+    "translation": "El que dice: «Yo lo conozco», y no guarda sus mandamientos, es un mentiroso, y la verdad no está en él;",
+    "translation_notes": "Refutación de pretensiones místicas separadas de la obediencia ética."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 5,
+    "greek_text": "ὃς δ’ ἂν τηρῇ αὐτοῦ τὸν λόγον, ἀληθῶς ἐν τούτῳ ἡ ἀγάπη τοῦ θεοῦ τετελείωται. ἐν τούτῳ γινώσκομεν ὅτι ἐν αὐτῷ ἐσμεν·",
+    "translation": "pero en el que guarda su palabra, en este verdaderamente el amor de Dios se ha perfeccionado; por esto sabemos que estamos en él.",
+    "translation_notes": "«El amor de Dios» abarca aquí tanto el amor de Dios manifestado en nosotros como nuestro amor hacia él madurando hasta su meta (τετελείωται)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 6,
+    "greek_text": "ὁ λέγων ἐν αὐτῷ μένειν ὀφείλει καθὼς ἐκεῖνος περιεπάτησεν καὶ αὐτὸς περιπατεῖν.",
+    "translation": "El que dice que permanece en él, debe andar también él como aquel anduvo.",
+    "translation_notes": "Ἐκεῖνος («aquel», pronombre usado repetidamente en 1 Juan para Jesucristo): la permanencia en Cristo exige imitar su estilo de vida."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 7,
+    "greek_text": "Ἀγαπητοί, οὐκ ἐντολὴν καινὴν γράφω ὑμῖν, ἀλλ’ ἐντολὴν παλαιὰν ἣν εἴχετε ἀπ’ ἀρχῆς· ἡ ἐντολὴ ἡ παλαιά ἐστιν ὁ λόγος ὃν ἠκούσατε.",
+    "translation": "Amados, no les escribo un mandamiento nuevo, sino un mandamiento antiguo que han tenido desde el principio; el mandamiento antiguo es la palabra que oyeron.",
+    "translation_notes": "Antiguo por haber sido recibido desde el inicio de su fe cristiana (y arraigado en Lv 19:18)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 8,
+    "greek_text": "πάλιν ἐντολὴν καινὴν γράφω ὑμῖν, ὅ ἐστιν ἀληθὲς ἐν αὐτῷ καὶ ἐν ὑμῖν, ὅτι ἡ σκοτία παράγεται καὶ τὸ φῶς τὸ ἀληθινὸν ἤδη φαίνει.",
+    "translation": "Sin embargo, les escribo un mandamiento nuevo, lo cual es verdadero en él y en ustedes, porque la oscuridad va pasando y la luz verdadera ya alumbra.",
+    "translation_notes": "Nuevo en Cristo (Jn 13:34, «ámense unos a otros como yo los he amado») y en la nueva era escatológica ya inaugurada: las tinieblas están retrocediendo (παράγεται) ante el amanecer de la luz verdadera."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 9,
+    "greek_text": "ὁ λέγων ἐν τῷ φωτὶ εἶναι καὶ τὸν ἀδελφὸν αὐτοῦ μισῶν ἐν τῇ σκοτίᾳ ἐστὶν ἕως ἄρτι.",
+    "translation": "El que dice que está en la luz y aborrece a su hermano, está todavía en oscuridad hasta ahora.",
+    "translation_notes": "Prueba relacional del amor (vv. 9–11): es imposible caminar con Dios y despreciar al hermano."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 10,
+    "greek_text": "ὁ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ ἐν τῷ φωτὶ μένει, καὶ σκάνδαλον ἐν αὐτῷ οὐκ ἔστιν·",
+    "translation": "El que ama a su hermano permanece en la luz, y en él no hay tropiezo.",
+    "translation_notes": "Σκάνδαλον («ocasión de caída/tropiezo»): quien camina en luz amorosa ni tropieza ni hace tropezar a otros."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 11,
+    "greek_text": "ὁ δὲ μισῶν τὸν ἀδελφὸν αὐτοῦ ἐν τῇ σκοτίᾳ ἐστὶν καὶ ἐν τῇ σκοτίᾳ περιπατεῖ, καὶ οὐκ οἶδεν ποῦ ὑπάγει, ὅτι ἡ σκοτία ἐτύφλωσεν τοὺς ὀφθαλμοὺς αὐτοῦ.",
+    "translation": "Pero el que aborrece a su hermano está en oscuridad, y anda en oscuridad, y no sabe adónde va, porque la oscuridad ha cegado sus ojos.",
+    "translation_notes": "El rencor produce ceguera espiritual progresiva (ἐτύφλωσεν)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 12,
+    "greek_text": "Γράφω ὑμῖν, τεκνία, ὅτι ἀφέωνται ὑμῖν αἱ ἁμαρτίαι διὰ τὸ ὄνομα αὐτοῦ·",
+    "translation": "Les escribo a ustedes, hijitos, porque sus pecados les han sido perdonados por causa de su nombre.",
+    "translation_notes": "Poema pastoral de aliento dirigido a toda la familia eclesial en dos tríadas paralelas (vv. 12–14): hijitos (perdón), padres (conocimiento profundo) y jóvenes (victoria)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 13,
+    "greek_text": "γράφω ὑμῖν, πατέρες, ὅτι ἐγνώκατε τὸν ἀπ’ ἀρχῆς· γράφω ὑμῖν, νεανίσκοι, ὅτι νενικήκατε τὸν πονηρόν.",
+    "translation": "Les escribo a ustedes, padres, porque han conocido al que es desde el principio. Les escribo a ustedes, jóvenes, porque han vencido al maligno.",
+    "translation_notes": "Madurez serena de los mayores («conocen al que existe desde el principio») y vigor espiritual de los jóvenes que han vencido (νενικήκατε, perfecto) al Maligno."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 14,
+    "greek_text": "ἔγραψα ὑμῖν, παιδία, ὅτι ἐγνώκατε τὸν πατέρα· ἔγραψα ὑμῖν, πατέρες, ὅτι ἐγνώκατε τὸν ἀπ’ ἀρχῆς· ἔγραψα ὑμῖν, νεανίσκοι, ὅτι ἰσχυροί ἐστε καὶ ὁ λόγος τοῦ θεοῦ ἐν ὑμῖν μένει καὶ νενικήκατε τὸν πονηρόν.",
+    "translation": "Les he escrito a ustedes, niños, porque han conocido al Padre. Les he escrito a ustedes, padres, porque han conocido al que es desde el principio. Les he escrito a ustedes, jóvenes, porque son fuertes, y la palabra de Dios permanece en ustedes, y han vencido al maligno.",
+    "translation_notes": "La fuerza espiritual de los jóvenes no es emocionalismo, sino que «la palabra de Dios permanece en ustedes» (ὁ λόγος τοῦ θεοῦ ἐν ὑμῖν μένει)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 15,
+    "greek_text": "Μὴ ἀγαπᾶτε τὸν κόσμον μηδὲ τὰ ἐν τῷ κόσμῳ. ἐάν τις ἀγαπᾷ τὸν κόσμον, οὐκ ἔστιν ἡ ἀγάπη τοῦ πατρὸς ἐν αὐτῷ·",
+    "translation": "No amen al mundo, ni las cosas que están en el mundo. Si alguno ama al mundo, el amor del Padre no está en él.",
+    "translation_notes": "Κόσμος (kosmos) aquí no es la creación física amada por Dios (Jn 3:16), sino el sistema humano organizado en rebeldía e idolatría contra Dios."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 16,
+    "greek_text": "ὅτι πᾶν τὸ ἐν τῷ κόσμῳ, ἡ ἐπιθυμία τῆς σαρκὸς καὶ ἡ ἐπιθυμία τῶν ὀφθαλμῶν καὶ ἡ ἀλαζονεία τοῦ βίου, οὐκ ἔστιν ἐκ τοῦ πατρός, ἀλλὰ ἐκ τοῦ κόσμου ἐστίν·",
+    "translation": "Porque todo lo que hay en el mundo —los deseos de la carne, los deseos de los ojos y la arrogancia de la vida— no proviene del Padre, sino del mundo.",
+    "translation_notes": "Tríada de la tentación humana (eco de Gn 3:6 y las tentaciones de Jesús en Lc 4): apetito sensual desordenado, codicia visual posesiva y ostentación jactanciosa de bienes o estatus (ἀλαζονεία τοῦ βίου)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 17,
+    "greek_text": "καὶ ὁ κόσμος παράγεται καὶ ἡ ἐπιθυμία αὐτοῦ, ὁ δὲ ποιῶν τὸ θέλημα τοῦ θεοῦ μένει εἰς τὸν αἰῶνα.",
+    "translation": "Y el mundo pasa, y sus deseos; pero el que hace la voluntad de Dios permanece para siempre.",
+    "translation_notes": "Contraste eterno entre lo pasajero (παράγεται) y lo permanente (μένει εἰς τὸν αἰῶνα)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 18,
+    "greek_text": "Παιδία, ἐσχάτη ὥρα ἐστίν, καὶ καθὼς ἠκούσατε ὅτι ἀντίχριστος ἔρχεται, καὶ νῦν ἀντίχριστοι πολλοὶ γεγόνασιν· ὅθεν γινώσκομεν ὅτι ἐσχάτη ὥρα ἐστίν.",
+    "translation": "Hijitos, es la última hora; y así como oyeron que el anticristo viene, así ahora han surgido muchos anticristos; por esto sabemos que es la última hora.",
+    "translation_notes": "Única carta del NT que usa el término ἀντίχριστος («anticristo», adversario o falsificador de Cristo): los falsos maestros actuales son precursores del espíritu del anticristo."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 19,
+    "greek_text": "ἐξ ἡμῶν ἐξῆλθαν, ἀλλ’ οὐκ ἦσαν ἐξ ἡμῶν· εἰ γὰρ ἐξ ἡμῶν ἦσαν, μεμενήκεισαν ἂν μεθ’ ἡμῶν· ἀλλ’ ἵνα φανερωθῶσιν ὅτι οὐκ εἰσὶν πάντες ἐξ ἡμῶν.",
+    "translation": "Salieron de nosotros, pero no eran de nosotros; porque si hubieran sido de nosotros, habrían permanecido con nosotros; pero salieron para que se manifestara que no todos son de nosotros.",
+    "translation_notes": "Cisma en la iglesia: la deserción persistente hacia la herejía (v. 22) demostró que su comunión previa nunca había sido genuina."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 20,
+    "greek_text": "καὶ ὑμεῖς χρῖσμα ἔχετε ἀπὸ τοῦ ἁγίου καὶ οἴδατε πάντες·",
+    "translation": "Pero ustedes tienen la unción del Santo, y todos tienen conocimiento.",
+    "translation_notes": "Χρῖσμα (chrisma, «unción del Espíritu Santo», juego con Χριστός «el Ungido»): a diferencia de élites gnósticas, *todos* los creyentes (καὶ οἴδατε πάντες) han recibido al Espíritu que capacita para discernir la verdad."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 21,
+    "greek_text": "οὐκ ἔγραψα ὑμῖν ὅτι οὐκ οἴδατε τὴν ἀλήθειαν, ἀλλ’ ὅτι οἴδατε αὐτήν, καὶ ὅτι πᾶν ψεῦδος ἐκ τῆς ἀληθείας οὐκ ἔστιν.",
+    "translation": "No les he escrito porque ignoren la verdad, sino porque la conocen, y porque ninguna mentira procede de la verdad.",
+    "translation_notes": "Afirma la madurez de los lectores frente a falsificaciones."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 22,
+    "greek_text": "τίς ἐστιν ὁ ψεύστης εἰ μὴ ὁ ἀρνούμενος ὅτι Ἰησοῦς οὐκ ἔστιν ὁ χριστός; οὗτός ἐστιν ὁ ἀντίχριστος, ὁ ἀρνούμενος τὸν πατέρα καὶ τὸν υἱόν.",
+    "translation": "¿Quién es el mentiroso, sino el que niega que Jesús es el Cristo? Este es el anticristo, el que niega al Padre y al Hijo.",
+    "translation_notes": "Prueba cristológica central: negar la identidad plena de Jesús como el Cristo encarnado (cf. 4:2) rompe necesariamente la relación con el Padre (v. 23)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 23,
+    "greek_text": "πᾶς ὁ ἀρνούμενος τὸν υἱὸν οὐδὲ τὸν πατέρα ἔχει· ὁ ὁμολογῶν τὸν υἱὸν καὶ τὸν πατέρα ἔχει.",
+    "translation": "Todo aquel que niega al Hijo, tampoco tiene al Padre; el que confiesa al Hijo, tiene también al Padre.",
+    "translation_notes": "No existe acceso verdadero al Padre prescindiendo del Hijo (cf. Jn 14:6)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 24,
+    "greek_text": "ὑμεῖς ὃ ἠκούσατε ἀπ’ ἀρχῆς, ἐν ὑμῖν μενέτω· ἐὰν ἐν ὑμῖν μείνῃ ὃ ἀπ’ ἀρχῆς ἠκούσατε, καὶ ὑμεῖς ἐν τῷ υἱῷ καὶ ἐν τῷ πατρὶ μενεῖτε.",
+    "translation": "Permanezca en ustedes lo que han oído desde el principio. Si lo que han oído desde el principio permanece en ustedes, también ustedes permanecerán en el Hijo y en el Padre.",
+    "translation_notes": "La fidelidad al evangelio apostólico original («desde el principio») mantiene viva la comunión con el Hijo y el Padre."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 25,
+    "greek_text": "καὶ αὕτη ἐστὶν ἡ ἐπαγγελία ἣν αὐτὸς ἐπηγγείλατο ἡμῖν, τὴν ζωὴν τὴν αἰώνιον.",
+    "translation": "Y esta es la promesa que él mismo nos hizo: la vida eterna.",
+    "translation_notes": "Resumen de la promesa del evangelio: ἡ ζωὴ ἡ αἰώνιος."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 26,
+    "greek_text": "Ταῦτα ἔγραψα ὑμῖν περὶ τῶν πλανώντων ὑμᾶς.",
+    "translation": "Les he escrito estas cosas acerca de los que los engañan.",
+    "translation_notes": "Participio presente τῶν πλανώντων («los que están intentando seducirlos/desviarlos»)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 27,
+    "greek_text": "καὶ ὑμεῖς τὸ χρῖσμα ὃ ἐλάβετε ἀπ’ αὐτοῦ μένει ἐν ὑμῖν, καὶ οὐ χρείαν ἔχετε ἵνα τις διδάσκῃ ὑμᾶς· ἀλλ’ ὡς τὸ αὐτοῦ χρῖσμα διδάσκει ὑμᾶς περὶ πάντων, καὶ ἀληθές ἐστιν καὶ οὐκ ἔστιν ψεῦδος, καὶ καθὼς ἐδίδαξεν ὑμᾶς, μένετε ἐν αὐτῷ.",
+    "translation": "Pero la unción que ustedes recibieron de él permanece en ustedes, y no tienen necesidad de que nadie les enseñe; así como la misma unción les enseña acerca de todas las cosas, y es verdadera, y no es mentira, según ella les enseñó, permanezcan en él.",
+    "translation_notes": "No desprecia a los maestros legítimos de la iglesia, sino que rechaza a los falsos iniciados que pretendían tener una «iluminación superior»: el Espíritu Santo ya residente confirma en el corazón la verdad apostólica."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 28,
+    "greek_text": "Καὶ νῦν, τεκνία, μένετε ἐν αὐτῷ, ἵνα ἐὰν φανερωθῇ σχῶμεν παρρησίαν καὶ μὴ αἰσχυνθῶμεν ἀπ’ αὐτοῦ ἐν τῇ παρουσίᾳ αὐτοῦ.",
+    "translation": "Y ahora, hijitos, permanezcan en él, para que cuando se manifieste, tengamos confianza y no nos avergoncemos delante de él en su venida.",
+    "translation_notes": "Παρρησία (parrēsia, «confianza serena/valentía») en su parusía (παρουσία)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 2,
+    "verse": 29,
+    "greek_text": "ἐὰν εἰδῆτε ὅτι δίκαιός ἐστιν, γινώσκετε ὅτι πᾶς ὁ ποιῶν τὴν δικαιοσύνην ἐξ αὐτοῦ γεγέννηται.",
+    "translation": "Si saben que él es justo, sepan también que todo el que hace justicia ha nacido de él.",
+    "translation_notes": "Transición al cap. 3: el nuevo nacimiento (ἐξ αὐτοῦ γεγέννηται) se manifiesta en semejanza moral con el Padre justo."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 1,
+    "greek_text": "ἴδετε ποταπὴν ἀγάπην δέδωκεν ἡμῖν ὁ πατὴρ ἵνα τέκνα θεοῦ κληθῶμεν, καὶ ἐσμέν. διὰ τοῦτο ὁ κόσμος οὐ γινώσκει ἡμᾶς ὅτι οὐκ ἔγνω αὐτόν.",
+    "translation": "Miren cuán grande amor nos ha dado el Padre, para que seamos llamados hijos de Dios; ¡y lo somos! Por esto el mundo no nos conoce, porque no lo conoció a él.",
+    "translation_notes": "Exclamación de asombro: ποταπὴν ἀγάπην («de qué clase / qué asombroso amor»), enfatizada por la afirmación jubilosa «¡y en realidad lo somos!» (καὶ ἐσμέν)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 2,
+    "greek_text": "ἀγαπητοί, νῦν τέκνα θεοῦ ἐσμεν, καὶ οὔπω ἐφανερώθη τί ἐσόμεθα. οἴδαμεν ὅτι ἐὰν φανερωθῇ ὅμοιοι αὐτῷ ἐσόμεθα, ὅτι ὀψόμεθα αὐτὸν καθώς ἐστιν.",
+    "translation": "Amados, ahora somos hijos de Dios, y aún no se ha manifestado lo que seremos; pero sabemos que cuando él se manifieste, seremos semejantes a él, porque lo veremos tal como él es.",
+    "translation_notes": "Tensión escatológica del «ya pero todavía no»: ya somos hijos, y al contemplar cara a cara a Cristo en su venida (ὀψόμεθα αὐτὸν καθώς ἐστιν) seremos plenamente transformados a su semejanza (cf. 1 Co 13:12; Fil 3:21)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 3,
+    "greek_text": "καὶ πᾶς ὁ ἔχων τὴν ἐλπίδα ταύτην ἐπ’ αὐτῷ ἁγνίζει ἑαυτὸν καθὼς ἐκεῖνος ἁγνός ἐστιν.",
+    "translation": "Y todo aquel que tiene esta esperanza en él, se purifica a sí mismo, así como él es puro.",
+    "translation_notes": "La esperanza futura motiva la santidad presente (ἁγνίζει ἑαυτόν, presente continuo)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 4,
+    "greek_text": "Πᾶς ὁ ποιῶν τὴν ἁμαρτίαν καὶ τὴν ἀνομίαν ποιεῖ, καὶ ἡ ἁμαρτία ἐστὶν ἡ ἀνομία.",
+    "translation": "Todo el que comete pecado, infringe también la ley; pues el pecado es infracción de la ley.",
+    "translation_notes": "Ἀνομία (anomia, «desprecio/rebelión contra la ley de Dios»): el pecado no es un simple desliz sin importancia, sino rebeldía contra el orden divino."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 5,
+    "greek_text": "καὶ οἴδατε ὅτι ἐκεῖνος ἐφανερώθη ἵνα τὰς ἁμαρτίας ἄρῃ, καὶ ἁμαρτία ἐν αὐτῷ οὐκ ἔστιν.",
+    "translation": "Y saben que él se manifestó para quitar nuestros pecados, y en él no hay pecado.",
+    "translation_notes": "Propósito de la encarnación y cruz: ἵνα τὰς ἁμαρτίας ἄρῃ («para quitar/cargar los pecados», eco de Jn 1:29), posible porque él mismo es absolutamente sin pecado."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 6,
+    "greek_text": "πᾶς ὁ ἐν αὐτῷ μένων οὐχ ἁμαρτάνει· πᾶς ὁ ἁμαρτάνων οὐχ ἑώρακεν αὐτὸν οὐδὲ ἔγνωκεν αὐτόν.",
+    "translation": "Todo aquel que permanece en él no peca habitualmente; todo aquel que peca así, no lo ha visto ni lo ha conocido.",
+    "translation_notes": "Importancia del aspecto verbal griego (vv. 6, 9): el presente continuo οὐχ ἁμαρτάνει describe una práctica habitual, persistente y característica de pecado sin arrepentimiento (opuesta a la caída ocasional confesada de 1:9 y 2:1)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 7,
+    "greek_text": "τεκνία, μηδεὶς πλανάτω ὑμᾶς· ὁ ποιῶν τὴν δικαιοσύνην δίκαιός ἐστιν, καθὼς ἐκεῖνος δίκαιός ἐστιν·",
+    "translation": "Hijitos, nadie los engañe: el que practica la justicia es justo, así como él es justo.",
+    "translation_notes": "Frente a falsos maestros indiferentes a la ética, el carácter se prueba en la práctica habitual (ὁ ποιῶν τὴν δικαιοσύνην)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 8,
+    "greek_text": "ὁ ποιῶν τὴν ἁμαρτίαν ἐκ τοῦ διαβόλου ἐστίν, ὅτι ἀπ’ ἀρχῆς ὁ διάβολος ἁμαρτάνει. εἰς τοῦτο ἐφανερώθη ὁ υἱὸς τοῦ θεοῦ ἵνα λύσῃ τὰ ἔργα τοῦ διαβόλου.",
+    "translation": "El que practica el pecado es del diablo, porque el diablo peca desde el principio. Para esto apareció el Hijo de Dios, para deshacer las obras del diablo.",
+    "translation_notes": "Segundo propósito de la venida de Cristo: λύσῃ («desatar/destruir/desmantelar» las obras de pecado y muerte del diablo)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 9,
+    "greek_text": "πᾶς ὁ γεγεννημένος ἐκ τοῦ θεοῦ ἁμαρτίαν οὐ ποιεῖ, ὅτι σπέρμα αὐτοῦ ἐν αὐτῷ μένει, καὶ οὐ δύναται ἁμαρτάνειν, ὅτι ἐκ τοῦ θεοῦ γεγέννηται.",
+    "translation": "Todo aquel que ha nacido de Dios no practica el pecado, porque la simiente de Dios permanece en él; y no puede seguir pecando, porque ha nacido de Dios.",
+    "translation_notes": "Σπέρμα αὐτοῦ («su semilla» = la nueva vida del Espíritu y la palabra implantada de Dios, cf. 1 P 1:23): el nuevo nacimiento impide que el verdadero creyente viva cómodamente entregado a una vida habitual de pecado (οὐ δύναται ἁμαρτάνειν, presente continuo)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 10,
+    "greek_text": "ἐν τούτῳ φανερά ἐστιν τὰ τέκνα τοῦ θεοῦ καὶ τὰ τέκνα τοῦ διαβόλου· πᾶς ὁ μὴ ποιῶν δικαιοσύνην οὐκ ἔστιν ἐκ τοῦ θεοῦ, καὶ ὁ μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ.",
+    "translation": "En esto se manifiestan los hijos de Dios y los hijos del diablo: todo aquel que no practica la justicia y el que no ama a su hermano no es de Dios.",
+    "translation_notes": "Las dos marcas inseparables del nuevo nacimiento: rectitud ética y amor fraterno."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 11,
+    "greek_text": "Ὅτι αὕτη ἐστὶν ἡ ἀγγελία ἣν ἠκούσατε ἀπ’ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους·",
+    "translation": "Porque este es el mensaje que han oído desde el principio: que nos amemos unos a otros;",
+    "translation_notes": "Retoma el mandamiento central de Jesús (Jn 13:34; 15:12)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 12,
+    "greek_text": "οὐ καθὼς Κάϊν ἐκ τοῦ πονηροῦ ἦν καὶ ἔσφαξεν τὸν ἀδελφὸν αὐτοῦ· καὶ χάριν τίνος ἔσφαξεν αὐτόν; ὅτι τὰ ἔργα αὐτοῦ πονηρὰ ἦν, τὰ δὲ τοῦ ἀδελφοῦ αὐτοῦ δίκαια.",
+    "translation": "no como Caín, que era del maligno y degolló a su hermano. ¿Y por qué causa lo degolló? Porque sus obras eran malas, y las de su hermano justas.",
+    "translation_notes": "Verbo gráfico: ἔσφαξεν («degolló/mató violentamente», Gn 4:8). La envidia ante la justicia del hermano es raíz de violencia."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 13,
+    "greek_text": "μὴ θαυμάζετε, ἀδελφοί, εἰ μισεῖ ὑμᾶς ὁ κόσμος.",
+    "translation": "No se extrañen, hermanos míos, si el mundo los aborrece.",
+    "translation_notes": "Eco de Jesús en Jn 15:18–19."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 14,
+    "greek_text": "ἡμεῖς οἴδαμεν ὅτι μεταβεβήκαμεν ἐκ τοῦ θανάτου εἰς τὴν ζωήν, ὅτι ἀγαπῶμεν τοὺς ἀδελφούς· ὁ μὴ ἀγαπῶν μένει ἐν τῷ θανάτῳ.",
+    "translation": "Nosotros sabemos que hemos pasado de muerte a vida, en que amamos a los hermanos. El que no ama permanece en muerte.",
+    "translation_notes": "El verbo perfecto μεταβεβήκαμεν («hemos cruzado definitivamente de una esfera a otra», cf. Jn 5:24) tiene como evidencia visible el amor fraternal."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 15,
+    "greek_text": "πᾶς ὁ μισῶν τὸν ἀδελφὸν αὐτοῦ ἀνθρωποκτόνος ἐστίν, καὶ οἴδατε ὅτι πᾶς ἀνθρωποκτόνος οὐκ ἔχει ζωὴν αἰώνιον ἐν αὐτῷ μένουσαν.",
+    "translation": "Todo aquel que aborrece a su hermano es homicida; y saben que ningún homicida tiene vida eterna permanente en él.",
+    "translation_notes": "Eco del Sermón del Monte (Mt 5:21–22): el odio en el corazón comparte la naturaleza moral del homicidio (ἀνθρωποκτόνος)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 16,
+    "greek_text": "ἐν τούτῳ ἐγνώκαμεν τὴν ἀγάπην, ὅτι ἐκεῖνος ὑπὲρ ἡμῶν τὴν ψυχὴν αὐτοῦ ἔθηκεν· καὶ ἡμεῖς ὀφείλομεν ὑπὲρ τῶν ἀδελφῶν τὰς ψυχὰς θεῖναι.",
+    "translation": "En esto hemos conocido el amor: en que él puso su vida por nosotros; también nosotros debemos poner nuestras vidas por los hermanos.",
+    "translation_notes": "«3:16» de 1 Juan (paralelo directo a Jn 3:16): el amor se define objetivamente no por sentimientos vagos, sino por la entrega de la propia vida (τὴν ψυχὴν αὐτοῦ ἔθηκεν) en la cruz."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 17,
+    "greek_text": "ὃς δ’ ἂν ἔχῃ τὸν βίον τοῦ κόσμου καὶ θεωρῇ τὸν ἀδελφὸν αὐτοῦ χρείαν ἔχοντα καὶ κλείσῃ τὰ σπλάγχνα αὐτοῦ ἀπ’ αὐτοῦ, πῶς ἡ ἀγάπη τοῦ θεοῦ μένει ἐν αὐτῷ;",
+    "translation": "Pero el que tiene bienes de este mundo y ve a su hermano tener necesidad, y cierra contra él su corazón, ¿cómo mora el amor de Dios en él?",
+    "translation_notes": "Aplicación práctica cotidiana del v. 16: raramente se nos pide morir por un hermano, pero sí abrir la mano y «las entrañas de compasión» (κλείσῃ τὰ σπλάγχνα) compartiendo los bienes materiales (τὸν βίον τοῦ κόσμου)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 18,
+    "greek_text": "Τεκνία, μὴ ἀγαπῶμεν λόγῳ μηδὲ τῇ γλώσσῃ ἀλλὰ ἐν ἔργῳ καὶ ἀληθείᾳ.",
+    "translation": "Hijitos, no amemos de palabra ni de lengua, sino de hecho y en verdad.",
+    "translation_notes": "Contraste entre discurso barato (λόγῳ... γλώσσῃ) y amor activo concreto (ἐν ἔργῳ καὶ ἀληθείᾳ)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 19,
+    "greek_text": "ἐν τούτῳ γνωσόμεθα ὅτι ἐκ τῆς ἀληθείας ἐσμέν, καὶ ἔμπροσθεν αὐτοῦ πείσομεν τὴν καρδίαν ἡμῶν",
+    "translation": "Y en esto conoceremos que somos de la verdad, y aseguraremos nuestros corazones delante de él,",
+    "translation_notes": "El amor concreto en acción calma y persuade (πείσομεν) a nuestra propia conciencia inquieta ante Dios (v. 20)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 20,
+    "greek_text": "ὅτι ἐὰν καταγινώσκῃ ἡμῶν ἡ καρδία, ὅτι μείζων ἐστὶν ὁ θεὸς τῆς καρδίας ἡμῶν καὶ γινώσκει πάντα.",
+    "translation": "pues si nuestro corazón nos reprende, mayor es Dios que nuestro corazón, y él sabe todas las cosas.",
+    "translation_notes": "Consuelo pastoral cuando la conciencia es demasiado severa: Dios conoce nuestra sincera fe y entrega, y su gracia es mayor que nuestras autoacusaciones."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 21,
+    "greek_text": "ἀγαπητοί, ἐὰν ἡ καρδία μὴ καταγινώσκῃ ἡμῶν, παρρησίαν ἔχομεν πρὸς τὸν θεόν,",
+    "translation": "Amados, si nuestro corazón no nos reprende, confianza tenemos en Dios,",
+    "translation_notes": "Una conciencia tranquila produce παρρησία («libertad confiada al hablar en oración»)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 22,
+    "greek_text": "καὶ ὃ ἐὰν αἰτῶμεν λαμβάνομεν ἀπ’ αὐτοῦ, ὅτι τὰς ἐντολὰς αὐτοῦ τηροῦμεν καὶ τὰ ἀρεστὰ ἐνώπιον αὐτοῦ ποιοῦμεν.",
+    "translation": "y cualquiera cosa que pidamos la recibiremos de él, porque guardamos sus mandamientos y hacemos las cosas que son agradables delante de él.",
+    "translation_notes": "La oración eficaz fluye de la comunión obediente (cf. Jn 15:7)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 23,
+    "greek_text": "καὶ αὕτη ἐστὶν ἡ ἐντολὴ αὐτοῦ, ἵνα πιστεύσωμεν τῷ ὀνόματι τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ καὶ ἀγαπῶμεν ἀλλήλους, καθὼς ἔδωκεν ἐντολὴν ἡμῖν.",
+    "translation": "Y este es su mandamiento: que creamos en el nombre de su Hijo Jesucristo y nos amemos unos a otros como nos lo ha mandado.",
+    "translation_notes": "Mandamiento doble en singular (αὕτη ἐστὶν ἡ ἐντολή): fe en Cristo y amor mutuo son inseparables."
+  },
+  {
+    "book": "1JN",
+    "chapter": 3,
+    "verse": 24,
+    "greek_text": "καὶ ὁ τηρῶν τὰς ἐντολὰς αὐτοῦ ἐν αὐτῷ μένει καὶ αὐτὸς ἐν αὐτῷ· καὶ ἐν τούτῳ γινώσκομεν ὅτι μένει ἐν ἡμῖν, ἐκ τοῦ πνεύματος οὗ ἡμῖν ἔδωκεν.",
+    "translation": "Y el que guarda sus mandamientos permanece en Dios, y Dios en él. Y en esto sabemos que él permanece en nosotros: por el Espíritu que nos ha dado.",
+    "translation_notes": "Primera mención explícita del Espíritu Santo en la carta como testigo interior de la morada mutua entre Dios y el creyente."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 1,
+    "greek_text": "Ἀγαπητοί, μὴ παντὶ πνεύματι πιστεύετε, ἀλλὰ δοκιμάζετε τὰ πνεύματα εἰ ἐκ τοῦ θεοῦ ἐστιν, ὅτι πολλοὶ ψευδοπροφῆται ἐξεληλύθασιν εἰς τὸν κόσμον.",
+    "translation": "Amados, no crean a todo espíritu, sino prueben los espíritus si son de Dios; porque muchos falsos profetas han salido por el mundo.",
+    "translation_notes": "Discernimiento espiritual obligatorio: δοκιμάζετε τὰ πνεύματα («pongan a prueba las inspiraciones o enseñanzas espirituales», cf. 1 Ts 5:21), sin ingenuidad ante falsos profetas."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 2,
+    "greek_text": "ἐν τούτῳ γινώσκετε τὸ πνεῦμα τοῦ θεοῦ· πᾶν πνεῦμα ὃ ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα ἐκ τοῦ θεοῦ ἐστιν,",
+    "translation": "En esto conocen el Espíritu de Dios: todo espíritu que confiesa que Jesucristo ha venido en carne es de Dios;",
+    "translation_notes": "Criterio doctrinal objetivo de la encarnación: el participio perfecto ἐληλυθότα («ha venido en carne y permanece encarnado») afirma la plena humanidad real e histórica de Jesucristo contra tendencias protognósticas o docetas."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 3,
+    "greek_text": "καὶ πᾶν πνεῦμα ὃ μὴ ὁμολογεῖ τὸν Ἰησοῦν ἐκ τοῦ θεοῦ οὐκ ἔστιν· καὶ τοῦτό ἐστιν τὸ τοῦ ἀντιχρίστου, ὃ ἀκηκόατε ὅτι ἔρχεται, καὶ νῦν ἐν τῷ κόσμῳ ἐστὶν ἤδη.",
+    "translation": "y todo espíritu que no confiesa a Jesús no es de Dios; y este es el espíritu del anticristo, el cual ustedes han oído que viene, y que ahora ya está en el mundo.",
+    "translation_notes": "Negar la encarnación real de Jesús delata al espíritu del anticristo ya operante en el presente."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 4,
+    "greek_text": "ὑμεῖς ἐκ τοῦ θεοῦ ἐστε, τεκνία, καὶ νενικήκατε αὐτούς, ὅτι μείζων ἐστὶν ὁ ἐν ὑμῖν ἢ ὁ ἐν τῷ κόσμῳ·",
+    "translation": "Ustedes son de Dios, hijitos, y los han vencido, porque mayor es el que está en ustedes que el que está en el mundo.",
+    "translation_notes": "Garantía de victoria: el Dios que habita en los creyentes por su Espíritu (ὁ ἐν ὑμῖν) es infinitamente superior al gobernante de este mundo (ὁ ἐν τῷ κόσμῳ)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 5,
+    "greek_text": "αὐτοὶ ἐκ τοῦ κόσμου εἰσίν· διὰ τοῦτο ἐκ τοῦ κόσμου λαλοῦσιν καὶ ὁ κόσμος αὐτῶν ἀκούει.",
+    "translation": "Ellos son del mundo; por eso hablan del mundo, y el mundo los oye.",
+    "translation_notes": "Popularidad fácil del error porque adopta los valores del mundo."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 6,
+    "greek_text": "ἡμεῖς ἐκ τοῦ θεοῦ ἐσμεν· ὁ γινώσκων τὸν θεὸν ἀκούει ἡμῶν, ὃς οὐκ ἔστιν ἐκ τοῦ θεοῦ οὐκ ἀκούει ἡμῶν. ἐκ τούτου γινώσκομεν τὸ πνεῦμα τῆς ἀληθείας καὶ τὸ πνεῦμα τῆς πλάνης.",
+    "translation": "Nosotros somos de Dios; el que conoce a Dios nos oye; el que no es de Dios no nos oye. En esto conocemos el espíritu de verdad y el espíritu de error.",
+    "translation_notes": "«Nosotros» designa al testimonio apostólico (1:1–4): la receptividad humilde a la palabra apostólica distingue el espíritu de verdad del espíritu de extravío."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 7,
+    "greek_text": "Ἀγαπητοί, ἀγαπῶμεν ἀλλήλους, ὅτι ἡ ἀγάπη ἐκ τοῦ θεοῦ ἐστιν, καὶ πᾶς ὁ ἀγαπῶν ἐκ τοῦ θεοῦ γεγέννηται καὶ γινώσκει τὸν θεόν.",
+    "translation": "Amados, amémonos unos a otros, porque el amor es de Dios; y todo el que ama ha nacido de Dios y conoce a Dios.",
+    "translation_notes": "Inicio de la gran sinfonía sobre el amor de Dios (vv. 7–21): todo amor auténtico (ἡ ἀγάπη) tiene su fuente en Dios."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 8,
+    "greek_text": "ὁ μὴ ἀγαπῶν οὐκ ἔγνω τὸν θεόν, ὅτι ὁ θεὸς ἀγάπη ἐστίν.",
+    "translation": "El que no ama no ha conocido a Dios, porque Dios es amor.",
+    "translation_notes": "Declaración suprema: ὁ θεὸς ἀγάπη ἐστίν («Dios es amor»). No significa simplemente que Dios «tiene» amor como un atributo secundario, ni reduce a Dios al concepto humano de «amor», sino que su esencia eterna es entrega amorosa santa."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 9,
+    "greek_text": "ἐν τούτῳ ἐφανερώθη ἡ ἀγάπη τοῦ θεοῦ ἐν ἡμῖν, ὅτι τὸν υἱὸν αὐτοῦ τὸν μονογενῆ ἀπέσταλκεν ὁ θεὸς εἰς τὸν κόσμον ἵνα ζήσωμεν δι’ αὐτοῦ.",
+    "translation": "En esto se mostró el amor de Dios para con nosotros: en que Dios envió a su Hijo unigénito al mundo para que vivamos por él.",
+    "translation_notes": "Tὸν υἱὸν αὐτοῦ τὸν μονογενῆ («su Hijo unigénito/único en su género», cf. Jn 3:16): la prueba histórica del amor de Dios no es una abstracción sentimental, sino la encarnación del Hijo."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 10,
+    "greek_text": "ἐν τούτῳ ἐστὶν ἡ ἀγάπη, οὐχ ὅτι ἡμεῖς ἠγαπήκαμεν τὸν θεόν, ἀλλ’ ὅτι αὐτὸς ἠγάπησεν ἡμᾶς καὶ ἀπέστειλεν τὸν υἱὸν αὐτοῦ ἱλασμὸν περὶ τῶν ἁμαρτιῶν ἡμῶν.",
+    "translation": "En esto consiste el amor: no en que nosotros hayamos amado a Dios, sino en que él nos amó a nosotros y envió a su Hijo en propiciación por nuestros pecados.",
+    "translation_notes": "Iniciativa soberana de la gracia: el amor cristiano comienza en Dios enviando a su Hijo como ἱλασμός («sacrificio propiciatorio», cf. 2:2) para quitar nuestra culpa."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 11,
+    "greek_text": "ἀγαπητοί, εἰ οὕτως ὁ θεὸς ἠγάπησεν ἡμᾶς, καὶ ἡμεῖς ὀφείλομεν ἀλλήλους ἀγαπᾶν.",
+    "translation": "Amados, si Dios nos ha amado así, debemos también nosotros amarnos unos a otros.",
+    "translation_notes": "El amor recibido crea un deber gozoso (ὀφείλομεν) de reflejarlo hacia los hermanos."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 12,
+    "greek_text": "θεὸν οὐδεὶς πώποτε τεθέαται· ἐὰν ἀγαπῶμεν ἀλλήλους, ὁ θεὸς ἐν ἡμῖν μένει καὶ ἡ ἀγάπη αὐτοῦ ἐν ἡμῖν τετελειωμένη ἐστιν.",
+    "translation": "Nadie ha visto jamás a Dios. Si nos amamos unos a otros, Dios permanece en nosotros, y su amor se ha perfeccionado en nosotros.",
+    "translation_notes": "Eco de Jn 1:18: aunque Dios es invisible a los ojos físicos, su presencia se hace visible en el mundo cuando la comunidad se ama."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 13,
+    "greek_text": "Ἐν τούτῳ γινώσκομεν ὅτι ἐν αὐτῷ μένομεν καὶ αὐτὸς ἐν ἡμῖν, ὅτι ἐκ τοῦ πνεύματος αὐτοῦ δέδωκεν ἡμῖν.",
+    "translation": "En esto conocemos que permanecemos en él, y él en nosotros: en que nos ha dado de su Espíritu.",
+    "translation_notes": "El Espíritu compartido (ἐκ τοῦ πνεύματος αὐτοῦ) confirma interiormente la unión mutua con Dios."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 14,
+    "greek_text": "καὶ ἡμεῖς τεθεάμεθα καὶ μαρτυροῦμεν ὅτι ὁ πατὴρ ἀπέσταλκεν τὸν υἱὸν σωτῆρα τοῦ κόσμου.",
+    "translation": "Y nosotros hemos visto y testificamos que el Padre ha enviado al Hijo como Salvador del mundo.",
+    "translation_notes": "Testimonio ocular apostólico (τεθεάμεθα καὶ μαρτυροῦμεν) del título mesiánico universal: σωτῆρα τοῦ κόσμου («Salvador del mundo», cf. Jn 4:42)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 15,
+    "greek_text": "ὃς ἐὰν ὁμολογήσῃ ὅτι Ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ, ὁ θεὸς ἐν αὐτῷ μένει καὶ αὐτὸς ἐν τῷ θεῷ.",
+    "translation": "Todo aquel que confiese que Jesús es el Hijo de Dios, Dios permanece en él, y él en Dios.",
+    "translation_notes": "Confesar públicamente a Jesús como Hijo de Dios es señal de comunión mutua con Dios."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 16,
+    "greek_text": "καὶ ἡμεῖς ἐγνώκαμεν καὶ πεπιστεύκαμεν τὴν ἀγάπην ἣν ἔχει ὁ θεὸς ἐν ἡμῖν. Ὁ θεὸς ἀγάπη ἐστίν, καὶ ὁ μένων ἐν τῇ ἀγάπῃ ἐν τῷ θεῷ μένει καὶ ὁ θεὸς ἐν αὐτῷ μένει.",
+    "translation": "Y nosotros hemos conocido y creído el amor que Dios tiene para con nosotros. Dios es amor; y el que permanece en amor permanece en Dios, y Dios en él.",
+    "translation_notes": "Conocer y confiar personalmente en el amor de Dios transforma la existencia entera en comunión mutua."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 17,
+    "greek_text": "ἐν τούτῳ τετελείωται ἡ ἀγάπη μεθ’ ἡμῶν, ἵνα παρρησίαν ἔχωμεν ἐν τῇ ἡμέρᾳ τῆς κρίσεως, ὅτι καθὼς ἐκεῖνός ἐστιν καὶ ἡμεῖς ἐσμεν ἐν τῷ κόσμῳ τούτῳ.",
+    "translation": "En esto se ha perfeccionado el amor entre nosotros, para que tengamos confianza en el día del juicio; pues como él es, así somos nosotros en este mundo.",
+    "translation_notes": "La seguridad en el juicio final (παρρησίαν) proviene de haber sido transformados en semejanza a Cristo por su amor."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 18,
+    "greek_text": "φόβος οὐκ ἔστιν ἐν τῇ ἀγάπῃ, ἀλλ’ ἡ τελεία ἀγάπη ἔξω βάλλει τὸν φόβον, ὅτι ὁ φόβος κόλασιν ἔχει, ὁ δὲ φοβούμενος οὐ τετελείωται ἐν τῇ ἀγάπῃ.",
+    "translation": "En el amor no hay temor, sino que el perfecto amor echa fuera el temor, porque el temor lleva en sí castigo; de donde el que teme no ha sido perfeccionado en el amor.",
+    "translation_notes": "El miedo servil a la condenación (φόβος... κόλασιν ἔχει) es incompatible con la certeza del amor maduro de Dios (ἡ τελεία ἀγάπη)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 19,
+    "greek_text": "ἡμεῖς ἀγαπῶμεν, ὅτι αὐτὸς πρῶτος ἠγάπησεν ἡμᾶς.",
+    "translation": "Nosotros amamos, porque él nos amó primero.",
+    "translation_notes": "Síntesis inolvidable de la teología bíblica: todo amor humano hacia Dios y el prójimo es respuesta al amor previo (πρῶτος ἠγάπησεν) de Dios."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 20,
+    "greek_text": "ἐάν τις εἴπῃ ὅτι Ἀγαπῶ τὸν θεόν, καὶ τὸν ἀδελφὸν αὐτοῦ μισῇ, ψεύστης ἐστίν· ὁ γὰρ μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ ὃν ἑώρακεν, τὸν θεὸν ὃν οὐχ ἑώρακεν οὐ δύναται ἀγαπᾶν.",
+    "translation": "Si alguno dice: «Yo amo a Dios», y aborrece a su hermano, es un mentiroso. Pues el que no ama a su hermano, a quien ha visto, ¿cómo puede amar a Dios, a quien no ha visto?",
+    "translation_notes": "Prueba lógica y espiritual irrefutable: el amor invisible a Dios se verifica en el amor visible al hermano cercano."
+  },
+  {
+    "book": "1JN",
+    "chapter": 4,
+    "verse": 21,
+    "greek_text": "καὶ ταύτην τὴν ἐντολὴν ἔχομεν ἀπ’ αὐτοῦ, ἵνα ὁ ἀγαπῶν τὸν θεὸν ἀγαπᾷ καὶ τὸν ἀδελφὸν αὐτοῦ.",
+    "translation": "Y nosotros tenemos este mandamiento de parte de él: que el que ama a Dios, ame también a su hermano.",
+    "translation_notes": "Síntesis de los dos grandes mandamientos de Jesús (Mc 12:29–31)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 1,
+    "greek_text": "Πᾶς ὁ πιστεύων ὅτι Ἰησοῦς ἐστιν ὁ χριστὸς ἐκ τοῦ θεοῦ γεγέννηται, καὶ πᾶς ὁ ἀγαπῶν τὸν γεννήσαντα ἀγαπᾷ καὶ τὸν γεγεννημένον ἐξ αὐτοῦ.",
+    "translation": "Todo aquel que cree que Jesús es el Cristo es nacido de Dios; y todo aquel que ama al que engendró, ama también al que ha sido engendrado por él.",
+    "translation_notes": "Lógica familiar espiritual: si amamos al Padre que nos engendró (τὸν γεννήσαντα), inevitablemente amamos a nuestros hermanos engendrados por el mismo Padre."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 2,
+    "greek_text": "ἐν τούτῳ γινώσκομεν ὅτι ἀγαπῶμεν τὰ τέκνα τοῦ θεοῦ, ὅταν τὸν θεὸν ἀγαπῶμεν καὶ τὰς ἐντολὰς αὐτοῦ ποιῶμεν·",
+    "translation": "En esto conocemos que amamos a los hijos de Dios: cuando amamos a Dios y guardamos sus mandamientos.",
+    "translation_notes": "El amor genuino hacia los hermanos no es complicidad permisiva, sino amor guiado por el amor a Dios y sus mandamientos."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 3,
+    "greek_text": "αὕτη γάρ ἐστιν ἡ ἀγάπη τοῦ θεοῦ ἵνα τὰς ἐντολὰς αὐτοῦ τηρῶμεν, καὶ αἱ ἐντολαὶ αὐτοῦ βαρεῖαι οὐκ εἰσίν,",
+    "translation": "Pues este es el amor a Dios: que guardemos sus mandamientos; y sus mandamientos no son gravosos.",
+    "translation_notes": "Eco de Jesús en Mt 11:30 («mi yugo es fácil y ligera mi carga»): para quien ha nacido de Dios, sus mandamientos no son una carga opresiva (βαρεῖαι)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 4,
+    "greek_text": "ὅτι πᾶν τὸ γεγεννημένον ἐκ τοῦ θεοῦ νικᾷ τὸν κόσμον. καὶ αὕτη ἐστὶν ἡ νίκη ἡ νικήσασα τὸν κόσμον, ἡ πίστις ἡμῶν·",
+    "translation": "Porque todo lo que es nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo: nuestra fe.",
+    "translation_notes": "El aoristo ἡ νικήσασα («la victoria que ya venció al mundo» en Cristo) se apropia mediante la fe presente."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 5,
+    "greek_text": "τίς δέ ἐστιν ὁ νικῶν τὸν κόσμον εἰ μὴ ὁ πιστεύων ὅτι Ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ;",
+    "translation": "¿Quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?",
+    "translation_notes": "La victoria cristiana no proviene de fuerza propia, sino de la fe en la persona de Jesús, el Hijo de Dios."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 6,
+    "greek_text": "Οὗτός ἐστιν ὁ ἐλθὼν δι’ ὕδατος καὶ αἵματος, Ἰησοῦς Χριστός· οὐκ ἐν τῷ ὕδατι μόνον ἀλλ’ ἐν τῷ ὕδατι καὶ ἐν τῷ αἵματι· καὶ τὸ πνεῦμά ἐστιν τὸ μαρτυροῦν, ὅτι τὸ πνεῦμά ἐστιν ἡ ἀλήθεια.",
+    "translation": "Este es el que vino mediante agua y sangre, Jesucristo; no solo con el agua, sino con el agua y con la sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad.",
+    "translation_notes": "Alusión polémica contra quienes separaban al Cristo divino del Jesús crucificado: Jesús vino por «agua» (su bautismo en el Jordán, donde inició su ministerio) y por «sangre» (su muerte expiatoria real en la cruz, cf. Jn 19:34), ratificado todo por el testimonio del Espíritu."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 7,
+    "greek_text": "ὅτι τρεῖς εἰσιν οἱ μαρτυροῦντες,",
+    "translation": "Porque tres son los que dan testimonio:",
+    "translation_notes": "Nota textual importante: el texto crítico SBLGNT (y todos los manuscritos griegos anteriores al siglo XIV) contiene únicamente esta fórmula breve en los vv. 7–8. La cláusula trinitaria conocida tradicionalmente como *Comma Johanneum* («en el cielo: el Padre, el Verbo y el Espíritu Santo...») aparece primero en manuscritos latinos tardíos y no forma parte del texto griego antiguo."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 8,
+    "greek_text": "τὸ πνεῦμα καὶ τὸ ὕδωρ καὶ τὸ αἷμα, καὶ οἱ τρεῖς εἰς τὸ ἕν εἰσιν.",
+    "translation": "el Espíritu, el agua y la sangre; y estos tres concuerdan en uno.",
+    "translation_notes": "Tres testigos concordantes (εἰς τὸ ἕν εἰσιν, «convergen hacia un mismo testimonio»): el Espíritu Santo, el bautismo de Jesús («el agua») y su muerte en la cruz («la sangre»)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 9,
+    "greek_text": "εἰ τὴν μαρτυρίαν τῶν ἀνθρώπων λαμβάνομεν, ἡ μαρτυρία τοῦ θεοῦ μείζων ἐστίν, ὅτι αὕτη ἐστὶν ἡ μαρτυρία τοῦ θεοῦ ὅτι μεμαρτύρηκεν περὶ τοῦ υἱοῦ αὐτοῦ.",
+    "translation": "Si recibimos el testimonio de los hombres, mayor es el testimonio de Dios; porque este es el testimonio de Dios, que él ha testificado acerca de su Hijo.",
+    "translation_notes": "Conforme a Dt 19:15 (dos o tres testigos), el testimonio unánime de Dios mismo supera cualquier testimonio humano."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 10,
+    "greek_text": "ὁ πιστεύων εἰς τὸν υἱὸν τοῦ θεοῦ ἔχει τὴν μαρτυρίαν ἐν αὑτῷ· ὁ μὴ πιστεύων τῷ θεῷ ψεύστην πεποίηκεν αὐτόν, ὅτι οὐ πεπίστευκεν εἰς τὴν μαρτυρίαν ἣν μεμαρτύρηκεν ὁ θεὸς περὶ τοῦ υἱοῦ αὐτοῦ.",
+    "translation": "El que cree en el Hijo de Dios tiene el testimonio en sí mismo; el que no cree a Dios, lo ha hecho mentiroso, porque no ha creído en el testimonio que Dios ha dado acerca de su Hijo.",
+    "translation_notes": "El creyente posee la confirmación interior del Espíritu; rechazar el evangelio es acusar a Dios de mentir."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 11,
+    "greek_text": "καὶ αὕτη ἐστὶν ἡ μαρτυρία, ὅτι ζωὴν αἰώνιον ἔδωκεν ὁ θεὸς ἡμῖν, καὶ αὕτη ἡ ζωὴ ἐν τῷ υἱῷ αὐτοῦ ἐστιν.",
+    "translation": "Y este es el testimonio: que Dios nos ha dado vida eterna, y esta vida está en su Hijo.",
+    "translation_notes": "La vida eterna no es un premio separado de Cristo; reside en el Hijo mismo."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 12,
+    "greek_text": "ὁ ἔχων τὸν υἱὸν ἔχει τὴν ζωήν· ὁ μὴ ἔχων τὸν υἱὸν τοῦ θεοῦ τὴν ζωὴν οὐκ ἔχει.",
+    "translation": "El que tiene al Hijo, tiene la vida; el que no tiene al Hijo de Dios, no tiene la vida.",
+    "translation_notes": "Declaración tajante de exclusividad salvífica en la persona del Hijo."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 13,
+    "greek_text": "Ταῦτα ἔγραψα ὑμῖν ἵνα εἰδῆτε ὅτι ζωὴν ἔχετε αἰώνιον, τοῖς πιστεύουσιν εἰς τὸ ὄνομα τοῦ υἱοῦ τοῦ θεοῦ.",
+    "translation": "Estas cosas les he escrito a ustedes que creen en el nombre del Hijo de Dios, para que sepan que tienen vida eterna.",
+    "translation_notes": "Versículo clave del propósito de la carta (paralelo a Jn 20:31): brindar seguridad serena (ἵνα εἰδῆτε, «para que sepan con certeza») a quienes creen en el nombre del Hijo de Dios."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 14,
+    "greek_text": "καὶ αὕτη ἐστὶν ἡ παρρησία ἣν ἔχομεν πρὸς αὐτόν, ὅτι ἐάν τι αἰτώμεθα κατὰ τὸ θέλημα αὐτοῦ ἀκούει ἡμῶν.",
+    "translation": "Y esta es la confianza que tenemos en él: que si pedimos alguna cosa conforme a su voluntad, él nos oye.",
+    "translation_notes": "Παρρησία («confianza abierta») en la oración alineada con la voluntad revelada de Dios (κατὰ τὸ θέλημα αὐτοῦ)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 15,
+    "greek_text": "καὶ ἐὰν οἴδαμεν ὅτι ἀκούει ἡμῶν ὃ ἐὰν αἰτώμεθα, οἴδαμεν ὅτι ἔχομεν τὰ αἰτήματα ἃ ᾐτήκαμεν ἀπ’ αὐτοῦ.",
+    "translation": "Y si sabemos que él nos oye en cualquiera cosa que pidamos, sabemos que tenemos las peticiones que le hayamos hecho.",
+    "translation_notes": "Certeza de respuesta en presente (ἔχομεν) cuando oramos según su voluntad."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 16,
+    "greek_text": "ἐάν τις ἴδῃ τὸν ἀδελφὸν αὐτοῦ ἁμαρτάνοντα ἁμαρτίαν μὴ πρὸς θάνατον, αἰτήσει, καὶ δώσει αὐτῷ ζωήν, τοῖς ἁμαρτάνουσιν μὴ πρὸς θάνατον. ἔστιν ἁμαρτία πρὸς θάνατον· οὐ περὶ ἐκείνης λέγω ἵνα ἐρωτήσῃ.",
+    "translation": "Si alguno ve a su hermano cometer pecado que no sea de muerte, pedirá, y Dios le dará vida; esto para los que cometen pecado que no es de muerte. Hay pecado de muerte, por el cual yo no digo que se pida.",
+    "translation_notes": "Pasaje pastoral delicado (vv. 16–17): mientras todo pecado es injusticia, Juan distingue el pecado común de debilidad confesable (por el cual la iglesia intercede con esperanza de restauración) del «pecado que lleva a muerte» (ἁμαρτία πρὸς θάνατον —entendido en el contexto de la carta como el rechazo obstinado, consciente y apóstata de Cristo y de la verdad, cf. 2:19, 22; Heb 6:4–6; Mc 3:29—)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 17,
+    "greek_text": "πᾶσα ἀδικία ἁμαρτία ἐστίν, καὶ ἔστιν ἁμαρτία οὐ πρὸς θάνατον.",
+    "translation": "Toda injusticia es pecado, pero hay pecado no de muerte.",
+    "translation_notes": "Evita el desespero de pensar que cualquier tropiezo equivale a apostasía definitiva."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 18,
+    "greek_text": "Οἴδαμεν ὅτι πᾶς ὁ γεγεννημένος ἐκ τοῦ θεοῦ οὐχ ἁμαρτάνει, ἀλλ’ ὁ γεννηθεὶς ἐκ τοῦ θεοῦ τηρεῖ αὐτόν, καὶ ὁ πονηρὸς οὐχ ἅπτεται αὐτοῦ.",
+    "translation": "Sabemos que todo aquel que ha nacido de Dios no practica el pecado, pues el que nació de Dios lo guarda, y el maligno no lo toca.",
+    "translation_notes": "Tres grandes certezas finales («Sabemos...», vv. 18, 19, 20): SBLGNT lee τηρεῖ αὐτόν («lo guarda a él», referido a Cristo, «el que nació de Dios», protegiendo al creyente para que el maligno no pueda apresarlo, οὐχ ἅπτεται)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 19,
+    "greek_text": "οἴδαμεν ὅτι ἐκ τοῦ θεοῦ ἐσμεν, καὶ ὁ κόσμος ὅλος ἐν τῷ πονηρῷ κεῖται.",
+    "translation": "Sabemos que somos de Dios, y el mundo entero yace bajo el maligno.",
+    "translation_notes": "Contraste cósmico: el creyente pertenece a Dios mientras el sistema mundano rebelde permanece pasivamente en manos del maligno (ἐν τῷ πονηρῷ κεῖται)."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 20,
+    "greek_text": "οἴδαμεν δὲ ὅτι ὁ υἱὸς τοῦ θεοῦ ἥκει, καὶ δέδωκεν ἡμῖν διάνοιαν ἵνα γινώσκωμεν τὸν ἀληθινόν· καὶ ἐσμὲν ἐν τῷ ἀληθινῷ, ἐν τῷ υἱῷ αὐτοῦ Ἰησοῦ Χριστῷ. οὗτός ἐστιν ὁ ἀληθινὸς θεὸς καὶ ζωὴ αἰώνιος.",
+    "translation": "Pero sabemos que el Hijo de Dios ha venido, y nos ha dado entendimiento para que conozcamos al que es verdadero; y estamos en el verdadero, en su Hijo Jesucristo. Este es el verdadero Dios y la vida eterna.",
+    "translation_notes": "Clímax cristológico de toda la epístola: la frase final οὗτός ἐστιν ὁ ἀληθινὸς θεὸς καὶ ζωὴ αἰώνιος («Este es el Dios verdadero y la vida eterna») tiene como antecedente inmediato a «su Hijo Jesucristo», cerrando en inclusión perfecta con 1:1–2."
+  },
+  {
+    "book": "1JN",
+    "chapter": 5,
+    "verse": 21,
+    "greek_text": "Τεκνία, φυλάξατε ἑαυτὰ ἀπὸ τῶν εἰδώλων.",
+    "translation": "Hijitos, guárdense de los ídolos.",
+    "translation_notes": "Última advertencia breve y punzante: en un entorno lleno de cultos paganos e ideas falsificadas sobre Dios, protéjanse (φυλάξατε ἑαυτά) de cualquier sustituto falso («ídolos», εἴδωλα) del Dios verdadero revelado en Jesucristo."
+  }
+]

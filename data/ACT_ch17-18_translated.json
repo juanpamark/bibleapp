@@ -1,0 +1,498 @@
+[
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 1,
+    "greek_text": "Διοδεύσαντες δὲ τὴν Ἀμφίπολιν καὶ τὴν Ἀπολλωνίαν ἦλθον εἰς Θεσσαλονίκην, ὅπου ἦν συναγωγὴ τῶν Ἰουδαίων.",
+    "translation": "Habiendo atravesado Anfípolis y Apolonia, llegaron a Tesalónica, donde había una sinagoga de los judíos.",
+    "translation_notes": "Itinerario por la Vía Egnatia: los misioneros recorren unos 150 km por la gran calzada militar romana pavimentada. Pasan por Anfípolis (a 53 km al sudoeste de Filipos) y Apolonia (a 45 km más adelante), llegando a Tesalónica (capital administrativa de la provincia senatorial de Macedonia y ciudad libre con puerto estratégico). A diferencia de Filipos, Tesalónica contaba con una sinagoga formal consolidada (συναγωγὴ τῶν Ἰουδαίων)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 2,
+    "greek_text": "κατὰ δὲ τὸ εἰωθὸς τῷ Παύλῳ εἰσῆλθεν πρὸς αὐτοὺς καὶ ἐπὶ σάββατα τρία διελέξατο αὐτοῖς ἀπὸ τῶν γραφῶν,",
+    "translation": "Y según su costumbre, Pablo entró a reunirse con ellos, y durante tres sábados discutió con ellos basándose en las Escrituras,",
+    "translation_notes": "Estrategia sinagogal paulina: la expresión κατὰ τὸ εἰωθός ('conforme a su costumbre habitual'). Durante tres sábados consecutivos de reposo, Pablo dialoga y debate (dielexato, imperfecto medio de dialegomai, razonar dialécticamente respondiendo objeciones). Su autoridad argumentativa descansa exclusivamente en las Escrituras hebreas (ἀπὸ τῶν γραφῶν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 3,
+    "greek_text": "διανοίγων καὶ παρατιθέμενος ὅτι τὸν χριστὸν ἔδει παθεῖν καὶ ἀναστῆναι ἐκ νεκρῶν, καὶ ὅτι οὗτός ἐστιν ὁ χριστός, ὁ Ἰησοῦς ὃν ἐγὼ καταγγέλλω ὑμῖν.",
+    "translation": "abriendo el sentido de los textos y demostrando que era indispensable que el Mesías padeciera y resucitara de entre los muertos, y diciendo: «Este Jesús a quien yo les proclamo es el Mesías».",
+    "translation_notes": "Método exegético y kerigma cristológico: dos verbos técnicos complementarios: διανοίγων ('abriendo la mente y el sentido profundo de los textos bíblicos') y παρατιθέμενος (término forense y probatorio que significa 'colocar las evidencias proféticas al lado de los hechos históricos para demostrar una verdad'). La tesis central combate el prejuicio judío de un Mesías político invencible: el verbo de necesidad teológica ἔδει ('era necesario según el plan redentor profético') que el Mesías sufriera y resucitara (alusión a Is 53 y Sal 22), identificando inequívocamente a Jesús con el Cristo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 4,
+    "greek_text": "καί τινες ἐξ αὐτῶν ἐπείσθησαν καὶ προσεκληρώθησαν τῷ Παύλῳ καὶ τῷ Σιλᾷ, τῶν τε σεβομένων Ἑλλήνων πλῆθος πολὺ γυναικῶν τε τῶν πρώτων οὐκ ὀλίγαι.",
+    "translation": "Y algunos de ellos fueron persuadidos y se unieron a Pablo y a Silas, así como una gran multitud de griegos temerosos de Dios y no pocas mujeres prominentes.",
+    "translation_notes": "Recepción de la fe y estratificación social: el verbo pasivo προσεκληρώθησαν ('fueron asignados soberanamente por Dios como herencia y se adhirieron'). La cosecha incluye a tres grupos: judíos de linaje, 'una gran multitud de griegos temerosos de Dios' (σεβομένων Ἑλλήνων, prosélitos de la puerta) y 'mujeres principales no pocas' (γυναικῶν τῶν πρώτων οὐκ ὀλίγαι, matronas de la aristocracia patricia macedonia, cuya influencia y autonomía legal eran notables en el norte de Grecia)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 5,
+    "greek_text": "ζηλώσαντες δὲ οἱ Ἰουδαῖοι καὶ προσλαβόμενοι τῶν ἀγοραίων ἄνδρας τινὰς πονηροὺς καὶ ὀχλοποιήσαντες ἐθορύβουν τὴν πόλιν, καὶ ἐπιστάντες τῇ οἰκίᾳ Ἰάσονος ἐζήτουν αὐτοὺς προαγαγεῖν εἰς τὸν δῆμον·",
+    "translation": "Pero los líderes judíos, llenos de celos, reclutaron a unos maleantes ociosos de la plaza pública y, formando una turba amotinada, alborotaban la ciudad; y asaltando la casa de Jasón, buscaban sacarlos a la asamblea del pueblo.",
+    "translation_notes": "Motín callejero y mercenarios del hampa: el sustantivo ζῆλος reaparece como motor de la envidia religiosa. El término helenístico ἀγοραῖοι (agoraioi) designaba despectivamente a los parásitos callejeros, rufianes y mercenarios que merodeaban sin empleo por el foro o plaza pública ('los vagabundos del mercado'). El participio compuesto ὀχλοποιήσαντες ('habiendo congregado una turba violenta'). Asaltan la mansión de Jasón (creyente anfitrión de los apóstoles) para arrastrarlos ante la asamblea cívica popular (εἰς τὸν δῆμον)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 6,
+    "greek_text": "μὴ εὑρόντες δὲ αὐτοὺς ἔσυρον Ἰάσονα καί τινας ἀδελφοὺς ἐπὶ τοὺς πολιτάρχας, βοῶντες ὅτι Οἱ τὴν οἰκουμένην ἀναστατώσαντες οὗτοι καὶ ἐνθάδε πάρεισιν,",
+    "translation": "Al no hallarlos, arrastraron a Jasón y a algunos hermanos ante los politarcas, gritando: «¡Estos que han trastornado el mundo entero también se han presentado aquí,",
+    "translation_notes": "Precisión arqueológica de los politarcas y acusación de subversión cósmica: el título πολιτάρχας (politarches) es un término institucional magistral que los críticos del siglo XIX tildaban erróneamente de error histórico de Lucas; sin embargo, excavaciones modernas han hallado más de 30 inscripciones en Tesalónica y Macedonia confirmando que 'politarchas' era exactamente el título oficial exclusivo de los gobernantes supremos de estas urbes libres macedonias. La célebre acusación popular: Οἱ τὴν οἰκουμένην ἀναστατώσαντες ('los que han puesto de cabeza la tierra habitada / revolucionado el imperio'), reconociendo el impacto transformador del evangelio."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 7,
+    "greek_text": "οὓς ὑποδέδεκται Ἰάσων· καὶ οὗτοι πάντες ἀπέναντι τῶν δογμάτων Καίσαρος πράσσουσι, βασιλέα ἕτερον λέγοντες εἶναι Ἰησοῦν.",
+    "translation": "a los cuales Jasón ha dado hospedaje! Y todos ellos actúan en abierta oposición a los decretos del César, proclamando que hay otro rey: Jesús».",
+    "translation_notes": "Acusación de alta traición al Imperio (crimen maiestatis): acusan a los cristianos de violar los decretos imperiales (ἀπέναντι τῶν δογμάτων Καίσαρος). El juramento de lealtad a Roma prohibía proclamar a otro soberano supremo. Proclamar a Jesús como βασιλεύς ('rey / soberano imperial') chocaba frontalmente con el culto imperial que reconocía exclusivamente a César como rey y señor de la ecúmene."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 8,
+    "greek_text": "ἐτάραξαν δὲ τὸν ὄχλον καὶ τοὺς πολιτάρχας ἀκούοντας ταῦτα,",
+    "translation": "Con esto alarmaron al pueblo y a los politarcas que oían estas cosas;",
+    "translation_notes": "Inquietud política de los magistrados: los politarcas se alarman profundamente porque Tesalónica era una 'ciudad libre' ('civitas libera') que conservaba su autonomía y exención de guarnición militar romana gracias a su lealtad incondicional al César; cualquier rumor de sedición imperial ponía en riesgo inmediato sus privilegios cívicos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 9,
+    "greek_text": "καὶ λαβόντες τὸ ἱκανὸν παρὰ τοῦ Ἰάσονος καὶ τῶν λοιπῶν ἀπέλυσαν αὐτούς.",
+    "translation": "y habiendo exigido una fianza a Jasón y a los demás, los dejaron en libertad.",
+    "translation_notes": "Procedimiento jurídico de fianza romana: la frase técnica λαβόντες τὸ ἱκανόν traduce literalmente el modismo legal latino 'satis accipere' (tomar fianza o depósito pecuniario de garantía). Jasón depositó una suma monetaria sustancial comprometiéndose a garantizar la paz pública y la salida inmediata de los apóstoles fuera de la jurisdicción municipal (lo que explica por qué Pablo no pudo regresar pronto a Tesalónica, 'Satanás nos estorbó', 1 Ts 2:18)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 10,
+    "greek_text": "Οἱ δὲ ἀδελφοὶ εὐθέως διὰ νυκτὸς ἐξέπεμψαν τόν τε Παῦλον καὶ τὸν Σιλᾶν εἰς Βέροιαν, οἵτινες παραγενόμενοι εἰς τὴν συναγωγὴν τῶν Ἰουδαίων ἀπῄεσαν·",
+    "translation": "Inmediatamente, durante la noche, los hermanos enviaron a Pablo y a Silas hacia Berea; y ellos, al llegar, se dirigieron a la sinagoga de los judíos.",
+    "translation_notes": "Huida nocturna a Berea: evacuan a los apóstoles al amparo de la noche hacia Berea (a unos 75 km al sudoeste de Tesalónica, al pie del monte Bermio). Manteniendo su inquebrantable vocación apostólica, apenas llegan se dirigen a la sinagoga judía."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 11,
+    "greek_text": "οὗτοι δὲ ἦσαν εὐγενέστεροι τῶν ἐν Θεσσαλονίκῃ, οἵτινες ἐδέξαντο τὸν λόγον μετὰ πάσης προθυμίας, τὸ καθ’ ἡμέραν ἀνακρίνοντες τὰς γραφὰς εἰ ἔχοι ταῦτα οὕτως.",
+    "translation": "Estos eran de un carácter más noble que los de Tesalónica, pues recibieron la palabra con toda avidez, escudriñando diariamente las Escrituras para verificar si estas cosas eran realmente así.",
+    "translation_notes": "La nobleza crítica y hermenéutica de los bereanos: el adjetivo comparativo εὐγενέστεροι ('más nobles de espíritu, imparciales, libres de prejuicios y mezquindad'). Su modelo metodológico de fe es ejemplar: acogieron el mensaje con entusiasmo abierto (μετὰ πάσης προθυμίας), contrastándolo sistemáticamente cada día (τὸ καθ’ ἡμέραν) mediante un examen analítico judicial riguroso de los rollos sagrados (ἀνακρίνοντες, verbo del vocabulario jurídico que significa 'hacer una investigación probatoria exhaustiva')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 12,
+    "greek_text": "πολλοὶ μὲν οὖν ἐξ αὐτῶν ἐπίστευσαν, καὶ τῶν Ἑλληνίδων γυναικῶν τῶν εὐσχημόνων καὶ ἀνδρῶν οὐκ ὀλίγοι.",
+    "translation": "De manera que muchos de ellos creyeron, junto con un número no pequeño de mujeres griegas distinguidas y de varones.",
+    "translation_notes": "Fruto abundante entre la aristocracia: el participio femenino εὐσχημόνων ('de alta alcurnia, prominentes, de elevada consideración social') aplicado a damas griegas macedonias, reflejando nuevamente la penetración del evangelio en las esferas de prestigio e influencia comunitaria."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 13,
+    "greek_text": "ὡς δὲ ἔγνωσαν οἱ ἀπὸ τῆς Θεσσαλονίκης Ἰουδαῖοι ὅτι καὶ ἐν τῇ Βεροίᾳ κατηγγέλη ὑπὸ τοῦ Παύλου ὁ λόγος τοῦ θεοῦ, ἦλθον κἀκεῖ σαλεύοντες καὶ ταράσσοντες τοὺς ὄχλους.",
+    "translation": "Pero cuando los judíos de Tesalónica se enteraron de que la palabra de Dios había sido proclamada por Pablo también en Berea, fueron allá a agitar y alborotar a las multitudes.",
+    "translation_notes": "Hostigamiento persecutorio itinerante: los opositores tesalonicenses recorren los 75 km para abortar el avivamiento. Los verbos en participio σαλεύοντες ('sacudir como terremoto') y ταράσσοντες ('perturbar violentamente') retratan una agresiva campaña de agitación social."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 14,
+    "greek_text": "εὐθέως δὲ τότε τὸν Παῦλον ἐξαπέστειλαν οἱ ἀδελφοὶ πορεύεσθαι ἕως ἐπὶ τὴν θάλασσαν· ὑπέμεινάν τε ὅ τε Σιλᾶς καὶ ὁ Τιμόθεος ἐκεῖ.",
+    "translation": "Entonces los hermanos enviaron de inmediato a Pablo para que fuera en dirección al mar; pero Silas y Timoteo se quedaron allí.",
+    "translation_notes": "Evacuación marítima y permanencia pastoral: Pablo, siendo el blanco primordial de la violencia, es escoltado hacia el mar Egeo (probablemente el puerto de Metone o Díon), mientras Silas y Timoteo permanecen en Berea para cimentar espiritualmente a los recién convertidos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 15,
+    "greek_text": "οἱ δὲ καθιστάνοντες τὸν Παῦλον ἤγαγον ἕως Ἀθηνῶν, καὶ λαβόντες ἐντολὴν πρὸς τὸν Σιλᾶν καὶ τὸν Τιμόθεον ἵνα ὡς τάχιστα ἔλθωσιν πρὸς αὐτὸν ἐξῄεσαν.",
+    "translation": "Los que escoltaban a Pablo lo condujeron hasta Atenas; y habiendo recibido instrucciones para Silas y Timoteo de que fueran a reunirse con él a la mayor brevedad posible, partieron.",
+    "translation_notes": "Llegada a Atenas: el participio καθιστάνοντες denota la escolta protectora que guía y sufraga los gastos del apóstol en su viaje de unos 300 km hacia Atenas (corazón intelectual, cultural y filosófico del mundo grecorromano). Pablo envía orden perentoria a Silas y Timoteo para que se reúnan con él cuanto antes (ἵνα ὡς τάχιστα ἔλθωσιν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 16,
+    "greek_text": "Ἐν δὲ ταῖς Ἀθήναις ἐκδεχομένου αὐτοὺς τοῦ Παύλου, παρωξύνετο τὸ πνεῦμα αὐτοῦ ἐν αὐτῷ θεωροῦντος κατείδωλον οὖσαν τὴν πόλιν.",
+    "translation": "Mientras Pablo los esperaba en Atenas, su espíritu se encendía en profunda indignación dentro de él al contemplar la ciudad abarrotada de ídolos.",
+    "translation_notes": "Indignación santa en la metrópoli filosófica: el verbo παρωξύνετο (imperfecto pasivo de paroxynō) refleja una irritación y dolor espiritual que conmovía las entrañas de Pablo. El término κατείδωλος (hápax legómeno en el NT, compuesto intensivo de kata y eidōlon) describe una urbe 'sumergida por completo bajo un bosque de ídolos'. Historiadores paganos como Petronio afirmaban satíricamente que en Atenas 'era más fácil toparse con un dios que con un ser humano', y Plinio calculó que la ciudad albergaba más de treinta mil estatuas de deidades paganas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 17,
+    "greek_text": "διελέγετο μὲν οὖν ἐν τῇ συναγωγῇ τοῖς Ἰουδαίοις καὶ τοῖς σεβομένοις καὶ ἐν τῇ ἀγορᾷ κατὰ πᾶσαν ἡμέραν πρὸς τοὺς παρατυγχάνοντας.",
+    "translation": "De modo que discutía en la sinagoga con los judíos y con los gentiles piadosos, y diariamente en la plaza pública con los que se encontraban por allí.",
+    "translation_notes": "El doble escenario misionero: el imperfecto διελέγετο expresa diálogo dialéctico continuo. Pablo no se recluye: debate en la sinagoga con judíos y prosélitos, pero sale también todos los días al Ágora (el corazón cívico y comercial ateniense, al pie de la Acrópolis), dialogando a la usanza socrática con cualquier ciudadano transeúnte que se cruzara en su camino (πρὸς τοὺς παρατυγχάνοντας)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 18,
+    "greek_text": "τινὲς δὲ καὶ τῶν Ἐπικουρείων καὶ Στοϊκῶν φιλοσόφων συνέβαλλον αὐτῷ, καί τινες ἔλεγον· Τί ἂν θέλοι ὁ σπερμολόγος οὗτος λέγειν; οἱ δέ· Ξένων δαιμονίων δοκεῖ καταγγελεὺς εἶναι· ὅτι τὸν Ἰησοῦν καὶ τὴν ἀνάστασιν εὐηγγελίζετο.",
+    "translation": "También algunos de los filósofos epicúreos y estoicos entablaban disputas con él. Y unos decían: «¿Qué querrá decir este charlatán?». Y otros: «Parece ser un heraldo de divinidades extranjeras»; porque les anunciaba las buenas noticias de Jesús y de la resurrección.",
+    "translation_notes": "Choque con las escuelas filosóficas helenísticas: los epicúreos (materialistas que negaban la providencia divina y la vida post mórtem, buscando la serenidad sensorial / ataraxia) y los estoicos (panteístas éticos centrados en el Logos cósmico y la autosuficiencia). El insulto ateniense σπερμολόγος (spermologos) designaba originalmente al pájaro que picotea granos caídos en el mercado, y en la jerga culta se usaba despectivamente para el 'charlatán plagiario de pacotilla' que recoge retazos de ideas ajenas sin comprenderlas. La acusación de ser 'heraldo de dioses foráneos' (Ξένων δαιμονίων καταγγελεύς) evoca textualmente el mismo cargo mortal imputado a Sócrates cuatro siglos antes en el 399 a.C.: los atenienses creyeron cómicamente que Jesús (Iēsous) y la Resurrección (Anastasis, sustantivo femenino) eran una pareja de nuevas deidades masculinas y femeninas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 19,
+    "greek_text": "ἐπιλαβόμενοί τε αὐτοῦ ἐπὶ τὸν Ἄρειον Πάγον ἤγαγον, λέγοντες· Δυνάμεθα γνῶναι τίς ἡ καινὴ αὕτη ἡ ὑπὸ σοῦ λαλουμένη διδαχή;",
+    "translation": "Y tomándolo consigo, lo condujeron al Areópago, diciendo: «¿Podríamos saber cuál es esta nueva doctrina que tú proclamas?",
+    "translation_notes": "Comparecencia ante la corte del Areópago: el Areópago (Ἄρειος Πάγος, 'colina de Ares / Marte') era el tribunal supremo y consejo aristocrático más venerable de Atenas, encargado de custodiar la religión pública, examinar a maestros extranjeros y regular la educación y moral cívica. La pregunta formulada es formal y cortés pero inquisitoria (Δυνάμεθα γνῶναι τίς ἡ καινὴ αὕτη διδαχή)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 20,
+    "greek_text": "ξενίζοντα γάρ τινα εἰσφέρεις εἰς τὰς ἀκοὰς ἡμῶν· βουλόμεθα οὖν γνῶναι τίνα θέλει ταῦτα εἶναι.",
+    "translation": "Porque traes a nuestros oídos cosas extrañas y sorprendentes; queremos, por tanto, saber qué significan estas cosas».",
+    "translation_notes": "El participio ξενίζοντα describe doctrinas exóticas, chocantes o insólitas para los cánones intelectuales atenienses, exigiendo una clarificación doctrinal formal."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 21,
+    "greek_text": "Ἀθηναῖοι δὲ πάντες καὶ οἱ ἐπιδημοῦντες ξένοι εἰς οὐδὲν ἕτερον ηὐκαίρουν ἢ λέγειν τι ἢ ἀκούειν τι καινότερον.",
+    "translation": "(Pues todos los atenienses y los forasteros que allí residían no pasaban el tiempo en ninguna otra cosa sino en decir o en oír la última novedad).",
+    "translation_notes": "Pincelada sociológica mordaz de Lucas: nota costumbrista coincidente con los testimonios del orador Demóstenes (Filípica I, 10). El verbo ηὐκαίρουν describe el ocio intelectual permanente de una urbe cosmopolita decadente sedienta de novedades filosóficas (καινότερον, comparativo: 'lo más novedoso del momento')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 22,
+    "greek_text": "Σταθεὶς δὲ Παῦλος ἐν μέσῳ τοῦ Ἀρείου Πάγου ἔφη· Ἄνδρες Ἀθηναῖοι, κατὰ πάντα ὡς δεισιδαιμονεστέρους ὑμᾶς θεωρῶ·",
+    "translation": "Pablo, pues, puesto de pie en medio del Areópago, dijo: «Varones atenienses, en todo observo que ustedes son extremadamente religiosos.",
+    "translation_notes": "Apertura oratoria del Discurso del Areópago: la captatio benevolentiae clásica. El adjetivo comparativo δεισιδαιμονεστέρους (de deidō, temer, y daimōn, deidad) poseía una hábil ambigüedad diplomática: para la audiencia griega significaba 'profundamente piadosos y devotos de los dioses', mientras que en la mente monoteísta judía apuntaba a 'extremadamente supersticiosos'. Pablo elogia su instinto espiritual innato sin convalidar su idolatría."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 23,
+    "greek_text": "διερχόμενος γὰρ καὶ ἀναθεωρῶν τὰ σεβάσματα ὑμῶν εὗρον καὶ βωμὸν ἐν ᾧ ἐπεγέγραπτο· Ἀγνώστῳ θεῷ. ὃ οὖν ἀγνοοῦντες εὐσεβεῖτε, τοῦτο ἐγὼ καταγγέλλω ὑμῖν.",
+    "translation": "Porque al pasar y contemplar sus objetos de culto, hallé también un altar en el cual estaba inscrito: «AL DIOS DESCONOCIDO». Al que ustedes, pues, reverencian sin conocerlo, a ese yo les anuncio.",
+    "translation_notes": "El altar al Dios Desconocido: la arqueología e historiografía clásica confirman la existencia de altares atenienses con la dedicatoria Ἀγνώστῳ θεῷ (Agnōstō Theō, atestiguados por Pausanias, Descripción de Grecia 1.1.4, y Diógenes Laercio 1.110 a propósito de la purificación de Atenas por Epiménides de Creta). Los atenienses erigían estos altares anónimos por pánico a ofender por omisión a alguna deidad no identificada. Pablo aprovecha magistralmente este punto de contacto cultural: el neutro ὃ οὖν ἀγνοοῦντες εὐσεβεῖτε ('aquello que reverencian desde la ignorancia') se convierte en la plataforma para proclamar al único Dios Creador vivo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 24,
+    "greek_text": "ὁ θεὸς ὁ ποιήσας τὸν κόσμον καὶ πάντα τὰ ἐν αὐτῷ, οὗτος οὐρανοῦ καὶ γῆς ὑπάρχων κύριος οὐκ ἐν χειροποιήτοις ναοῖς κατοικεῖ",
+    "translation": "El Dios que hizo el mundo y todas las cosas que hay en él, siendo Señor del cielo y de la tierra, no habita en templos hechos por manos humanas,",
+    "translation_notes": "Trascendencia del Creador cósmico: Pablo combate tanto el panteísmo estoico (identificar a Dios con la materia cósmica) como el politeísmo idolátrico popular. Con la Acrópolis y el majestuoso Partenón visibles a pocos metros de donde hablaba, proclama con audacia que el Soberano del universo 'no mora en templos fabricados por manos humanas' (οὐκ ἐν χειροποιήτοις ναοῖς κατοικεῖ, eco de Salomón en 1 R 8:27 y de Esteban en Hch 7:48)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 25,
+    "greek_text": "οὐδὲ ὑπὸ χειρῶν ἀνθρωπίνων θεραπεύεται προσδεόμενός τινος, αὐτὸς διδοὺς πᾶσι ζωὴν καὶ πνοὴν καὶ τὰ πάντα·",
+    "translation": "ni es servido por manos humanas como si necesitara de algo, puesto que él mismo es quien da a todos vida, aliento y todas las cosas.",
+    "translation_notes": "Aseidad e independencia absoluta de Dios: el verbo θεραπεύεται denota el cuidado cultual y provisión material que los paganos ofrecían a sus ídolos mediante alimentos y ofrendas. El participio προσδεόμενός τινος ('como si careciera o necesitara de algo externo'). Dios es el dador soberano universal increado que imparte la existencia biológica (ζωήν), el hálito vital respiratorio continuo (πνοήν) y todo el sustento necesario (τὰ πάντα)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 26,
+    "greek_text": "ἐποίησέν τε ἐξ ἑνὸς πᾶν ἔθνος ἀνθρώπων κατοικεῖν ἐπὶ παντὸς προσώπου τῆς γῆς, ὁρίσας προστεταγμένους καιροὺς καὶ τὰς ὁροθεσίας τῆς κατοικίας αὐτῶν,",
+    "translation": "Y de un solo hombre hizo todo el linaje humano, para que habitara sobre toda la faz de la tierra, habiendo determinado los períodos fijados de antemano y los límites geográficos de su asentamiento,",
+    "translation_notes": "Monogenismo y soberanía providencial sobre las naciones: la expresión ἐξ ἑνός ('de uno solo', Adán) demuele la arraigada mitología racista ateniense, cuyos ciudadanos se jactaban de ser 'autóctonos' (nacidos del propio suelo de Ática, superiores a los demás pueblos bárbaros). Pablo proclama la igualdad ontológica y biológica universal de toda la raza humana (πᾶν ἔθνος ἀνθρώπων). Dios fijó soberanamente los ciclos históricos (καιρούς) y las fronteras territoriales (ὁροθεσίας) de las naciones."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 27,
+    "greek_text": "ζητεῖν τὸν θεὸν εἰ ἄρα γε ψηλαφήσειαν αὐτὸν καὶ εὕροιεν, καί γε οὐ μακρὰν ἀπὸ ἑνὸς ἑκάστου ἡμῶν ὑπάρχοντα.",
+    "translation": "con el propósito de que buscaran a Dios, a ver si de algún modo, palpando a tientas, pudieran hallarlo, aunque en verdad él no está lejos de cada uno de nosotros.",
+    "translation_notes": "La búsqueda existencial y la proximidad inmanente de Dios: el verbo óptativo ψηλαφήσειαν (de psēlaphaō, tocar a ciegas, palpar en la oscuridad como un ciego que busca orientación) expresa la trágica búsqueda sensorial del paganismo sin revelación. No obstante, Dios no es una deidad lejana e inaccesible: 'no se encuentra lejos de cada uno de nosotros' (οὐ μακρὰν ὑπάρχοντα)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 28,
+    "greek_text": "ἐν αὐτῷ γὰρ ζῶμεν καὶ κινούμεθα καὶ ἐσμέν, ὡς καί τινες τῶν καθ’ ὑμᾶς ποιητῶν εἰρήκασιν· Τοῦ γὰρ καὶ γένος ἐσμέν.",
+    "translation": "Porque en él vivimos, nos movemos y existimos; como también algunos de los poetas de ustedes han dicho: «Porque de su linaje también somos».",
+    "translation_notes": "Citas poéticas y teológicas griegas: Pablo cita con asombrosa erudición a dos autores clásicos respetados: 1) la tríada ontológica 'en él vivimos, nos movemos y existimos' (ἐν αὐτῷ ζῶμεν καὶ κινούμεθα καὶ ἐσμέν) procede de una estrofa atribuida a Epiménides de Creta (siglo VI a.C., la misma obra de la que cita en Tito 1:12); 2) el hemistiquio exacto Τοῦ γὰρ καὶ γένος ἐσμέν ('porque de su linaje somos') pertenece a los 'Fenómenos' (verso 5) del poeta cilicio Arato de Solos (siglo III a.C.), y al 'Himno a Zeus' del filósofo estoico Cleantes. Pablo despoja estas afirmaciones de su panteísmo original y las corona con el verdadero teísmo bíblico de la filiación creatural del ser humano."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 29,
+    "greek_text": "γένος οὖν ὑπάρχοντες τοῦ θεοῦ οὐκ ὀφείλομεν νομίζειν χρυσῷ ἢ ἀργύρῳ ἢ λίθῳ, χαράγματι τέχνης καὶ ἐνθυμήσεως ἀνθρώπου, τὸ θεῖον εἶναι ὅμοιον.",
+    "translation": "Siendo, pues, linaje de Dios, no debemos pensar que la naturaleza divina sea semejante al oro, o a la plata, o a la piedra, escultura producida por el arte y la imaginación humana.",
+    "translation_notes": "Absurdidad de la idolatría plástica: argumento lógico irrefutable: si los seres humanos somos criaturas dotadas de vida, consciencia, intelecto y espíritu personal procedentes de Dios, resulta una degradación ontológica monstruosa concebir que la divinidad (τὸ θεῖον) sea inferior a nosotros, asemejándola a metales inertes o esculturas de mármol (χαράγματι τέχνης καὶ ἐνθυμήσεως, 'grabado de la destreza técnica y la fantasía mental del hombre')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 30,
+    "greek_text": "τοὺς μὲν οὖν χρόνους τῆς ἀγνοίας ὑπεριδὼν ὁ θεὸς τὰ νῦν παραγγέλλει τοῖς ἀνθρώποις πάντας πανταχοῦ μετανοεῖν,",
+    "translation": "Así que, habiendo pasado por alto los tiempos de la ignorancia, Dios ordena ahora a todos los hombres en todas partes que se arrepientan;",
+    "translation_notes": "El imperativo escatológico de la conversión: el participio ὑπεριδών ('habiendo tolerado con paciencia / pasado por alto sin castigo definitivo inmediato', cf. Hch 14:16; Rm 3:25). La época de la ignorancia pagana (τῆς ἀγνοίας) ha concluido. El mandato evangélico universal: Dios ordena imperativamente (παραγγέλλει) el arrepentimiento (μετανοεῖν) sin excepción geográfica ni cultural: πάντας πανταχοῦ ('a todos los hombres en todo lugar')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 31,
+    "greek_text": "καθότι ἔστησεν ἡμέραν ἐν ᾗ μέλλει κρίνειν τὴν οἰκουμένην ἐν δικαιοσύνῃ ἐν ἀνδρὶ ᾧ ὥρισεν, πίστιν παρασχὼν πᾶσιν ἀναστήσας αὐτὸν ἐκ νεκρῶν.",
+    "translation": "por cuanto ha fijado un día en el cual juzgará a la humanidad con justicia, por medio de un Varón a quien ha designado, habiendo ofrecido una garantía fidedigna a todos al resucitarlo de entre los muertos».",
+    "translation_notes": "El Juicio Final y la garantía cósmica de la Resurrección: Dios ha establecido una fecha irrevocable (ἔστησεν ἡμέραν) para el juicio escatológico de la ecúmene en estricta justicia (ἐν δικαιοσύνῃ). El Juez no es un mito pagano, sino un Hombre histórico designado por decreto eterno: ἐν ἀνδρὶ ᾧ ὥρισεν (Jesús). La frase πίστιν παρασχὼν πᾶσιν es un tecnicismo del derecho procesal griego que significa 'aportar una prueba jurídica fidedigna, incontestable y plenamente concluyente para todos': la resurrección histórica de Jesús de entre los muertos es la credencial divina definitiva."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 32,
+    "greek_text": "Ἀκούσαντες δὲ ἀνάστασιν νεκρῶν οἱ μὲν ἐχλεύαζον οἱ δὲ εἶπαν Ἀκουσόμεθά σου περὶ τούτου καὶ πάλιν.",
+    "translation": "Y al oír de la resurrección de los muertos, unos se burlaban abiertamente, mientras que otros dijeron: «Te escucharemos acerca de esto en otra ocasión».",
+    "translation_notes": "Reacción y escándalo de la resurrección corporal: el concepto de la resurrección de la carne (ἀνάστασιν νεκρῶν) resultaba completamente inaceptable y absurdo para el dualismo griego, que consideraba el cuerpo material una cárcel corrupta del alma ('sōma sēma'). El verbo ἐχλεύαζον denota mofa sarcástica y desprecio burlón. Otros aplazan la decisión con diplomacia escéptica (Ἀκουσόμεθά σου καὶ πάλιν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 33,
+    "greek_text": "οὕτως ὁ Παῦλος ἐξῆλθεν ἐκ μέσου αὐτῶν·",
+    "translation": "Así pues, Pablo salió de en medio de ellos.",
+    "translation_notes": "Retirada digna del tribunal: Pablo abandona la tribuna del Areópago con serenidad, dejando el testimonio de la verdad proclamado en el corazón de la cultura clásica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 17,
+    "verse": 34,
+    "greek_text": "τινὲς δὲ ἄνδρες κολληθέντες αὐτῷ ἐπίστευσαν, ἐν οἷς καὶ Διονύσιος ὁ Ἀρεοπαγίτης καὶ γυνὴ ὀνόματι Δάμαρις καὶ ἕτεροι σὺν αὐτοῖς.",
+    "translation": "Pero algunos hombres, adhiriéndose a él, creyeron; entre los cuales estaban Dionisio el areopagita, una mujer llamada Dámaris y otros con ellos.",
+    "translation_notes": "Conversiones de élite en Atenas: el verbo κολληθέντες ('uniéndose íntimamente a él con adhesión incondicional'). Destaca Dionisio el areopagita (ὁ Ἀρεοπαγίτης), miembro titular del selecto colegio de magistrados vitalicios de la colina de Marte, lo que representaba un triunfo espiritual de enorme calado en la cúspide intelectual ateniense. Dámaris (damisela griega distinguida) y un núcleo de nuevos creyentes que sembraron la semilla eclesial en la capital helénica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 1,
+    "greek_text": "Μετὰ ταῦτα χωρισθεὶς ἐκ τῶν Ἀθηνῶν ἦλθεν εἰς Κόρινθον.",
+    "translation": "Después de estas cosas, habiendo salido de Atenas, Pablo llegó a Corinto.",
+    "translation_notes": "Traslado a la metrópoli comercial de Acaya: Corinto (a unos 80 km al sudoeste de Atenas), reedificada por Julio César en el 44 a.C. como colonia romana, era la capital administrativa de la provincia senatorial de Acaya. Situada en el istmo que unía el Peloponeso con la Grecia continental, controlaba dos puertos estratégicos: Lequeo (en el golfo de Corinto, mirando al mar Jónico e Italia) y Cencreas (en el golfo Sarónico, mirando al mar Egeo y Asia Menor). Era una urbe bulliciosa, cosmopolita, sumamente próspera y célebre por su liberalidad moral."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 2,
+    "greek_text": "καὶ εὑρών τινα Ἰουδαῖον ὀνόματι Ἀκύλαν, Ποντικὸν τῷ γένει, προσφάτως ἐληλυθότα ἀπὸ τῆς Ἰταλίας καὶ Πρίσκιλλαν γυναῖκα αὐτοῦ διὰ τὸ διατεταχέναι Κλαύδιον χωρίζεσθαι πάντας τοὺς Ἰουδαίους ἀπὸ τῆς Ῥώμης, προσῆλθεν αὐτοῖς,",
+    "translation": "Y halló a cierto judío llamado Aquila, originario del Ponto, recién llegado de Italia junto con Priscila su mujer, por cuanto el emperador Claudio había ordenado por decreto que todos los judíos salieran de Roma. Pablo se acercó a ellos;",
+    "translation_notes": "El edicto imperial de Claudio y el matrimonio misionero: Aquila era un judío oriundo del Ponto (costa sur del mar Negro) y su esposa Priscila (diminutivo de Prisca, dama romana de alta alcurnia de la 'gens Prisca'). Lucas anota con rigor histórico la causa de su migración: el edicto de expulsión de Claudio (διατεταχέναι Κλαύδιον). Este hecho es corroborado textualmente por el historiador romano Suetonio (Vidas de los doce Césares, Claudio 25.4), quien consigna que en el 49 d.C. 'Claudio expulsó de Roma a los judíos porque provocaban continuos tumultos instigados por Chresto (Impulsore Chresto)'. El debate en las sinagogas de Roma en torno a si Jesús era el Cristo causó tales revueltas que el emperador decretó la expulsión general de los judíos de la capital imperial."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 3,
+    "greek_text": "καὶ διὰ τὸ ὁμότεχνον εἶναι ἔμενεν παρ’ αὐτοῖς καὶ ἠργάζετο, ἦσαν γὰρ σκηνοποιοὶ τῇ τέχνῃ.",
+    "translation": "y como compartían el mismo oficio, se quedó con ellos y trabajaba; pues eran fabricantes de tiendas por su profesión.",
+    "translation_notes": "El oficio de fabricante de tiendas y la ética laboral paulina: el adjetivo ὁμότεχνος ('del mismo gremio u oficio artesanal'). Eran σκηνοποιοί (skēnopoioi, 'fabricantes de tiendas de campaña o toldos de cuero y lana'). En Tarso se confeccionaban tiendas con el célebre tejido de pelo de cabra cilicio ('cilicium'). Conforme a la ética rabínica del siglo I, todo maestro de la Torá debía dominar un oficio manual para no comercializar con la palabra de Dios; Pablo aplicó este principio rigurosamente para garantizar su independencia financiera y no ser gravoso a las iglesias (cf. 1 Co 9:12-18; 1 Ts 2:9)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 4,
+    "greek_text": "διελέγετο δὲ ἐν τῇ συναγωγῇ κατὰ πᾶν σάββατον, ἔπειθέν τε Ἰουδαίους καὶ Ἕλληνας.",
+    "translation": "Y debatía en la sinagoga todos los sábados, persuadiendo tanto a judíos como a griegos.",
+    "translation_notes": "Actividad sinagogal semanal regular: mientras trabajaba de sol a sol durante la semana, los sábados de reposo (κατὰ πᾶν σάββατον) Pablo acudía a la sinagoga para debatir y persuadir (ἔπειθεν, imperfecto conativo: 'se esforzaba intensamente en persuadir') a judíos y a griegos prosélitos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 5,
+    "greek_text": "Ὡς δὲ κατῆλθον ἀπὸ τῆς Μακεδονίας ὅ τε Σιλᾶς καὶ ὁ Τιμόθεος, συνείχετο τῷ λόγῳ ὁ Παῦλος, διαμαρτυρόμενος τοῖς Ἰουδαίοις εἶναι τὸν χριστὸν Ἰησοῦν.",
+    "translation": "Cuando Silas y Timoteo descendieron desde Macedonia, Pablo se dedicó por entero a la proclamación de la palabra, testificando solemnemente a los judíos que Jesús es el Mesías.",
+    "translation_notes": "Dedicación pastoral plena: Silas y Timoteo llegan de Macedonia trayendo una ofrenda económica de ayuda enviada por los creyentes de Filipos (cf. 2 Co 11:9; Fil 4:15). Liberado de la necesidad de trabajar jornadas extenuantes como artesano, Pablo 'fue apremiado y consagrado enteramente a la palabra' (συνείχετο τῷ λόγῳ, imperfecto pasivo de synechō: absorbido y concentrado por completo). Su testimonio categórico (διαμαρτυρόμενος): demostrar que Jesús es el Cristo Mesías prometido."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 6,
+    "greek_text": "ἀντιτασσομένων δὲ αὐτῶν καὶ βλασφημούντων ἐκτιναξάμενος τὰ ἱμάτια εἶπεν πρὸς αὐτούς· Τὸ αἷμα ὑμῶν ἐπὶ τὴν κεφαλὴν ὑμῶν· καθαρὸς ἐγώ· ἀπὸ τοῦ νῦν εἰς τὰ ἔθνη πορεύσομαι.",
+    "translation": "Pero al oponerse ellos con hostilidad y lanzar blasfemias, Pablo se sacudió las vestiduras y les dijo: «¡La sangre de ustedes caiga sobre sus propias cabezas! Yo estoy libre de culpa; a partir de ahora me dirigiré a los gentiles».",
+    "translation_notes": "Gesto profético de ruptura y juicio forense: el participio ἀντιτασσομένων (término militar que describe alinearse en orden de batalla hostil contra alguien) junto a βλασφημούντων ('profiriendo injurias blasfemas'). Pablo se sacude sus ropas (ἐκτιναξάμενος τὰ ἱμάτια), gesto semítico radical de desvinculación moral. La fórmula 'su sangre sea sobre su propia cabeza' evoca la responsabilidad profética del centinela de Ezequiel 33:1-9: habiendo advertido fielmente la verdad, él queda jurídicamente limpio y exento de culpa (καθαρὸς ἐγώ). Concluye con la resolución solemne de volcar su misión exclusivamente hacia la población gentil (εἰς τὰ ἔθνη πορεύσομαι)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 7,
+    "greek_text": "καὶ μεταβὰς ἐκεῖθεν εἰσῆλθεν εἰς οἰκίαν τινὸς ὀνόματι Τιτίου Ἰούστου σεβομένου τὸν θεόν, οὗ ἡ οἰκία ἦν συνομοροῦσα τῇ συναγωγῇ.",
+    "translation": "Y saliendo de allí, entró en la casa de cierto hombre llamado Ticio Justo, temeroso de Dios, cuya vivienda estaba pared con pared junto a la sinagoga.",
+    "translation_notes": "Cambio de sede junto a la sinagoga: Pablo traslada su centro de operaciones a la residencia de Ticio Justo (un ciudadano romano temeroso de Dios). La precisión topográfica lucana es fascinante: οὗ ἡ οἰκία ἦν συνομοροῦσα τῇ συναγωγῇ ('cuya vivienda tenía lindero común o compartía pared con la sinagoga'), lo que permitía a los asistentes a la sinagoga cruzar de inmediato a la casa vecina para escuchar a Pablo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 8,
+    "greek_text": "Κρίσπος δὲ ὁ ἀρχισυνάγωγος ἐπίστευσεν τῷ κυρίῳ σὺν ὅλῳ τῷ οἴκῳ αὐτοῦ, καὶ πολλοὶ τῶν Κορινθίων ἀκούοντες ἐπίστευον καὶ ἐβαπτίζοντο.",
+    "translation": "Y Crispo, el principal de la sinagoga, creyó en el Señor con toda su casa; y muchos de los corintios, al oír, creían y eran bautizados.",
+    "translation_notes": "Conversión de la máxima autoridad sinagogal: Crispo ostentaba el título más elevado de la comunidad judía: ὁ ἀρχισυνάγωγος ('el principal de la sinagoga', responsable del culto, las finanzas y el edificio). Su conversión y la de toda su familia representó un terremoto religioso en Corinto (Pablo bautizó personalmente a Crispo, según 1 Co 1:14). El fruto entre los gentiles corintios es masivo y continuo: una corriente constante de conversiones y bautismos (imperfectos continuos ἐπίστευον καὶ ἐβαπτίζοντο)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 9,
+    "greek_text": "εἶπεν δὲ ὁ κύριος ἐν νυκτὶ δι’ ὁράματος τῷ Παύλῳ· Μὴ φοβοῦ, ἀλλὰ λάλει καὶ μὴ σιωπήσῃς,",
+    "translation": "Entonces el Señor dijo a Pablo en la noche mediante una visión: «No temas, sino continúa hablando y no te calles,",
+    "translation_notes": "Consuelo cristofánico y orden de persistencia: Jesús resucitado se aparece a Pablo en visión nocturna para confortarlo ante la amenaza de violencia. El imperativo presente negativo Μὴ φοβοῦ ('deja de temer / no tengas miedo') seguido del imperativo positivo λάλει ('sigue hablando') reforzado con la prohibición aorista perentoria μὴ σιωπήσῃς ('no guardes silencio bajo ninguna circunstancia')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 10,
+    "greek_text": "διότι ἐγώ εἰμι μετὰ σοῦ καὶ οὐδεὶς ἐπιθήσεταί σοι τοῦ κακῶσαί σε, διότι λαός ἐστί μοι πολὺς ἐν τῇ πόλει ταύτῃ.",
+    "translation": "porque yo estoy contigo y nadie te pondrá la mano encima para hacerte daño, porque tengo mucho pueblo en esta ciudad».",
+    "translation_notes": "Promesa de inmunidad y soberanía divina en la elección: la promesa patriarcal del pacto: ἐγώ εἰμι μετὰ σοῦ ('Yo estoy contigo'). El Señor le garantiza protección personal contra cualquier agresión violenta (οὐδεὶς ἐπιθήσεταί σοι τοῦ κακῶσαί σε). La justificación es sublime: διότι λαός ἐστί μοι πολὺς ἐν τῇ πόλει ταύτῃ ('porque yo tengo un pueblo numeroso en esta ciudad'). Aunque muchos corintios vivían sumergidos en la idolatría y depravación moral, Dios ya los reclamaba soberanamente como su 'pueblo' (λαός), destinado a ser llamado a la salvación mediante la predicación de Pablo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 11,
+    "greek_text": "ἐκάθισεν δὲ ἐνιαυτὸν καὶ μῆνας ἓξ διδάσκων ἐν αὐτοῖς τὸν λόγον τοῦ θεοῦ.",
+    "translation": "Y se estableció allí un año y seis meses, enseñando entre ellos la palabra de Dios.",
+    "translation_notes": "Ministerio prolongado de 18 meses: el verbo ἐκάθισεν ('se asentó / fijó su residencia'). Durante año y medio (otoño del 50 d.C. a la primavera del 52 d.C.), Pablo consolida doctrinalmente a una de las comunidades más complejas y carismáticas del mundo helenístico: la iglesia de Corinto."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 12,
+    "greek_text": "Γαλλίωνος δὲ ἀνθυπάτου ὄντος τῆς Ἀχαΐας κατεπέστησαν ὁμοθυμαδὸν οἱ Ἰουδαῖοι τῷ Παύλῳ καὶ ἤγαγον αὐτὸν ἐπὶ τὸ βῆμα,",
+    "translation": "Siendo Galión procónsul de Acaya, los líderes judíos se levantaron de común acuerdo contra Pablo y lo llevaron ante el tribunal,",
+    "translation_notes": "El ancla cronológica absoluta del Nuevo Testamento: Lucio Junio Galión Anneano (hermano mayor del célebre filósofo estoico Séneca, tutor del emperador Nerón) fue nombrado procónsul (ἀνθύπατος) de Acaya. La historicidad y datación exacta de este mandato han sido fijadas de manera inexpugnable gracias al descubrimiento de la célebre 'Inscripción de Delfos' (cuatro fragmentos de una carta del emperador Claudio hallados en Grecia), que sitúa el proconsulado de Galión con precisión matemática entre la primavera del 51 d.C. y la primavera del 52 d.C. Los adversarios judíos arrestan a Pablo y lo conducen ante el tribunal oficial imperial (βῆμα, el estrado judicial de mármol descubierto en las excavaciones del ágora romana de Corinto)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 13,
+    "greek_text": "λέγοντες ὅτι Παρὰ τὸν νόμον ἀναπείθει οὗτος τοὺς ἀνθρώπους σέβεσθαι τὸν θεόν.",
+    "translation": "diciendo: «Este hombre persuade a la gente a dar culto a Dios de una manera contraria a la ley».",
+    "translation_notes": "Ambigüedad premeditada de la acusación: acusan a Pablo de promover un culto 'contrario a la ley' (Παρὰ τὸν νόμον). Los acusadores intentaban que Galión interpretara la frase en sentido político romano ('religio illicita' no reconocida por el Senado imperial), para que condenara a Pablo como sedicioso contra el Estado."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 14,
+    "greek_text": "μέλλοντος δὲ τοῦ Παύλου ἀνοίγειν τὸ στόμα εἶπεν ὁ Γαλλίων πρὸς τοὺς Ἰουδαίους· Εἰ μὲν ἦν ἀδίκημά τι ἢ ῥᾳδιούργημα πονηρόν, ὦ Ἰουδαῖοι, κατὰ λόγον ἂν ἀνεσχόμην ὑμῶν·",
+    "translation": "Y cuando Pablo estaba a punto de abrir la boca para hablar, Galión dijo a los judíos: «Si se tratara de algún delito legal o de un crimen perverso, oh judíos, con toda razón yo los toleraría y atendería la demanda;",
+    "translation_notes": "El veredicto de Galión y el derecho romano: antes de que Pablo articule su defensa, el magistrado romano interviene de oficio. Galión distingue con brillantez jurisprudencial dos categorías delictivas romanas: ἀδίκημα (delito penal objetivo contra el orden civil o la propiedad) y ῥᾳδιούργημα πονηρόν (fraude premeditado, felonía o crimen moral perverso). Si existiera tal causa penal, la razón jurídica obligaría a tramitar la causa (κατὰ λόγον ἂν ἀνεσχόμην ὑμῶν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 15,
+    "greek_text": "εἰ δὲ ζητήματά ἐστιν περὶ λόγου καὶ ὀνομάτων καὶ νόμου τοῦ καθ’ ὑμᾶς, ὄψεσθε αὐτοί· κριτὴς ἐγὼ τούτων οὐ βούλομαι εἶναι.",
+    "translation": "pero si son cuestiones disputadas acerca de palabras, de nombres y de la propia ley de ustedes, arréglenlo ustedes mismos; pues yo no quiero ser juez de estas cosas».",
+    "translation_notes": "Precedente legal de enorme trascendencia para el cristianismo primitivo: Galión categoriza la controversia como una disputa teológica interna judía: sobre interpretaciones doctrinales (περὶ λόγου), títulos mesiánicos (ὀνομάτων) y la propia legislación mosaica (νόμου τοῦ καθ’ ὑμᾶς). Resuelve categóricamente: κριτὴς ἐγὼ τούτων οὐ βούλομαι εἶναι ('yo rehúso actuar como juez en asuntos religiosos internos'). Al desestimar el caso, el magistrado imperial sienta un precedente jurídico vinculante de inmunidad: el movimiento de Jesús queda cobijado bajo el paraguas legal de la religión judía autorizada ('religio licita'), desbaratando el intento de ilegalizar al cristianismo como secta sediciosa."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 16,
+    "greek_text": "καὶ ἀπήλασεν αὐτοὺς ἀπὸ τοῦ βήματος.",
+    "translation": "Y los expulsó sumariamente del tribunal.",
+    "translation_notes": "Expulsión judicial expedita: el verbo ἀπήλασεν (aoristo activo de apelaunō, 'hacer retirar a la fuerza / desalojar mediante los alguaciles') denota la desestimación contundente de la causa por orden del procónsul, haciendo despejar el estrado."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 17,
+    "greek_text": "ἐπιλαβόμενοι δὲ πάντες Σωσθένην τὸν ἀρχισυνάγωγον ἔτυπτον ἔμπροσθεν τοῦ βήματος· καὶ οὐδὲν τούτων τῷ Γαλλίωνι ἔμελεν.",
+    "translation": "Entonces todos agarraron a Sóstenes, el principal de la sinagoga, y se pusieron a golpearlo delante del tribunal; y a Galión no se le daba nada de estas cosas.",
+    "translation_notes": "Linchamiento de Sóstenes e indiferencia imperial: la multitud de transeúntes y espectadores griegos del ágora (πάντες), aprovechando el desaire de Galión hacia los acusadores, agarran a Sóstenes (el sucesor de Crispo como jefe de la sinagoga) y le propinan una golpiza tumultuaria justo al pie del estrado judicial. Galión hace caso omiso (οὐδὲν τούτων τῷ Γαλλίωνι ἔμελεν), considerándolo un ajuste menor de cuentas callejero. Más adelante, un Sóstenes 'hermano' reaparecerá como fiel colaborador de Pablo redactando la Primera Epístola a los Corintios (1 Co 1:1)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 18,
+    "greek_text": "Ὁ δὲ Παῦλος ἔτι προσμείνας ἡμέρας ἱκανὰς τοῖς ἀδελφοῖς ἀποταξάμενος ἐξέπλει εἰς τὴν Συρίαν, καὶ σὺν αὐτῷ Πρίσκιλλα καὶ Ἀκύλας, κειράμενος ἐν Κεγχρεαῖς τὴν κεφαλήν, εἶχεν γὰρ εὐχήν.",
+    "translation": "Pablo, habiéndose quedado aún muchos días más, se despidió de los hermanos y zarpó para Siria, y con él Priscila y Aquila, habiéndose rapado la cabeza en Cencreas, pues había hecho un voto.",
+    "translation_notes": "El voto nazareo en Cencreas: Pablo permanece todavía un tiempo prolongado en Corinto en completa paz bajo el amparo de la resolución de Galión. Luego se despide de la iglesia y se embarca en Cencreas (puerto oriental de Corinto) rumbo a Siria. El rapado de la cabeza (κειράμενος τὴν κεφαλήν) corresponde a un voto temporal voluntario de gratitud al Señor, similar al voto de nazareo regulado en Números 6:1-21: al concluir el período del voto o ser librado de un peligro mortal, la persona se afeitaba el cabello para ofrecerlo en el Templo de Jerusalén."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 19,
+    "greek_text": "κατήντησαν δὲ εἰς Ἔφεσον, κἀκείνους κατέλιπεν αὐτοῦ, αὐτὸς δὲ εἰσελθὼν εἰς τὴν συναγωγὴν διελέξατο τοῖς Ἰουδαίοις.",
+    "translation": "Llegaron a Éfeso, y los dejó allí; pero entrando él mismo en la sinagoga, dialogó con los judíos.",
+    "translation_notes": "Primera escala en Éfeso: cruzan el mar Egeo hasta llegar a Éfeso (la gran metrópoli de la provincia de Asia). Deja allí establecidos a Priscila y Aquila como avanzados del equipo misionero, mientras él acude a la sinagoga a sembrar la palabra mediante el diálogo exegético (διελέξατο)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 20,
+    "greek_text": "ἐρωτώντων δὲ αὐτῶν ἐπὶ πλείονα χρόνον μεῖναι οὐκ ἐπένευσεν,",
+    "translation": "Y aunque le rogaban que se quedara por más tiempo, no accedió,",
+    "translation_notes": "Receptividad insólita: a diferencia de las hostilidades padecidas en Macedonia y Acaya, la comunidad judía de Éfeso le pide con insistencia que prolongue su estancia (ἐπὶ πλείονα χρόνον μεῖναι). No obstante, Pablo no consiente (οὐκ ἐπένευσεν, 'no asintió inclinando la cabeza'), apremiado por llegar a Jerusalén."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 21,
+    "greek_text": "ἀλλὰ ἀποταξάμενος καὶ εἰπών· Πάλιν ἀνακάμψω πρὸς ὑμᾶς τοῦ θεοῦ θέλοντος ἀνήχθη ἀπὸ τῆς Ἐφέσου,",
+    "translation": "sino que se despidió de ellos diciendo: «Volveré de nuevo a ustedes, si Dios quiere»; y zarpó de Éfeso.",
+    "translation_notes": "Promesa de retorno condicionada a la soberanía divina: Pablo formula la condicional clásica de sumisión teocéntrica: τοῦ θεοῦ θέλοντος ('si Dios quiere / conforme a la soberana providencia divina', principio que Santiago 4:15 convertirá en norma ética cristiana). Promete regresar, promesa que inaugurará el colosal ministerio de tres años en Éfeso durante el Tercer Viaje Misionero (Hch 19)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 22,
+    "greek_text": "καὶ κατελθὼν εἰς Καισάρειαν, ἀναβὰς καὶ ἀσπασάμενος τὴν ἐκκλησίαν, κατέβη εἰς Ἀντιόχειαν,",
+    "translation": "Y habiendo desembarcado en Cesarea, subió y saludó a la iglesia, y luego descendió a Antioquía.",
+    "translation_notes": "Clausura formal del Segundo Viaje Misionero: desembarca en el puerto de Cesarea Marítima. El verbo ἀναβάς ('habiendo subido') es el modismo técnico absoluto indiscutible en el griego bíblico para 'subir a Jerusalén' (ciudad situada a más de 750 metros de altitud topográfica y corazón espiritual de la iglesia apostólica). Tras saludar a la iglesia madre en Jerusalén y consumar su voto en el Templo, desciende a Antioquía de Siria (su base misionera de envío), concluyendo victoriosamente una expedición apostólica de más de tres años y casi 5.000 kilómetros."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 23,
+    "greek_text": "καὶ ποιήσαντες χρόνον τινὰ ἐξῆλθεν, διερχόμενος καθεξῆς τὴν Γαλατικὴν χώραν καὶ Φρυγίαν, στηρίζων πάντας τοὺς μαθητάς.",
+    "translation": "Y habiendo pasado allí algún tiempo, partió, recorriendo en orden sucesivo la región de Galacia y Frigia, fortaleciendo a todos los discípulos.",
+    "translation_notes": "Inicio del Tercer Viaje Misionero (aprox. 53 d.C.): tras un intervalo de descanso y rendición de cuentas en Antioquía, Pablo emprende su tercera gira apostólica. Avanza por vía terrestre atravesando sucesivamente (καθεξῆς) el sur de Galacia y Frigia, consagrado al pastoreo de consolidación y afianzamiento doctrinal (στηρίζων) de todas las iglesias plantadas en sus viajes anteriores."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 24,
+    "greek_text": "Ἰουδαῖος δέ τις Ἀπολλῶς ὀνόματι, Ἀλεξανδρεὺς τῷ γένει, ἀνὴρ λόγιος, κατήντησεν εἰς Ἔφεσον, δυνατὸς ὢν ἐν ταῖς γραφαῖς.",
+    "translation": "Llegó entonces a Éfeso un judío llamado Apolos, natural de Alejandría, hombre elocuente y muy versado en las Escrituras.",
+    "translation_notes": "Aparición de Apolos de Alejandría: Alejandría (en Egipto) era el centro intelectual del judaísmo helenístico más ilustrado y sede de la célebre escuela exegética alegórica de Filón. Apolos es caracterizado con dos elogios eminentes: ἀνὴρ λόγιος ('hombre elocuente, sumamente instruido en la retórica culta') y δυνατὸς ὢν ἐν ταῖς γραφαῖς ('poderoso y de formidable dominio interpretativo de las Escrituras sagradas del Antiguo Testamento')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 25,
+    "greek_text": "οὗτος ἦν κατηχημένος τὴν ὁδὸν τοῦ κυρίου, καὶ ζέων τῷ πνεύματι ἐλάλει καὶ ἐδίδασκεν ἀκριβῶς τὰ περὶ τοῦ Ἰησοῦ, ἐπιστάμενος μόνον τὸ βάπτισμα Ἰωάννου.",
+    "translation": "Este había sido instruido en el camino del Señor; y siendo de espíritu ferviente, hablaba y enseñaba con exactitud las cosas concernientes a Jesús, aunque solo conocía el bautismo de Juan.",
+    "translation_notes": "Instrucción y limitación teológica de Apolos: el participio κατηχημένος (de katēcheō, instruido en la catequesis fundamental). La metáfora ζέων τῷ πνεύματι ('hirviendo en el espíritu / con fervor ardiente'). Enseñaba con notable exactitud y fidelidad histórica los hechos mesiánicos de Jesús (ἐδίδασκεν ἀκριβῶς τὰ περὶ τοῦ Ἰησοῦ). No obstante, su conocimiento soteriológico poseía una laguna: sólo conocía 'el bautismo de Juan' el Bautista (un bautismo preparatorio de arrepentimiento), desconociendo la plenitud del derramamiento de Pentecostés y el bautismo en el Espíritu Santo y en el Nombre de Jesús."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 26,
+    "greek_text": "οὗτός τε ἤρξατο παρρησιάζεσθαι ἐν τῇ συναγωγῇ· ἀκούσαντες δὲ αὐτοῦ Πρίσκιλλα καὶ Ἀκύλας προσελάβοντο αὐτὸν καὶ ἀκριβέστερον αὐτῷ ἐξέθεντο τὴν ὁδὸν τοῦ θεοῦ.",
+    "translation": "Y comenzó a hablar con gran denuedo en la sinagoga. Pero cuando Priscila y Aquila lo oyeron, lo tomaron aparte y le expusieron con mayor exactitud el camino de Dios.",
+    "translation_notes": "Discipulado pastoral maduro de Priscila y Aquila: Lucas antepone significativamente el nombre de Priscila (esposa) al de Aquila, revelando su destacado protagonismo intelectual y pedagógico en la comunidad. En lugar de desacreditar a Apolos públicamente en la sinagoga, lo acogen con amorosa delicadeza en la intimidad de su hogar (προσελάβοντο αὐτόν) y le completan las lagunas teológicas sobre la consumación de la cruz, resurrección, ascensión y don del Espíritu: ἐξέθεντο ἀκριβέστερον ('le expusieron con un grado superior de precisión doctrinal'). Apolos, dotado de gran humildad intelectual, acogió con gozo la enseñanza del matrimonio artesano."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 27,
+    "greek_text": "βουλομένου δὲ αὐτοῦ διελθεῖν εἰς τὴν Ἀχαΐαν προτρεψάμενοι οἱ ἀδελφοὶ ἔγραψαν τοῖς μαθηταῖς ἀποδέξασθαι αὐτόν· ὃς παραγενόμενος συνεβάλετο πολὺ τοῖς πεπιστευκόσιν διὰ τῆς χάριτος·",
+    "translation": "Y queriendo él pasar a Acaya, los hermanos lo animaron y escribieron a los discípulos para que lo recibieran con hospitalidad. Habiendo llegado allí, fue de gran provecho y edificación para los que habían creído por medio de la gracia;",
+    "translation_notes": "Cartas comendaticias y ministerio en Corinto: la iglesia de Éfeso redacta una carta de recomendación pastoral formal (ἔγραψαν τοῖς μαθηταῖς ἀποδέξασθαι αὐτόν, antecedente de las cartas comendaticias de 2 Co 3:1). Al llegar a Acaya (Corinto), su aportación es inmensa (συνεβάλετο πολύ, 'contribuyó en gran manera al apuntalamiento'). La teología de la gracia soberana: los creyentes son calificados como aquellos que han depositado su fe 'a través de la gracia' (διὰ τῆς χάριτος)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 28,
+    "greek_text": "εὐτόνως γὰρ τοῖς Ἰουδαίοις διακατηλέγχετο δημοσίᾳ ἐπιδεικνὺς διὰ τῶν γραφῶν εἶναι τὸν χριστὸν Ἰησοῦν.",
+    "translation": "porque con gran vigor y contundencia refutaba públicamente a los judíos, demostrando con toda claridad por medio de las Escrituras que Jesús es el Mesías.",
+    "translation_notes": "Apologética bíblica contundente: el adverbio εὐτόνως ('con máxima tensión muscular, energía vigorosa y fuerza dialéctica irresistible') califica el verbo compuesto διακατηλέγχετο (hápax legómeno con triple prefijo: dia-kata-elenchō, 'refutar victoriosamente hasta pulverizar por completo los argumentos contrarios'). Realizaba esta labor ante la vista de todos (δημοσίᾳ, en debates públicos abiertos), demostrando mediante la exégesis de los rollos proféticos (ἐπιδεικνὺς διὰ τῶν γραφῶν) que Jesús de Nazaret es el Cristo Mesías de Dios. Este ministerio apologético brillante de Apolos en Corinto es aludido extensamente por Pablo en 1 Corintios 1–3 ('Yo planté, Apolos regó, pero el crecimiento lo ha dado Dios')."
+  }
+]

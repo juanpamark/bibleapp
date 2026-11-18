@@ -1,0 +1,602 @@
+[
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 1,
+    "greek_text": "Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς πάντας τοὺς λόγους τούτους, εἶπεν τοῖς μαθηταῖς αὐτοῦ·",
+    "translation": "Y sucedió que, cuando Jesús terminó todas estas palabras, dijo a sus discípulos:",
+    "translation_notes": "Clausura del quinto y último gran discurso mateano: La fórmula Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς πάντας τοὺς λόγους τούτους (Kai egeneto hote etelesen ho Iēsous pantas tous logous toutous) marca la conclusión del último de los cinco grandes bloques de enseñanza en Mateo (cf. 7:28; 11:1; 13:53; 19:1), que evocan estructuralmente el Pentateuco mosaico. La adición del adjetivo πάντας ('todas') es exclusiva de este pasaje y señala solemnemente la finalización definitiva de su ministerio de instrucción pública y privada antes de iniciar su pasión y entrega sacrificial."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 2,
+    "greek_text": "Οἴδατε ὅτι μετὰ δύο ἡμέρας τὸ πάσχα γίνεται, καὶ ὁ υἱὸς τοῦ ἀνθρώπου παραδίδοται εἰς τὸ σταυρωθῆναι.",
+    "translation": "«Ustedes saben que dentro de dos días se celebra la Pascua, y el Hijo del Hombre es entregado para ser crucificado».",
+    "translation_notes": "Fusión cronológica de la Pascua y la profecía de crucifixión: El sustantivo τὸ πάσχα (to pascha), transliteración aramea del hebreo פֶּסַח (pesaḥ), conmemora la liberación del éxodo de Egipto (Éx 12). Jesús predice su propia muerte en el marco temporal exacto de la fiesta sacrificial. El verbo παραδίδοται (paradidotai, presente indicativo pasivo de παραδίδωμι) funciona como presente proléptico con fuerza de certeza profética inminente, o pasivo divino (passivum divinum), expresando que es entregado en el beneplácito redentor divino; mientras que la construcción de infinitivo con preposición εἰς τὸ σταυρωθῆναι (eis to staurōthēnai, pasivo de σταυρόω) explicita el modo cruel de su ejecución según el derecho romano de suplicio servil."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 3,
+    "greek_text": "Τότε συνήχθησαν οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι τοῦ λαοῦ εἰς τὴν αὐλὴν τοῦ ἀρχιερέως τοῦ λεγομένου Καϊάφα,",
+    "translation": "Entonces los principales sacerdotes y los ancianos del pueblo se reunieron en el patio del sumo sacerdote, llamado Caifás,",
+    "translation_notes": "Conspiración aristocrática y la sede de Caifás: La conjunción Τότε (Tote) conecta la predicción soberana de Jesús con el complot terrenal de las autoridades judías. Se congregan οἱ ἀρχιερεῖς (hoi archiereis, miembros de las familias sacerdotales de élite, predominantemente saduceos) y οἱ πρεσβύτεροι τοῦ λαοῦ (hoi presbyteroi tou laou, la aristocracia laica). El término αὐλή (aulē) designa el peristilo o patio central abierto de la residencia palaciega de José Caifás (en griego Καϊάφας, arameo Qayyāfā), quien ostentó el sumo sacerdocio designado por el prefecto Valerio Grato y ratificado bajo Poncio Pilato (18–36 d.C.)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 4,
+    "greek_text": "καὶ συνεβουλεύσαντο ἵνα τὸν Ἰησοῦν δόλῳ κρατήσωσιν καὶ ἀποκτείνωσιν·",
+    "translation": "y consultaron juntos para arrestar a Jesús con engaño y matarlo.",
+    "translation_notes": "Estrategia clandestina y dolo: El verbo συνεβουλεύσαντο (synebouleusanto, aoristo medio de συμβουλεύομαι) indica una deliberación conspirativa. El sustantivo δόλῳ (dolō, dativo modal de δόλος) subraya el uso de trampa, engaño o sigilo traicionero, reconociendo implícitamente que carecían de una causa judicial pública y temían la reacción de las multitudes que lo aclamaban como profeta."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 5,
+    "greek_text": "ἔλεγον δέ· Μὴ ἐν τῇ ἑορτῇ, ἵνα μὴ θόρυβος γένηται ἐν τῷ λαῷ.",
+    "translation": "Pero decían: «No durante la fiesta, para que no se produzca un tumulto en el pueblo».",
+    "translation_notes": "Cálculo político ante la multitud festiva: La conjunción negativa con subjuntivo ἵνα μὴ θόρυβος γένηται (hina mē thorybos genētai) denota el terror de la aristocracia ante un estallido popular (θόρυβος, motín o revuelta callejera). Durante Pésaj, Jerusalén multiplicaba enormemente su población habitual con cientos de miles de peregrinos judíos de Judea, Galilea y la diáspora grecorromana, en un clima de alta efervescencia mesiánica y sentimiento antirromano vigilado celosamente por la guarnición de la fortaleza Antonia."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 6,
+    "greek_text": "Τοῦ δὲ Ἰησοῦ γενομένου ἐν Βηθανίᾳ ἐν οἰκίᾳ Σίμωνος τοῦ λεπροῦ,",
+    "translation": "Y hallándose Jesús en Betania, en casa de Simón el leproso,",
+    "translation_notes": "Marco en Betania y Simón el Leproso: Betania (Βηθανία, del arameo Bêyt-ʿaniyya, 'casa de aflicción' o 'casa de los higos verdes') era una aldea en la falda oriental del monte de los Olivos, a menos de 3 km de Jerusalén. El epíteto Σίμωνος τοῦ λεπροῦ (Simōnos tou leprou) sugiere que era un hombre sanado previamente por Jesús o conocido comunitariamente por ese sobrenombre, pues según la pureza levítica (Lv 13–14) un leproso activo no podía residir normalmente ni hospedar comidas públicas en su hogar sin incurrir en impureza ceremonial."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 7,
+    "greek_text": "προσῆλθεν αὐτῷ γυνὴ ἔχουσα ἀλάβαστρον μύρου βαρυτίμου καὶ κατέχεεν ἐπὶ τῆς κεφαλῆς αὐτοῦ ἀνακειμένου.",
+    "translation": "se le acercó una mujer que tenía un frasco de alabastro con perfume de gran precio, y lo derramó sobre su cabeza mientras él estaba reclinado a la mesa.",
+    "translation_notes": "El frasco de alabastro y el gesto unigénito: El ἀλάβαστρον (alabastron) era un frasco de cuello estrecho y sellado, labrado en piedra de carbonato de calcio procedente de Alabastron (Egipto), valorado por conservar esencias volátiles. El μύρον βαρύτιμον (myron barytimon, compuesto de βαρύς 'pesado/costoso' y τιμή 'valor') denota un ungüento importado sumamente oneroso (en Juan 12:3 nardo puro de la India). Derramarlo sobre su cabeza (κατέχεεν ἐπὶ τῆς κεφαλῆς) evoca tanto la unción sacerdotal y real en el Antiguo Testamento (Éx 30:22–33; 1 Sam 10:1; 2 Re 9:6; Sal 133:2) como una anticipación profética de la unción sepulcral. El participio ἀνακειμένου (anakeimenou) refleja la postura reclinada del simposio judío y grecorromano sobre triclinios."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 8,
+    "greek_text": "ἰδόντες δὲ οἱ μαθηταὶ ἠγανάκτησαν λέγοντες· Εἰς τί ἡ ἀπώλεια αὕτη;",
+    "translation": "Al ver esto, los discípulos se indignaron, diciendo: «¿Para qué este desperdicio?",
+    "translation_notes": "Reacción e indignación de los discípulos: El verbo ἠγανάκτησαν (aganaktēsan, de ἀγανακτέω) expresa fuerte enojo moral. Mientras que Juan 12:4 individualiza la queja en Judas Iscariote, Mateo preserva la reacción compartida de los discípulos. El sustantivo ἀπώλεια (apōleia, 'ruina', 'pérdida', 'desperdicio') denota el juicio pragmático que considera el homenaje sacrificial hacia Jesús como un gasto superfluo e injustificado."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 9,
+    "greek_text": "ἐδύνατο γὰρ τοῦτο πραθῆναι πολλοῦ καὶ δοθῆναι πτωχοῖς.",
+    "translation": "Pues esto podía haberse vendido por mucho dinero y haberse dado a los pobres».",
+    "translation_notes": "Argumento de beneficencia social y limosna: La forma verbal pasiva ἐδύνατο... πραθῆναι πολλοῦ (edynato... prathēnai pollou) enfatiza la monetización potencial del bien. La limosna (hebreo צְדָקָה, tzedaká) era un pilar ético supremo del judaísmo del Segundo Templo (cf. Sirácida 3:30; Tobías 12:8–9); sin embargo, la objeción revela incapacidad teológica para discernir el momento cristológico irrepetible y supremo frente a las obligaciones caritativas cotidianas."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 10,
+    "greek_text": "γνοὺς δὲ ὁ Ἰησοῦς εἶπεν αὐτοῖς· Τί κόπους παρέχετε τῇ γυναικί; ἔργον γὰρ καλὸν ἠργάσατο εἰς ἐμέ·",
+    "translation": "Pero Jesús, dándose cuenta, les dijo: «¿Por qué causan molestias a la mujer? Pues ha realizado una buena obra para conmigo.",
+    "translation_notes": "Defensa de la mujer y obra excelente: La locución idiomática τί κόπους παρέχετε (ti kopous parechete, lit. '¿por qué procuran fatigas/molestias?') reprende la censura comunitaria. La frase ἔργον γὰρ καλὸν ἠργάσατο εἰς ἐμέ (ergon gar kalon ērgasato eis eme) emplea καλόν (kalon) en su sentido de obra noble, hermosa, moralmente excelente y digna de alabanza divina, trascendiendo la mera utilidad material."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 11,
+    "greek_text": "πάντοτε γὰρ τοὺς πτωχοὺς ἔχετε μεθ’ ἑαυτῶν, ἐμὲ δὲ οὐ πάντοτε ἔχετε·",
+    "translation": "Porque a los pobres los tienen siempre con ustedes, pero a mí no me tienen siempre.",
+    "translation_notes": "Alusión a Dt 15:11 y temporalidad de la encarnación: Jesús cita indirectamente Deuteronomio 15:11 ('nunca faltarán pobres en medio de la tierra'), confirmando la continua y perenne responsabilidad social con los desposeídos. Sin embargo, contrapone πάντοτε (pantote, 'siempre') con οὐ πάντοτε (ou pantote, 'no siempre'), subrayando la proximidad inmediata de su partida física y la singularidad teológica irrepetible de su pasión."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 12,
+    "greek_text": "βαλοῦσα γὰρ αὕτη τὸ μύρον τοῦτο ἐπὶ τοῦ σώματός μου πρὸς τὸ ἐνταφιάσαι με ἐποίησεν.",
+    "translation": "Pues al derramar este perfume sobre mi cuerpo, lo hizo con miras a mi sepultura.",
+    "translation_notes": "Significado funerario proléptico: El participio aoristo βαλοῦσα (balousa) califica la acción como un acto ya consumado cuyo propósito trascendente se formula mediante la preposición πρὸς τὸ ἐνταφιάσαι με (pros to entaphiasai me, infinitivo aoristo de ἐνταφιάζω con artículo). El término ἐνταφιασμός alude a los ritos de preparación del cadáver con ungüentos y especias aromáticas previos al entierro en la tumba familiar judía, revelando que el ungimiento no fue una mera suntuosidad, sino un anticipo profético de su inhumación."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 13,
+    "greek_text": "ἀμὴν λέγω ὑμῖν, ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον τοῦτο ἐν ὅλῳ τῷ κόσμῳ, λαληθήσεται καὶ ὃ ἐποίησεν αὕτη εἰς μνημόσυνον αὐτῆς.",
+    "translation": "De cierto les digo que dondequiera que se proclame este evangelio en todo el mundo, también se hablará de lo que esta hizo para memoria de ella».",
+    "translation_notes": "Solemne promesa escatológica y memorial perenne: Introducido por Ἀμὴν λέγω ὑμῖν (Amēn legō hymin), Jesús une la difusión universal del mensaje evangélico (τὸ εὐαγγέλιον τοῦτο ἐν ὅλῳ τῷ κόσμῳ) con la memoria de la mujer (εἰς μνημόσυνον αὐτῆς, eis mnēmosynon autēs). El término μνημόσυνον proviene del léxico cúltico de la Septuaginta (Éx 28:12; Lv 2:2; Nm 5:15), designando un memorial acepto ante Dios y registrado en la memoria perenne de la comunidad de fe."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 14,
+    "greek_text": "Τότε πορευθεὶς εἷς τῶν δώδεκα, ὁ λεγόμενος Ἰούδας Ἰσκαριώτης, πρὸς τοὺς ἀρχιερεῖς",
+    "translation": "Entonces uno de los doce, el llamado Judas Iscariote, fue ante los principales sacerdotes",
+    "translation_notes": "La traición interna en el círculo apostólico: Mateo subraya el escándalo de la traición calificando a Judas con la expresión εἷς τῶν δώδεκα (heis tōn dōdeka, 'uno de los doce'), enfatizando la fractura del círculo más íntimo y escogido. El apelativo Ἰσκαριώτης (Iskariōtēs) proviene probablemente del hebreo אִישׁ קְרִיּוֹת (ʾIsh Qəriyyōt, 'hombre de Queriot', ciudad del sur de Judá, Jos 15:25), lo que haría de Judas el único apóstol no originario de Galilea."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 15,
+    "greek_text": "εἶπεν· Τί θέλετέ μοι δοῦναι κἀγὼ ὑμῖν παραδώσω αὐτόν; οἱ δὲ ἔστησαν αὐτῷ τριάκοντα ἀργύρια.",
+    "translation": "y dijo: «¿Qué están dispuestos a darme si yo se lo entrego?». Y ellos le asignaron treinta monedas de plata.",
+    "translation_notes": "El precio de la traición y cumplimiento de Zacarías: La pregunta comercial τί θέλετέ μοι δοῦναι (ti thelete moi dounai) expone el pacto monetario. El verbo ἔστησαν (estēsan, aoristo activo de ἵστημι) connota la acción formal de 'pesar' o 'fijar/asignar'. La suma τριάκοντα ἀργύρια (triakonta argyria, 30 piezas de plata, siclos/tétradracmas tirios) remite directamente a Éxodo 21:32 (la compensación legal por un esclavo corneado y muerto por un buey) y a Zacarías 11:12 (el salario infamante con que fue evaluado el pastor de Israel en el Templo), cumpliéndose proféticamente en la economía del rechazo mesiánico."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 16,
+    "greek_text": "καὶ ἀπὸ τότε ἐζήτει εὐκαιρίαν ἵνα αὐτὸν παραδῷ.",
+    "translation": "Y desde entonces buscaba una oportunidad propicia para entregarlo.",
+    "translation_notes": "Búsqueda de la ocasión oportuna: El sustantivo εὐκαιρία (eukairia, de εὖ y καιρός) denota un momento oportuno y seguro, específicamente un escenario lejos del tumulto popular donde arrestar a Jesús sin provocar una revuelta de los peregrinos galileos en la fiesta."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 17,
+    "greek_text": "Τῇ δὲ πρώτῃ τῶν ἀζύμων προσῆλθον οἱ μαθηταὶ τῷ Ἰησοῦ λέγοντες· Ποῦ θέλεις ἑτοιμάσωμέν σοι φαγεῖν τὸ πάσχα;",
+    "translation": "Y el primer día de los Panes sin Levadura, se acercaron los discípulos a Jesús, diciendo: «¿Dónde quieres que te preparemos para comer la Pascua?»",
+    "translation_notes": "Cronología de los Ázimos y la cena pascual: La designación Τῇ δὲ πρώτῃ τῶν ἀζύμων (Tē de prōtē tōn azymōn) en el cómputo judío popular agrupaba el 14 de Nisán (día de la eliminación de la levadura y sacrificio vespertino del cordero pascual) con la semana subsecuente de los Ázimos (15–21 de Nisán, Éx 12:15–20; Lv 23:5–6). La frase φαγεῖν τὸ πάσχα (phagein to pascha) denota estrictamente la ingestión ceremonial del cordero asado, las hierbas amargas (maror) y el pan ácimo (matzá) durante la cena del Séder."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 18,
+    "greek_text": "ὁ δὲ εἶπεν· Ὑπάγετε εἰς τὴν πόλιν πρὸς τὸν δεῖνα καὶ εἴπατε αὐτῷ· Ὁ διδάσκαλος λέγει· Ὁ καιρός μου ἐγγύς ἐστιν· πρὸς σὲ ποιῶ τὸ πάσχα μετὰ τῶν μαθητῶν μου.",
+    "translation": "Él dijo: «Vayan a la ciudad, a cierto hombre, y díganle: “El Maestro dice: ‘Mi tiempo está cerca; en tu casa voy a celebrar la Pascua con mis discípulos’”».",
+    "translation_notes": "Designación reservada y el kairós mesiánico: La expresión πρὸς τὸν δεῖνα (pros ton deina, acusativo del pronombre indefinido ὁ δεῖνα) es un giro helenístico que significa 'a tal persona' o 'a fulano', indicando una contraseña o arreglo previo confidencial para evitar que Judas conociera el lugar antes de tiempo. La proclamación Ὁ καιρός μου ἐγγύς ἐστιν (Ho kairos mou engys estin) utiliza καιρός (tiempo señalado, estación decisiva de juicio o consumación divina), vinculando la celebración del banquete pascual con el cumplimiento de su hora sacrificial redentora."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 19,
+    "greek_text": "καὶ ἐποίησαν οἱ μαθηταὶ ὡς συνέταξεν αὐτοῖς ὁ Ἰησοῦς, καὶ ἡτοίμασαν τὸ πάσχα.",
+    "translation": "Y los discípulos hicieron como Jesús les había ordenado, y prepararon la Pascua.",
+    "translation_notes": "Preparación del Séder pascual: Los discípulos siguen fielmente la instrucción (ὡς συνέταξεν αὐτοῖς). La preparación (ἡτοίμασαν τὸ πάσχα) implicaba la adquisición del cordero inmolado en las cortes del Templo conforme al ritual sacerdotal, el aprovisionamiento de vino para las cuatro copas tradicionales, el pan ácimo, las hierbas amargas y la pasta de frutas secas con vino (jaroset)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 20,
+    "greek_text": "Ὀψίας δὲ γενομένης ἀνέκειτο μετὰ τῶν δώδεκα μαθητῶν",
+    "translation": "Al atardecer, estaba reclinado a la mesa con los doce discípulos.",
+    "translation_notes": "El atardecer pascual y la postura de reclinación: Ὀψίας δὲ γενομένης (Opsias de genomenēs, genitivo absoluto) marca el inicio del nuevo día judío tras la puesta del sol (15 de Nisán). El verbo ἀνέκειτο (anekeito, imperfecto de ἀνάκειμαι) documenta la postura reglamentaria en el Séder: reclinarse sobre cojines a la izquierda, que en la halajá rabínica simbolizaba que Israel ya no era un pueblo de esclavos en Egipto, sino de hombres libres convidados a la mesa real."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 21,
+    "greek_text": "καὶ ἐσθιόντων αὐτῶν εἶπεν· Ἀμὴν λέγω ὑμῖν ὅτι εἷς ἐξ ὑμῶν παραδώσει με.",
+    "translation": "Y mientras comían, dijo: «De cierto les digo que uno de ustedes me va a entregar».",
+    "translation_notes": "Anuncio explícito de la traición comensal: En el mundo semítico del Antiguo Cercano Oriente, compartir la mesa y el pan sellaba un pacto de lealtad y protección sagrada. Anunciar que εἷς ἐξ ὑμῶν παραδώσει με (heis ex hymōn paradōsei me, 'uno de ustedes me entregará') quebranta de manera flagrante ese vínculo sacro, aludiendo a la lamentación del Salmo 41:9 ('Aun el hombre de mi paz, en quien yo confiaba, el que de mi pan comía, alzó contra mí el calcañar')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 22,
+    "greek_text": "καὶ λυπούμενοι σφόδρα ἤρξαντο λέγειν αὐτῷ εἷς ἕκαστος· Μήτι ἐγώ εἰμι, κύριε;",
+    "translation": "Y profundamente entristecidos, comenzaron a decirle uno por uno: «¿Acaso soy yo, Señor?».",
+    "translation_notes": "Interrogación con μήτι y perplejidad personal: La emoción dolorosa de los discípulos se califica con el adverbio σφόδρα (sphodra, 'con vehemencia', 'en extremo'). La partícula interrogativa Μήτι (Mēti) introduce formalmente una pregunta que gramaticalmente anticipa una respuesta negativa ('¿Acaso seré yo, ciertamente no?'), evidenciando tanto temor a su propia fragilidad como absoluta reverencia al título Κύριε (Kyrie, 'Señor')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 23,
+    "greek_text": "ὁ δὲ ἀποκριθεὶς εἶπεν· Ὁ ἐμβάψας μετ’ ἐμοῦ τὴν χεῖρα ἐν τῷ τρυβλίῳ οὗτός με παραδώσει·",
+    "translation": "Él respondió diciendo: «El que metió la mano conmigo en el plato, ese me va a entregar.",
+    "translation_notes": "El gesto íntimo del bocado compartido: El participio aoristo Ὁ ἐμβάψας (Ho embapsas, de ἐμβάπτω) alude a la inmersión del pan ácimo o las hierbas en el plato comunitario (τὸ τρυβλίον, probablemente el recipiente con jaroset o vinagre aromático del Séder). El gesto subraya la extrema cercanía física de quien comete la felonía contra el Maestro."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 24,
+    "greek_text": "ὁ μὲν υἱὸς τοῦ ἀνθρώπου ὑπάγει καθὼς γέγραπται περὶ αὐτοῦ, οὐαὶ δὲ τῷ ἀνθρώπῳ ἐκείνῳ δι’ οὗ ὁ υἱὸς τοῦ ἀνθρώπου παραδίδοται· καλὸν ἦν αὐτῷ εἰ οὐκ ἐγεννήθη ὁ ἄνθρωπος ἐκεῖνος.",
+    "translation": "El Hijo del Hombre se va, según está escrito acerca de él; pero ¡ay de aquel hombre por quien el Hijo del Hombre es entregado! Mejor le fuera a ese hombre si no hubiera nacido».",
+    "translation_notes": "Tensión soberana entre decreto divino y responsabilidad moral: El verbo ὑπάγει (hypagei, 'se va', eufemismo por la muerte) está normado por καθὼς γέγραπται (kathōs gegraptai, fórmula técnica de cumplimiento de profecías de la Escritura veterotestamentaria, cf. Is 53). Sin embargo, el decreto divino no cancela la culpabilidad moral del traidor: el anatema Οὐαὶ δὲ τῷ ἀνθρώπῳ ἐκείνῳ (Ouai de tō anthrōpō ekeinō) formula un juicio escatológico severísimo; la frase καλὸν ἦν αὐτῷ εἰ οὐκ ἐγεννήθη (kalon ēn autō ei ouk egennēthē) es una fórmula rabínica proverbial que denota la perdición absoluta irremediable."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 25,
+    "greek_text": "ἀποκριθεὶς δὲ Ἰούδας ὁ παραδιδοὺς αὐτὸν εἶπεν· Μήτι ἐγώ εἰμι, ῥαββί; λέγει αὐτῷ· Σὺ εἶπας.",
+    "translation": "Y respondiendo Judas, el que lo entregaba, dijo: «¿Acaso soy yo, Rabí?». Le dice: «Tú lo has dicho».",
+    "translation_notes": "El título 'Rabí' y la respuesta dialéctica: A diferencia de los otros discípulos que llamaron a Jesús Κύριε ('Señor', v. 22), Judas utiliza Ῥαββί (del arameo רַבִּי, 'mi maestro'), marcando una distancia cristológica (en Mateo ningún creyente genuino llama a Jesús 'Rabí', sino solo opositores o traidores). La respuesta idiomática Σὺ εἶπας (Sy eipas, 'Tú lo has dicho') es una afirmación semítica elíptica que traslada la responsabilidad de la confesión al propio interlocutor, confirmando la veracidad de la acusación."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 26,
+    "greek_text": "Ἐσθιόντων δὲ αὐτῶν λαβὼν ὁ Ἰησοῦς ἄρτον καὶ εὐλογήσας ἔκλασεν καὶ δοὺς τοῖς μαθηταῖς εἶπεν· Λάβετε φάγετε, τοῦτό ἐστιν τὸ σῶμά μου.",
+    "translation": "Y mientras comían, Jesús tomó pan, y habiendo bendecido, lo partió, y dándolo a los discípulos, dijo: «Tomen, coman; esto es mi cuerpo».",
+    "translation_notes": "Institución eucarística y la bendición del pan: La secuencia verbal λαβὼν... εὐλογήσας... ἔκλασεν... δοὺς (labōn... eulogēsas... eklasen... dous: tomó, bendijo, partió, dio) calca la acción sacerdotal y patriarcal judía de la berakáh (bendición al Creador que extrae el pan de la tierra: Baruj Atah Adonay... hamotzí lejem min ha'aretz). La declaración declarativa Τοῦτό ἐστιν τὸ σῶμά μου (Touto estin to sōma mou) reinterpreta radicalmente el pan ácimo de la aflicción de Egipto (Lejem 'oni): ya no apunta solo a la redención del pasado mosaico, sino a la ofrenda personal de Jesús como el sacrificio pascual definitivo por su pueblo."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 27,
+    "greek_text": "καὶ λαβὼν ποτήριον καὶ εὐχαριστήσας ἔδωκεν αὐτοῖς λέγων· Πίετε ἐξ αὐτοῦ πάντες,",
+    "translation": "Y tomando una copa, y habiendo dado gracias, se la dio, diciendo: «Beban de ella todos ustedes;",
+    "translation_notes": "La copa de bendición y el mandato universal: La acción sobre el cáliz se describe con εὐχαριστήσας (eucharistēsas, aoristo de εὐχαριστέω, dar gracias, de donde surge el término 'Eucaristía'), correspondiente probablemente a la tercera copa del Séder pascual judío, llamada tradicionalmente 'la copa de redención' o 'copa de bendición' (Kos ha-Berajáh, cf. 1 Cor 10:16). El imperativo plural Πίετε ἐξ αὐτοῦ πάντες (Piete ex autou pantes) exige la participación unánime de toda la comunidad apostólica."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 28,
+    "greek_text": "τοῦτο γάρ ἐστιν τὸ αἷμά μου τῆς διαθήκης τὸ περὶ πολλῶν ἐκχυννόμενον εἰς ἄφεσιν ἁμαρτιῶν·",
+    "translation": "porque esto es mi sangre del pacto, la cual es derramada por muchos para perdón de pecados.",
+    "translation_notes": "La sangre del nuevo pacto e Isaías 53: La frase τὸ αἷμά μου τῆς διαθήκης (to haima mou tēs diathēkēs) alude directamente a Éxodo 24:8, donde Moisés roció la sangre sobre el pueblo diciendo: 'He aquí la sangre del pacto que Yahvé ha hecho con ustedes'. En testigos textuales occidentales y bizantinos se inserta καινῆς ('nueva'), armonizando con Lucas 22:20 y Jeremías 31:31. El participio presente pasivo ἐκχυννόμενον (ekchynnomenon) connota derramamiento sacrificial continuo o inminente. La preposición περὶ πολλῶν (peri pollōn, 'por muchos') alude al cántico del Siervo Sufriente en Isaías 53:11–12 (el cual 'llevará las iniquidades de muchos'), y el propósito explícito εἰς ἄφεσιν ἁμαρτιῶν (eis aphesin hamartiōn) articula el fin expiatorio definitivo del pacto escatológico."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 29,
+    "greek_text": "λέγω δὲ ὑμῖν, οὐ μὴ πίω ἀπ’ ἄρτι ἐκ τούτου τοῦ γενήματος τῆς ἀμπέλου ἕως τῆς ἡμέρας ἐκείνης ὅταν αὐτὸ πίνω μεθ’ ὑμῶν καινὸν ἐν τῇ βασιλείᾳ τοῦ πατρός μου.",
+    "translation": "Y les digo que no beberé más de este fruto de la vid desde ahora, hasta aquel día cuando lo beba de nuevo con ustedes en el reino de mi Padre».",
+    "translation_notes": "Voto de abstinencia y banquete escatológico: El voto solemne con doble negación οὐ μὴ πίω (ou mē piō) expresa una renuncia categórica a banquetear en esta era presente. El término γενήματος τῆς ἀμπέλου (genēmatos tēs ampelou, 'fruto de la vid') reproduce la fórmula litúrgica judía peri ha-gefen. La promesa de beberlo καινόν (kainon, vino 'nuevo', de cualidad renovada y escatológica) 'con ustedes en el reino de mi Padre' proyecta la consumación eucarística hacia el banquete mesiánico prometido a los justos (cf. Is 25:6; Mt 8:11)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 30,
+    "greek_text": "καὶ ὑμνήσαντες ἐξῆλθον εἰς τὸ Ὄρος τῶν Ἐλαιῶν.",
+    "translation": "Y después de haber cantado el himno, salieron hacia el monte de los Olivos.",
+    "translation_notes": "El canto del Halel y salida nocturna: El participio ὑμνήσαντες (hymnēsantes, de ὑμνέω) alude al canto final de la liturgia pascual judía: la segunda parte del Gran Halel (Salmos 115–118), que concluía la cena con cantos de acción de gracias por la victoria de Dios y la liberación mesiánica. Tras la medianoche, cruzan el valle del Cedrón rumbo al Monte de los Olivos (τὸ Ὄρος τῶν Ἐλαιῶν), zona limítrofe dentro de los límites rabínicos permitidos para pernoctar durante la noche de Pascua en Jerusalén."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 31,
+    "greek_text": "Τότε λέγει αὐτοῖς ὁ Ἰησοῦς· Πάντες ὑμεῖς σκανδαλισθήσεσθε ἐν ἐμοὶ ἐν τῇ νυκτὶ ταύτῃ, γέγραπται γάρ· Πατάξω τὸν ποιμένα, καὶ διασκορπισθήσονται τὰ πρόβατα τῆς ποίμνης·",
+    "translation": "Entonces Jesús les dice: «Todos ustedes se escandalizarán a causa de mí esta noche, pues está escrito: “Heriré al pastor, y las ovejas del rebaño serán dispersadas”.",
+    "translation_notes": "Tropiezo y cumplimiento de Zacarías 13:7: El verbo σκανδαλισθήσεσθε (skandalisthēsesthe, pasivo futuro de σκανδαλίζω) significa tropezar, perder la fe o caer en desconcierto moral ante el sufrimiento del Mesías. Jesús fundamenta el suceso en la Escritura citando Zacarías 13:7 (Πατάξω τὸν ποιμένα, καὶ διασκορπισθήσονται τὰ πρόβατα τῆς ποίμνης). En el hebreo masorético el mandato se dirige a la espada ('Hiere al pastor'), mientras que Jesús asume la voz de Dios en primera persona de la LXX (Πατάξω), reconociendo el designio providencial que hiere al Pastor representativo para juicio y purificación del rebaño."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 32,
+    "greek_text": "μετὰ δὲ τὸ ἐγερθῆναί με προάξω ὑμᾶς εἰς τὴν Γαλιλαίαν.",
+    "translation": "Pero después que yo haya resucitado, iré delante de ustedes a Galilea».",
+    "translation_notes": "La promesa del reencuentro en Galilea: La cláusula temporal μετὰ δὲ τὸ ἐγερθῆναί με (infinitivo pasivo articular de ἐγείρω con valor temporal) reitera la certeza de su resurrección corporal. El verbo προάξω (proaxō, futuro de προάγω, 'conduciré delante', 'iré delante') evoca la imagen del pastor que guía a su rebaño recuperado hacia los pastos de Galilea (cf. Mt 28:7, 10, 16), el epicentro donde se renovará el llamado apostólico misionero."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 33,
+    "greek_text": "ἀποκριθεὶς δὲ ὁ Πέτρος εἶπεν αὐτῷ· Εἰ πάντες σκανδαλισθήσονται ἐν σοί, ἐγὼ οὐδέποτε σκανδαλισθήσομαι.",
+    "translation": "Respondiendo Pedro, le dijo: «Aunque todos se escandalicen a causa de ti, yo jamás me escandalizaré».",
+    "translation_notes": "La jactancia de Pedro: Pedro formula una condición con Εἰ πάντες... ἐγὼ οὐδέποτε (Ei pantes... egō oudepote), erigiéndose por encima del resto de sus condiscípulos en fidelidad. Su confianza subjetiva choca contra la advertencia oracular divina de Jesús."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 34,
+    "greek_text": "ἔφη αὐτῷ ὁ Ἰησοῦς· Ἀμὴν λέγω σοι ὅτι ἐν ταύτῃ τῇ νυκτὶ πρὶν ἀλέκτορα φωνῆσαι τρὶς ἀπαρνήσῃ με.",
+    "translation": "Jesús le dijo: «De cierto te digo que esta misma noche, antes que el gallo cante, me negarás tres veces».",
+    "translation_notes": "Profecía del triple desconocimiento: Con el solemne Ἀμὴν λέγω σοι, Jesús desmantela la presunción de Pedro puntualizando el marco cronológico inmediato: ἐν ταύτῃ τῇ νυκτί ('en esta misma noche'). La referencia πρὶν ἀλέκτορα φωνῆσαι (prin alektora phōnēsai, 'antes de que el gallo cante') alude tanto al canto del animal al despuntar el alba como a la vigilia militar romana del 'canto del gallo' (gallicinium, aproximadamente entre las 3:00 y las 6:00 a.m.). El verbo ἀπαρνήσῃ (aparnēsē, de ἀπαρνέομαι) denota repudio formal, desvinculación y negación categórica de toda relación previa."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 35,
+    "greek_text": "λέγει αὐτῷ ὁ Πέτρος· Κἂν δέῃ με σὺν σοὶ ἀποθανεῖν, οὐ μή σε ἀπαρνήσομαι. ὁμοίως καὶ πάντες οἱ μαθηταὶ εἶπαν.",
+    "translation": "Pedro le dice: «Aunque deba morir contigo, de ningún modo te negaré». Y de la misma manera dijeron también todos los discípulos.",
+    "translation_notes": "Doble negación enfática y solidaridad del grupo: Pedro refuerza su obstinación mediante la doble negación griega de máxima improbabilidad: οὐ μή σε ἀπαρνήσομαι (ou mē se aparnēsomai, 'de ningún modo te negaré'). La cláusula κἂν δέῃ με σὺν σοὶ ἀποθανεῖν ('aun cuando sea necesario morir contigo') invoca el ideal del mártir o héroe leal; el texto añade que todos los discípulos respaldaron unánimemente la misma promesa, amplificando el dramatismo de su subsiguiente huida."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 36,
+    "greek_text": "Τότε ἔρχεται μετ’ αὐτῶν ὁ Ἰησοῦς εἰς χωρίον λεγόμενον Γεθσημανί, καὶ λέγει τοῖς μαθηταῖς· Καθίσατε αὐτοῦ ἕως οὗ ἀπελθὼν ἐκεῖ προσεύξωμαι.",
+    "translation": "Entonces Jesús llega con ellos a un lugar llamado Getsemaní, y dice a los discípulos: «Siéntense aquí mientras yo voy allá y oro».",
+    "translation_notes": "Llegada a Getsemaní: El término χωρίον (chōrion) designa una parcela, finca o huerto cercado. El topónimo Γεθσημανί (Gethsēmani) translitera el arameo גַּת שְׁמָנֵי (Gat Shmāné, 'prensa de aceite'), ubicado en la ladera del Monte de los Olivos. Jesús instruye a ocho de los discípulos a permanecer a la entrada mientras él avanza hacia el interior para la oración solitaria."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 37,
+    "greek_text": "καὶ παραλαβὼν τὸν Πέτρον καὶ τοὺς δύο υἱοὺς Ζεβεδαίου ἤρξατο λυπεῖσθαι καὶ ἀδημονεῖν.",
+    "translation": "Y tomando consigo a Pedro y a los dos hijos de Zebedeo, comenzó a entristecerse y a angustiarse profundamente.",
+    "translation_notes": "El círculo íntimo y la crisis psicológica: Jesús aísla a Pedro, Santiago y Juan (los hijos de Zebedeo), los mismos tres testigos de su gloria en la Transfiguración (Mt 17:1–2) y de la resurrección de la hija de Jairo. La agonía se describe con dos verbos de máxima intensidad afectiva: λυπεῖσθαι (lupeisthai, experimentar dolor desgarrador) y ἀδημονεῖν (adēmonein, estar abrumado por desasosiego, pavor, ansiedad y conmoción extrema)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 38,
+    "greek_text": "τότε λέγει αὐτοῖς· Περίλυπός ἐστιν ἡ ψυχή μου ἕως θανάτου· μείνατε ὧδε καὶ γρηγορεῖτε μετ’ ἐμοῦ.",
+    "translation": "Entonces les dice: «Mi alma está profundamente triste, hasta la muerte; quédense aquí y velen conmigo».",
+    "translation_notes": "Tristeza mortal y alusión al Salmo 42: La confesión Περίλυπός ἐστιν ἡ ψυχή μου ἕως θανάτου (Perilypos estin hē psychē mou heōs thanatou) hace eco directo del lamento de la Septuaginta en el Salmo 42:5, 11 (41:6, 12 LXX: ἵνα τί περίλυπος εἶ, ψυχή μου;). El prefijo περί- en περίλυπος intensifica el pesar: un dolor abrumador que rodea por entero el ser, capaz de segar la vida física. La petición de vigilia compartida (γρηγορεῖτε μετ’ ἐμοῦ) apela al consuelo fraternal de la presencia comunitaria en el umbral del sacrificio."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 39,
+    "greek_text": "καὶ προελθὼν μικρὸν ἔπεσεν ἐπὶ πρόσωπον αὐτοῦ προσευχόμενος καὶ λέγων· Πάτερ μου, εἰ δυνατόν ἐστιν, παρελθάτω ἀπ’ ἐμοῦ τὸ ποτήριον τοῦτο· πλὴν οὐχ ὡς ἐγὼ θέλω ἀλλ’ ὡς σύ.",
+    "translation": "Y yendo un poco más adelante, se postró sobre su rostro, orando y diciendo: «Padre mío, si es posible, pase de mí esta copa; pero no como yo quiero, sino como tú».",
+    "translation_notes": "Postración, la copa de la ira y sumisión filial: La postración corporal ἔπεσεν ἐπὶ πρόσωπον αὐτοῦ (epesen epi prosōpon autou) es la más radical postura semítica de reverencia, súplica y despojo ante la majestad divina. El vocativo Πάτερ μου (Pater mou, correspondiente al arameo Abbá) expresa intimidad filial inquebrantable. El cáliz (τὸ ποτήριον τοῦτο) simboliza en la tradición profética del Antiguo Testamento el vaso de la ira y juicio divino contra el pecado humano (Is 51:17, 22; Jer 25:15–29; Sal 75:8). La cláusula adversativa πλὴν οὐχ ὡς ἐγὼ θέλω ἀλλ’ ὡς σύ (plēn ouch hōs egō thelō all' hōs sy) plasma la perfecta sumisión de la voluntad humana de Cristo al soberano designio redentor del Padre."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 40,
+    "greek_text": "καὶ ἔρχεται πρὸς τοὺς μαθητὰς καὶ εὑρίσκει αὐτοὺς καθεύδοντας, καὶ λέγει τῷ Πέτρῳ· Οὕτως οὐκ ἰσχύσατε μίαν ὥραν γρηγορῆσαι μετ’ ἐμοῦ;",
+    "translation": "Y viene hacia los discípulos y los halla durmiendo, y dice a Pedro: «¿De modo que no tuvieron fuerzas para velar conmigo una sola hora?",
+    "translation_notes": "El sueño apostólico y el reproche a Pedro: El participio καθεύδοντας (katheudontas) subraya el colapso físico y la negligencia espiritual de los discípulos. El reproche se dirige en singular a Pedro (λέγει τῷ Πέτρῳ) como líder y quien había prometido morir con él: Οὕτως οὐκ ἰσχύσατε μίαν ὥραν γρηγορῆσαι μετ’ ἐμοῦ; El verbo ἰσχύω denota capacidad y vigor moral; el sueño contrasta patéticamente con la vigilia agónica del Señor."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 41,
+    "greek_text": "γρηγορεῖτε καὶ προσεύχεσθε, ἵνα μὴ εἰσέλθητε εἰς πειρασμόν· τὸ μὲν πνεῦμα πρόθυμον ἡ δὲ σὰρξ ἀσθενής.",
+    "translation": "Velen y oren, para que no entren en tentación; el espíritu a la verdad está dispuesto, pero la carne es débil».",
+    "translation_notes": "Vigilancia, tentación y la dicotomía antropológica: La exhortación imperativa dual γρηγορεῖτε καὶ προσεύχεσθε (grēgoreite kai proseuchesthe) conjuga alerta vigilante y oración continua para no sucumbir ante el πειρασμός (peirasmos), la prueba crítica y seducción satánica de la hora esjatológica. El aforismo antropológico τὸ μὲν πνεῦμα πρόθυμον ἡ δὲ σὰρξ ἀσθενής contrapone πνεῦμα (el espíritu humano bajo la aspiración de la voluntad divina, dispuesto y solícito) con σάρξ (la carne, la condición humana vulnerable, frágil e inclinada a la auto-preservación frente a la muerte)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 42,
+    "greek_text": "πάλιν ἐκ δευτέρου ἀπελθὼν προσηύξατο λέγων· Πάτερ μου, εἰ οὐ δύναται τοῦτο παρελθεῖν ἐὰν μὴ αὐτὸ πίω, γενηθήτω τὸ θέλημά σου.",
+    "translation": "Por segunda vez fue y oró de nuevo, diciendo: «Padre mío, si no puede pasar esto sin que yo lo beba, hágase tu voluntad».",
+    "translation_notes": "Segunda oración y avance en la resignación redentora: En esta segunda plegaria condicional, la formulación pasa de la súplica de exención ('si es posible, pase...') a la plena aceptación de la necesidad redentora: εἰ οὐ δύναται τοῦτο παρελθεῖν ἐὰν μὴ αὐτὸ πίω ('si no puede pasar sin que yo lo beba'). La conclusión γενηθήτω τὸ θέλημά σου (genēthētō to thelēma sou) reproduce textualmente la tercera petición del Padrenuestro (Mt 6:10), testimoniando la obediencia del Hijo encarnado."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 43,
+    "greek_text": "καὶ ἐλθὼν πάλιν εὗρεν αὐτοὺς καθεύδοντας, ἦσαν γὰρ αὐτῶν οἱ ὀφθαλμοὶ βεβαρημένοι.",
+    "translation": "Y viniendo otra vez, los halló durmiendo, porque sus ojos estaban cargados de sueño.",
+    "translation_notes": "La pesadez de los ojos: El participio perfecto pasivo βεβαρημένοι (bebarēmenoi, de βαρέω, estar abrumado por un peso intolerable) describe la impotencia física de los discípulos, incapaces de mantener los ojos abiertos ante el cansancio y la opresión anímica."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 44,
+    "greek_text": "καὶ ἀφεὶς αὐτοὺς πάλιν ἀπελθὼν προσηύξατο ἐκ τρίτου τὸν αὐτὸν λόγον εἰπὼν πάλιν.",
+    "translation": "Y dejándolos, fue otra vez y oró por tercera vez, diciendo de nuevo las mismas palabras.",
+    "translation_notes": "La triple oración y persistencia: Orar ἐκ τρίτου (por tercera vez) repitiendo τὸν αὐτὸν λόγον (la misma plegaria) subraya según los cánones bíblicos la solemnidad y consumación perfecta de la súplica antes de afrontar el martirio (cf. 2 Cor 12:8 para la triple súplica de Pablo)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 45,
+    "greek_text": "τότε ἔρχεται πρὸς τοὺς μαθητὰς καὶ λέγει αὐτοῖς· Καθεύδετε τὸ λοιπὸν καὶ ἀναπαύεσθε· ἰδοὺ ἤγγικεν ἡ ὥρα καὶ ὁ υἱὸς τοῦ ἀνθρώπου παραδίδοται εἰς χεῖρας ἁμαρτωλῶν.",
+    "translation": "Entonces viene hacia los discípulos y les dice: «¿Duermen todavía y descansan? Miren, la hora se ha acercado, y el Hijo del Hombre es entregado en manos de pecadores.",
+    "translation_notes": "La llegada de la hora y la entrega a pecadores: La frase Καθεύδετε τὸ λοιπὸν καὶ ἀναπαύεσθε puede entenderse como pregunta dolorosa ('¿Siguen durmiendo...?'). El anuncio ἰδοὺ ἤγγικεν ἡ ὥρα (idou ēngiken hē hōra) señala que el clímax escatológico ha irrumpido. La locución παραδίδοται εἰς χεῖρας ἁμαρτωλῶν ('es entregado en manos de pecadores') describe su entrega a gentiles y líderes apóstatas que obran al margen de la justicia divina."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 46,
+    "greek_text": "ἐγείρεσθε ἄγωμεν· ἰδοὺ ἤγγικεν ὁ παραδιδούς με.",
+    "translation": "¡Levántense, vamos! Miren, se ha acercado el que me entrega».",
+    "translation_notes": "Llamado a la marcha y determinación soberana: El imperativo plural ἐγείρεσθε ἄγωμεν (egeiresthe agōmen, 'levántense, avancemos') revela que Jesús no huye ni esquiva la muerte, sino que marcha al encuentro frontal de su captor: ὁ παραδιδούς με (el traidor en plena ejecución de su acto)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 47,
+    "greek_text": "Καὶ ἔτι αὐτοῦ λαλοῦντος ἰδοὺ Ἰούδας εἷς τῶν δώδεκα ἦλθεν καὶ μετ’ αὐτοῦ ὄχλος πολὺς μετὰ μαχαιρῶν καὶ ξύλων ἀπὸ τῶν ἀρχιερέων καὶ πρεσβυτέρων τοῦ λαοῦ.",
+    "translation": "Y mientras él aún estaba hablando, he aquí que Judas, uno de los doce, llegó, y con él una gran multitud con espadas y garrotes, de parte de los principales sacerdotes y de los ancianos del pueblo.",
+    "translation_notes": "La partida armada de arresto: La interrupción dramática Καὶ ἔτι αὐτοῦ λαλοῦντος (genitivo absoluto) resalta la inmediatez. Judas encabeza una turba armada con μάχαιραι (machairai, espadas cortas romanas o dagas) y ξύλα (xyla, garrotes o mazas de madera), enviada oficialmente por el Sanedrín aristocrático (ἀρχιερεῖς καὶ πρεσβύτεροι τοῦ λαοῦ), compuesta de guardias del Templo y sirvientes sacerdotales."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 48,
+    "greek_text": "ὁ δὲ παραδιδοὺς αὐτὸν ἔδωκεν αὐτοῖς σημεῖον λέγων· Ὃν ἂν φιλήσω αὐτός ἐστιν· κρατήσατε αὐτόν.",
+    "translation": "Y el que lo entregaba les había dado una señal, diciendo: «Al que yo bese, ese es; arréstenlo».",
+    "translation_notes": "La contraseña convenida: El término σημεῖον (sēmeion) denota la señal militar convenida. En la penumbra de la noche de luna llena bajo los olivares, para evitar confusiones de identidad entre los discípulos, Judas estipuló que la señal inequívoca de identificación sería el saludo comensal tradicional."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 49,
+    "greek_text": "καὶ εὐθέως προσελθὼν τῷ Ἰησοῦ εἶπεν· Χαῖρε, ῥαββί· καὶ κατεφίλησεν αὐτόν.",
+    "translation": "Y enseguida se acercó a Jesús y dijo: «¡Salve, Rabí!», y lo besó efusivamente.",
+    "translation_notes": "El beso traicionero con katafiléō: Judas saluda formalmente con Χαῖρε, ῥαββί (Chaire, rhabbi, '¡paz/salud, maestro!'). El texto cambia significativamente del simple verbo φιλέω del v. 48 al verbo compuesto κατεφίλησεν (katephilēsen, aoristo activo de καταφιλέω), cuyo prefijo intensivo κατά denota besar repetidamente, besar con efusión fingida o devoción apasionada, tornando el símbolo supremo de afecto y sumisión en el instrumento mismo de la delación."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 50,
+    "greek_text": "ὁ δὲ Ἰησοῦς εἶπεν αὐτῷ· Ἑταῖρε, ἐφ’ ὃ πάρει. τότε προσελθόντες ἐπέβαλον τὰς χεῖρας ἐπὶ τὸν Ἰησοῦν καὶ ἐκράτησαν αὐτόν.",
+    "translation": "Pero Jesús le dijo: «Amigo, haz lo que has venido a hacer». Entonces se acercaron, echaron mano a Jesús y lo arrestaron.",
+    "translation_notes": "Tratamiento de hetairos y la captura: El vocativo Ἑταῖρε (Hetaire, 'compañero/amigo') no denota afecto íntimo (que sería φίλος, philos), sino que en Mateo siempre se usa hacia personas cuyo comportamiento es desleal o censurable (cf. Mt 20:13 el obrero murmurador; Mt 22:12 el invitado sin traje de bodas). La frase elíptica ἐφ’ ὃ πάρει (eph' ho parei) puede entenderse como una orden lapidaria: '[Haz] aquello para lo que estás presente'. Inmediatamente, la guardia ejecuta la aprehensión física (ἐπέβαλον τὰς χεῖρας... καὶ ἐκράτησαν αὐτόν)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 51,
+    "greek_text": "καὶ ἰδοὺ εἷς τῶν μετὰ Ἰησοῦ ἐκτείνας τὴν χεῖρα ἀπέσπασεν τὴν μάχαιραν αὐτοῦ καὶ πατάξας τὸν δοῦλον τοῦ ἀρχιερέως ἀφεῖλεν αὐτοῦ τὸ ὠτίον.",
+    "translation": "Y he aquí, uno de los que estaban con Jesús, extendiendo la mano, sacó su espada, e hiriendo al siervo del sumo sacerdote, le cortó la oreja.",
+    "translation_notes": "La resistencia armada y la amputación de la oreja: Mateo mantiene en el anonimato al discípulo (que Juan 18:10 identificará como Simón Pedro) y a la víctima (Malco). El verbo ἀπέσπασεν (aoristo activo de ἀποσπάω) describe desenvainar bruscamente la espada. El corte de la oreja (τὸ ὠτίον, diminutivo de οὖς) a un δοῦλος τοῦ ἀρχιερέως implicaba agresión contra un emisario oficial del sumo sacerdote."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 52,
+    "greek_text": "τότε λέγει αὐτῷ ὁ Ἰησοῦς· Ἀπόστρεψον τὴν μάχαιράν σου εἰς τὸν τόπον αὐτῆς, πάντες γὰρ οἱ λαβόντες μάχαιραν ἐν μαχαίρῃ ἀπολοῦνται·",
+    "translation": "Entonces Jesús le dice: «Vuelve tu espada a su lugar; porque todos los que tomen espada, a espada perecerán.",
+    "translation_notes": "Desautorización de la violencia mesiánica y ley de retribución: El mandato Ἀπόστρεψον τὴν μάχαιράν σου εἰς τὸν τόπον αὐτῆς desarma categóricamente todo intento de insurrección violenta o defensa militar del Reino de Dios. El principio sentencioso πάντες γὰρ οἱ λαβόντες μάχαιραν ἐν μαχαίρῃ ἀπολοῦνται refleja tanto la ley del talión como la sabiduría bíblica proverbial (Gn 9:6: 'El que derramare sangre de hombre, por el hombre su sangre será derramada'; Ap 13:10), deslegitimando la espada como instrumento del reino escatológico."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 53,
+    "greek_text": "ἢ δοκεῖς ὅτι οὐ δύναμαι παρακαλέσαι τὸν πατέρα μου, καὶ παραστήσει μοι ἄρτι πλείω δώδεκα λεγιῶνας ἀγγέλων;",
+    "translation": "O ¿piensas que no puedo rogar a mi Padre, y él pondría a mi disposición ahora mismo más de doce legiones de ángeles?",
+    "translation_notes": "Poder angelical vs. legiones romanas: Una legión romana (legio, λεγιών) estaba compuesta en esa época por unos 6,000 soldados de infantería más caballería auxiliar. Doce legiones equivaldrían a más de 72,000 ángeles guerreros celestiales, una por cada uno de los doce discípulos acorralados. Jesús demuestra que su entrega no deriva de impotencia militar, sino de obediencia voluntaria a su vocación mesiánica redentora."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 54,
+    "greek_text": "πῶς οὖν πληρωθῶσιν αἱ γραφαὶ ὅτι οὕτως δεῖ γενέσθαι;",
+    "translation": "¿Cómo, pues, se cumplirían las Escrituras, de que es necesario que suceda así?»",
+    "translation_notes": "La necesidad teológica del 'dei': La pregunta retórica πῶς οὖν πληρωθῶσιν αἱ γραφαί reafirma que todo el plan está prefigurado en el canon profético. El verbo impersonal δεῖ (dei, 'es necesario', 'es designio ineludible') subraya la necesidad teleológica y teológica del plan salvífico divino: el Mesías debe sufrir para cumplir la redención predicha (cf. Is 53; Sal 22)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 55,
+    "greek_text": "ἐν ἐκείνῃ τῇ ὥρᾳ εἶπεν ὁ Ἰησοῦς τοῖς ὄχλοις· Ὡς ἐπὶ λῃστὴν ἐξήλθατε μετὰ μαχαιρῶν καὶ ξύλων συλλαβεῖν με; καθ’ ἡμέραν ἐν τῷ ἱερῷ ἐκαθεζόμην διδάσκων καὶ οὐκ ἐκρατήσατέ με.",
+    "translation": "En aquella misma hora Jesús dijo a las multitudes: «¿Como contra un salteador han salido con espadas y garrotes a prenderme? Día tras día me sentaba a enseñar en el templo, y no me arrestaron.",
+    "translation_notes": "La acusación de actuar como ante un salteador: El término λῃστής (lēstēs) no denota un mero ladrón (κλέπτης), sino un bandolero violento, sedicioso o guerrillero zelote que tomaba las armas contra Roma. Jesús denuncia la cobardía e hipocresía de los magistrados: él enseñaba a diario en el santuario (ἐν τῷ ἱερῷ ἐκαθεζόμην διδάσκων), a la vista pública de todos, sin que nadie se atreviera a prenderlo de día por temor al pueblo."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 56,
+    "greek_text": "τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῶσιν αἱ γραφαὶ τῶν προφητῶν. τότε οἱ μαθηταὶ πάντες ἀφέντες αὐτὸν ἔφυγον.",
+    "translation": "Pero todo esto ha sucedido para que se cumplan las Escrituras de los profetas». Entonces todos los discípulos, dejándolo, huyeron.",
+    "translation_notes": "Cumplimiento profético y desbandada apostólica: Mateo inserta su comentario teológico característico: τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῶσιν αἱ γραφαὶ τῶν προφητῶν. La consecuencia inmediata es el cumplimiento literal de la dispersión profetizada en el v. 31: πάντες ἀφέντες αὐτὸν ἔφυγον ('todos, abandonándolo, huyeron'). La deserción total del apostolado deja a Jesús en absoluta soledad ante el juicio humano."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 57,
+    "greek_text": "Οἱ δὲ κρατήσαντες τὸν Ἰησοῦν ἀπήγαγον πρὸς Καϊάφαν τὸν ἀρχιερέα, ὅπου οἱ γραμματεῖς καὶ οἱ πρεσβύτεροι συνήχθησαν.",
+    "translation": "Y los que habían arrestado a Jesús lo condujeron ante el sumo sacerdote Caifás, donde se habían reunido los escribas y los ancianos.",
+    "translation_notes": "Traslado nocturno ante Caifás y el Sanedrín: Jesús es trasladado al palacio sacerdotal de José Caifás. Allí se encontraban convocados en sesión nocturna de emergencia los tres estamentos del Gran Sanedrín: los principales sacerdotes (saduceos aristocráticos), los escribas (letrados expertos en la Torá) y los ancianos (patricios laicos)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 58,
+    "greek_text": "ὁ δὲ Πέτρος ἠκολούθει αὐτῷ ἀπὸ μακρόθεν ἕως τῆς αὐλῆς τοῦ ἀρχιερέως, καὶ εἰσελθὼν ἔσω ἐκάθητο μετὰ τῶν ὑπηρετῶν ἰδεῖν τὸ τέλος.",
+    "translation": "Y Pedro lo seguía desde lejos hasta el patio del sumo sacerdote; y habiendo entrado, se sentó con los guardias para ver el final.",
+    "translation_notes": "Pedro a distancia y el servicio sacerdotal: La frase ἠκολούθει αὐτῷ ἀπὸ μακρόθεν ('lo seguía de lejos') refleja la ambivalencia trágica de Pedro: dividido entre el afecto que le impide abandonar al Señor y el pavor que le impide identificarse abiertamente con él. Se sienta con οἱ ὑπηρέται (hoi hypēretai, la guardia policial y sirvientes del Templo) en el patio interior (αὐλή) a la espera del desenlace (ἰδεῖν τὸ τέλος)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 59,
+    "greek_text": "οἱ δὲ ἀρχιερεῖς καὶ τὸ συνέδριον ὅλον ἐζήτουν ψευδομαρτυρίαν κατὰ τοῦ Ἰησοῦ ὅπως αὐτὸν θανατώσωσιν,",
+    "translation": "Y los principales sacerdotes y todo el Sanedrín buscaban falso testimonio contra Jesús para condenarlo a muerte,",
+    "translation_notes": "Búsqueda de falso testimonio por el Sanedrín: El término τὸ συνέδριον (to synedrion, del hebreo-arameo סַנְהֶדְרִין, el tribunal supremo de 71 miembros presidido por el sumo sacerdote) buscaba ψευδομαρτυρίαν (pseudomartyrian). La ley mosaica exigía el testimonio concorde de al menos dos testigos presenciales para ejecutar la pena capital (Dt 17:6; 19:15), revelando que la corte ya había predeterminado el veredicto de muerte (ὅπως αὐτὸν θανατώσωσιν) antes de escuchar la evidencia."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 60,
+    "greek_text": "καὶ οὐχ εὗρον πολλῶν προσελθόντων ψευδομαρτύρων. ὕστερον δὲ προσελθόντες δύο",
+    "translation": "y no lo hallaron, a pesar de que se presentaron muchos testigos falsos. Pero por último se presentaron dos",
+    "translation_notes": "Discordancia de testimonios: La frustración legal del Sanedrín radicaba en que las declaraciones de los ψευδομάρτυρες caían en contradicciones flagrantes bajo interrogatorio forense. Finalmente, aparecen dos testigos para satisfacer el requisito técnico numérico de Deuteronomio 19:15."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 61,
+    "greek_text": "εἶπαν· Οὗτος ἔφη· Δύναμαι καταλῦσαι τὸν ναὸν τοῦ θεοῦ καὶ διὰ τριῶν ἡμερῶν οἰκοδομῆσαι.",
+    "translation": "y dijeron: «Este afirmó: “Puedo derribar el santuario de Dios y edificarlo en tres días”».",
+    "translation_notes": "La distorsión del dicho sobre el Santuario: La acusación tergiversa las palabras de Jesús acerca del templo (cf. Mt 24:2; Jn 2:19). El término ναός (naos) alude al santuario interior, la morada santa de Dios, no al recinto exterior (ἱερόν). Atribuirse el poder de destruir el Templo de Herodes o sustituirlo por uno mesiánico en tres días era considerado tanto un acto de sedición religiosa contra el culto nacional como una pretensión taumatúrgica que amenazaba el orden teocrático."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 62,
+    "greek_text": "καὶ ἀναστὰς ὁ ἀρχιερεὺς εἶπεν αὐτῷ· Οὐδὲν ἀποκρίνῃ; τί οὗτοί σου καταμαρτυροῦσιν;",
+    "translation": "Y levantándose el sumo sacerdote, le dijo: «¿Nada respondes? ¿Qué testifican estos en tu contra?».",
+    "translation_notes": "Interpelación inquisitorial de Caifás: Puesto en pie (ἀναστάς), Caifás busca forzar a Jesús a incriminarse ante la endeblez probatoria de los falsos testigos, intentando quebrar el desconcertante silencio procesal del acusado."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 63,
+    "greek_text": "ὁ δὲ Ἰησοῦς ἐσιώπα. καὶ ὁ ἀρχιερεὺς εἶπεν αὐτῷ· Ἐξορκίζω σε κατὰ τοῦ θεοῦ τοῦ ζῶντος ἵνα ἡμῖν εἴπῃς εἰ σὺ εἶ ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ.",
+    "translation": "Pero Jesús callaba. Y el sumo sacerdote le dijo: «¡Te conjuro por el Dios vivo que nos digas si tú eres el Cristo, el Hijo de Dios!»",
+    "translation_notes": "Silencio mesiánico y juramento solemne de conjuración: El silencio deliberado de Jesús (ὁ δὲ Ἰησοῦς ἐσιώπα, imperfecto continuo) encarna la profecía del Siervo de Yahvé en Isaías 53:7 ('como oveja delante de sus trasquiladores, enmudeció y no abrió su boca'). Ante esto, Caifás emplea la fórmula jurídica judía más vinculante posible: Ἐξορκίζω σε κατὰ τοῦ θεοῦ τοῦ ζῶντος ('Te pongo bajo juramento por el Dios vivo', Lv 5:1; Nm 5:19–21). Bajo esta conjuración sacerdotal solemne, el acusado quedaba religiosamente obligado a responder bajo pena de incurrir en maldición sacra si mentía o callaba. La pregunta sintetiza la identidad escatológica: si es ὁ χριστός (el Mesías prometido) y ὁ υἱὸς τοῦ θεοῦ (el Hijo de Dios en sentido mesiánico-ontológico)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 64,
+    "greek_text": "λέγει αὐτῷ ὁ Ἰησοῦς· Σὺ εἶπας· πλὴν λέγω ὑμῖν, ἀπ’ ἄρτι ὄψεσθε τὸν υἱὸν τοῦ ἀνθρώπου καθήμενον ἐκ δεξιῶν τῆς δυνάμεως καὶ ἐρχόμενον ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ.",
+    "translation": "Jesús le dice: «Tú lo has dicho. Además les digo: Desde ahora verán al Hijo del Hombre sentado a la diestra del Poder y viniendo sobre las nubes del cielo».",
+    "translation_notes": "Confesión cristológica suprema: Salmo 110:1 y Daniel 7:13: Jesús responde con su afirmación dialéctica semítica Σὺ εἶπας ('Tú lo has dicho'), pero la expande inmediatamente con una revelación oracular majestuosa: πλὴν λέγω ὑμῖν. Fusiona dos textos cristológicos cumbres del Antiguo Testamento: Salmo 110:1 (καθήμενον ἐκ δεξιῶν τῆς δυνάμεως: el Mesías regio sentado a la diestra de 'el Poder', ἡ δύναμις, metonimia judía reverente para evitar pronunciar el Nombre sagrado divino de Yahvé) y Daniel 7:13–14 (ἐρχόμενον ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ: el Hijo del Hombre celestial que viene en las nubes para recibir dominio universal e imperecedero). Jesús no solo afirma su mesianismo, sino que declara que sus actuales jueces lo verán como el Soberano y Juez divino escatológico que los juzgará a ellos."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 65,
+    "greek_text": "τότε ὁ ἀρχιερεὺς διέρρηξεν τὰ ἱμάτια αὐτοῦ λέγων· Ἐβλασφήμησεν· τί ἔτι χρείαν ἔχομεν μαρτύρων; ἴδε νῦν ἠκούσατε τὴν βλασφημίαν·",
+    "translation": "Entonces el sumo sacerdote rasgó sus vestiduras, diciendo: «¡Ha blasfemado! ¿Qué necesidad tenemos aún de testigos? ¡Miren, ahora mismo han oído la blasfemia!",
+    "translation_notes": "Rasgado de vestiduras sacerdotales y cargo de blasfemia: El gesto διέρρηξεν τὰ ἱμάτια αὐτοῦ ('rasgó sus vestiduras') era la manifestación ritual judía preceptiva ante la audición de una blasfemia intolerable contra el honor divino (cf. 2 Re 18:37; Mishná Sanedrín 7:5). Aunque Levítico 21:10 prohibía expresamente al sumo sacerdote desgarrar sus vestiduras sacerdotales en duelo privado, la tradición halájica tardía permitía rasgar la túnica interior ante una blasfemia manifiesta. Caifás cataloga la auto-adscripción de Jesús a las prerrogativas de la gloria divina del Salmo 110 y Daniel 7 como βλασφημία (blasfemia) directa contra Dios."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 66,
+    "greek_text": "τί ὑμῖν δοκεῖ; οἱ δὲ ἀποκριθέντες εἶπαν· Ἔνοχος θανάτου ἐστίν.",
+    "translation": "¿Qué les parece?». Y respondiendo ellos, dijeron: «¡Es reo de muerte!».",
+    "translation_notes": "Sentencia unánime del tribunal: Caifás somete la cuestión al voto del Sanedrín: Τί ὑμῖν δοκεῖ; La asamblea emite el veredicto unánime: Ἔνοχος θανάτου ἐστίν ('es culpable/reo de muerte'), aplicando formalmente la prescripción capital de Levítico 24:16 ('el que blasfeme el nombre de Yahvé ha de ser muerto')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 67,
+    "greek_text": "τότε ἐνέπτυσαν εἰς τὸ πρόσωπον αὐτοῦ καὶ ἐκολάφισαν αὐτόν, οἱ δὲ ἐράπισαν",
+    "translation": "Entonces le escupieron en el rostro y le dieron de puñetazos, y otros lo abofetearon,",
+    "translation_notes": "Ultrajes corporales y sevicias: El ultraje físico comienza inmediatamente con desprecio ritual y brutalidad: ἐνέπτυσαν εἰς τὸ πρόσωπον αὐτοῦ ('le escupieron en el rostro', suprema humillación semítica, cf. Nm 12:14; Is 50:6: 'no escondí mi rostro de injurias y de esputos'). El verbo ἐκολάφισαν (de κολαφίζω) denota golpear con el puño cerrado, mientras que ἐράπισαν (de ῥαπίζω) connota golpear en la mejilla con la palma abierta o con varas."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 68,
+    "greek_text": "λέγοντες· Προφήτευσον ἡμῖν, χριστέ, τίς ἐστιν ὁ παίσας σε;",
+    "translation": "diciendo: «¡Profetízanos, Cristo, quién es el que te golpeó!».",
+    "translation_notes": "Burla a la clarividencia profética mesiánica: Tras vendarle el rostro (cf. Mc 14:65; Lc 22:64), la soldadesca y guardias exigen con cinismo satírico: Προφήτευσον ἡμῖν, χριστέ, τίς ἐστιν ὁ παίσας σε; Desafían su pretensión mesiánica exigiéndole que adivine la identidad de sus agresores por revelación sobrenatural."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 69,
+    "greek_text": "Ὁ δὲ Πέτρος ἐκάθητο ἔξω ἐν τῇ αὐλῇ· καὶ προσῆλθεν αὐτῷ μία παιδίσκη λέγουσα· Καὶ σὺ ἦσθα μετὰ Ἰησοῦ τοῦ Γαλιλαίου·",
+    "translation": "Y Pedro estaba sentado afuera en el patio; y se le acercó una sirvienta, diciendo: «Tú también estabas con Jesús el galileo».",
+    "translation_notes": "Primera interpelación a Pedro por la criada: El relato cambia de escenario hacia Pedro, sentado en el patio exterior (ἔξω ἐν τῇ αὐλῇ). Una παιδίσκη (paidiskē, sirvienta o portera esclava) lo señala en público: Καὶ σὺ ἦσθα μετὰ Ἰησοῦ τοῦ Γαλιλαίου. El epíteto 'el galileo' denotaba tanto procedencia geográfica como estigma de marginalidad cultural y sospecha de rebeldía política a los ojos de los habitantes de la capital."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 70,
+    "greek_text": "ὁ δὲ ἠρνήσατο ἔμπροσθεν πάντων λέγων· Οὐκ οἶδα τί λέγεις.",
+    "translation": "Pero él lo negó delante de todos, diciendo: «No sé qué estás diciendo».",
+    "translation_notes": "Primera negación evasiva: El verbo ἠρνήσατο (aoristo medio de ἀρνέομαι) formula la negación formal ἔμπροσθεν πάντων ('delante de todos'). La fórmula de evasión Οὐκ οἶδα τί λέγεις ('No sé qué dices') era un giro jurídico habitual en los tribunales rabínicos para desconocer formalmente una acusación o desentenderse de un testimonio."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 71,
+    "greek_text": "ἐξελθόντα δὲ εἰς τὸν πυλῶνα εἶδεν αὐτὸν ἄλλη καὶ λέγει τοῖς ἐκεῖ· Οὗτος ἦν μετὰ Ἰησοῦ τοῦ Ναζωραίου·",
+    "translation": "Y al salir él hacia el portal, lo vio otra sirvienta y dice a los que estaban allí: «Este estaba con Jesús el Nazareno».",
+    "translation_notes": "Segunda interpelación en el pórtico: Intentando alejarse de la luz del fuego y del escrutinio, Pedro retrocede hacia el πυλών (pylōn, zaguán o portal de entrada). Allí otra mujer lo delata ante los circunstantes: Οὗτος ἦν μετὰ Ἰησοῦ τοῦ Ναζωραίου, renovando la vinculación acusatoria con el profeta de Nazaret."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 72,
+    "greek_text": "καὶ πάλιν ἠρνήσατο μετὰ ὅρκου ὅτι Οὐκ οἶδα τὸν ἄνθρωπον.",
+    "translation": "Y de nuevo negó con juramento: «¡No conozco al hombre!».",
+    "translation_notes": "Segunda negación bajo juramento: Pedro escala dramáticamente su negación añadiendo un juramento formal (μετὰ ὅρκου), poniendo a Dios por testigo de su falsedad. Al referirse a su Maestro como τὸν ἄνθρωπον ('a ese hombre'), recurre a una designación despectiva y distante para borrar todo vínculo de discipulado."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 73,
+    "greek_text": "μετὰ μικρὸν δὲ προσελθόντες οἱ ἑστῶτες εἶπον τῷ Πέτρῳ· Ἀληθῶς καὶ σὺ ἐξ αὐτῶν εἶ, καὶ γὰρ ἡ λαλιά σου δῆλόν σε ποιεῖ·",
+    "translation": "Y poco después, acercándose los que estaban allí, dijeron a Pedro: «Verdaderamente tú también eres de ellos, porque aun tu manera de hablar te hace evidente».",
+    "translation_notes": "Tercera interpelación y el acento galileo: Tras un intervalo de tiempo (μετὰ μικρόν), un grupo de espectadores corrobora la sospecha basándose en el sociolecto: ἡ λαλιά σου δῆλόν σε ποιεῖ ('tu habla te delata'). La población judía de Galilea tenía un dialecto arameo característico conocido en el Talmud (Erubin 53b) por dificultades para articular con precisión las consonantes guturales semíticas (alef, ayin, het), lo que hacía inconfundible el origen norteño de Pedro en Jerusalén."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 74,
+    "greek_text": "τότε ἤρξατο καταθεματίζειν καὶ ὀμνύειν ὅτι Οὐκ οἶδα τὸν ἄνθρωπον. καὶ εὐθέως ἀλέκτωρ ἐφώνησεν·",
+    "translation": "Entonces comenzó a maldecir y a jurar: «¡No conozco al hombre!». Y enseguida cantó un gallo.",
+    "translation_notes": "Maldición, juramento y el canto del gallo: El clímax de la apostasía temporal de Pedro se expresa con καταθεματίζειν (katathematizein, invocar anatemas o imprecaciones sobre sí mismo si miente) y ὀμνύειν (jurar solemnemente por Dios). En el instante exacto en que pronuncia la tercera negación, el texto consigna con sobriedad lapidaria: καὶ εὐθέως ἀλέκτωρ ἐφώνησεν, cumpliéndose con exactitud cronológica la profecía emitida por Jesús horas antes en Getsemaní."
+  },
+  {
+    "book": "MAT",
+    "chapter": 26,
+    "verse": 75,
+    "greek_text": "καὶ ἐμνήσθη ὁ Πέτρος τοῦ ῥήματος Ἰησοῦ εἰρηκότος ὅτι Πρὶν ἀλέκτορα φωνῆσαι τρὶς ἀπαρνήσῃ με, καὶ ἐξελθὼν ἔξω ἔκλαυσεν πικρῶς.",
+    "translation": "Y Pedro se acordó de la palabra que Jesús había dicho: «Antes que el gallo cante, me negarás tres veces». Y saliendo afuera, lloró amargamente.",
+    "translation_notes": "Memoria del dicho y el llanto del arrepentimiento: El verbo ἐμνήσθη (aoristo pasivo de μιμνήσκομαι, 'recordó', 'vino a su memoria') marca el despertar de la conciencia de Pedro al recordar el ῥῆμα Ἰησοῦ. A diferencia de la desesperación destructiva de Judas que desembocó en el suicidio (Mt 27:3–5), Pedro sale al exterior quebrantado: ἔκλαυσεν πικρῶς (aoristo de κλαίω con el adverbio πικρῶς, 'lloró con amargura punzante'), expresando el dolor del arrepentimiento genuino que prepara su posterior restauración."
+  }
+]

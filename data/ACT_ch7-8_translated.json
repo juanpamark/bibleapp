@@ -1,0 +1,794 @@
+[
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 1,
+    "greek_text": "Εἶπεν δὲ ὁ ἀρχιερεύς· Εἰ ταῦτα οὕτως ἔχει;",
+    "translation": "El sumo sacerdote preguntó entonces: «¿Es esto así?».",
+    "translation_notes": "Fórmula procesal sumaria del presidente del tribunal (el sumo sacerdote Caifás): Εἰ ταῦτα οὕτως ἔχει ('¿Acaso estas cosas son así?'). Exige al acusado que se declare culpable o inocente de los cargos capitales de blasfemia contra el templo y la Torá formulados en 6:13-14."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 2,
+    "greek_text": "ὁ δὲ ἔφη· Ἄνδρες ἀδελφοὶ καὶ πατέρες, ἀκούσατε· Ὁ θεὸς τῆς δόξης ὤφθη τῷ πατρὶ ἡμῶν Ἀβραὰμ ὄντι ἐν τῇ Μεσοποταμίᾳ πρὶν ἢ κατοικῆσαι αὐτὸν ἐν Χαρράν,",
+    "translation": "Y él dijo: «Varones hermanos y padres, escuchen: El Dios de la gloria se apareció a nuestro padre Abraham cuando estaba en Mesopotamia, antes de que habitara en Harán,",
+    "translation_notes": "Apertura oratoria protocolar con la doble fórmula de respeto forense: Ἄνδρες ἀδελφοὶ καὶ πατέρες ('Varones hermanos y padres', reconociendo a los miembros ancianos del Sanedrín). Esteban introduce la tesis teológica cardinal de toda su apología mediante el título Ὁ θεὸς τῆς δόξης ('El Dios de la gloria', alusión al Salmo 29:3): la gloria divina trascendente no está confinada geográficamente a la tierra de Canaán ni a los muros de piedra del templo de Jerusalén. Dios tomó la iniciativa salvífica apareciéndose a Abraham en la Mesopotamia pagana (Ur de los Caldeos, Gn 15:7; Jos 24:2), mucho antes de su estancia en Harán."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 3,
+    "greek_text": "καὶ εἶπεν πρὸς αὐτόν· Ἔξελθε ἐκ τῆς γῆς σου καὶ ἐκ τῆς συγγενείας σου, καὶ δεῦρο εἰς τὴν γῆν ἣν ἄν σοι δείξω.",
+    "translation": "y le dijo: «Sal de tu tierra y de tu parentela, y ven a la tierra que te mostraré».",
+    "translation_notes": "Cita combinada de Génesis 12:1 según los LXX. El imperativo doble Ἔξελθε... καὶ δεῦρο exige una ruptura radical con los lazos territoriales y consanguíneos naturales para inaugurar una existencia basada exclusivamente en la promesa y en la guía nómada de la fe."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 4,
+    "greek_text": "τότε ἐξελθὼν ἐκ γῆς Χαλδαίων κατῴκησεν ἐν Χαρράν. κἀκεῖθεν μετὰ τὸ ἀποθανεῖν τὸν πατέρα αὐτοῦ μετῴκισεν αὐτὸν εἰς τὴν γῆν ταύτην εἰς ἣν ὑμεῖς νῦν κατοικεῖτε,",
+    "translation": "Entonces salió de la tierra de los caldeos y habitó en Harán. Y de allí, después de morir su padre, Dios lo trasladó a esta tierra en la cual ustedes habitan ahora;",
+    "translation_notes": "Esteban resume el itinerario patriarcal: la mención de la muerte de Taré antes del traslado a Canaán sigue la tradición cronológica preservada en el Pentateuco Samaritano (donde Taré vivió 145 años) y en Filón de Alejandría (De Migratione Abrahami 177). El verbo transitivo μετῴκισεν (aoristo activo de metoikizō: cambiar de residencia a un colono o forastero) sitúa a Dios como el único sujeto que moviliza providencialmente a su siervo hacia 'esta tierra en la que ustedes ahora habitan' (εἰς ἣν ὑμεῖς νῦν κατοικεῖτε)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 5,
+    "greek_text": "καὶ οὐκ ἔδωκεν αὐτῷ κληρονομίαν ἐν αὐτῇ οὐδὲ βῆμα ποδός, καὶ ἐπηγγείλατο δοῦναι αὐτῷ εἰς κατάσχεσιν αὐτὴν καὶ τῷ σπέρματι αὐτοῦ μετ’ αὐτόν, οὐκ ὄντος αὐτῷ τέκνου.",
+    "translation": "y no le dio en ella herencia, ni siquiera la medida de un pie; pero prometió dársela en posesión a él y a su descendencia después de él, aun cuando él no tenía hijo.",
+    "translation_notes": "Paradoja de la promesa frente a la posesión física: la locución οὐδὲ βῆμα ποδός ('ni la pisada de un pie', modismo tomado de Deuteronomio 2:5) enfatiza que Abraham vivió toda su vida terrenal en la Tierra Prometida como un peregrino forastero sin títulos de propiedad inmobiliaria (a excepción de la cueva sepulcral comprada en Macpela). La promesa de posesión (εἰς κατάσχεσιν) se fundamentó en la fe contra toda esperanza biológica, pues 'no tenía hijo' (οὐκ ὄντος αὐτῷ τέκνου)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 6,
+    "greek_text": "ἐλάλησεν δὲ οὕτως ὁ θεὸς ὅτι ἔσται τὸ σπέρμα αὐτοῦ πάροικον ἐν γῇ ἀλλοτρίᾳ, καὶ δουλώσουσιν αὐτὸ καὶ κακώσουσιν ἔτη τετρακόσια·",
+    "translation": "Y Dios habló así: que su descendencia sería extranjera en tierra ajena, y que la reducirían a servidumbre y la maltratarían durante cuatrocientos años.",
+    "translation_notes": "Cita del oráculo profético del pacto entre los pedazos en Génesis 15:13 (LXX). El término πάροικος (paroikos) designa al residente extranjero sin derechos de ciudadanía plena que vive a merced de una sociedad extraña. Los verbos δουλώσουσιν ('esclavizarán') y κακώσουσιν ('afligirán y tiranizarán') anuncian la amarga servidumbre en Egipto. La cifra redonda de 'cuatrocientos años' (ἔτη τετρακόσια) refleja el cómputo bíblico de Génesis 15:13 (cf. los 430 años en Éx 12:40 y Gá 3:17)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 7,
+    "greek_text": "καὶ τὸ ἔθνος ᾧ ἐὰν δουλεύσωσιν κρινῶ ἐγώ, ὁ θεὸς εἶπεν, καὶ μετὰ ταῦτα ἐξελεύσονται καὶ λατρεύσουσίν μοι ἐν τῷ τόπῳ τούτῳ.",
+    "translation": "«Y yo juzgaré a la nación a la cual sirvan como esclavos», dijo Dios; «y después de esto saldrán y me darán culto en este lugar».",
+    "translation_notes": "Cita combinada de Génesis 15:14 y Éxodo 3:12. El verbo κρινῶ ἐγώ ('yo mismo someteré a juicio y castigo') anuncia las plagas sobre el imperio de los faraones. El propósito del éxodo libertador es litúrgico y pactual: λατρεύσουσίν μοι ('me rendirán culto sagrado como pueblo libre')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 8,
+    "greek_text": "καὶ ἔδωκεν αὐτῷ διαθήκην περιτομῆς· καὶ οὕτως ἐγέννησεν τὸν Ἰσαὰκ καὶ περιέτεμεν αὐτὸν τῇ ἡμέρᾳ τῇ ὀγδόῃ, καὶ Ἰσαὰκ τὸν Ἰακώβ, καὶ Ἰακὼβ τοὺς δώδεκα πατριάρχας.",
+    "translation": "Y le dio el pacto de la circuncisión; y así Abraham engendró a Isaac y lo circuncidó al octavo día; e Isaac a Jacob, y Jacob a los doce patriarcas.",
+    "translation_notes": "La institución de la señal pactual: διαθήκη περιτομῆς (el pacto sellado con la circuncisión física de Génesis 17:9-14). Se respeta escrupulosamente la norma litúrgica mosaica de la circuncisión en el octavo día (τῇ ἡμέρᾳ τῇ ὀγδόῃ). Se traza la línea genealógica de la promesa a través de Isaac y Jacob hasta 'los doce patriarcas' (τοὺς δώδεκα πατριάρχας), los progenitores tribales de Israel."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 9,
+    "greek_text": "Καὶ οἱ πατριάρχαι ζηλώσαντες τὸν Ἰωσὴφ ἀπέδοντο εἰς Αἴγυπτον· καὶ ἦν ὁ θεὸς μετ’ αὐτοῦ,",
+    "translation": "Y los patriarcas, movidos por celos contra José, lo vendieron para Egipto; pero Dios estaba con él,",
+    "translation_notes": "Primer gran patrón tipológico del discurso: el rechazo del enviado escogido por Dios a manos de sus propios hermanos. El participio ζηλώσαντες ('actuando impulsados por envidia y celo mezquino', la misma patología espiritual atribuida a los líderes del Sanedrín en 5:17) motivó la venta criminal de José hacia Egipto (ἀπέδοντο, aoristo medio de apodidōmi: vender como esclavo comercial). Frente a la hostilidad de los patriarcas, Esteban introduce la cláusula teológica decisiva: καὶ ἦν ὁ θεὸς μετ’ αὐτοῦ ('pero Dios estaba con él'), demostrando nuevamente que la presencia divina consoladora no dependía del territorio de Canaán ni del templo, sino que acompañó al justo en el destierro pagano de Egipto."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 10,
+    "greek_text": "καὶ ἐξείλατο αὐτὸν ἐκ πασῶν τῶν θλίψεων αὐτοῦ, καὶ ἔδωκεν αὐτῷ χάριν καὶ σοφίαν ἐναντίον Φαραὼ βασιλέως Αἰγύπτου, καὶ κατέστησεν αὐτὸν ἡγούμενον ἐπ’ Αἴγυπτον καὶ [ἐφ’] ὅλον τὸν οἶκον αὐτοῦ.",
+    "translation": "y lo libró de todas sus tribulaciones, y le concedió gracia y sabiduría delante de Faraón, rey de Egipto, quien lo constituyó gobernador sobre Egipto y sobre toda su casa.",
+    "translation_notes": "Dios vindica soberanamente al rechazado: el verbo ἐξείλατο (aoristo medio de exaireō: rescatar, arrancar del peligro) y los dones de χάρις (gracia, favor) y σοφία (sabiduría para interpretar sueños y gobernar la economía). Faraón lo designa ἡγούμενος (hēgoumenos, magistrado supremo, visir o gobernador imperial plenipotenciario) sobre todo el imperio egipcio y el palacio real."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 11,
+    "greek_text": "ἦλθεν δὲ λιμὸς ἐφ’ ὅλην τὴν Αἴγυπτον καὶ Χανάαν καὶ θλῖψις μεγάλη, καὶ οὐχ ηὕρισκον χορτάσματα οἱ πατέρες ἡμῶν.",
+    "translation": "Sobrevino entonces hambre en todo Egipto y Canaán, y gran tribulación; y nuestros padres no hallaban sustento.",
+    "translation_notes": "La crisis de subsistencia histórica: λιμός (hambruna generalizada) y θλῖψις μεγάλη (angustia extrema). El término χορτάσματα (del verbo chortazō) alude al forraje y a los suministros alimenticios indispensables para la supervivencia comunitaria."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 12,
+    "greek_text": "ἀκούσας δὲ Ἰακὼβ ὄντα σιτία εἰς Αἴγυπτον ἐξαπέστειλεν τοὺς πατέρας ἡμῶν πρῶτον·",
+    "translation": "Pero cuando Jacob oyó que había víveres de grano en Egipto, envió a nuestros padres por primera vez.",
+    "translation_notes": "La providencia divina obliga a los patriarcas a acudir al hermano a quien habían repudiado: el sustantivo σιτία designa las reservas estatales de trigo y cereales acumuladas bajo la administración prudente de José. El adverbio πρῶτον marca la primera visita oficial de aprovisionamiento."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 13,
+    "greek_text": "καὶ ἐν τῷ δευτέρῳ ἀνεγνωρίσθη Ἰωσὴφ τοῖς ἀδελφοῖς αὐτοῦ, καὶ φανερὸν ἐγένετο τῷ Φαραὼ τὸ γένος [τοῦ] Ἰωσήφ.",
+    "translation": "Y en la segunda ocasión, José se dio a conocer a sus hermanos, y el linaje de José llegó a ser manifiesto ante Faraón.",
+    "translation_notes": "El verbo pasivo deponente ἀνεγνωρίσθη (de anagnōrizomai: 'darse a conocer plenamente, revelar la propia identidad') tiene honda fuerza tipológica: en el primer encuentro José no fue reconocido por sus hermanos; fue en el segundo cuando se reveló como su salvador y reconciliador (analogía tipológica con las dos venidas de Jesucristo ante el pueblo de Israel)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 14,
+    "greek_text": "ἀποστείλας δὲ Ἰωσὴφ μετεκαλέσατο Ἰακὼβ τὸν πατέρα αὐτοῦ καὶ πᾶσαν τὴν συγγένειαν ἐν ψυχαῖς ἑβδομήκοντα πέντε,",
+    "translation": "Entonces José envió a llamar a Jacob su padre y a toda su parentela, setenta y cinco personas en total.",
+    "translation_notes": "La cifra de 'setenta y cinco almas' (ψυχαῖς ἑβδομήκοντα πέντε) sigue fielmente la tradición textual de la Septuaginta (LXX) en Génesis 46:27 y Éxodo 1:5 (confirmada también por los rollos hebreos de Qumrán en 4QExod), la cual computaba a nueve hijos y nietos de Manasés y Efraín nacidos en Egipto, a diferencia del Texto Masorético que consigna setenta."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 15,
+    "greek_text": "κατέβη δὲ Ἰακὼβ εἰς Αἴγυπτον· καὶ ἐτελεύτησεν αὐτὸς καὶ οἱ πατέρες ἡμῶν,",
+    "translation": "Descendió, pues, Jacob a Egipto; y murió él, y también nuestros padres,",
+    "translation_notes": "El término κατέβη ('descendió') refleja el lenguaje geográfico semítico de bajar desde las tierras altas de Canaán hacia el delta fértil del Nilo. La muerte de toda la generación patriarcal sella el final de la época de los patriarcas peregrinos."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 16,
+    "greek_text": "καὶ μετετέθησαν εἰς Συχὲμ καὶ ἐτέθησαν ἐν τῷ μνήματι ᾧ ὠνήσατο Ἀβραὰμ τιμῆς ἀργυρίου παρὰ τῶν υἱῶν Ἐμμὼρ ἐν Συχέμ.",
+    "translation": "y fueron trasladados a Siquem y depositados en el sepulcro que Abraham había comprado por una suma de plata a los hijos de Hamor en Siquem.",
+    "translation_notes": "Síntesis apologética y rabínica de las tradiciones patriarcales: Esteban fusiona de manera condensada la compra inicial del terreno en Hebrón por Abraham (Gn 23) con la adquisición del campo de Siquem efectuada por Jacob a los hijos de Hamor (Gn 33:19; Jos 24:32), donde reposaban los restos de José y los patriarcas. Siquem se hallaba en el corazón del territorio samaritano, lo que demuestra nuevamente a los magistrados jerosolimitanos que la tierra santa de sepultura patriarcal abarcaba regiones situadas mucho más allá de las fronteras territoriales de Judea."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 17,
+    "greek_text": "Καθὼς δὲ ἤγγιζεν ὁ χρόνος τῆς ἐπαγγελίας ἧς ὡμολόγησεν ὁ θεὸς τῷ Ἀβραάμ, ηὔξησεν ὁ λαὸς καὶ ἐπληθύνθη ἐν Αἰγύπτῳ,",
+    "translation": "Pero al acercarse el tiempo de la promesa que Dios había jurado a Abraham, el pueblo creció y se multiplicó en Egipto,",
+    "translation_notes": "El advenimiento del tiempo providencial: ὁ χρόνος τῆς ἐπαγγελίας ('el tiempo de la promesa'). Los dos verbos de crecimiento demográfico exponencial ηὔξησεν y ἐπληθύνθη traducen las fórmulas del Éxodo 1:7 (LXX), mostrando cómo la bendición patriarcal triunfaba aun bajo el régimen de opresión egipcia."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 18,
+    "greek_text": "ἄχρις οὗ ἀνέστη βασιλεὺς ἕτερος [ἐπ’ Αἴγυπτον] ὃς οὐκ ᾔδει τὸν Ἰωσήφ.",
+    "translation": "hasta que se levantó otro rey sobre Egipto que no conocía a José.",
+    "translation_notes": "Cita literal de Éxodo 1:8 (LXX). El adjetivo ἕτερος (heteros, 'otro rey de naturaleza o dinastía distinta') alude históricamente al ascenso de la dinastía XVIII tebana tras la expulsión de los hicsos asiáticos semitas, inaugurando una política hostil y xenófoba que ignoró deliberadamente la memoria y los beneficios históricos de José."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 19,
+    "greek_text": "οὗτος κατασοφισάμενος τὸ γένος ἡμῶν ἐκάκωσεν τοὺς πατέρας τοῦ ποιεῖν τὰ βρέφη ἔκθετα αὐτῶν εἰς τὸ μὴ ζῳογονεῖσθαι.",
+    "translation": "Este, tramando astutamente contra nuestro linaje, maltrató a nuestros padres, forzándolos a exponer a sus recién nacidos para que no vivieran.",
+    "translation_notes": "El participio κατασοφισάμενος (de katasophizomai: actuar con astucia maquiavélica, emplear trampas políticas engañosas para subyugar, traduciendo el hebreo nitjakmah de Éx 1:10). La orden tiránica imponía la práctica infanticida pagana de la 'exposición' (ἔκθετα ποιεῖν): abandonar a los recién nacidos a la intemperie en el río Nilo para que perecieran devorados o ahogados (εἰς τὸ μὴ ζῳογονεῖσθαι, infinitivo que significa 'a fin de que no fueran preservados con vida')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 20,
+    "greek_text": "ἐν ᾧ καιρῷ ἐγεννήθη Μωϋσῆς, καὶ ἦν ἀστεῖος τῷ θεῷ· ὃς ἀνετράφη μῆνας τρεῖς ἐν τῷ οἴκῳ τοῦ πατρός·",
+    "translation": "En aquel tiempo nació Moisés, y era hermoso a los ojos de Dios; y fue criado durante tres meses en la casa de su padre.",
+    "translation_notes": "Nacimiento del segundo libertador prototípico: Moisés nace bajo decreto de muerte. El modismo ἀστεῖος τῷ θεῷ (dativo de juicio divino o superlativo semítico: 'hermoso ante Dios / sumamente hermoso') traduce el hebreo tov de Éxodo 2:2, reflejando tanto una nobleza física deslumbrante como el favor especial de Dios sobre su persona. Permaneció oculto y criado (ἀνετράφη) tres meses en el hogar paterno de Amram y Jocabed."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 21,
+    "greek_text": "ἐκτεθέντος δὲ αὐτοῦ ἀνείλατο αὐτὸν ἡ θυγάτηρ Φαραὼ καὶ ἀνεθρέψατο αὐτὸν ἑαυτῇ εἰς υἱόν.",
+    "translation": "Y habiendo sido expuesto, la hija de Faraón lo recogió y lo crio como a su propio hijo.",
+    "translation_notes": "El participio genitivo absoluto ἐκτεθέντος alude a su colocación en la arquilla de juncos en el Nilo. El verbo ἀνείλατο (aoristo medio de anaireō) es un tecnicismo del derecho romano y helenístico para el acto formal en que un padre o benefactor levantaba del suelo a un recién nacido expuesto para asumirlo legalmente bajo su potestad. La princesa egipcia lo adopta formalmente (ἑαυτῇ εἰς υἱόν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 22,
+    "greek_text": "καὶ ἐπαιδεύθη Μωϋσῆς πάσῃ σοφίᾳ Αἰγυπτίων, ἦν δὲ δυνατὸς ἐν λόγοις καὶ ἔργοις αὐτοῦ.",
+    "translation": "Y fue instruido Moisés en toda la sabiduría de los egipcios; y era poderoso en sus palabras y en sus obras.",
+    "translation_notes": "Esteban incorpora datos de la historiografía judía helenística (atestiguada en Filón y Josefo): ἐπαιδεύθη (recibió educación cortesana enciclopédica en ciencias, astronomía, matemáticas y administración civil egipcia). La descripción ἦν δυνατὸς ἐν λόγοις καὶ ἔργοις αὐτοῦ ('era poderoso en palabras y en obras') constituye una fórmula biográfica eminente que Lucas aplica textualmente a Jesús de Nazaret en Lc 24:19, consolidando el paralelismo tipológico entre Moisés y el Mesías."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 23,
+    "greek_text": "Ὡς δὲ ἐπληροῦτο αὐτῷ τεσσερακονταέτης χρόνος, ἀνέβη ἐπὶ τὴν καρδίαν αὐτοῦ ἐπισκέψασθαι τοὺς ἀδελφοὺς αὐτοῦ τοὺς υἱοὺς Ἰσραήλ.",
+    "translation": "Pero cuando cumplió la edad de cuarenta años, subió a su corazón el deseo de visitar a sus hermanos, los hijos de Israel.",
+    "translation_notes": "Moisés alcanza la madurez: τεσσερακονταέτης χρόνος (la edad de cuarenta años, tradición rabínica que divide la vida de Moisés en tres períodos de cuarenta años: en Egipto, en Madián y en el desierto). El modismo semítico ἀνέβη ἐπὶ τὴν καρδίαν αὐτοῦ expresa una moción interior providencial. El verbo ἐπισκέψασθαι ('visitar para inspeccionar y socorrer') refleja el amor pactual hacia su pueblo oprimido."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 24,
+    "greek_text": "καὶ ἰδών τινα ἀδικούμενον ἠμύνατο, καὶ ἐποίησεν ἐκδίκησιν τῷ καταπονουμένῳ πατάξας τὸν Αἰγύπτιον.",
+    "translation": "Y al ver a uno que era agraviado injustamente, salió en su defensa, y vengó al oprimido hiriendo de muerte al egipcio.",
+    "translation_notes": "Moisés actúa como defensor vicario de su pueblo: ἠμύνατο (salió a defender al desvalido) y ἐποίησεν ἐκδίκησιν (ejecutó justicia vindicativa a favor del oprimido, τῷ καταπονουμένῳ). Hiere fatalmente al capataz egipcio (πατάξας, aoristo activo de patassō)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 25,
+    "greek_text": "ἐνόμιζεν δὲ συνιέναι τοὺς ἀδελφοὺς ὅτι ὁ θεὸς διὰ χειρὸς αὐτοῦ δίδωσιν σωτηρίαν αὐτοῖς, οἱ δὲ οὐ συνῆκαν.",
+    "translation": "Él pensaba que sus hermanos entenderían que Dios les estaba dando salvación por medio de su mano, pero ellos no lo entendieron.",
+    "translation_notes": "El núcleo de la acusación tipológica de Esteban: Moisés tenía la certidumbre de que sus compatriotas discernirían en él al libertador enviado por Dios (διὰ χειρὸς αὐτοῦ δίδωσιν σωτηρίαν). Sin embargo, sobrevino la tragedia de la ceguera espiritual: οἱ δὲ οὐ συνῆκαν ('pero ellos no lo comprendieron'). Del mismo modo en que Israel no reconoció a Moisés como su libertador inicial, el Sanedrín y la nación repudiaron a Jesús en su primera venida salvífica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 26,
+    "greek_text": "τῇ τε ἐπιούσῃ ἡμέρᾳ ὤφθη αὐτοῖς μαχομένοις καὶ συνήλλασσεν αὐτοὺς εἰς εἰρήνην εἰπών· Ἄνδρες, ἀδελφοί ἐστε· ἵνα τί ἀδικεῖτε ἀλλήλους;",
+    "translation": "Al día siguiente se les presentó mientras reñían, y trataba de reconciliarlos en paz, diciendo: «Varones, ustedes son hermanos; ¿por qué se hacen daño el uno al otro?».",
+    "translation_notes": "Moisés ejerce el rol de pacificador intraeclesial: el imperfecto συνήλλασσεν indica su esfuerzo activo continuado por reconciliarlos (εἰς εἰρήνην). Su apelación Ἄνδρες, ἀδελφοί ἐστε interpela a la hermandad del pacto que prohibía el abuso fratricida mutuo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 27,
+    "greek_text": "ὁ δὲ ἀδικῶν τὸν πλησίον ἀπώσατο αὐτὸν εἰπών· Τίς σε κατέστησεν ἄρχοντα καὶ δικαστὴν ἐφ’ ἡμῶν;",
+    "translation": "Pero el que maltrataba a su prójimo lo rechazó con desdén, diciendo: «¿Quién te ha constituido por gobernante y juez sobre nosotros?",
+    "translation_notes": "El rechazo frontal del justo libertador por el agresor inicuo: el verbo ἀπώσατο (aoristo medio de apōtheō: empujar hacia afuera, repudiar con desprecio violento). La pregunta insolente Τίς σε κατέστησεν ἄρχοντα καὶ δικαστήν; desconoce la autoridad delegada por Dios a su siervo, exactamente igual que los sumos sacerdotes cuestionaron la autoridad de Jesús (Lc 20:2) y de los apóstoles (Hch 4:7)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 28,
+    "greek_text": "μὴ ἀνελεῖν με σὺ θέλεις ὃν τρόπον ἀνεῖλες ἐχθὲς τὸν Αἰγύπτιον;",
+    "translation": "¿Acaso quieres matarme tú como mataste ayer al egipcio?».",
+    "translation_notes": "La delación cobarde: el agresor convierte el acto de justicia libertadora de Moisés en una amenaza homicida, revelando que el hecho era del dominio público."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 29,
+    "greek_text": "ἔφυγεν δὲ Μωϋσῆς ἐν τῷ λόγῳ τούτῳ, καὶ ἐγένετο πάροικος ἐν γῇ Μαδιάμ, οὗ ἐγέννησεν υἱοὺς δύο.",
+    "translation": "Al oír esta palabra, Moisés huyó y vivió como forastero en la tierra de Madián, donde engendró dos hijos.",
+    "translation_notes": "Consecuencia del rechazo de su propio pueblo: Moisés es forzado al exilio. Vive como πάροικος (extranjero residente) en la región desértica de Madián (al este del golfo de Áqaba), donde engendra a Guersón y Eliezer (Éx 18:3-4). La salvación queda postergada por la rebeldía de Israel."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 30,
+    "greek_text": "Καὶ πληρωθέντων ἐτῶν τεσσεράκοντα ὤφθη αὐτῷ ἐν τῇ ἐρήμῳ τοῦ ὄρους Σινᾶ ἄγγελος ἐν φλογὶ πυρὸς βάτου.",
+    "translation": "Y cumplidos cuarenta años, se le apareció un ángel en el desierto del monte Sinaí, en la llama de fuego de una zarza.",
+    "translation_notes": "Nueva manifestación de la gloria divina fuera de Jerusalén: transcurren otros cuarenta años en el anonimato del pastoreo en el desierto. La teofanía ocurre en pleno desierto gentil del Sinaí (ἐν τῇ ἐρήμῳ τοῦ ὄρους Σινᾶ), a través de un mensajero celestial en la llama ardiente de la zarza (ἐν φλογὶ πυρὸς βάτου, Éx 3:2), subrayando que Dios santifica con su presencia cualquier rincón de la tierra."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 31,
+    "greek_text": "ὁ δὲ Μωϋσῆς ἰδὼν ἐθαύμαζεν τὸ ὅραμα· προσερχομένου δὲ αὐτοῦ κατανοῆσαι ἐγένετο φωνὴ κυρίου·",
+    "translation": "Al verla, Moisés se maravillaba de la visión; y acercándose para examinarla, vino la voz del Señor:",
+    "translation_notes": "Moisés experimenta el asombro reverente (ἐθαύμαζεν). El verbo κατανοῆσαι denota una inspección atenta y minuciosa para comprender por qué la zarza ardía sin consumirse. La voz soberana del Señor interrumpe su indagación científica natural."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 32,
+    "greek_text": "Ἐγὼ ὁ θεὸς τῶν πατέρων σου, ὁ θεὸς Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακώβ. ἔντρομος δὲ γενόμενος Μωϋσῆς οὐκ ἐτόλμα κατανοῆσαι.",
+    "translation": "«Yo soy el Dios de tus padres, el Dios de Abraham, de Isaac y de Jacob». Pero Moisés, temblando de miedo, no se atrevía a mirar.",
+    "translation_notes": "Auto-revelación del Dios del pacto eterno: Dios se identifica como el Dios de los patriarcas, ratificando la continuidad de su fidelidad histórica. El terror sagrado sacude a Moisés: ἔντρομος γενόμενος (literalmente: 'habiéndose vuelto preso de temblor físico y sobrecogimiento'), no atreviéndose a clavar la mirada ante la majestad divina insondable."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 33,
+    "greek_text": "εἶπεν δὲ αὐτῷ ὁ κύριος· Λῦσον τὸ ὑπόδημα τῶν ποδῶν σου, ὁ γὰρ τόπος ἐφ’ ᾧ ἕστηκας γῆ ἁγία ἐστίν.",
+    "translation": "Y el Señor le dijo: «Quita el calzado de tus pies, porque el lugar en que estás tierra santa es.",
+    "translation_notes": "El argumento geográfico culminante de Esteban contra la sacralización excluyente del templo jerosolimitano: Dios ordena a Moisés descalzarse (Λῦσον τὸ ὑπόδημα, signo litúrgico semítico de sumisión y pureza) porque el suelo que pisa es declarado solemnemente por la boca divina como γῆ ἁγία ('tierra santa'). Un páramo desértico y solitario en el Sinaí pagano se convirtió en santuario supremo de la presencia divina, desmintiendo que solo el monte Sion poseyera monopolio de santidad."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 34,
+    "greek_text": "ἰδὼν εἶδον τὴν κάκωσιν τοῦ λαοῦ μου τοῦ ἐν Αἰγύπτῳ, καὶ τοῦ στεναγμοῦ αὐτοῦ ἤκουσα, καὶ κατέβην ἐξελέσθαι αὐτούς· καὶ νῦν δεῦρο ἀποστείλω σε εἰς Αἴγυπτον.",
+    "translation": "Ciertamente he visto la aflicción de mi pueblo que está en Egipto, y he oído su gemido, y he descendido para librarlos. Y ahora, ven, te enviaré a Egipto».",
+    "translation_notes": "Cita literal de Éxodo 3:7-8.10 (LXX): el hebraísmo de participio enfático cognado ἰδὼν εἶδον ('viendo con suma atención he visto'). La compasión divina ante el gemido (στεναγμός) y la decisión soberana de descender para redimir (κατέβην ἐξελέσθαι). El llamado comisiona a Moisés como apóstol o enviado divino: ἀποστείλω σε εἰς Αἴγυπτον."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 35,
+    "greek_text": "Τοῦτον τὸν Μωϋσῆν, ὃν ἠρνήσαντο εἰπόντες· Τίς σε κατέστησεν ἄρχοντα καὶ δικαστήν; τοῦτον ὁ θεὸς [καὶ] ἄρχοντα καὶ λυτρωτὴν ἀπέσταλκεν σὺν χειρὶ ἀγγέλου τοῦ ὀφθέντος αὐτῷ ἐν τῇ βάτῳ.",
+    "translation": "A este Moisés, a quien ellos habían repudiado diciendo: «¿Quién te ha constituido por gobernante y juez?», a este mismo Dios lo envió como gobernante y redentor, por medio de la mano del ángel que se le apareció en la zarza.",
+    "translation_notes": "El clímax tipológico del discurso de Esteban: nótese la repetición enfática del demostrativo Τοῦτον τὸν Μωϋσῆν... τοῦτον ('A este mismo Moisés concreto'). El mismo individuo a quien la nación desconoció y expulsó (ὃν ἠρνήσαντο), es exactamente a quien Dios levantó con suprema dignidad no solo como ἄρχων (gobernante legítimo), sino como λυτρωτής (lytrōtēs, redentor y libertador que paga el rescate del pueblo). El paralelismo exacto con Jesús el crucificado resulta ineludible y demoledor para los oídos del Sanedrín."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 36,
+    "greek_text": "οὗτος ἐξήγαγεν αὐτοὺς ποιήσας τέρατα καὶ σημεῖα ἐν τῇ Αἰγύπτῳ καὶ ἐν Ἐρυθρᾷ Θαλάσσῃ καὶ ἐν τῇ ἐρήμῳ ἔτη τεσσεράκοντα.",
+    "translation": "Este los sacó, realizando prodigios y señales en la tierra de Egipto, en el mar Rojo y en el desierto durante cuarenta años.",
+    "translation_notes": "Acreditación taumatúrgica del libertador: Moisés ejecutó τέρατα καὶ σημεῖα (la misma tríada de credenciales atribuida a Jesús en 2:22 y a los apóstoles en 5:12) en tres escenarios históricos sucesivos: 1) Egipto (las diez plagas); 2) El mar Rojo (Ἐρυθρᾷ Θαλάσσῃ, el cruce milagroso); 3) El desierto durante cuatro décadas de sustento sobrenatural."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 37,
+    "greek_text": "οὗτός ἐστιν ὁ Μωϋσῆς ὁ εἴπας τοῖς υἱοῖς Ἰσραήλ· Προφήτην ὑμῖν ἀναστήσει ὁ θεὸς ἐκ τῶν ἀδελφῶν ὑμῶν ὡς ἐμέ.",
+    "translation": "Este es aquel Moisés que dijo a los hijos de Israel: «Dios les levantará a ustedes de entre sus hermanos un profeta como yo».",
+    "translation_notes": "Esteban responde directamente a la acusación de haber blasfemado contra Moisés (6:11): demuestra que el propio Moisés fue quien profetizó a Jesús en Deuteronomio 18:15 (LXX). Quien cree verdaderamente a Moisés debe someterse al 'profeta semejante a él' (ὡς ἐμέ); por tanto, quienes rechazan a Jesucristo son los verdaderos detractores de las enseñanzas mosaicas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 38,
+    "greek_text": "οὗτός ἐστιν ὁ γενόμενος ἐν τῇ ἐκκλησίᾳ ἐν τῇ ἐρήμῳ μετὰ τοῦ ἀγγέλου τοῦ λαλοῦντος αὐτῷ ἐν τῷ ὄρει Σινᾶ καὶ τῶν πατέρων ἡμῶν, ὃς ἐδέξατο λόγια ζῶντα δοῦναι ἡμῖν,",
+    "translation": "Este es el que estuvo en la congregación en el desierto con el ángel que le hablaba en el monte Sinaí y con nuestros padres, y quien recibió oráculos vivos para dárnoslos;",
+    "translation_notes": "Moisés como mediador pactual supremo: participó en la ἐκκλησία ἐν τῇ ἐρήμῳ ('la congregación o asamblea del pueblo en el desierto', traduciendo el hebreo qahal en Dt 9:10). Actuó como mediador entre el ángel de la presencia divina en el monte Sinaí y 'nuestros padres'. Recibió λόγια ζῶντα ('oráculos vivientes', las palabras inspiradas de la revelación divina dotadas de vida permanente)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 39,
+    "greek_text": "ᾧ οὐκ ἠθέλησαν ὑπήκοοι γενέσθαι οἱ πατέρες ἡμῶν, ἀλλὰ ἀπώσαντο καὶ ἐστράφησαν ἐν ταῖς καρδίαις αὐτῶν εἰς Αἴγυπτον,",
+    "translation": "al cual nuestros padres no quisieron obedecer, sino que lo repudiaron, y en sus corazones se volvieron a Egipto,",
+    "translation_notes": "La trágica constante histórica de rebelión de Israel: 'nuestros padres no quisieron ser obedientes' (οὐκ ἠθέλησαν ὑπήκοοι γενέσθαι). El verbo ἀπώσαντο reitera el repudio culpable a la autoridad de Moisés. La apostasía comenzó en lo íntimo: ἐστράφησαν ἐν ταῖς καρδίαις αὐτῶν εἰς Αἴγυπτον ('sus corazones retornaron a Egipto', añorando la servidumbre y los ídolos del Nilo, cf. Números 14:3-4)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 40,
+    "greek_text": "εἰπόντες τῷ Ἀαρών· Ποίησον ἡμῖν θεοὺς οἳ προπορεύσονται ἡμῶν· ὁ γὰρ Μωϋσῆς οὗτος, ὃς ἐξήγαγεν ἡμᾶς ἐκ γῆς Αἰγύπτου, οὐκ οἴδαμεν τί ἐγένετο αὐτῷ.",
+    "translation": "diciendo a Aarón: «Haznos dioses que vayan delante de nosotros; porque a este Moisés que nos sacó de la tierra de Egipto, no sabemos qué le ha sucedido».",
+    "translation_notes": "La claudicación idolátrica ante el becerro de oro en Éxodo 32:1 (LXX). El pueblo exige a Aarón la fabricación de deidades físicas visibles (Ποίησον ἡμῖν θεούς) para sustituir al Dios invisible, desconociendo con menosprecio a su benefactor: 'este Moisés' (ὁ Μωϋσῆς οὗτος)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 41,
+    "greek_text": "καὶ ἐμοσχοποίησαν ἐν ταῖς ἡμέραις ἐκείναις καὶ ἀνήγαγον θυσίαν τῷ εἰδώλῳ, καὶ εὐφραίνοντο ἐν τοῖς ἔργοις τῶν χειρῶν αὐτῶν.",
+    "translation": "Y fabricaron un becerro en aquellos días, y ofrecieron sacrificio al ídolo, y se regocijaban en las obras de sus propias manos.",
+    "translation_notes": "El verbo compuesto ἐμοσχοποίησαν (del sustantivo moschos, becerro, y poieō, fabricar; hapax legomenon bíblico absoluto acuñado para estigmatizar el culto al becerro de oro). Ofrecieron sacrificios al 'ídolo' (τῷ εἰδώλῳ) y cayeron en la vanagloria idolátrica: εὐφραίνοντο ἐν τοῖς ἔργοις τῶν χειρῶν αὐτῶν ('se deleitaban festivamente en las obras de sus propias manos'). Esteban prepara el terreno para denunciar que un templo físico absolutizado puede convertirse exactamente en lo mismo: una obra de manos humanas convertida en fetiche idolátrico."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 42,
+    "greek_text": "ἔστρεψεν δὲ ὁ θεὸς καὶ παρέδωκεν αὐτοὺς λατρεύειν τῇ στρατιᾷ τοῦ οὐρανοῦ, καθὼς γέγραπται ἐν βίβλῳ τῶν προφητῶν· Μὴ σφάγια καὶ θυσίας προσηνέγκατέ μοι ἔτη τεσσεράκοντα ἐν τῇ ἐρήμῳ, οἶκος Ἰσραήλ;",
+    "translation": "Entonces Dios se apartó de ellos y los entregó a dar culto al ejército del cielo, tal como está escrito en el libro de los profetas: «¿Acaso me ofrecieron víctimas y sacrificios durante cuarenta años en el desierto, casa de Israel?",
+    "translation_notes": "El juicio de entrega judicial divina: ἔστρεψεν δὲ ὁ θεὸς καὶ παρέδωκεν ('Dios les dio la espalda y los abandonó judicialmente a sus propios deseos', concepto paulino afín a Rom 1:24.28). La consecuencia fue el culto astral pagano: λατρεύειν τῇ στρατιᾷ τοῦ οὐρανοῦ ('adorar a las huestes celestes / estrellas y planetas'). Cita del Rollo de los Doce Profetas Menores (Amós 5:25-27 LXX): Dios cuestiona si los sacrificios rituales ofrecidos en el desierto brotaban de una devoción pura y exclusiva a su persona."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 43,
+    "greek_text": "καὶ ἀνελάβετε τὴν σκηνὴν τοῦ Μολὸχ καὶ τὸ ἄστρον τοῦ θεοῦ Ῥομφά, τοὺς τύπους οὓς ἐποιήσατε προσκυνεῖν αὐτοῖς. καὶ μετοικιῶ ὑμᾶς ἐπέκεινα Βαβυλῶνος.",
+    "translation": "Antes bien, levantaron la tienda de Moloc y la estrella de su dios Refán, las imágenes que ustedes fabricaron para adorarlas. Por tanto, los deportaré más allá de Babilonia».",
+    "translation_notes": "Continuación de Amós 5:26-27 (LXX): 1) La tienda idolátrica portátil de Moloc (deidad cananea asociada a sacrificios cruentos infantiles); 2) El culto astral a Ῥομφά (Refán / Saturno, divinidad estelar babilónica). Tales artefactos eran 'figuras idolátricas' (τύπους) manufacturadas con fines cúlticos apóstatas. La sentencia del exilio histórico es actualizada proféticamente por Esteban: en lugar de 'más allá de Damasco' (como decía el texto de Amós para el reino del norte), Esteban proclama ἐπέκεινα Βαβυλῶνος ('más allá de Babilonia'), englobando la gran catástrofe del exilio de Judá y la destrucción del primer templo salomónico a causa de la idolatría nacional."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 44,
+    "greek_text": "Ἡ σκηνὴ τοῦ μαρτυρίου ἦν τοῖς πατράσιν ἡμῶν ἐν τῇ ἐρήμῳ, καθὼς διετάξατο ὁ λαλῶν τῷ Μωϋσῇ ποιῆσαι αὐτὴν κατὰ τὸν τύπον ὃν ἑωράκει,",
+    "translation": "Nuestros padres tuvieron en el desierto la tienda del testimonio, tal como ordenó el que habló a Moisés, disponiendo que la hiciera conforme al modelo que había visto;",
+    "translation_notes": "Transición magistral al problema del santuario y del templo: el santuario original instituido por mandato divino era móvil y provisorio: Ἡ σκηνὴ τοῦ μαρτυρίου ('el tabernáculo del testimonio'). Su diseño no respondió al capricho o monumentalismo humano, sino a una revelación celeste estricta: κατὰ τὸν τύπον ὃν ἑωράκει ('conforme al arquetipo celestial que Moisés había contemplado en la teofanía del Sinaí', Éx 25:9.40)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 45,
+    "greek_text": "ἣν καὶ εἰσήγαγον διαδεξάμενοι οἱ πατέρες ἡμῶν μετὰ Ἰησοῦ ἐν τῇ κατασχέσει τῶν ἐθνῶν ὧν ἐξῶσεν ὁ θεὸς ἀπὸ προσώπου τῶν πατέρων ἡμῶν ἕως τῶν ἡμερῶν Δαυίδ·",
+    "translation": "la cual, habiéndola recibido a su vez nuestros padres, la introdujeron bajo la guía de Josué en la posesión de las naciones que Dios expulsó de la presencia de nuestros padres, hasta los días de David,",
+    "translation_notes": "La tienda del testimonio continuó su función durante la conquista: la introdujeron bajo el mando militar de Ἰησοῦς (Josué, forma griega del hebreo Yehoshúa) en la tierra tomada en posesión a los cananeos. El santuario itinerante permaneció como centro legítimo de comunión divina sin necesidad de templo de piedra durante casi medio milenio, 'hasta los días de David'."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 46,
+    "greek_text": "ὃς εὗρεν χάριν ἐνώπιον τοῦ θεοῦ καὶ ᾐτήσατο εὑρεῖν σκήνωμα τῷ οἴκῳ Ἰακώβ.",
+    "translation": "quien halló gracia delante de Dios y pidió autorización para hallar una morada para el Dios de Jacob.",
+    "translation_notes": "David, el monarca según el corazón de Dios, halló gracia (εὗρεν χάριν) y anheló proveer un 'lugar de descanso permanente' (σκήνωμα, morada o tabernáculo estable) para el Dios de Israel (Salmo 132:5). No obstante, Dios declinó su solicitud, recordándole que no requería un palacio de cedro."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 47,
+    "greek_text": "Σολομῶν δὲ οἰκοδόμησεν αὐτῷ οἶκον.",
+    "translation": "Pero fue Salomón quien le edificó casa.",
+    "translation_notes": "Frase escueta pero de enorme calado crítico en la argumentación de Esteban: Σολομῶν δὲ οἰκοδόμησεν αὐτῷ οἶκον ('Mas Salomón le construyó una casa física'). Con la edificación del templo de mampostería comenzó el peligroso deslizamiento hacia la fijación cultual estática y la confusión entre el Creador trascendente y un edificio material."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 48,
+    "greek_text": "ἀλλ’ οὐχ ὁ ὕψιστος ἐν χειροποιήτοις κατοικεῖ· καθὼς ὁ προφήτης λέγει·",
+    "translation": "Sin embargo, el Altísimo no habita en santuarios hechos por manos humanas; como dice el profeta:",
+    "translation_notes": "La declaración teológica central que desató la furia del Sanedrín: ἀλλ’ οὐχ ὁ ὕψιστος ἐν χειροποιήτοις κατοικεῖ ('Pero el Dios Altísimo no reside en moradas hechas por manos de hombres'). El adjetivo χειροποίητος (cheiropoiētos, 'fabricado por mano humana') es un término sumamente cargado y polémico: en toda la Septuaginta (LXX) se emplea de forma unánime y peyorativa para estigmatizar a los ídolos paganos sin vida (Lev 26:1; Is 46:6). Al aplicar este vocablo al templo de Jerusalén, Esteban asesta un golpe demoledor a la teología del sacerdocio saduceo, denunciando que habían transformado el templo en un objeto de idolatría institucional."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 49,
+    "greek_text": "Ὁ οὐρανός μοι θρόνος, ἡ δὲ γῆ ὑποπόδιον τῶν ποδῶν μου· ποῖον οἶκον οἰκοδομήσετέ μοι; λέγει κύριος, ἢ τίς τόπος τῆς καταπαύσεώς μου;",
+    "translation": "«El cielo es mi trono, y la tierra el estrado de mis pies; ¿qué clase de casa me edificarán?, dice el Señor, ¿o cuál es el lugar de mi reposo?",
+    "translation_notes": "Cita literal de Isaías 66:1-2 (LXX). El profeta Isaías desarticulaba la pretensión de encerrar la majestad infinita de Yahvé en un edificio terrenal: el cosmos entero es su santuario (el cielo su trono real y la tierra entera su estrado)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 50,
+    "greek_text": "οὐχὶ ἡ χείρ μου ἐποίησεν ταῦτα πάντα;",
+    "translation": "¿No hizo mi mano todas estas cosas?».",
+    "translation_notes": "Conclusión de Isaías 66: el Creador soberano que formó el universo material (ἡ χείρ μου ἐποίησεν ταῦτα πάντα) no puede ser albergado, contenido ni manipulado por las construcciones líticas de sus propias criaturas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 51,
+    "greek_text": "Σκληροτράχηλοι καὶ ἀπερίτμητοι καρδίαις καὶ τοῖς ὠσίν, ὑμεῖς ἀεὶ τῷ πνεύματι τῷ ἁγίῳ ἀντιπίπτετε, ὡς οἱ πατέρες ὑμῶν καὶ ὑμεῖς.",
+    "translation": "¡Hombres duros de cerviz e incircuncisos de corazón y de oídos! Ustedes siempre resisten al Espíritu Santo; tal como hicieron sus padres, así también hacen ustedes.",
+    "translation_notes": "Giro profético fulminante de la defensa judicial a la acusación formal contra el tribunal: Esteban emplea los calificativos más severos de la invectiva profética veterotestamentaria: 1) Σκληροτράχηλοι (sklerotrachēloi: 'de cuello rígido / duros de cerviz', modismo de Éx 33:3.5 para bestias rebeldes que rechazan el yugo de Dios); 2) ἀπερίτμητοι καρδίαις καὶ τοῖς ὠσίν ('incircuncisos de corazón y de oídos', alusión a Jeremías 6:10 y 9:26; de nada vale la circuncisión de la carne si los afectos morales y la capacidad auditiva rechazan la verdad de Dios). El verbo ἀντιπίπτετε (presente continuativo de antipiptō: 'chocar violentamente contra, resistir con beligerancia obstinada al Espíritu Santo'), vinculando orgánicamente la conducta del concilio presente con la rebeldía histórica de sus antepasados."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 52,
+    "greek_text": "τίνα τῶν προφητῶν οὐκ ἐδίωξαν οἱ πατέρες ὑμῶν; καὶ ἀπέκτειναν τοὺς προκαταγγείλαντας περὶ τῆς ἐλεύσεως τοῦ δικαίου οὗ νῦν ὑμεῖς προδόται καὶ φονεῖς ἐγένεσθε,",
+    "translation": "¿A cuál de los profetas no persiguieron los padres de ustedes? Y mataron a los que anunciaron de antemano la venida del Justo, del cual ustedes ahora han llegado a ser traidores y asesinos;",
+    "translation_notes": "Denuncia de la vocación persecutoria histórica de la nación (cf. Lc 11:47-51; 13:34): sus padres martirizaron a los profetas que proclamaron de antemano la venida del Mesías escatológico, titulado con majestad ὁ Δίκαιος ('el Justo' por excelencia, Is 53:11). El clímax penal es devastador: el concilio presente ha superado la maldad de sus antepasados convirtiéndose en sus directos 'traidores' (προδόται) y 'asesinos' (φονεῖς)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 53,
+    "greek_text": "οἵτινες ἐλάβετε τὸν νόμον εἰς διαταγὰς ἀγγέλων, καὶ οὐκ ἐφυλάξατε.",
+    "translation": "ustedes que recibieron la ley por disposición de ángeles, ¡y no la guardaron!»",
+    "translation_notes": "Refutación final del cargo de quebrantar la ley: la frase εἰς διαταγὰς ἀγγέλων alude a la mediación angélica en la promulgación de la Torá en el Sinaí (Dt 33:2 LXX; Gá 3:19). Los miembros del Sanedrín se jactaban de ser los custodios supremos de la ley mosaica; Esteban desvela su hipocresía integral: la recibieron con el máximo aval celestial, pero jamás la guardaron ni obedecieron en su intención salvífica pactual (καὶ οὐκ ἐφυλάξατε)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 54,
+    "greek_text": "Ἀκούοντες δὲ ταῦτα διεπρίοντο ταῖς καρδίαις αὐτῶν καὶ ἔβρυχον τοὺς ὀδόντας ἐπ’ αὐτόν.",
+    "translation": "Al oír estas cosas, se enfurecían hasta las entrañas en sus corazones, y crujían los dientes contra él.",
+    "translation_notes": "Reacción de furor descontrolado en el tribunal: se reitera el verbo διεπρίοντο ('eran aserrados de rabia en sus corazones'). El modismo ἔβρυχον τοὺς ὀδόντας ('rechinaban y crujían los dientes con furia animal', término del Antiguo Testamento para los enemigos que acechan al justo inocente, Salmo 35:16; 37:12; Job 16:9) anticipa el desenlace violento del martirio."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 55,
+    "greek_text": "ὑπάρχων δὲ πλήρης πνεύματος ἁγίου ἀτενίσας εἰς τὸν οὐρανὸν εἶδεν δόξαν θεοῦ καὶ Ἰησοῦν ἑστῶτα ἐκ δεξιῶν τοῦ θεοῦ,",
+    "translation": "Pero Esteban, estando lleno del Espíritu Santo, fijó los ojos en el cielo y vio la gloria de Dios, y a Jesús de pie a la diestra de Dios,",
+    "translation_notes": "Visión beatífica y cristológica sublime: Esteban, sostenido plenamente por la investidura carismática del Espíritu Santo (πλήρης πνεύματος ἁγίου), clava su mirada en el firmamento (ἀτενίσας εἰς τὸν οὐρανόν). Contempla la Shejiná divina (δόξαν θεοῦ) y un detalle exegético de inmensa significación: Ἰησοῦν ἑστῶτα ἐκ δεξιῶν τοῦ θεοῦ ('a Jesús de pie a la diestra de Dios'). Mientras que el Salmo 110:1 y los credos apostólicos retratan tradicionalmente a Cristo 'sentado' en su trono como Rey y Juez consumado, aquí se le contempla *de pie*, erguido como abogado intercesor y vindicador celestial que se levanta para acoger y recibir en triunfo a su primer mártir."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 56,
+    "greek_text": "καὶ εἶπεν· Ἰδοὺ θεωρῶ τοὺς οὐρανοὺς διηνοιγμένους καὶ τὸν υἱὸν τοῦ ἀνθρώπου ἐκ δεξιῶν ἑστῶτα τοῦ θεοῦ.",
+    "translation": "y dijo: «He aquí, contemplo los cielos abiertos, y al Hijo del Hombre de pie a la diestra de Dios».",
+    "translation_notes": "Confesión pública y profética de la visión celestial: 'los cielos abiertos' (τοὺς οὐρανοὺς διηνοιγμένους, perfecto pasivo: rasgados para dar paso a la revelación escatológica). Esteban es el único personaje fuera de los labios de Jesús en todos los Evangelios que emplea el solemne título mesiánico y apocalíptico de Daniel 7:13: τὸν υἱὸν τοῦ ἀνθρώπου ('el Hijo del Hombre'). Para el Sanedrín, esta declaración constituía la consumación formal de la blasfemia capital que justificaba la pena de muerte inmediata (cf. Mc 14:62-64)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 57,
+    "greek_text": "κράξαντες δὲ φωνῇ μεγάλῃ συνέσχον τὰ ὦτα αὐτῶν, καὶ ὥρμησαν ὁμοθυμαδὸν ἐπ’ αὐτόν,",
+    "translation": "Entonces ellos, gritando a gran voz, se taparon los oídos y arremetieron todos a una contra él;",
+    "translation_notes": "Ruptura total del decoro y del orden procesal: los magistrados prorrumpe en alaridos ensordecedores y se tapan físicamente las orejas (συνέσχον τὰ ὦτα αὐτῶν), gesto litúrgico rabínico prescrito para no contaminar el alma oyendo una blasfemia intolerable contra el Nombre divino. El verbo ὥρμησαν (aoristo activo de hormaō: embestir con violencia ciega y tumultuosa) sella el linchamiento extrajudicial de Esteban por parte del concilio."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 58,
+    "greek_text": "καὶ ἐκβαλόντες ἔξω τῆς πόλεως ἐλιθοβόλουν. καὶ οἱ μάρτυρες ἀπέθεντο τὰ ἱμάτια αὐτῶν παρὰ τοὺς πόδας νεανίου καλουμένου Σαύλου.",
+    "translation": "y arrojándolo fuera de la ciudad, lo apedreaban. Y los testigos pusieron sus mantos a los pies de un joven llamado Saulo.",
+    "translation_notes": "Ejecución por lapidación (ἐλιθοβόλουν): formalmente expulsan al reo fuera de los muros de la ciudad para no contaminar el suelo sagrado con sangre (Lv 24:14). Los testigos acusadores, conforme a Deuteronomio 17:7, estaban legalmente obligados a arrojar las primeras piedras pesadas sobre el pecho del condenado, despojándose de sus vestiduras exteriores (τὰ ἱμάτια). Lucas introduce en la historia universal al personaje de Saulo de Tarso: νεανίου καλουμένου Σαύλου ('un joven llamado Saulo', en la terminología grecorromana neanias abarcaba hasta los 30-35 años), quien custodia formalmente las vestiduras como garante y supervisor legal de la ejecución."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 59,
+    "greek_text": "καὶ ἐλιθοβόλουν τὸν Στέφανον ἐπικαλούμενον καὶ λέγοντα· Κύριε Ἰησοῦ, δέξαι τὸ πνεῦμά μου.",
+    "translation": "Y apedreaban a Esteban, mientras él invocaba al Señor y decía: «Señor Jesús, recibe mi espíritu».",
+    "translation_notes": "El martirio del protomártir como imitación perfecta del Señor en la cruz: el participio ἐπικαλούμενον ('invocando en oración reverente', verbo reservado en el Antiguo Testamento para invocar a Yahvé, dirigido aquí a Jesús). Mientras Jesús encomendó su espíritu al Padre en la cruz (Lc 23:46: 'Padre, en tus manos encomiendo mi espíritu'), Esteban se dirige directamente a Cristo crucificado y resucitado: Κύριε Ἰησοῦ, δέξαι τὸ πνεῦμά μου ('Señor Jesús, acoge mi espíritu en tu gloria')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 7,
+    "verse": 60,
+    "greek_text": "θεὶς δὲ τὰ γόνατα ἔκραξεν φωνῇ μεγάλῃ· Κύριε, μὴ στήσῃς αὐτοῖς ταύτην τὴν ἁμαρτίαν. καὶ τοῦτο εἰπὼν ἐκοιμήθη.",
+    "translation": "Y puesto de rodillas, clamó a gran voz: «Señor, no les tomes en cuenta este pecado». Y habiendo dicho esto, durmió.",
+    "translation_notes": "El acto final de amor redentor y perdón sacrificial: la postura de adoración humilde (θεὶς τὰ γόνατα, 'poniéndose de rodillas'). Clama a gran voz con las mismas palabras de Jesús en Lc 23:34 ('Padre, perdónalos'): Κύριε, μὴ στήσῃς αὐτοῖς ταύτην τὴν ἁμαρτίαν (el verbo histēmi en sentido contable y judicial forense: 'no asientes en el libro de cargos este pecado en su contra'). Lucas describe el tránsito de la muerte física del creyente con el hermoso eufemismo escatológico cristiano ἐκοιμήθη (aoristo pasivo de koimaō: 'se durmió en la paz del Señor', en espera de la resurrección gloriosa)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 1,
+    "greek_text": "Σαῦλος δὲ ἦν συνευδοκῶν τῇ ἀναιρέσει αὐτοῦ. Ἐγένετο δὲ ἐν ἐκείνῃ τῇ ἡμέρᾳ διωγμὸς μέγας ἐπὶ τὴν ἐκκλησίαν τὴν ἐν Ἱεροσολύμοις· πάντες δὲ διεσπάρησαν κατὰ τὰς χώρας τῆς Ἰουδαίας καὶ Σαμαρείας πλὴν τῶν ἀποστόλων.",
+    "translation": "Y Saulo consentía plenamente en la ejecución de Esteban. En aquel día se desató una gran persecución contra la iglesia que estaba en Jerusalén; y todos fueron dispersados por las regiones de Judea y de Samaria, excepto los apóstoles.",
+    "translation_notes": "Lucas conecta el martirio de Esteban con la figura de Saulo: la construcción perifrástica de imperfecto ἦν συνευδοκῶν (del verbo syneudokeō: aprobar activamente, dar consentimiento moral y legal complacido a una acción judicial) denota su adhesión intelectual y fanática a la pena capital. El martirio desencadena una persecución sistemática masiva (διωγμὸς μέγας) que golpea especialmente a la facción helenista de la comunidad. El verbo διεσπάρησαν (aoristo pasivo de diaspeirō, esparcir como semilla fértil en la tierra, raíz de diáspora) encierra una ironía providencial: la represión forzosa se convierte en el motor que impulsa geográficamente la comisión misionera de Hechos 1:8 hacia 'Judea y Samaria'. Los Doce apóstoles permanecen con valentía pastoral en la capital (πλὴν τῶν ἀποστόλων)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 2,
+    "greek_text": "συνεκόμισαν δὲ τὸν Στέφανον ἄνδρες εὐλαβεῖς καὶ ἐποίησαν κοπετὸν μέγαν ἐπ’ αὐτῷ.",
+    "translation": "Y unos varones piadosos recogieron y sepultaron a Esteban, e hicieron gran duelo y lamentación sobre él.",
+    "translation_notes": "Acto de heroísmo piadoso: los ἄνδρες εὐλαβεῖς ('varones piadosos', probablemente judíos devotos no conversos o simpatizantes de la justicia como Nicodemo y José de Arimatea). El verbo συνεκόμισαν (aoristo activo de synkomizō) es un tecnicismo funerario para recoger cuidadosamente los restos de un difunto y trasladarlos con honra a la sepultura. El sustantivo κοπετός (kopetos, derivado de koptō, golpearse el pecho en señal de aflicción extrema) describe un duelo público solemne; este gesto constituía un desafío valiente a las autoridades del Sanedrín, cuya legislación rabínica prohibía expresamente cualquier manifestación de luto público sobre personas ejecutadas por delito capital de blasfemia (Mishná, Sanedrín 6:6)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 3,
+    "greek_text": "Σαῦλος δὲ ἐλυμαίνετο τὴν ἐκκλησίαν κατὰ τοὺς οἴκους εἰσπορευόμενος, σύρων τε ἄνδρας καὶ γυναῖκας παρεδίδου εἰς φυλακήν.",
+    "translation": "Saulo, por su parte, asolaba la iglesia entrando casa por casa; y arrastrando tanto a hombres como a mujeres, los entregaba en prisión.",
+    "translation_notes": "Retrato biográfico de la furia inquisitorial de Saulo: el verbo en imperfecto ἐλυμαίνετο (de lymainomai: devastar, destruir con salvajismo, usado en el griego clásico para las fieras carnívoras que despedazan un rebaño o desgarran un cadáver). Saulo viola la inviolabilidad del hogar judío entrando en las casas residenciales particulares (κατὰ τοὺς οἴκους). El participio σύρων (arrastrar con violencia física forzada, sin miramiento de edad o género: ἄνδρας καὶ γυναῖκας) y el imperfecto παρεδίδου ('iba entregando sucesivamente') retratan una persecución minuciosa y tenaz."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 4,
+    "greek_text": "Οἱ μὲν οὖν διασπαρέντες διῆλθον εὐαγγελιζόμενοι τὸν λόγον.",
+    "translation": "Los que habían sido dispersados, pues, iban por todas partes anunciando la buena noticia de la palabra.",
+    "translation_notes": "El principio providencial lucano: el participio aoristo pasivo διασπαρέντες ('los esparcidos'). Lejos de acobardarse o silenciarse, los creyentes fugitivos se transforman en heraldos itinerantes: διῆλθον εὐαγγελιζόμενοι τὸν λόγον ('iban transitando por comarcas anunciando el evangelio de la palabra'). La persecución del Imperio y del Sanedrín sirvió involuntariamente para expandir la fe fuera de Jerusalén."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 5,
+    "greek_text": "Φίλιππος δὲ κατελθὼν εἰς [τὴν] πόλιν τῆς Σαμαρείας ἐκήρυσσεν αὐτοῖς τὸν χριστόν.",
+    "translation": "Entonces Felipe descendió a una ciudad de Samaria y les proclamaba al Cristo.",
+    "translation_notes": "Felipe, colega de Esteban entre los Siete helenistas (6:5), asume la vanguardia misionera transcultural. El viaje 'hacia una ciudad de Samaria' (posiblemente Sebaste o la antigua Siquem) cruza la frontera de hostilidad étnica y religiosa más enconada del mundo judío (cf. Jn 4:9). El imperfecto ἐκήρυσσεν denota la proclamación solemne del kerigma como heraldo oficial (kēryx), anunciando que Jesús es 'el Cristo' (τὸν χριστόν, el Taheb o Mesías restaurador esperado por los samaritanos según Dt 18:15)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 6,
+    "greek_text": "προσεῖχον δὲ οἱ ὄχλοι τοῖς λεγομένοις ὑπὸ τοῦ Φιλίππου ὁμοθυμαδὸν ἐν τῷ ἀκούειν αὐτοὺς καὶ βλέπειν τὰ σημεῖα ἃ ἐποίει·",
+    "translation": "Y las multitudes prestaban atención unánimemente a lo que Felipe decía, al oír y ver las señales que él hacía;",
+    "translation_notes": "Recepción entusiasta de la población samaritana: el verbo imperfecto προσεῖχον ('prestaban toda su atención con avidez') calificado por el adverbio lucano ὁμοθυμαδόν ('con un solo corazón y mente'). La fe se suscita por la conjunción armónica entre la palabra proclamada y la evidencia empírica de los milagros: ἐν τῷ ἀκούειν... καὶ βλέπειν τὰ σημεῖα."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 7,
+    "greek_text": "πολλοὶ γὰρ τῶν ἐχόντων πνεύματα ἀκάθαρτα βοῶντα φωνῇ μεγάλῃ ἐξήρχοντο, πολλοὶ δὲ παραλελυμένοι καὶ χωλοὶ ἐθεραπεύθησαν·",
+    "translation": "porque de muchos que tenían espíritus inmundos, estos salían dando grandes gritos; y muchos paralíticos y cojos eran sanados.",
+    "translation_notes": "Liberación física y espiritual simultánea: la expulsión de entidades demoníacas (πνεύματα ἀκάθαρτα) se manifiesta con alaridos sonoros (βοῶντα φωνῇ μεγάλῃ), reflejando la derrota del reino de las tinieblas. Lucas documenta con precisión médica dos patologías motoras crónicas: 1) παραλελυμένοι (participio perfecto pasivo de paralyō: paralíticos que padecían atrofia o parálisis neuromuscular); 2) χωλοί (cojos con lesiones anatómicas articulares o esqueléticas), ambos grupos restaurados plenamente (ἐθεραπεύθησαν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 8,
+    "greek_text": "ἐγένετο δὲ πολλὴ χαρὰ ἐν τῇ πόλει ἐκείνῃ.",
+    "translation": "Y hubo gran júbilo en aquella ciudad.",
+    "translation_notes": "El fruto escatológico del evangelio: πολλὴ χαρά (gozo abundante desbordante). La salvación mesiánica transforma la atmósfera social de una ciudad entera, trayendo sanidad comunitaria y júbilo espiritual donde antes reinaba la división étnica."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 9,
+    "greek_text": "Ἀνὴρ δέ τις ὀνόματι Σίμων προϋπῆρχεν ἐν τῇ πόλει μαγεύων καὶ ἐξιστάνων τὸ ἔθνος τῆς Σαμαρείας, λέγων εἶναί τινα ἑαυτὸν μέγαν,",
+    "translation": "Pero había cierto hombre llamado Simón, que desde antes ejercía la magia en la ciudad y asombraba a la nación de Samaria, afirmando ser alguien grande,",
+    "translation_notes": "Presentación de Simón el Mago (famoso en la patrística cristiana temprana, en Justino Mártir e Ireneo, como precursor de corrientes gnósticas heréticas). El participio μαγεύων denota la práctica de artes mágicas, astrología caldea y manipulación de fuerzas ocultas. El participio presente ἐξιστάνων indica que mantenía a toda la población samaritana (τὸ ἔθνος τῆς Σαμαρείας) en estado de pasmo supersticioso hipnótico, mediante la jactancia egocéntrica de proclamarse 'alguien de suprema jerarquía cósmica' (εἶναί τινα ἑαυτὸν μέγαν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 10,
+    "greek_text": "ᾧ προσεῖχον πάντες ἀπὸ μικροῦ ἕως μεγάλου λέγοντες· Οὗτός ἐστιν ἡ δύναμις τοῦ θεοῦ ἡ καλουμένη Μεγάλη.",
+    "translation": "a quien todos prestaban atención, desde el más pequeño hasta el más grande, diciendo: «Este es el Poder de Dios que se llama el Grande».",
+    "translation_notes": "Universalidad de la fascinación supersticiosa popular: ἀπὸ μικροῦ ἕως μεγάλου (modismo semítico para todas las clases y edades sociales). El título atribuido a Simón es de hondo calado teosófico sincrético: Ἡ δύναμις τοῦ θεοῦ ἡ καλουμένη Μεγάλη ('La Potencia de Dios llamada la Magna'). En la teología gnóstica y samaritana, 'el Poder' (Dynamis) era una emanación divina suprema hypostática; la masa consideraba a Simón como la encarnación visible de esa energía celestial."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 11,
+    "greek_text": "προσεῖχον δὲ αὐτῷ διὰ τὸ ἱκανῷ χρόνῳ ταῖς μαγείαις ἐξεστακέναι αὐτούς.",
+    "translation": "Y le prestaban atención porque durante mucho tiempo los había dejado estupefactos con sus artes mágicas.",
+    "translation_notes": "Lucas reitera la causa del arraigo del engaño: la dilatada duración temporal (ἱκανῷ χρόνῳ) en que Simón los había cautivado (ἐξεστακέναι, infinitivo perfecto activo de existēmi) mediante sus magias ilusorias (ταῖς μαγείαις)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 12,
+    "greek_text": "ὅτε δὲ ἐπίστευσαν τῷ Φιλίππῳ εὐαγγελιζομένῳ περὶ τῆς βασιλείας τοῦ θεοῦ καὶ τοῦ ὀνόματος Ἰησοῦ Χριστοῦ, ἐβαπτίζοντο ἄνδρες τε καὶ γυναῖκες.",
+    "translation": "Pero cuando creyeron a Felipe, que anunciaba las buenas noticias acerca del reino de Dios y el nombre de Jesucristo, eran bautizados tanto hombres como mujeres.",
+    "translation_notes": "El triunfo de la verdad evangélica sobre la magia ocultista: el contenido de la fe se define con dos núcleos inseparables: 1) περὶ τῆς βασιλείας τοῦ θεοῦ (el reino de Dios como nuevo orden pactual); 2) καὶ τοῦ ὀνόματος Ἰησοῦ Χριστοῦ (la autoridad y señorío salvífico de Jesús). La adhesión se sella con el bautismo en agua (ἐβαπτίζοντο), reiterando expresamente la inclusión igualitaria de las mujeres (ἄνδρες τε καὶ γυναῖκες)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 13,
+    "greek_text": "ὁ δὲ Σίμων καὶ αὐτὸς ἐπίστευσεν, καὶ βαπτισθεὶς ἦν προσκαρτερῶν τῷ Φιλίππῳ, θεωρῶν τε σημεῖα καὶ δυνάμεις μεγάλας γινομένας ἐξίστατο.",
+    "translation": "Simón mismo también creyó, y habiendo sido bautizado, acompañaba asiduamente a Felipe; y contemplando las señales y los grandes milagros que se realizaban, quedaba atónito.",
+    "translation_notes": "La fe aparente de Simón: 'creyó y fue bautizado' formalmente. La perífrasis ἦν προσκαρτερῶν indica que se apegó a Felipe como un aprendiz que sigue a un maestro superior. El verbo final ἐξίστατο encierra una ironía deliciosa: el hombre que antes dejaba 'estupefacto' a todo el pueblo con sus trucos (v. 9 y 11, existanōn / exestakenai) ahora es él mismo quien queda completamente 'atónito' y anonadado ante las señales auténticas y los milagros genuinos de Dios (δυνάμεις μεγάλας)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 14,
+    "greek_text": "Ἀκούσαντες δὲ οἱ ἐν Ἱεροσολύμοις ἀπόστολοι ὅτι δέδεκται ἡ Σαμάρεια τὸν λόγον τοῦ θεοῦ, ἀπέστειλαν πρὸς αὐτοὺς Πέτρον καὶ Ἰωάννην,",
+    "translation": "Cuando los apóstoles que estaban en Jerusalén oyeron que Samaria había acogido la palabra de Dios, les enviaron a Pedro y a Juan;",
+    "translation_notes": "Intervención de la autoridad colegiada apostólica: el perfecto deponente δέδεκται indica la recepción irreversible del evangelio por el pueblo samaritano. El colegio apostólico comisiona a sus dos líderes máximos: Pedro y Juan. El envío de Juan es de una conmovedora densidad teológica: Juan es el mismo discípulo que en Lc 9:52-54 había pedido a Jesús que descendiera fuego del cielo para consumir a una aldea de samaritanos; ahora es enviado por amor fraterno para invocar sobre ellos el fuego purificador del Espíritu Santo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 15,
+    "greek_text": "οἵτινες καταβάντες προσηύξαντο περὶ αὐτῶν ὅπως λάβωσιν πνεῦμα ἅγιον·",
+    "translation": "quienes, habiendo descendido, oraron por ellos para que recibieran el Espíritu Santo;",
+    "translation_notes": "Misión pneumatológica pastoral: los apóstoles oran por la efusión carismática (ὅπως λάβωσιν πνεῦμα ἅγιον) para que la nueva comunidad samaritana se incorpore con plenos derechos y de forma visible al único cuerpo eclesial de Cristo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 16,
+    "greek_text": "οὐδέπω γὰρ ἦν ἐπ’ οὐδενὶ αὐτῶν ἐπιπεπτωκός, μόνον δὲ βεβαπτισμένοι ὑπῆρχον εἰς τὸ ὄνομα τοῦ κυρίου Ἰησοῦ.",
+    "translation": "porque todavía no había descendido sobre ninguno de ellos, sino que solamente habían sido bautizados en el nombre del Señor Jesús.",
+    "translation_notes": "Paréntesis explicativo lucano fundamental: el Espíritu Santo 'todavía no había caído con manifestación sensible' (οὐδέπω ἦν ἐπιπεπτωκός, pluscuamperfecto activo de epipiptō: descender con poder carismático sobrecogedor). Los convertidos poseían el bautismo sacramental en el nombre del Señor Jesús (βεβαπτισμένοι ὑπῆρχον), pero la providencia divina postergó la manifestación palpable del don del Espíritu hasta la llegada de los apóstoles de Jerusalén para evitar un cisma histórico entre la iglesia judía y la samaritana, garantizando que el nuevo templo del Espíritu no tuviera dos altares rivales (como Garizim y Sion)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 17,
+    "greek_text": "τότε ἐπετίθεσαν τὰς χεῖρας ἐπ’ αὐτούς, καὶ ἐλάμβανον πνεῦμα ἅγιον.",
+    "translation": "Entonces les imponían las manos, y recibían el Espíritu Santo.",
+    "translation_notes": "El 'Pentecostés samaritano': los imperfectos continuativos ἐπετίθεσαν ('iban imponiendo sucesivamente las manos') y ἐλάμβανον ('iban recibiendo visiblemente el Espíritu Santo') sellan la comunión fraterna inquebrantable entre judíos y samaritanos bajo la autoridad apostólica unificada."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 18,
+    "greek_text": "ἰδὼν δὲ ὁ Σίμων ὅτι διὰ τῆς ἐπιθέσεως τῶν χειρῶν τῶν ἀποστόλων δίδοται τὸ πνεῦμα προσήνεγκεν αὐτοῖς χρήματα",
+    "translation": "Al ver Simón que mediante la imposición de las manos de los apóstoles se confería el Espíritu, les ofreció dinero,",
+    "translation_notes": "Nacimiento del delito y pecado de 'simonía' (la compra o tráfico comercial de bienes, poderes o cargos espirituales sagrados). El participio ἰδών confirma que el descenso del Espíritu se acompañaba de manifestaciones sensibles inmediatamente perceptibles. Simón concibe el poder del Espíritu no como una relación personal de santidad con Dios, sino como un truco o técnica esotérica mágica superior que puede ser adquirida como mercancía comercial mediante capital líquido (προσήνεγκεν αὐτοῖς χρήματα)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 19,
+    "greek_text": "λέγων· Δότε κἀμοὶ τὴν ἐξουσίαν ταύτην ἵνα ᾧ ἐὰν ἐπιθῶ τὰς χεῖρας λαμβάνῃ πνεῦμα ἅγιον.",
+    "translation": "diciendo: «Denme a mí también esta potestad, para que cualquiera sobre quien yo imponga las manos reciba el Espíritu Santo».",
+    "translation_notes": "La ambición perversa de Simón: solicita ἐξουσία (autoridad jurisdiccional o poder taumatúrgico delegado) para ser él mismo el dispensador carismático supremo, buscando recuperar su estatus de personaje influyente y ganar prestigio personal a través de los dones de Dios."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 20,
+    "greek_text": "Πέτρος δὲ εἶπεν πρὸς αὐτόν· Τὸ ἀργύριόν σου σὺν σοὶ εἴη εἰς ἀπώλειαν ὅτι τὴν δωρεὰν τοῦ θεοῦ ἐνόμισας διὰ χρημάτων κτᾶσθαι.",
+    "translation": "Pero Pedro le dijo: «Tu dinero perezca contigo, porque pensaste que el don de Dios se adquiere con dinero.",
+    "translation_notes": "La severa maldición y anatema profético de Pedro: Τὸ ἀργύριόν σου σὺν σοὶ εἴη εἰς ἀπώλειαν ('¡Que tu plata perezca junto contigo para perdición eterna!'). El modo optativo εἴη formula un tajante rechazo a la corrupción sacrílega. La causa de la reprensión radica en la afrenta a la soberana gracia divina: τὴν δωρεὰν τοῦ θεοῦ ('el don gratuito inmerecido de Dios') no puede ser degradado a una transacción mercantil (διὰ χρημάτων κτᾶσθαι, 'adquirir por compra mediante monedas')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 21,
+    "greek_text": "οὐκ ἔστιν σοι μερὶς οὐδὲ κλῆρος ἐν τῷ λόγῳ τούτῳ, ἡ γὰρ καρδία σου οὐκ ἔστιν εὐθεῖα ἔναντι τοῦ θεοῦ.",
+    "translation": "No tienes parte ni porción en este ministerio, porque tu corazón no es recto delante de Dios.",
+    "translation_notes": "Sentencia de exclusión espiritual: la fórmula bíblica pactual semítica οὐκ ἔστιν σοι μερὶς οὐδὲ κλῆρος (análoga a Dt 12:12 y Jos 22:25: 'no tienes participación, herencia ni derecho de lote alguno'). La frase ἐν τῷ λόγῳ τούτῳ abarca tanto la salvación como el ministerio apostólico. La raíz del extravío reside en el interior del hombre: ἡ καρδία σου οὐκ ἔστιν εὐθεῖα ἔναντι τοῦ θεοῦ ('tu corazón no es límpido, recto ni sincero ante la presencia de Dios', cita de Salmo 78:37 LXX)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 22,
+    "greek_text": "μετανόησον οὖν ἀπὸ τῆς κακίας σου ταύτης, καὶ δεήθητι τοῦ κυρίου εἰ ἄρα ἀφεθήσεταί σοι ἡ ἐπίνοια τῆς καρδίας σου·",
+    "translation": "Arrepiéntete, por tanto, de esta tu maldad, y ruega al Señor, por si acaso te sea perdonado el designio de tu corazón;",
+    "translation_notes": "Llamado apremiante a la metanoia: el imperativo aoristo μετανόησον exige repudiar radicalmente la maldad tramada (τῆς κακίας σου). Pedro insta a la oración penitente de súplica (δεήθητι). La cláusula condicional de incertidumbre εἰ ἄρα ἀφεθήσεται ('si acaso te sea perdonado') no pone en duda la misericordia de Dios, sino la autenticidad del arrepentimiento de Simón, destacando la gravedad del intento de sobornar al Espíritu Santo. El término ἐπίνοια denota la maquinación mental íntima."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 23,
+    "greek_text": "εἰς γὰρ χολὴν πικρίας καὶ σύνδεσμον ἀδικίας ὁρῶ σε ὄντα.",
+    "translation": "porque veo que estás en hiel de amargura y en atadura de iniquidad».",
+    "translation_notes": "Diagnóstico espiritual penetrante mediante dos metáforas veterotestamentarias: 1) χολὴ πικρίας ('hiel de extrema amargura', cita de Deuteronomio 29:18 LXX para designar una raíz venenosa de apostasía que contamina a la congregación); 2) σύνδεσμος ἀδικίας ('cadena o lazo opresor de iniquidad', cita de Isaías 58:6 LXX). Pedro percibe que el mago sigue encadenado moralmente bajo el dominio del pecado y la codicia."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 24,
+    "greek_text": "ἀποκριθεὶς δὲ ὁ Σίμων εἶπεν· Δεήθητε ὑμεῖς ὑπὲρ ἐμοῦ πρὸς τὸν κύριον ὅπως μηδὲν ἐπέλθῃ ἐπ’ ἐμὲ ὧν εἰρήκατε.",
+    "translation": "Respondiendo Simón, dijo: «Rueguen ustedes por mí al Señor, para que ninguna de las cosas que han dicho venga sobre mí».",
+    "translation_notes": "Respuesta defectuosa y supersticiosa de Simón: en lugar de arrepentirse personalmente y postrarse ante Dios como Pedro le mandó (v. 22: 'ruega tú mismo al Señor'), solicita la intercesión vicaria de los apóstoles (Δεήθητε ὑμεῖς), tratando a Pedro como un hechicero de rango superior cuyos oráculos deben ser conjurados para eludir el castigo material, sin mostrar dolor sincero por su rebelión interior."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 25,
+    "greek_text": "Οἱ μὲν οὖν διαμαρτυράμενοι καὶ λαλήσαντες τὸν λόγον τοῦ κυρίου ὑπέστρεφον εἰς Ἰεροσόλυμα, πολλάς τε κώμας τῶν Σαμαριτῶν εὐηγγελίζοντο.",
+    "translation": "Ellos, pues, después de haber testificado solemnemente y proclamado la palabra del Señor, emprendieron el regreso a Jerusalén, anunciando el evangelio en muchas aldeas de los samaritanos.",
+    "translation_notes": "Conclusión de la misión samaritana: el participio compuesto διαμαρτυράμενοι recalca la atestación formal e incontrovertible del testimonio apostólico. En su viaje de regreso a Jerusalén (ὑπέστρεφον), Pedro y Juan asumen directamente la labor misionera en territorio samaritano: el imperfecto εὐηγγελίζοντο denota la evangelización activa de 'muchas aldeas de los samaritanos' (πολλάς τε κώμας τῶν Σαμαριτῶν), derribando para siempre la antigua barrera de separación confesional."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 26,
+    "greek_text": "Ἄγγελος δὲ κυρίου ἐλάλησεν πρὸς Φίλιππον λέγων· Ἀνάστηθι καὶ πορεύου κατὰ μεσημβρίαν ἐπὶ τὴν ὁδὸν τὴν καταβαίνουσαν ἀπὸ Ἰερουσαλὴμ εἰς Γάζαν, αὕτη ἐστὶν ἔρημος.",
+    "translation": "Un ángel del Señor habló a Felipe, diciendo: «Levántate y ve hacia el sur, por el camino que desciende de Jerusalén a Gaza; el cual es desierto».",
+    "translation_notes": "Dirección divina soberana que interrumpe una campaña misionera masiva exitosa en Samaria para guiar a Felipe al rescate de un solo individuo en un paraje solitario: Ἄγγελος κυρίου ('un ángel del Señor'). La locución κατὰ μεσημβρίαν puede traducirse como 'hacia el sur' o 'hacia el mediodía / la hora del mediodía'. El camino conduce a la ciudad filistea de Gaza, en la frontera con el desierto del Sinaí. La nota explicativa αὕτη ἐστὶν ἔρημος alude a la ruta despoblada y desértica que bordeaba el sur costero, garantizando un encuentro a solas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 27,
+    "greek_text": "καὶ ἀναστὰς ἐπορεύθη. καὶ ἰδοὺ ἀνὴρ Αἰθίοψ εὐνοῦχος δυνάστης Κανδάκης βασιλίσσης Αἰθιόπων, ὃς ἦν ἐπὶ πάσης τῆς γάζης αὐτῆς, ὃς ἐληλύθει προσκυνήσων εἰς Ἰερουσαλήμ,",
+    "translation": "Él se levantó y fue. Y he aquí un varón etíope, eunuco, alto funcionario de Candace, reina de los etíopes, el cual estaba a cargo de todos sus tesoros y había venido a Jerusalén para adorar,",
+    "translation_notes": "Presentación del primer gentil prosélito/temeroso de Dios de tierras lejanas: 1) Αἰθίοψ (etíope, oriundo del reino de Nubia / Meroe en el alto Nilo, al sur de Egipto, considerado en la geografía antigua como el límite meridional del mundo conocido); 2) εὐνοῦχος (eunuco castrado en sentido literal, conforme al requisito usual de los reyes orientales para los administradores de la corte; o en sentido amplio de alto dignatario de palacio); 3) δυνάστης (potentado, noble de alta jerarquía estatal); 4) Κανδάκη (Candace, título dinástico de las reinas madres que gobernaban efectivamente el reino meroítico); 5) Superintendente de toda la hacienda y erario público real (ὃς ἦν ἐπὶ πάσης τῆς γάζης αὐτῆς, empleando el término persa y helenístico gaza para el tesoro estatal). Había peregrinado una distancia inmensa para adorar en el templo de Jerusalén (προσκυνήσων), mostrando su honda piedad hacia el Dios de Israel."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 28,
+    "greek_text": "ἦν τε ὑποστρέφων καὶ καθήμενος ἐπὶ τοῦ ἅρματος αὐτοῦ καὶ ἀνεγίνωσκεν τὸν προφήτην Ἡσαΐαν.",
+    "translation": "y regresaba sentado en su carroza, leyendo al profeta Isaías.",
+    "translation_notes": "Cuadro de nobleza y erudición: el dignatario viajaba en su carroza de viaje privada (ἅρματος) acompañado de su séquito. Leía en voz alta el rollo de papiro de la Septuaginta (LXX) del profeta Isaías, conforme a la costumbre universal de lectura oral de la antigüedad."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 29,
+    "greek_text": "εἶπεν δὲ τὸ πνεῦμα τῷ Φιλίππῳ· Πρόσελθε καὶ κολλήθητι τῷ ἅρματι τούτῳ.",
+    "translation": "Y el Espíritu dijo a Felipe: «Acércate y júntate a esa carroza».",
+    "translation_notes": "Guía carismática inmediata del Espíritu Santo: el verbo en imperativo aoristo pasivo κολλήθητι ('adhiérete estrechamente, camina al compás de esa carroza')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 30,
+    "greek_text": "προσδραμὼν δὲ ὁ Φίλιππος ἤκουσεν αὐτοῦ ἀναγινώσκοντος Ἡσαΐαν τὸν προφήτην καὶ εἶπεν· Ἆρά γε γινώσκεις ἃ ἀναγινώσκεις;",
+    "translation": "Habiendo acudido corriendo Felipe, le oyó leer al profeta Isaías, y le preguntó: «¿Acaso comprendes lo que estás leyendo?».",
+    "translation_notes": "Felipe corre con diligencia (προσδραμών). Formula una brillante pregunta de sutil juego de palabras retórico griego entre dos verbos de la misma raíz: Ἆρά γε γινώσκεις ἃ ἀναγινώσκεις; ('¿Acaso conoces / entiendes verdaderamente lo que estás leyendo en alta voz?')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 31,
+    "greek_text": "ὁ δὲ εἶπεν· Πῶς γὰρ ἂν δυναίμην ἐὰν μή τις ὁδηγήσει με; παρεκάλεσέν τε τὸν Φίλιππον ἀναβάντα καθίσαι σὺν αὐτῷ.",
+    "translation": "Él respondió: «¿Pues cómo podría, a menos que alguien me guíe?». E invitó a Felipe a que subiera y se sentara con él.",
+    "translation_notes": "Humilde confesión de necesidad hermenéutica del alto dignatario: la construcción optativa potencial con condicional Πῶς γὰρ ἂν δυναίμην ἐὰν μή τις ὁδηγήσει με; ('¿Cómo podría comprender si nadie me guía por el camino de la interpretación?'). El verbo ὁδηγέω (guiar por el sendero) define la función primordial del maestro evangélico. Invita cortésmente a Felipe a subir al carruaje real (παρεκάλεσεν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 32,
+    "greek_text": "ἡ δὲ περιοχὴ τῆς γραφῆς ἣν ἀνεγίνωσκεν ἦν αὕτη· Ὡς πρόβατον ἐπὶ σφαγὴν ἤχθη, καὶ ὡς ἀμνὸς ἐναντίον τοῦ κείραντος αὐτὸν ἄφωνος, οὕτως οὐκ ἀνοίγει τὸ στόμα αὐτοῦ.",
+    "translation": "El pasaje de la Escritura que leía era este: «Como oveja a la matanza fue llevado; y como cordero mudo delante del que lo trasquila, así no abre su boca.",
+    "translation_notes": "El sustantivo περιοχή (periochē) designa técnicamente la sección o pasaje canónico de un texto. Cita literal del Cuarto Cántico del Siervo Sufriente en Isaías 53:7-8 según la versión de los LXX. Se describe la sumisión mansa, voluntaria e inocente del Siervo ante la violencia judicial: 'como oveja conducida al matadero' (Ὡς πρόβατον ἐπὶ σφαγήν) y 'como cordero silencioso ante su esquilador' (ἄφωνος)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 33,
+    "greek_text": "ἐν τῇ ταπεινώσει [αὐτοῦ] ἡ κρίσις αὐτοῦ ἤρθη· τὴν γενεὰν αὐτοῦ τίς διηγήσεται; ὅτι αἴρεται ἀπὸ τῆς γῆς ἡ ζωὴ αὐτοῦ.",
+    "translation": "En su humillación su juicio le fue quitado; su generación, ¿quién la contará? Porque su vida es quitada de la tierra».",
+    "translation_notes": "Continuación de Isaías 53:8 (LXX): ἡ κρίσις αὐτοῦ ἤρθη ('en su humillación fue privado de un juicio justo y legal'). La interrogante poética τὴν γενεὰν αὐτοῦ τίς διηγήσεται; ('¿quién podrá describir o contar a su descendencia espiritual?'). La causa física de su muerte: αἴρεται ἀπὸ τῆς γῆς ἡ ζωὴ αὐτοῦ ('su vida histórica es arrancada violentamente de la tierra')."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 34,
+    "greek_text": "ἀποκριθεὶς δὲ ὁ εὐνοῦχος τῷ Φιλίππῳ εἶπεν· Δέομαί σου, περὶ τίνος ὁ προφήτης λέγει τοῦτο; περὶ ἑαυτοῦ ἢ περὶ ἑτέρου τινός;",
+    "translation": "Respondiendo el eunuco a Felipe, le dijo: «Te ruego, ¿de quién dice esto el profeta? ¿De sí mismo o de algún otro?».",
+    "translation_notes": "La gran cuestión exegética del judaísmo: el eunuco plantea el dilema hermenéutico central: ¿hablaba el profeta en clave autobiográfica (περὶ ἑαυτοῦ, como el profeta sufriente) o señalaba proféticamente a otra figura mesiánica por venir (περὶ ἑτέρου τινός)?"
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 35,
+    "greek_text": "ἀνοίξας δὲ ὁ Φίλιππος τὸ στόμα αὐτοῦ καὶ ἀρξάμενος ἀπὸ τῆς γραφῆς ταύτης εὐηγγελίσατο αὐτῷ τὸν Ἰησοῦν.",
+    "translation": "Entonces Felipe, abriendo su boca y comenzando desde esta misma Escritura, le anunció las buenas noticias de Jesús.",
+    "translation_notes": "Fórmula de oratoria solemne: ἀνοίξας τὸ στόμα αὐτοῦ ('abriendo su boca'). El punto de partida hermenéutico es el propio texto profético de Isaías 53 (ἀρξάμενος ἀπὸ τῆς γραφῆς ταύτης), demostrando que la pasión, muerte vicaria y resurrección gloriosa de Jesús de Nazaret cumplían al detalle la identidad del Siervo Sufriente de Dios. El núcleo del anuncio fue 'Jesús' (εὐηγγελίσατο αὐτῷ τὸν Ἰησοῦν)."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 36,
+    "greek_text": "ὡς δὲ ἐπορεύοντο κατὰ τὴν ὁδόν, ἦλθον ἐπί τι ὕδωρ, καί φησιν ὁ εὐνοῦχος· Ἰδοὺ ὕδωρ, τί κωλύει με βαπτισθῆναι;",
+    "translation": "Y mientras iban por el camino, llegaron a cierta agua; y dijo el eunuco: «He aquí agua; ¿qué impide que yo sea bautizado?».",
+    "translation_notes": "Petición inmediata de incorporación al nuevo pacto: al divisar una fuente o arroyo en el desierto (ἐπί τι ὕδωρ, probablemente en el wadi el-Hasi cerca de Gaza). La pregunta retórica τί κωλύει me baptisthēnai; ('¿qué obstáculo legal o ritual impide que yo sea bautizado?') encierra un hondo trasfondo teológico: según la Torá en Deuteronomio 23:1, los eunucos con mutilación genital tenían vetado de por vida el acceso a la asamblea del Señor y a los atrios sagrados de Israel; sin embargo, en cumplimiento glorioso de la promesa profética de Isaías 56:3-5 (donde se promete a los eunucos temerosos de Dios un nombre eterno mejor que el de hijos e hijas), las restricciones ceremoniales quedan abolidas en Cristo, abriendo el bautismo pleno sin barreras biológicas o étnicas."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 38,
+    "greek_text": "καὶ ἐκέλευσεν στῆναι τὸ ἅρμα, καὶ κατέβησαν ἀμφότεροι εἰς τὸ ὕδωρ ὅ τε Φίλιππος καὶ ὁ εὐνοῦχος, καὶ ἐβάπτισεν αὐτόν.",
+    "translation": "Y mandó parar la carroza; y descendieron ambos al agua, tanto Felipe como el eunuco, y lo bautizó.",
+    "translation_notes": "Nota textual crítica: el versículo 37 ('Felipe dijo: Si crees de todo corazón, bien puedes. Y respondiendo, dijo: Creo que Jesucristo es el Hijo de Dios') no figura en los manuscritos griegos más antiguos y fidedignos (P45, P74, Sinaítico, Vaticano, Alejandrino, Códice de Efrén), tratándose de una glosa litúrgica bautismal occidental del siglo II-III incorporada tardíamente en el Textus Receptus, por lo cual es omitida unánimemente en las ediciones críticas modernas (SBLGNT / NA28 / UBS5). El versículo 38 describe el acto bautismal por inmersión: ambos descienden al agua (κατέβησαν εἰς τὸ ὕδωρ), Felipe lo sumerge e incorpora sacramentalmente a la nueva creación."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 39,
+    "greek_text": "ὅτε δὲ ἀνέβησαν ἐκ τοῦ ὕδατος, πνεῦμα κυρίου ἥρπασεν τὸν Φίλιππον, καὶ οὐκ εἶδεν αὐτὸν οὐκέτι ὁ εὐνοῦχος, ἐπορεύετο γὰρ τὴν ὁδὸν αὐτοῦ χαίρων.",
+    "translation": "Cuando subieron del agua, el Espíritu del Señor arrebató a Felipe; y el eunuco no lo vio más, y siguió su camino gozoso.",
+    "translation_notes": "Intervención milagrosa de traslación sobrenatural: el verbo ἥρπασεν (aoristo activo de harpazō: arrebatar con fuerza súbita e irresistible, el mismo verbo usado para el arrebatamiento profético de Elías en 2 R 2:16 y el rapto en 1 Ts 4:17). El eunuco no queda sumido en desazón por la partida de su catequista, sino que continúa su viaje rumbo a África embargado por el júbilo redentor escatológico (ἐπορεύετο τὴν ὁδὸν αὐτοῦ χαίρων), convirtiéndose en el primer heraldo del evangelio en las tierras del alto Nilo."
+  },
+  {
+    "book": "ACT",
+    "chapter": 8,
+    "verse": 40,
+    "greek_text": "Φίλιππος δὲ εὑρέθη εἰς Ἄζωτον, καὶ διερχόμενος εὐηγγελίζετο τὰς πόλεις πάσας ἕως τοῦ ἐλθεῖν αὐτὸν εἰς Καισάρειαν.",
+    "translation": "Pero Felipe se halló en Azoto; y pasando por allí, anunciaba el evangelio en todas las ciudades, hasta llegar a Cesarea.",
+    "translation_notes": "La geografía misionera del heraldo: Felipe es localizado físicamente en Ἄζωτος (Azoto, la antigua Asdod filistea, situada a unos treinta kilómetros al norte de Gaza). Desde allí emprende una campaña misionera itinerante a lo largo de toda la llanura costera del mar Mediterráneo (διερχόμενος εὐηγγελίζετο τὰς πόλεις πάσας, evangelizando enclaves como Jope y Lida). Su periplo culmina en Καισάρεια (Cesarea Marítima, la suntuosa capital administrativa y militar de la provincia romana de Judea y residencia del prefecto y gobernador romano, donde Felipe se radicará formalmente con su familia profética, cf. Hch 21:8)."
+  }
+]

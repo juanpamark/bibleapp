@@ -1,0 +1,370 @@
+[
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 1,
+    "greek_text": "Παῦλος δοῦλος θεοῦ, ἀπόστολος δὲ Ἰησοῦ Χριστοῦ κατὰ πίστιν ἐκλεκτῶν θεοῦ καὶ ἐπίγνωσιν ἀληθείας τῆς κατ’ εὐσέβειαν",
+    "translation": "Pablo, siervo de Dios y apóstol de Jesucristo, conforme a la fe de los escogidos de Dios y el conocimiento pleno de la verdad que es según la piedad,",
+    "translation_notes": "Prescripto teológicamente denso (vv. 1–4): único pasaje donde Pablo se llama δοῦλος θεοῦ («siervo de Dios», título veterotestamentario de Moisés y los profetas) antes de «apóstol de Jesucristo». Une fe, conocimiento de la verdad (ἐπίγνωσις ἀληθείας) y piedad práctica (εὐσέβεια)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 2,
+    "greek_text": "ἐπ’ ἐλπίδι ζωῆς αἰωνίου, ἣν ἐπηγγείλατο ὁ ἀψευδὴς θεὸς πρὸ χρόνων αἰωνίων",
+    "translation": "en la esperanza de la vida eterna, la cual Dios, que no miente, prometió desde antes del principio de los siglos,",
+    "translation_notes": "El adjetivo ὁ ἀψευδὴς θεός («el Dios que es incapaz de mentir/veraz por esencia») contrasta radicalmente con la fama cretense de falsedad (v. 12). Πρὸ χρόνων αἰωνίων («antes de los tiempos eternos/desde la eternidad»)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 3,
+    "greek_text": "ἐφανέρωσεν δὲ καιροῖς ἰδίοις, τὸν λόγον αὐτοῦ ἐν κηρύγματι ὃ ἐπιστεύθην ἐγὼ κατ’ ἐπιταγὴν τοῦ σωτῆρος ἡμῶν θεοῦ,",
+    "translation": "y a su debido tiempo manifestó su palabra mediante la predicación que me fue encomendada por mandato de Dios nuestro Salvador,",
+    "translation_notes": "El título «Dios nuestro Salvador» (τοῦ σωτῆρος ἡμῶν θεοῦ, repetido 3 veces para el Padre y 3 para Cristo en Tito) subraya la unidad salvífica divina frente al culto al emperador como «salvador»."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 4,
+    "greek_text": "Τίτῳ γνησίῳ τέκνῳ κατὰ κοινὴν πίστιν· χάρις καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς καὶ Χριστοῦ Ἰησοῦ τοῦ σωτῆρος ἡμῶν.",
+    "translation": "a Tito, verdadero hijo en la común fe: Gracia y paz de parte de Dios Padre y de Cristo Jesús nuestro Salvador.",
+    "translation_notes": "Tito era un colaborador gentil no circuncidado de total confianza (cf. Gál 2:1–3; 2 Co 7–8), llamado γνησίῳ τέκνῳ («hijo legítimo/auténtico») en la misma fe compartida entre judíos y gentiles (κοινὴν πίστιν)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 5,
+    "greek_text": "Τούτου χάριν ἀπέλιπόν σε ἐν Κρήτῃ ἵνα τὰ λείποντα ἐπιδιορθώσῃ, καὶ καταστήσῃς κατὰ πόλιν πρεσβυτέρους, ὡς ἐγώ σοι διεταξάμην,",
+    "translation": "Por esta causa te dejé en Creta, para que pusieras en orden lo que faltaba y establecieras ancianos en cada ciudad, así como yo te mandé:",
+    "translation_notes": "Misión organizativa en la isla de Creta: ἐπιδιορθώσῃ («enderezar/completar lo que quedó pendiente») designando πρεσβυτέρους («ancianos», usados aquí de forma intercambiable con ἐπίσκοπος en el v. 7) en cada ciudad."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 6,
+    "greek_text": "εἴ τίς ἐστιν ἀνέγκλητος, μιᾶς γυναικὸς ἀνήρ, τέκνα ἔχων πιστά, μὴ ἐν κατηγορίᾳ ἀσωτίας ἢ ἀνυπότακτα.",
+    "translation": "el que sea irreprensible, marido de una sola mujer, que tenga hijos creyentes que no estén acusados de disolución ni sean rebeldes.",
+    "translation_notes": "Requisitos familiares y morales del líder (vv. 6–9): ἀνέγκλητος («sin tacha/irreprochable públicamente»), μιᾶς γυναικὸς ἀνήρ («hombre de una sola mujer», fidelidad conyugal exclusiva), y un hogar ordenado con hijos fieles/creyentes."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 7,
+    "greek_text": "δεῖ γὰρ τὸν ἐπίσκοπον ἀνέγκλητον εἶναι ὡς θεοῦ οἰκονόμον, μὴ αὐθάδη, μὴ ὀργίλον, μὴ πάροινον, μὴ πλήκτην, μὴ αἰσχροκερδῆ,",
+    "translation": "Porque es necesario que el obispo sea irreprensible, como administrador de Dios: no soberbio, no iracundo, no dado al vino, no pendenciero, no codicioso de ganancias deshonestas,",
+    "translation_notes": "El título ἐπίσκοπος («supervisor/obispo», paralelo a «anciano» del v. 5) se define como θεοῦ οἰκονόμος («mayordomo/administrador de la casa de Dios»). Cinco vicios prohibidos: arrogancia obstinada (αὐθάδη), mal genio, embriaguez, violencia y codicia (αἰσχροκερδῆ)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 8,
+    "greek_text": "ἀλλὰ φιλόξενον, φιλάγαθον, σώφρονα, δίκαιον, ὅσιον, ἐγκρατῆ,",
+    "translation": "sino hospitalario, amante de lo bueno, prudente, justo, santo, dueño de sí mismo,",
+    "translation_notes": "Seis virtudes positivas: φιλόξενος (hospitalario con forasteros), φιλάγαθος (amante del bien), σώφρων (sensato/prudente, tema clave en Tito), δίκαιος (justo), ὅσιος (piadoso/santo) y ἐγκρατής (con dominio propio)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 9,
+    "greek_text": "ἀντεχόμενον τοῦ κατὰ τὴν διδαχὴν πιστοῦ λόγου, ἵνα δυνατὸς ᾖ καὶ παρακαλεῖν ἐν τῇ διδασκαλίᾳ τῇ ὑγιαινούσῃ καὶ τοὺς ἀντιλέγοντας ἐλέγχειν.",
+    "translation": "reteniendo firmemente la palabra fiel conforme a la enseñanza, para que sea capaz tanto de exhortar con la sana doctrina como de refutar a los que se oponen.",
+    "translation_notes": "Doble tarea doctrinal del anciano: 1) animar/exhortar en «la enseñanza sana/saludable» (τῇ διδασκαλίᾳ τῇ ὑγιαινούσῃ, metáfora médica frecuente en las Pastorales) y 2) convencer/refutar (ἐλέγχειν) el error."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 10,
+    "greek_text": "Εἰσὶν γὰρ πολλοὶ καὶ ἀνυπότακτοι, ματαιολόγοι καὶ φρεναπάται, μάλιστα οἱ ἐκ τῆς περιτομῆς,",
+    "translation": "Porque hay muchos rebeldes, habladores de vanidades y engañadores, especialmente los de la circuncisión,",
+    "translation_notes": "Perfil de los falsos maestros cretenses: insubordinados (ἀνυπότακτοι), charlatanes vacíos (ματαιολόγοι) y seductores mentales (φρεναπάται), muchos de trasfondo judaizante."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 11,
+    "greek_text": "οὓς δεῖ ἐπιστομίζειν, οἵτινες ὅλους οἴκους ἀνατρέπουσιν διδάσκοντες ἃ μὴ δεῖ αἰσχροῦ κέρδους χάριν.",
+    "translation": "a los cuales es preciso taparles la boca; estos trastornan casas enteras enseñando lo que no deben por ganancias deshonestas.",
+    "translation_notes": "El verbo fuerte ἐπιστομίζειν (epistomizein) significa literalmente «poner freno/bozal en la boca» para detener su daño: arruinan familias/iglesias domésticas enteras (ὅλους οἴκους) motivados por lucro vil (αἰσχροῦ κέρδους χάριν)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 12,
+    "greek_text": "εἶπέν τις ἐξ αὐτῶν, ἴδιος αὐτῶν προφήτης, Κρῆτες ἀεὶ ψεῦσται, κακὰ θηρία, γαστέρες ἀργαί·",
+    "translation": "Uno de ellos, su propio profeta, dijo: «Los cretenses son siempre mentirosos, malas bestias, glotones ociosos».",
+    "translation_notes": "Cita literaria clásica atribuida al poeta-filósofo cretense Epiménides de Cnosos (siglo VI a.C.), famoso en la antigüedad por denunciar la fama de mendacidad de su propia isla (donde incluso afirmaban tener la tumba de Zeus, considerado mortal por ellos)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 13,
+    "greek_text": "ἡ μαρτυρία αὕτη ἐστὶν ἀληθής. δι’ ἣν αἰτίαν ἔλεγχε αὐτοὺς ἀποτόμως, ἵνα ὑγιαίνωσιν ἐν τῇ πίστει,",
+    "translation": "Este testimonio es verdadero. Por tanto, repréndelos con severidad para que sean sanos en la fe,",
+    "translation_notes": "El adverbio ἀποτόμως («tajantemente/con firmeza quirúrgica») busca sanar, no destruir: ἵνα ὑγιαίνωσιν («para que recuperen la salud en la fe»)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 14,
+    "greek_text": "μὴ προσέχοντες Ἰουδαϊκοῖς μύθοις καὶ ἐντολαῖς ἀνθρώπων ἀποστρεφομένων τὴν ἀλήθειαν.",
+    "translation": "no prestando atención a mitos judíos ni a mandamientos de hombres que se apartan de la verdad.",
+    "translation_notes": "Frente a especulaciones legendarias (Ἰουδαϊκοῖς μύθοις) y prohibiciones rituales humanas, la fe sana se mantiene en la verdad."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 15,
+    "greek_text": "πάντα καθαρὰ τοῖς καθαροῖς· τοῖς δὲ μεμιαμμένοις καὶ ἀπίστοις οὐδὲν καθαρόν, ἀλλὰ μεμίανται αὐτῶν καὶ ὁ νοῦς καὶ ἡ συνείδησις.",
+    "translation": "Todas las cosas son puras para los puros; pero para los corrompidos e incrédulos nada es puro, pues hasta su mente y su conciencia están corrompidas.",
+    "translation_notes": "Eco de la enseñanza de Jesús sobre la pureza moral frente a tabúes alimentarios (Mc 7:15–19; Ro 14:14, 20): la impureza real no viene de alimentos, sino de una mente (νοῦς) y conciencia (συνείδησις) contaminadas por la incredulidad."
+  },
+  {
+    "book": "TIT",
+    "chapter": 1,
+    "verse": 16,
+    "greek_text": "θεὸν ὁμολογοῦσιν εἰδέναι, τοῖς δὲ ἔργοις ἀρνοῦνται, βδελυκτοὶ ὄντες καὶ ἀπειθεῖς καὶ πρὸς πᾶν ἔργον ἀγαθὸν ἀδόκιμοι.",
+    "translation": "Profesan conocer a Dios, pero con sus hechos lo niegan, siendo detestables, desobedientes e incapaces para toda buena obra.",
+    "translation_notes": "Coherencia entre confesión y conducta: llaman «abominables» (βδελυκτοί, irónicamente el término que los legalistas usaban para comidas impuras) y ἀδόκιμοι («reprobados/descalificados») para hacer el bien."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 1,
+    "greek_text": "Σὺ δὲ λάλει ἃ πρέπει τῇ ὑγιαινούσῃ διδασκαλίᾳ.",
+    "translation": "Pero tú habla lo que está de acuerdo con la sana doctrina.",
+    "translation_notes": "Contraste enfático (Σὺ δέ, «En cambio tú, Tito...»): la «sana doctrina» (ὑγιαινούσῃ διδασκαλίᾳ) no es mera teoría académica, sino enseñanza saludable que transforma la conducta cotidiana de cada grupo en la iglesia (vv. 2–10)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 2,
+    "greek_text": "πρεσβύτας νηφαλίους εἶναι, σεμνούς, σώφρονας, ὑγιαίνοντας τῇ πίστει, τῇ ἀγάπῃ, τῇ ὑπομονῇ.",
+    "translation": "Que los ancianos sean sobrios, dignos, prudentes, sanos en la fe, en el amor, en la paciencia.",
+    "translation_notes": "Consejos a los hombres mayores (πρεσβύτας): νηφαλίους («sobrios/equilibrados»), σεμνούς («respetables/dignos»), σώφρονας («sensatos/con dominio propio») y saludables en la tríada fe, amor y perseverancia (ὑπομονῇ)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 3,
+    "greek_text": "Πρεσβύτιδας ὡσαύτως ἐν καταστήματι ἱεροπρεπεῖς, μὴ διαβόλους μηδὲ οἴνῳ πολλῷ δεδουλωμένας, καλοδιδασκάλους,",
+    "translation": "Las ancianas asimismo sean reverentes en su porte, no calumniadoras, no esclavas del mucho vino, maestras de lo bueno,",
+    "translation_notes": "Consejos a las mujeres mayores (πρεσβύτιδας): ἐν καταστήματι ἱεροπρεπεῖς («dignas/reverentes en su comportamiento como conviene a personas consagradas»), evitando el chisme calumniador (μὴ διαβόλους) y siendo καλοδιδασκάλους («maestras de lo bueno»)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 4,
+    "greek_text": "ἵνα σωφρονίζωσι τὰς νέας φιλάνδρους εἶναι, φιλοτέκνους,",
+    "translation": "para que enseñen a las mujeres jóvenes a amar a sus esposos y a amar a sus hijos,",
+    "translation_notes": "Mentoría intergeneracional de mujeres mayores hacia jóvenes: σωφρονίζωσι («instruyan con sensatez/orienten») a cultivar afecto conyugal (φιλάνδρους) y maternal (φιλοτέκνους)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 5,
+    "greek_text": "σώφρονας, ἁγνάς, οἰκουργούς, ἀγαθάς, ὑποτασσομένας τοῖς ἰδίοις ἀνδράσιν, ἵνα μὴ ὁ λόγος τοῦ θεοῦ βλασφημῆται.",
+    "translation": "a ser prudentes, puras, cuidadosas de su hogar, bondadosas, sujetas a sus propios esposos, para que la palabra de Dios no sea blasfemada.",
+    "translation_notes": "Propósito misionero explícito del testimonio doméstico: ἵνα μὴ ὁ λόγος τοῦ θεοῦ βλασφημῆται («para que el mensaje de Dios no sea desacreditado ni injuriado» ante los vecinos incrédulos). Οἰκουργούς («diligentes en el cuidado del hogar»)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 6,
+    "greek_text": "Τοὺς νεωτέρους ὡσαύτως παρακάλει σωφρονεῖν·",
+    "translation": "Exhorta igualmente a los jóvenes a ser prudentes,",
+    "translation_notes": "Σωφρονεῖν («ejercer autocontrol/juicio sano»): virtud central repetida para todas las edades y géneros en este capítulo."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 7,
+    "greek_text": "περὶ πάντα σεαυτὸν παρεχόμενος τύπον καλῶν ἔργων, ἐν τῇ διδασκαλίᾳ ἀφθορίαν, σεμνότητα,",
+    "translation": "presentándote tú mismo en todo como ejemplo de buenas obras; en la enseñanza muestra integridad, dignidad,",
+    "translation_notes": "Liderazgo por ejemplo personal: Tito mismo debía ser τύπον καλῶν ἔργων («molde/ejemplo vivo de buenas obras»), enseñando con ἀφθορία («integridad incorruptible») y σεμνότης («seriedad respetuosa»)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 8,
+    "greek_text": "λόγον ὑγιῆ ἀκατάγνωστον, ἵνα ὁ ἐξ ἐναντίας ἐντραπῇ μηδὲν ἔχων λέγειν περὶ ἡμῶν φαῦλον.",
+    "translation": "palabra sana e irreprensible, para que el adversario se avergüence no teniendo nada malo que decir de nosotros.",
+    "translation_notes": "El discurso sano (λόγον ὑγιῆ) y coherente silencia al opositor (ὁ ἐξ ἐναντίας), quitándole excusas para calumniar a la comunidad cristiana."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 9,
+    "greek_text": "Δούλους ἰδίοις δεσπόταις ὑποτάσσεσθαι ἐν πᾶσιν, εὐαρέστους εἶναι, μὴ ἀντιλέγοντας,",
+    "translation": "Exhorta a los siervos a que se sujeten a sus propios amos en todo, que sean amables, no respondones,",
+    "translation_notes": "Ética de integridad para creyentes en condición de servidumbre: εὐαρέστους («dispuestos a agradar con buen servicio»), evitando actitudes altaneras (μὴ ἀντιλέγοντας)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 10,
+    "greek_text": "μὴ νοσφιζομένους, ἀλλὰ πᾶσαν πίστιν ἐνδεικνυμένους ἀγαθήν, ἵνα τὴν διδασκαλίαν τὴν τοῦ σωτῆρος ἡμῶν θεοῦ κοσμῶσιν ἐν πᾶσιν.",
+    "translation": "no defraudando, sino mostrando toda buena fidelidad, para que en todo adornen la doctrina de Dios nuestro Salvador.",
+    "translation_notes": "Imagen bellísima: μὴ νοσφιζομένους («sin hurtar/sisar dinero o bienes», mismo verbo usado para Ananías y Safira en Hch 5:2) para que «adornen» (κοσμῶσιν, de donde viene «cosmética», hacer hermosa y atractiva) la enseñanza de Dios nuestro Salvador."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 11,
+    "greek_text": "Ἐπεφάνη γὰρ ἡ χάρις τοῦ θεοῦ σωτήριος πᾶσιν ἀνθρώποις",
+    "translation": "Porque la gracia de Dios se ha manifestado salvadora a todos los hombres,",
+    "translation_notes": "Fundamento teológico de toda la ética previa (vv. 11–14): el aoristo Ἐπεφάνη («hizo aparición gloriosa/epifanía» en la venida de Cristo) proclama una gracia que ofrece salvación a todo tipo de personas (esclavos, libres, jóvenes, ancianos)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 12,
+    "greek_text": "παιδεύουσα ἡμᾶς, ἵνα ἀρνησάμενοι τὴν ἀσέβειαν καὶ τὰς κοσμικὰς ἐπιθυμίας σωφρόνως καὶ δικαίως καὶ εὐσεβῶς ζήσωμεν ἐν τῷ νῦν αἰῶνι,",
+    "translation": "enseñándonos que, renunciando a la impiedad y a los deseos mundanos, vivamos en este siglo sobria, justa y piadosamente,",
+    "translation_notes": "La gracia no fomenta el libertinaje, sino que nos «educa/entrena como pedagogo» (παιδεύουσα) para vivir con tres orientaciones: σωφρόνως (autocontrol personal), δικαίως (justicia hacia el prójimo) y εὐσεβῶς (reverencia hacia Dios)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 13,
+    "greek_text": "προσδεχόμενοι τὴν μακαρίαν ἐλπίδα καὶ ἐπιφάνειαν τῆς δόξης τοῦ μεγάλου θεοῦ καὶ σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ,",
+    "translation": "aguardando la esperanza bienaventurada y la manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo,",
+    "translation_notes": "Construcción sintáctica clave (regla de Granville Sharp): τοῦ μεγάλου θεοῦ καὶ σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ tiene un solo artículo (τοῦ) gobernando ambos sustantivos («Dios» y «Salvador») unidos por καί, identificando directamente a Jesucristo como «nuestro gran Dios y Salvador» cuya segunda venida (ἐπιφάνεια) esperamos."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 14,
+    "greek_text": "ὃς ἔδωκεν ἑαυτὸν ὑπὲρ ἡμῶν ἵνα λυτρώσηται ἡμᾶς ἀπὸ πάσης ἀνομίας καὶ καθαρίσῃ ἑαυτῷ λαὸν περιούσιον, ζηλωτὴν καλῶν ἔργων.",
+    "translation": "quien se dio a sí mismo por nosotros para redimirnos de toda iniquidad y purificar para sí un pueblo propio, celoso de buenas obras.",
+    "translation_notes": "Eco de Sal 130:8 y Éx 19:5 / Dt 14:2 LXX: Cristo entregó su vida como rescate (λυτρώσηται) para formar un λαὸν περιούσιον («pueblo exclusivo/tesoro especial de su propiedad») apasionado (ζηλωτήν) por hacer el bien."
+  },
+  {
+    "book": "TIT",
+    "chapter": 2,
+    "verse": 15,
+    "greek_text": "Ταῦτα λάλει καὶ παρακάλει καὶ ἔλεγχε μετὰ πάσης ἐπιταγῆς· μηδείς σου περιφρονείτω.",
+    "translation": "Esto habla, exhorta y reprende con toda autoridad; nadie te menosprecie.",
+    "translation_notes": "Resumen del mandato pastoral a Tito: enseñar, animar y corregir con autoridad apostólica delegada (μετὰ πάσης ἐπιταγῆς)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 1,
+    "greek_text": "Ὑπομίμνῃσκε αὐτοὺς ἀρχαῖς ἐξουσίαις ὑποτάσσεσθαι πειθαρχεῖν, πρὸς πᾶν ἔργον ἀγαθὸν ἑτοίμους εἶναι,",
+    "translation": "Recuérdales que se sujeten a los gobernantes y autoridades, que obedezcan, que estén dispuestos a toda buena obra,",
+    "translation_notes": "Ética cívica cristiana (cf. Ro 13:1–7; 1 P 2:13–17): los cretenses tenían fama de turbulentos e insurrectos contra Roma; Pablo ordena respeto cívico y disposición constante para contribuir al bien común."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 2,
+    "greek_text": "μηδένα βλασφημεῖν, ἀμάχους εἶναι, ἐπιεικεῖς, πᾶσαν ἐνδεικνυμένους πραΰτητα πρὸς πάντας ἀνθρώπους.",
+    "translation": "que a nadie difamen, que no sean contenciosos, sino amables, mostrando toda mansedumbre para con todos los hombres.",
+    "translation_notes": "Cuatro rasgos de convivencia pública: no injuriar (μηδένα βλασφημεῖν), ser pacíficos (ἀμάχους), considerados/razonables (ἐπιεικεῖς) y mansos hacia toda persona (πρὸς πάντας ἀνθρώπους)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 3,
+    "greek_text": "ἦμεν γάρ ποτε καὶ ἡμεῖς ἀνόητοι, ἀπειθεῖς, πλανώμενοι, δουλεύοντες ἐπιθυμίαις καὶ ἡδοναῖς ποικίλαις, ἐν κακίᾳ καὶ φθόνῳ διάγοντες, στυγητοί, μισοῦντες ἀλλήλους.",
+    "translation": "Porque nosotros también éramos en otro tiempo insensatos, desobedientes, extraviados, esclavos de diversas pasiones y placeres, viviendo en malicia y envidia, aborrecibles y aborreciéndonos unos a otros.",
+    "translation_notes": "Memoria humilde antes de la gracia («nosotros también» incluye al propio Pablo): la mansedumbre hacia los incrédulos nace de recordar nuestra propia miseria pasada sin Cristo."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 4,
+    "greek_text": "ὅτε δὲ ἡ χρηστότης καὶ ἡ φιλανθρωπία ἐπεφάνη τοῦ σωτῆρος ἡμῶν θεοῦ,",
+    "translation": "Pero cuando se manifestó la bondad de Dios nuestro Salvador y su amor por la humanidad,",
+    "translation_notes": "Hermoso binomio divino: χρηστότης («bondad benigna») y φιλανθρωπία (philanthrōpia, «amor hacia la humanidad», término clásico aplicado aquí a la encarnación y gracia redentora de Dios)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 5,
+    "greek_text": "οὐκ ἐξ ἔργων τῶν ἐν δικαιοσύνῃ ἃ ἐποιήσαμεν ἡμεῖς ἀλλὰ κατὰ τὸ αὐτοῦ ἔλεος ἔσωσεν ἡμᾶς διὰ λουτροῦ παλιγγενεσίας καὶ ἀνακαινώσεως πνεύματος ἁγίου,",
+    "translation": "nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino conforme a su misericordia, mediante el lavamiento de la regeneración y la renovación del Espíritu Santo,",
+    "translation_notes": "Síntesis trinitaria de la salvación: negación absoluta del mérito («no por obras en justicia»), afirmación de la misericordia divina (κατὰ τὸ αὐτοῦ ἔλεος), y mención de λουτροῦ παλιγγενεσίας («lavamiento/baño de nuevo nacimiento/regeneración», simbolizado en el bautismo) junto con la renovación continua del Espíritu Santo."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 6,
+    "greek_text": "οὗ ἐξέχεεν ἐφ’ ἡμᾶς πλουσίως διὰ Ἰησοῦ Χριστοῦ τοῦ σωτῆρος ἡμῶν,",
+    "translation": "el cual derramó sobre nosotros abundantemente por medio de Jesucristo nuestro Salvador,",
+    "translation_notes": "Eco de Joel 2:28 y Hechos 2:33: el Padre derramó ricamente (πλουσίως) el Espíritu por medio de Cristo."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 7,
+    "greek_text": "ἵνα δικαιωθέντες τῇ ἐκείνου χάριτι κληρονόμοι γενηθῶμεν κατ’ ἐλπίδα ζωῆς αἰωνίου.",
+    "translation": "para que, justificados por su gracia, llegáramos a ser herederos conforme a la esperanza de la vida eterna.",
+    "translation_notes": "Justificación gratuita (δικαιωθέντες τῇ ἐκείνου χάριτι) que nos constituye herederos seguros de la vida eterna."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 8,
+    "greek_text": "Πιστὸς ὁ λόγος, καὶ περὶ τούτων βούλομαί σε διαβεβαιοῦσθαι, ἵνα φροντίζωσιν καλῶν ἔργων προΐστασθαι οἱ πεπιστευκότες θεῷ. ταῦτά ἐστιν καλὰ καὶ ὠφέλιμα τοῖς ἀνθρώποις·",
+    "translation": "Fiel es esta palabra, y acerca de estas cosas quiero que insistas con firmeza, para que los que han creído en Dios procuren ocuparse en buenas obras. Estas cosas son buenas y útiles para los hombres.",
+    "translation_notes": "Fórmula pastoral «Fiel es esta palabra» (Πιστὸς ὁ λόγος) aplicada a los vv. 4–7. La gracia gratuita no produce pasividad, sino cuidado diligente (φροντίζωσιν) por sobresalir en buenas obras útiles a la sociedad."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 9,
+    "greek_text": "μωρὰς δὲ ζητήσεις καὶ γενεαλογίας καὶ ἔρεις καὶ μάχας νομικὰς περιΐστασο, εἰσὶν γὰρ ἀνωφελεῖς καὶ μάταιοι.",
+    "translation": "Pero evita las cuestiones necias, genealogías, contiendas y discusiones acerca de la ley, porque son inútiles y vanas.",
+    "translation_notes": "El verbo περιΐστασο («da la vuelta alrededor para evitar») manda esquivar polémicas especulativas estériles sobre leyendas judías y legalismos (cf. 1 Ti 1:4)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 10,
+    "greek_text": "αἱρετικὸν ἄνθρωπον μετὰ μίαν καὶ δευτέραν νουθεσίαν παραιτοῦ,",
+    "translation": "Al hombre que causa divisiones, después de una primera y segunda amonestación, recházalo,",
+    "translation_notes": "El adjetivo αἱρετικὸν ἄνθρωπον (hairetikon anthrōpon, de αἵρεσις, «facción/elección sectaria») designa a quien fomenta bandos y cismas en la iglesia; tras dos advertencias pacientes, debe ser apartado (παραιτοῦ)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 11,
+    "greek_text": "εἰδὼς ὅτι ἐξέστραπται ὁ τοιοῦτος καὶ ἁμαρτάνει, ὢν αὐτοκατάκριτος.",
+    "translation": "sabiendo que el tal se ha pervertido y peca, estando condenado por sí mismo.",
+    "translation_notes": "El perfecto ἐξέστραπται («está torcido/desviado de raíz») y el adjetivo αὐτοκατάκριτος («autocondenado» por su propia obstinación) explican la necesidad de proteger al rebaño."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 12,
+    "greek_text": "Ὅταν πέμψω Ἀρτεμᾶν πρὸς σὲ ἢ Τυχικόν, σπούδασον ἐλθεῖν πρός με εἰς Νικόπολιν, ἐκεῖ γὰρ κέκρικα παραχειμάσαι.",
+    "translation": "Cuando envíe a ti a Artemas o a Tíquico, procura venir a mí en Nicópolis, porque allí he decidido pasar el invierno.",
+    "translation_notes": "Logística misionera: Pablo planeaba invernar en Nicópolis (probablemente en Epiro, costa occidental de Grecia, cuando la navegación cesaba) y enviaría a Artemas o Tíquico para relevar a Tito en Creta."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 13,
+    "greek_text": "ζηνᾶν τὸν νομικὸν καὶ Ἀπολλῶν σπουδαίως πρόπεμψον, ἵνα μηδὲν αὐτοῖς λείπῃ.",
+    "translation": "A Zenas el intérprete de la ley y a Apolos encamínalos con diligencia, de modo que nada les falte.",
+    "translation_notes": "Hospitalidad misionera práctica (πρόπεμψον, «equípalos para el viaje», igual que en 3 Jn 6) para Zenas (jurista romano o experto en ley mosaica) y el elocuente Apolos (Hch 18:24)."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 14,
+    "greek_text": "μανθανέτωσαν δὲ καὶ οἱ ἡμέτεροι καλῶν ἔργων προΐστασθαι εἰς τὰς ἀναγκαίας χρείας, ἵνα μὴ ὦσιν ἄκαρποι.",
+    "translation": "Y aprendan también los nuestros a ocuparse en buenas obras para las necesidades urgentes, a fin de que no sean infructuosos.",
+    "translation_notes": "Exhortación final a la generosidad práctica: atender necesidades reales (εἰς τὰς ἀναγκαίας χρείας) como el sostenimiento de obreros y necesitados."
+  },
+  {
+    "book": "TIT",
+    "chapter": 3,
+    "verse": 15,
+    "greek_text": "Ἀσπάζονταί σε οἱ μετ’ ἐμοῦ πάντες. ἄσπασαι τοὺς φιλοῦντας ἡμᾶς ἐν πίστει. ἡ χάρις μετὰ πάντων ὑμῶν.",
+    "translation": "Te saludan todos los que están conmigo. Saluda a los que nos aman en la fe. La gracia sea con todos ustedes.",
+    "translation_notes": "Despedida cálida y bendición plural (μετὰ πάντων ὑμῶν) que abarca a toda la iglesia en Creta."
+  }
+]

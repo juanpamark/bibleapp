@@ -1,0 +1,378 @@
+[
+  {
+    "book": "2TH",
+    "chapter": 1,
+    "verse": 1,
+    "greek_text": "Παῦλος καὶ Σιλουανὸς καὶ Τιμόθεος τῇ ἐκκλησίᾳ Θεσσαλονικέων ἐν θεῷ πατρὶ ἡμῶν καὶ κυρίῳ Ἰησοῦ Χριστῷ·",
+    "translation": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios nuestro Padre y en el Señor Jesucristo:",
+    "translation_notes": "Mismo equipo misionero de 1 Tesalonicenses, escrito poco después desde Corinto para corregir inquietudes escatológicas y desorden laboral. Añade ἡμῶν («nuestro Padre»)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 1,
+    "verse": 2,
+    "greek_text": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+    "translation": "Gracia a ustedes y paz de parte de Dios Padre y del Señor Jesucristo.",
+    "translation_notes": "Saludo apostólico habitual que une gracia divina y paz integral en Dios Padre y el Señor Jesucristo."
+  },
+  {
+    "book": "2TH",
+    "chapter": 1,
+    "verse": 3,
+    "greek_text": "Εὐχαριστεῖν ὀφείλομεν τῷ θεῷ πάντοτε περὶ ὑμῶν, ἀδελφοί, καθὼς ἄξιόν ἐστιν, ὅτι ὑπεραυξάνει ἡ πίστις ὑμῶν καὶ πλεονάζει ἡ ἀγάπη ἑνὸς ἑκάστου πάντων ὑμῶν εἰς ἀλλήλους,",
+    "translation": "Debemos dar gracias a Dios siempre por ustedes, hermanos, como es justo, porque su fe crece sobremanera y abunda el amor de cada uno de todos ustedes para con los demás;",
+    "translation_notes": "Verbo intensivo raro: ὑπεραυξάνει (hyperauxanei, «crece extraordinariamente por encima de lo esperado») y πλεονάζει («se multiplica desbordando») en cada miembro (ἑνὸς ἑκάστου πάντων ὑμῶν)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 1,
+    "verse": 4,
+    "greek_text": "ὥστε αὐτοὺς ἡμᾶς ἐν ὑμῖν ἐγκαυχᾶσθαι ἐν ταῖς ἐκκλησίαις τοῦ θεοῦ ὑπὲρ τῆς ὑπομονῆς ὑμῶν καὶ πίστεως ἐν πᾶσιν τοῖς διωγμοῖς ὑμῶν καὶ ταῖς θλίψεσιν αἷς ἀνέχεσθε,",
+    "translation": "tanto que nosotros mismos nos gloriamos de ustedes en las iglesias de Dios por su perseverancia y fe en todas sus persecuciones y aflicciones que están soportando.",
+    "translation_notes": "El verbo ἀνέχεσθε (presente indicativo) indica persecuciones en curso que los tesalonicenses resistían con ὑπομονή («constancia firme bajo carga») y fe."
+  },
+  {
+    "book": "2TH",
+    "chapter": 1,
+    "verse": 5,
+    "greek_text": "ἔνδειγμα τῆς δικαίας κρίσεως τοῦ θεοῦ, εἰς τὸ καταξιωθῆναι ὑμᾶς τῆς βασιλείας τοῦ θεοῦ, ὑπὲρ ἧς καὶ πάσχετε,",
+    "translation": "Esto es señal evidente del justo juicio de Dios, para que sean tenidos por dignos del reino de Dios, por el cual también están padeciendo;",
+    "translation_notes": "Su perseverancia en medio de pruebas injustas es ἔνδειγμα («prueba/indicio claro») de que Dios hará justicia vindicándolos (καταξιωθῆναι, «ser declarados dignos/aptos» por gracia) para su Reino."
+  },
+  {
+    "book": "2TH",
+    "chapter": 1,
+    "verse": 6,
+    "greek_text": "εἴπερ δίκαιον παρὰ θεῷ ἀνταποδοῦναι τοῖς θλίβουσιν ὑμᾶς θλῖψιν",
+    "translation": "ya que es justo delante de Dios pagar con tribulación a los que los atribulan,",
+    "translation_notes": "Principio de justicia retributiva divina (cf. Dt 32:35; Ro 12:19): Dios mismo (παρὰ θεῷ) responderá con justicia a quienes oprimen a su pueblo (τοῖς θλίβουσιν... θλῖψιν)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 1,
+    "verse": 7,
+    "greek_text": "καὶ ὑμῖν τοῖς θλιβομένοις ἄνεσιν μεθ’ ἡμῶν ἐν τῇ ἀποκαλύψει τοῦ κυρίου Ἰησοῦ ἀπ’ οὐρανοῦ μετ’ ἀγγέλων δυνάμεως αὐτοῦ",
+    "translation": "y darles a ustedes, los atribulados, descanso juntamente con nosotros cuando se revele el Señor Jesús desde el cielo con los ángeles de su poder,",
+    "translation_notes": "Ἄνεσις (anesis, literalmente «alivio/aflojar la tensión del arco/reposo») aguarda a los perseguidos en la ἀποκάλυψις («revelación visible y gloriosa») del Señor Jesús desde el cielo."
+  },
+  {
+    "book": "2TH",
+    "chapter": 1,
+    "verse": 8,
+    "greek_text": "ἐν φλογὶ πυρός, διδόντος ἐκδίκησιν τοῖς μὴ εἰδόσι θεὸν καὶ τοῖς μὴ ὑπακούουσιν τῷ εὐαγγελίῳ τοῦ κυρίου ἡμῶν Ἰησοῦ,",
+    "translation": "en llama de fuego, para dar retribución a los que no conocen a Dios y a los que no obedecen al evangelio de nuestro Señor Jesús;",
+    "translation_notes": "Eco profético de Is 66:15 y Jer 10:25: la teofanía judicial («en llama de fuego») alcanza a quienes rechazan conocer a Dios y desobedecen el llamado del evangelio."
+  },
+  {
+    "book": "2TH",
+    "chapter": 1,
+    "verse": 9,
+    "greek_text": "οἵτινες δίκην τίσουσιν ὄλεθρον αἰώνιον ἀπὸ προσώπου τοῦ κυρίου καὶ ἀπὸ τῆς δόξης τῆς ἰσχύος αὐτοῦ,",
+    "translation": "los cuales sufrirán la pena de eterna perdición, excluidos de la presencia del Señor y de la gloria de su poder,",
+    "translation_notes": "La esencia del juicio final: ὄλεθρον αἰώνιον («ruina/perdición eterna», no mera aniquilación indolora, sino separación definitiva) ἀπὸ προσώπου τοῦ κυρίου («lejos de la presencia/rostro del Señor», eco de Is 2:10, 19, 21 LXX)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 1,
+    "verse": 10,
+    "greek_text": "ὅταν ἔλθῃ ἐνδοξασθῆναι ἐν τοῖς ἁγίοις αὐτοῦ καὶ θαυμασθῆναι ἐν πᾶσιν τοῖς πιστεύσασιν, ὅτι ἐπιστεύθη τὸ μαρτύριον ἡμῶν ἐφ’ ὑμᾶς, ἐν τῇ ἡμέρᾳ ἐκείνῃ.",
+    "translation": "cuando venga en aquel día para ser glorificado en sus santos y admirado en todos los que creyeron —por cuanto nuestro testimonio fue creído entre ustedes—.",
+    "translation_notes": "Contraste radiante (Sal 89:7; 68:35 LXX): Cristo será glorificado *en* sus santos (ἐνδοξασθῆναι ἐν τοῖς ἁγίοις) y contemplado con asombro reverente en quienes creyeron al testimonio apostólico."
+  },
+  {
+    "book": "2TH",
+    "chapter": 1,
+    "verse": 11,
+    "greek_text": "εἰς ὃ καὶ προσευχόμεθα πάντοτε περὶ ὑμῶν, ἵνα ὑμᾶς ἀξιώσῃ τῆς κλήσεως ὁ θεὸς ἡμῶν καὶ πληρώσῃ πᾶσαν εὐδοκίαν ἀγαθωσύνης καὶ ἔργον πίστεως ἐν δυνάμει,",
+    "translation": "Por lo cual también oramos siempre por ustedes, para que nuestro Dios los haga dignos de este llamamiento, y cumpla con poder todo buen propósito y toda obra de fe,",
+    "translation_notes": "La dignidad es don de Dios (ἀξιώσῃ, «haga/considere dignos»), quien lleva a plenitud (πληρώσῃ) todo deseo de bondad y toda obra brotada de la fe."
+  },
+  {
+    "book": "2TH",
+    "chapter": 1,
+    "verse": 12,
+    "greek_text": "ὅπως ἐνδοξασθῇ τὸ ὄνομα τοῦ κυρίου ἡμῶν Ἰησοῦ ἐν ὑμῖν, καὶ ὑμεῖς ἐν αὐτῷ, κατὰ τὴν χάριν τοῦ θεοῦ ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+    "translation": "a fin de que el nombre de nuestro Señor Jesús sea glorificado en ustedes, y ustedes en él, según la gracia de nuestro Dios y del Señor Jesucristo.",
+    "translation_notes": "Glorificación recíproca: Cristo es honrado en la vida de sus discípulos, y los discípulos son glorificados en él (cf. Jn 17:10, 22), todo conforme a la gracia."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 1,
+    "greek_text": "Ἐρωτῶμεν δὲ ὑμᾶς, ἀδελφοί, ὑπὲρ τῆς παρουσίας τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ ἡμῶν ἐπισυναγωγῆς ἐπ’ αὐτόν,",
+    "translation": "Pero con respecto a la venida de nuestro Señor Jesucristo y nuestra reunión con él, les rogamos, hermanos,",
+    "translation_notes": "Asunto central de la carta: la parusía (παρουσία) y nuestra reunión (ἐπισυναγωγή, «recolección» en un solo cuerpo con Cristo, cf. Mt 24:31; 1 Ts 4:17)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 2,
+    "greek_text": "εἰς τὸ μὴ ταχέως σαλευθῆναι ὑμᾶς ἀπὸ τοῦ νοὸς μηδὲ θροεῖσθαι μήτε διὰ πνεύματος μήτε διὰ λόγου μήτε δι’ ἐπιστολῆς ὡς δι’ ἡμῶν, ὡς ὅτι ἐνέστηκεν ἡ ἡμέρα τοῦ κυρίου.",
+    "translation": "que no se dejen mover fácilmente de su modo de pensar, ni se alarmen, ni por espíritu, ni por palabra, ni por carta como si fuera nuestra, en el sentido de que el día del Señor ya ha llegado.",
+    "translation_notes": "Metáfora náutica/sísmica: σαλευθῆναι («ser sacudidos de su estabilidad mental como un barco por tormenta») y θροεῖσθαι («sobresaltarse en pánico»). Algunos afirmaban —por supuesta profecía («espíritu»), rumor («palabra») o carta falsificada atribuida a Pablo— que el Día del Señor «ya estaba aquí presente» (ἐνέστηκεν, perfecto)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 3,
+    "greek_text": "μή τις ὑμᾶς ἐξαπατήσῃ κατὰ μηδένα τρόπον· ὅτι ἐὰν μὴ ἔλθῃ ἡ ἀποστασία πρῶτον καὶ ἀποκαλυφθῇ ὁ ἄνθρωπος τῆς ἀνομίας, ὁ υἱὸς τῆς ἀπωλείας,",
+    "translation": "Nadie los engañe de ninguna manera; porque no vendrá sin que antes venga la apostasía y se manifieste el hombre de iniquidad, el hijo de perdición,",
+    "translation_notes": "Dos señales previas necesarias antes de aquel Día: 1) ἡ ἀποστασία («la rebelión/apostasía» final abierta), y 2) la revelación de ὁ ἄνθρωπος τῆς ἀνομίας («el hombre de anarquía/sin ley», llamado también «hijo de perdición», título aplicado a Judas en Jn 17:12)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 4,
+    "greek_text": "ὁ ἀντικείμενος καὶ ὑπεραιρόμενος ἐπὶ πάντα λεγόμενον θεὸν ἢ σέβασμα, ὥστε αὐτὸν εἰς τὸν ναὸν τοῦ θεοῦ καθίσαι ἀποδεικνύντα ἑαυτὸν ὅτι ἔστιν θεός.",
+    "translation": "el cual se opone y se exalta sobre todo lo que se llama Dios o es objeto de culto, hasta sentarse en el templo de Dios, haciéndose pasar por Dios.",
+    "translation_notes": "Retrato modelado en Daniel 11:36 y Ezequiel 28:2: pretende usurpar adoración exclusiva (σέβασμα, término usado también para objetos sagrados y el culto imperial) entronizándose en el santuario (εἰς τὸν ναὸν τοῦ θεοῦ) y proclamándose Dios."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 5,
+    "greek_text": "οὐ μνημονεύετε ὅτι ἔτι ὢν πρὸς ὑμᾶς ταῦτα ἔλεγον ὑμῖν;",
+    "translation": "¿No se acuerdan de que cuando yo estaba todavía con ustedes les decía estas cosas?",
+    "translation_notes": "Apela a la enseñanza oral previa dada durante su breve estancia en Tesalónica."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 6,
+    "greek_text": "καὶ νῦν τὸ κατέχον οἴδατε, εἰς τὸ ἀποκαλυφθῆναι αὐτὸν ἐν τῷ ἑαυτοῦ καιρῷ·",
+    "translation": "Y ahora ustedes saben lo que lo detiene, a fin de que a su debido tiempo se manifieste.",
+    "translation_notes": "Famosa expresión enigmática: τὸ κατέχον (neutro, «lo que frena/retiene», v. 6) y ὁ κατέχων (masculino, «el que detiene», v. 7). Los tesalonicenses sabían a qué se refería por la enseñanza oral (v. 5); los intérpretes históricos lo asocian al orden estatal/imperial que contiene la anarquía, al Espíritu Santo en la iglesia o al plan soberano de Dios hasta «su propio tiempo» (ἐν τῷ ἑαυτοῦ καιρῷ)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 7,
+    "greek_text": "τὸ γὰρ μυστήριον ἤδη ἐνεργεῖται τῆς ἀνομίας· μόνον ὁ κατέχων ἄρτι ἕως ἐκ μέσου γένηται.",
+    "translation": "Porque el misterio de la iniquidad ya está en acción; solo falta que sea quitado de en medio el que ahora lo detiene.",
+    "translation_notes": "Tensión escatológica: el principio rebelde (τὸ μυστήριον τῆς ἀνομίας) ya opera de manera oculta en la historia, contenido temporalmente hasta que el obstáculo sea retirado (ἐκ μέσου γένηται)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 8,
+    "greek_text": "καὶ τότε ἀποκαλυφθήσεται ὁ ἄνομος, ὃν ὁ κύριος Ἰησοῦς ἀνελεῖ τῷ πνεύματι τοῦ στόματος αὐτοῦ καὶ καταργήσει τῇ ἐπιφανείᾳ τῆς παρουσίας αὐτοῦ,",
+    "translation": "Y entonces será manifestado aquel inicuo, a quien el Señor Jesús matará con el aliento de su boca y destruirá con el resplandor de su venida;",
+    "translation_notes": "Victoria sin esfuerzo de Cristo (eco de Is 11:4): al aparecer en gloria (τῇ ἐπιφανείᾳ τῆς παρουσίας αὐτοῦ), el Señor Jesús aniquilará al inicuo simplemente con «el soplo/espíritu de su boca» (τῷ πνεύματι τοῦ στόματος αὐτοῦ)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 9,
+    "greek_text": "οὗ ἐστιν ἡ παρουσία κατ’ ἐνέργειαν τοῦ Σατανᾶ ἐν πάσῃ δυνάμει καὶ σημείοις καὶ τέρασιν ψεύδους",
+    "translation": "inicuo cuya venida es conforme a la operación de Satanás, con todo poder, señales y prodigios mentirosos,",
+    "translation_notes": "Falsificación satánica de los milagros mesiánicos: usa las mismas palabras que describen las obras de Cristo (δύναμις, σημεῖα, τέρατα, cf. Hch 2:22), pero calificadas como ψεύδους («de mentira / destinados a engañar»)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 10,
+    "greek_text": "καὶ ἐν πάσῃ ἀπάτῃ ἀδικίας τοῖς ἀπολλυμένοις, ἀνθ’ ὧν τὴν ἀγάπην τῆς ἀληθείας οὐκ ἐδέξαντο εἰς τὸ σωθῆναι αὐτούς·",
+    "translation": "y con todo engaño de iniquidad para los que se pierden, por cuanto no recibieron el amor de la verdad para ser salvos.",
+    "translation_notes": "Causa moral de la condenación: no es mera ignorancia involuntaria, sino rechazar deliberadamente «el amor a la verdad» (τὴν ἀγάπην τῆς ἀληθείας)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 11,
+    "greek_text": "καὶ διὰ τοῦτο πέμπει αὐτοῖς ὁ θεὸς ἐνέργειαν πλάνης εἰς τὸ πιστεῦσαι αὐτοὺς τῷ ψεύδει,",
+    "translation": "Por eso Dios les envía un poder engañoso, para que crean a la mentira,",
+    "translation_notes": "Juicio judicial de entrega (como Ro 1:24–28): cuando alguien rechaza persistentemente la verdad, Dios permite y envía ἐνέργεια πλάνης («eficacia de extravío») para que quede entregado a su propia mentira elegida."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 12,
+    "greek_text": "ἵνα κριθῶσιν πάντες οἱ μὴ πιστεύσαντες τῇ ἀληθείᾳ ἀλλὰ εὐδοκήσαντες τῇ ἀδικίᾳ.",
+    "translation": "a fin de que sean juzgados todos los que no creyeron a la verdad, sino que se complacieron en la injusticia.",
+    "translation_notes": "El verbo εὐδοκήσαντες («se deleitaron/aprobaron con gusto») muestra la responsabilidad moral personal frente a la verdad."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 13,
+    "greek_text": "Ἡμεῖς δὲ ὀφείλομεν εὐχαριστεῖν τῷ θεῷ πάντοτε περὶ ὑμῶν, ἀδελφοὶ ἠγαπημένοι ὑπὸ κυρίου, ὅτι εἵλατο ὑμᾶς ὁ θεὸς ἀπαρχὴν εἰς σωτηρίαν ἐν ἁγιασμῷ πνεύματος καὶ πίστει ἀληθείας,",
+    "translation": "Pero nosotros debemos dar siempre gracias a Dios por ustedes, hermanos amados por el Señor, de que Dios los escogió desde el principio para salvación, mediante la santificación por el Espíritu y la fe en la verdad;",
+    "translation_notes": "Nota textual: SBLGNT lee ἀπαρχήν («como primicias para salvación», apoyado por B, F, G, etc., frente a ἀπ’ ἀρχῆς «desde el principio» en otros mss.; ambos sentidos convergen en la elección salvadora de Dios). Muestra el equilibrio divino-humano: elección de Dios + obra santificadora del Espíritu + fe personal en la verdad."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 14,
+    "greek_text": "εἰς ὃ ἐκάλεσεν ὑμᾶς διὰ τοῦ εὐαγγελίου ἡμῶν, εἰς περιποίησιν δόξης τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.",
+    "translation": "para lo cual los llamó mediante nuestro evangelio, a fin de alcanzar la gloria de nuestro Señor Jesucristo.",
+    "translation_notes": "El llamamiento histórico ocurre a través de la predicación del evangelio, con la meta de compartir (εἰς περιποίησιν) la gloria de Cristo."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 15,
+    "greek_text": "ἄρα οὖν, ἀδελφοί, στήκετε, καὶ κρατεῖτε τὰς παραδόσεις ἃς ἐδιδάχθητε εἴτε διὰ λόγου εἴτε δι’ ἐπιστολῆς ἡμῶν.",
+    "translation": "Así que, hermanos, estén firmes y retengan las enseñanzas que aprendieron, ya sea de palabra o por carta nuestra.",
+    "translation_notes": "Παραδόσεις (paradoseis, «tradiciones/enseñanzas apostólicas transmitidas», cf. 1 Co 11:2; 15:3): la estabilidad (στήκετε) y fidelidad a lo enseñado por los apóstoles protegen contra rumores alarmistas."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 16,
+    "greek_text": "Αὐτὸς δὲ ὁ κύριος ἡμῶν Ἰησοῦς Χριστὸς καὶ θεὸς ὁ πατὴρ ἡμῶν, ὁ ἀγαπήσας ἡμᾶς καὶ δοὺς παράκλησιν αἰωνίαν καὶ ἐλπίδα ἀγαθὴν ἐν χάριτι,",
+    "translation": "Y el mismo Señor nuestro Jesucristo, y Dios nuestro Padre, quien nos amó y nos dio consuelo eterno y buena esperanza por gracia,",
+    "translation_notes": "Notoria oración conjunta donde el Señor Jesucristo precede a Dios Padre, ambos regidos por participios y verbos en singular (v. 17), afirmando su unidad divina en el consuelo y la gracia."
+  },
+  {
+    "book": "2TH",
+    "chapter": 2,
+    "verse": 17,
+    "greek_text": "παρακαλέσαι ὑμῶν τὰς καρδίας καὶ στηρίξαι ἐν παντὶ ἔργῳ καὶ λόγῳ ἀγαθῷ.",
+    "translation": "consuele sus corazones y los afirme en toda buena obra y palabra.",
+    "translation_notes": "Petición doble en singular (παρακαλέσαι... στηρίξαι): ánimo interior para el corazón y firmeza práctica tanto en las obras como en las palabras."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 1,
+    "greek_text": "Τὸ λοιπὸν προσεύχεσθε, ἀδελφοί, περὶ ἡμῶν, ἵνα ὁ λόγος τοῦ κυρίου τρέχῃ καὶ δοξάζηται καθὼς καὶ πρὸς ὑμᾶς,",
+    "translation": "Por lo demás, hermanos, oren por nosotros, para que la palabra del Señor corra rápidamente y sea glorificada, así como lo fue entre ustedes,",
+    "translation_notes": "Metáfora atlética del Salmo 147:15: ἵνα ὁ λόγος τοῦ κυρίου τρέχῃ («que el mensaje del Señor corra velozmente sin tropiezo») y sea honrado al transformar vidas."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 2,
+    "greek_text": "καὶ ἵνα ῥυσθῶμεν ἀπὸ τῶν ἀτόπων καὶ πονηρῶν ἀνθρώπων, οὐ γὰρ πάντων ἡ πίστις.",
+    "translation": "y para que seamos librados de hombres perversos y malos; porque no todos tienen fe.",
+    "translation_notes": "Ἀτόπων («fuera de lugar/perversos/insensatos») y πονηρῶν («malvados»): alude probablemente a opositores hostiles en Corinto (cf. Hch 18:12–17). «No todos tienen la fe» (οὐ γὰρ πάντων ἡ πίστις)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 3,
+    "greek_text": "πιστὸς δέ ἐστιν ὁ κύριος, ὃς στηρίξει ὑμᾶς καὶ φυλάξει ἀπὸ τοῦ πονηροῦ.",
+    "translation": "Pero fiel es el Señor, quien los afirmará y los guardará del maligno.",
+    "translation_notes": "Juego de palabras con πίστις («fe», v. 2) y πιστός («fiel», v. 3): aunque no todos tengan fe, el Señor es siempre fiel para estabilizarlos (στηρίξει) y custodiarlos del maligno (ἀπὸ τοῦ πονηροῦ, masculino o neutro)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 4,
+    "greek_text": "πεποίθαμεν δὲ ἐν κυρίῳ ἐφ’ ὑμᾶς, ὅτι ἃ παραγγέλλομεν καὶ ποιεῖτε καὶ ποιήσετε.",
+    "translation": "Y tenemos confianza en el Señor respecto a ustedes, de que hacen y seguirán haciendo lo que les mandamos.",
+    "translation_notes": "Confianza pastoral («en el Señor») antes de corregir firmemente el problema de la ociosidad (vv. 6–15)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 5,
+    "greek_text": "ὁ δὲ κύριος κατευθύναι ὑμῶν τὰς καρδίας εἰς τὴν ἀγάπην τοῦ θεοῦ καὶ εἰς τὴν ὑπομονὴν τοῦ Χριστοῦ.",
+    "translation": "Y el Señor dirija sus corazones hacia el amor de Dios y hacia la paciencia de Cristo.",
+    "translation_notes": "Oración trinitaria implícita («el Señor» [Espíritu/Cristo] dirija hacia el amor de Dios y la perseverancia de Cristo) para sostenerlos en la obediencia."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 6,
+    "greek_text": "Παραγγέλλομεν δὲ ὑμῖν, ἀδελφοί, ἐν ὀνόματι τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ στέλλεσθαι ὑμᾶς ἀπὸ παντὸς ἀδελφοῦ ἀτάκτως περιπατοῦντος καὶ μὴ κατὰ τὴν παράδοσιν ἣν παρελάβοσαν παρ’ ἡμῶν.",
+    "translation": "Pero les mandamos, hermanos, en el nombre de nuestro Señor Jesucristo, que se aparten de todo hermano que ande desordenadamente y no conforme a la enseñanza que recibieron de nosotros.",
+    "translation_notes": "Disciplina comunitaria firme (στέλλεσθαι ἀπό, «mantener distancia/retirar el trato cómodo») frente a quien vive ἀτάκτως («de forma indisciplinada/desordenada», aquí específicamente negándose a trabajar, vv. 10–11)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 7,
+    "greek_text": "αὐτοὶ γὰρ οἴδατε πῶς δεῖ μιμεῖσθαι ἡμᾶς, ὅτι οὐκ ἠτακτήσαμεν ἐν ὑμῖν",
+    "translation": "Porque ustedes mismos saben cómo deben imitarnos; pues no anduvimos desordenadamente entre ustedes,",
+    "translation_notes": "Ejemplo encarnado del equipo apostólico: οὐκ ἠτακτήσαμεν («no fuimos indisciplinados ni ociosos»)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 8,
+    "greek_text": "οὐδὲ δωρεὰν ἄρτον ἐφάγομεν παρά τινος, ἀλλ’ ἐν κόπῳ καὶ μόχθῳ νυκτὸς καὶ ἡμέρας ἐργαζόμενοι πρὸς τὸ μὴ ἐπιβαρῆσαί τινα ὑμῶν·",
+    "translation": "ni comimos de balde el pan de nadie, sino que trabajamos con esfuerzo y fatiga de noche y de día, para no ser carga a ninguno de ustedes;",
+    "translation_notes": "Eco literal de 1 Ts 2:9: trabajaron manualmente pagando su propio sustento (δωρεὰν ἄρτον, «pan gratis») para dar un modelo irreprochable."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 9,
+    "greek_text": "οὐχ ὅτι οὐκ ἔχομεν ἐξουσίαν, ἀλλ’ ἵνα ἑαυτοὺς τύπον δῶμεν ὑμῖν εἰς τὸ μιμεῖσθαι ἡμᾶς.",
+    "translation": "no porque no tengamos derecho, sino para darnos a nosotros mismos como ejemplo a ustedes, a fin de que nos imiten.",
+    "translation_notes": "Pablo reafirma su derecho apostólico (ἐξουσία) al sustento ministerial (1 Co 9:4–14), pero renuncia voluntariamente a él en Tesalónica para modelar ética laboral."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 10,
+    "greek_text": "καὶ γὰρ ὅτε ἦμεν πρὸς ὑμᾶς, τοῦτο παρηγγέλλομεν ὑμῖν, ὅτι εἴ τις οὐ θέλει ἐργάζεσθαι μηδὲ ἐσθιέτω.",
+    "translation": "Porque aun cuando estábamos con ustedes les mandábamos esto: «Si alguno no quiere trabajar, tampoco coma».",
+    "translation_notes": "Principio moral claro: nótese el verbo θέλει («no *quiere* trabajar», rechazo voluntario de la responsabilidad, no incapacidad física, enfermedad o falta de empleo). La iglesia no debe patrocinar la pereza aprovechada."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 11,
+    "greek_text": "ἀκούομεν γάρ τινας περιπατοῦντας ἐν ὑμῖν ἀτάκτως, μηδὲν ἐργαζομένους ἀλλὰ περιεργαζομένους·",
+    "translation": "Porque oímos que algunos entre ustedes andan desordenadamente, sin trabajar en nada, sino entrometiéndose en todo.",
+    "translation_notes": "Brillante juego de palabras griego intraducible literalmente: μηδὲν ἐργαζομένους ἀλλὰ περιεργαζομένους («no trabajando en nada, sino sobre-trabajando en asuntos ajenos / curioseando de ociosos»)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 12,
+    "greek_text": "τοῖς δὲ τοιούτοις παραγγέλλομεν καὶ παρακαλοῦμεν ἐν κυρίῳ Ἰησοῦ Χριστῷ ἵνα μετὰ ἡσυχίας ἐργαζόμενοι τὸν ἑαυτῶν ἄρτον ἐσθίωσιν.",
+    "translation": "A los tales les mandamos y exhortamos en el Señor Jesucristo que, trabajando con tranquilidad, coman su propio pan.",
+    "translation_notes": "Exige combinar trabajo honesto y serenidad (μετὰ ἡσυχίας) para ganarse el propio sustento (τὸν ἑαυτῶν ἄρτον)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 13,
+    "greek_text": "ὑμεῖς δέ, ἀδελφοί, μὴ ἐγκακήσητε καλοποιοῦντες.",
+    "translation": "Y ustedes, hermanos, no se cansen de hacer el bien.",
+    "translation_notes": "Consejo equilibrado para los fieles que sí trabajan y ayudan: que el abuso de unos pocos ociosos no los vuelva cínicos ni los haga desistir de hacer el bien (καλοποιοῦντες)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 14,
+    "greek_text": "Εἰ δέ τις οὐχ ὑπακούει τῷ λόγῳ ἡμῶν διὰ τῆς ἐπιστολῆς, τοῦτον σημειοῦσθε, μὴ συναναμίγνυσθαι αὐτῷ, ἵνα ἐντραπῇ·",
+    "translation": "Si alguno no obedece nuestra palabra por medio de esta carta, a ese señálenlo y no se asocien con él, para que sienta vergüenza;",
+    "translation_notes": "Disciplina restauradora: σημειοῦσθε («tómenle nota/identifíquenlo») y eviten la convivencia estrecha (μὴ συναναμίγνυσθαι) con el único fin de despertar su conciencia (ἵνα ἐντραπῇ)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 15,
+    "greek_text": "καὶ μὴ ὡς ἐχθρὸν ἡγεῖσθε, ἀλλὰ νουθετεῖτε ὡς ἀδελφόν.",
+    "translation": "pero no lo tengan por enemigo, sino amonéstenlo como a hermano.",
+    "translation_notes": "Límite amoroso de la disciplina eclesial: jamás tratarlo como enemigo (μὴ ὡς ἐχθρόν), sino exhortarlo con afecto fraternal (νουθετεῖτε ὡς ἀδελφόν)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 16,
+    "greek_text": "Αὐτὸς δὲ ὁ κύριος τῆς εἰρήνης δῴη ὑμῖν τὴν εἰρήνην διὰ παντὸς ἐν παντὶ τρόπῳ. ὁ κύριος μετὰ πάντων ὑμῶν.",
+    "translation": "Y el mismo Señor de la paz les dé siempre la paz de todas maneras. El Señor sea con todos ustedes.",
+    "translation_notes": "Bendición de paz integral en medio de conflictos internos y externos: διὰ παντὸς ἐν παντὶ τρόπῳ («en todo tiempo y de todo modo»)."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 17,
+    "greek_text": "Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου, ὅ ἐστιν σημεῖον ἐν πάσῃ ἐπιστολῇ· οὕτως γράφω.",
+    "translation": "El saludo es de mi propia mano, Pablo; esto es señal en toda carta mía; así escribo.",
+    "translation_notes": "Sello caligráfico anti-falsificación (en referencia directa a 2:2): después de dictar al amanuense, Pablo toma la pluma para escribir las últimas líneas con su letra característica."
+  },
+  {
+    "book": "2TH",
+    "chapter": 3,
+    "verse": 18,
+    "greek_text": "ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μετὰ πάντων ὑμῶν.",
+    "translation": "La gracia de nuestro Señor Jesucristo sea con todos ustedes.",
+    "translation_notes": "Bendición final inclusiva («con todos ustedes», incluyendo a los hermanos amonestados)."
+  }
+]

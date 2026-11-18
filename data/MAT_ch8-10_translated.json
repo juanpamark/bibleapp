@@ -1,0 +1,914 @@
+[
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 1,
+    "greek_text": "Καταβάντος δὲ αὐτοῦ ἀπὸ τοῦ ὄρους ἠκολούθησαν αὐτῷ ὄχλοι πολλοί.",
+    "translation": "Cuando Jesús bajó del monte, lo siguieron grandes multitudes.",
+    "translation_notes": "El descenso del monte y el inicio del ciclo de milagros: El genitivo absoluto Καταβάντος αὐτοῦ ἀπὸ τοῦ ὄρους marca la transición geográfica y teológica entre el magisterio de la palabra (el Sermón del Monte, caps. 5-7) y las obras de poder mesiánico (caps. 8-9). Si en el monte Jesús actuó como el Nuevo Moisés promulgando la justicia del Reino, al descender a la llanura se adentra en el valle del sufrimiento y la impureza humana para restaurar la creación. Las 'grandes multitudes' (ὄχλοι πολλοί) continúan acompañándolo fascinadas por su autoridad soberana."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 2,
+    "greek_text": "καὶ ἰδοὺ λεπρὸς προσελθὼν προσεκύνει αὐτῷ λέγων· Κύριε, ἐὰν θέλῃς δύνασαί με καθαρίσαι.",
+    "translation": "Y he aquí, se le acercó un leproso y se postró ante él, diciendo: «Señor, si quieres, puedes limpiarme».",
+    "translation_notes": "El leproso marginado y la súplica de fe: En la sociedad judía del siglo I, la lepra (hebreo tsara'at, término bíblico que abarcaba diversas afecciones cutáneas malignas infecciosas) conllevaba la muerte civil y la exclusión ritual absoluta (Lv 13:45-46; Nm 5:2-3): el afectado debía rasgar sus vestiduras, llevar el cabello suelto, cubrirse el rostro y gritar '¡Inmundo, inmundo!' manteniéndose a distancia de la población. El leproso quiebra el tabú y se aproxima a Jesús; el imperfecto προσεκύνει denota la proskynesis reverente de postración corporal. Su súplica no cuestiona el poder de Jesús (dúvasai, 'tienes el poder y la capacidad'), sino que apela con profunda sumisión a su sola voluntad soberana: ἐὰν θέλῃς ('si tú quieres'). Pide ser 'limpiado' (καθαρίσαι), vocablo técnico que abarca la sanidad biológica física y la reintegración cúltica a la comunión del pacto."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 3,
+    "greek_text": "καὶ ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ λέγων· Θέλω, καθαρίσθητι· καὶ εὐθέως ἐκαθαρίσθη αὐτοῦ ἡ λέπρα.",
+    "translation": "Y extendiendo la mano, Jesús lo tocó, diciendo: «Quiero; queda limpio». Y al instante su lepra quedó limpia.",
+    "translation_notes": "El contacto revolucionario y la transferencia de pureza: El gesto físico de Jesús es de un impacto teológico revolucionario: ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ ('extendiendo la mano, lo tocó'). Bajo la Torá sacerdotal, tocar a un leproso transmitía impureza ritual automática de primer grado (Lv 5:3). Sin embargo, en Jesús la santidad y pureza del Reino no son pasivas ni contaminables por la corrupción del pecado, sino activas y contagiosas: en lugar de contraer impureza, su toque irradia santidad y vida sanadora. Su palabra imperativa Θέλω, καθαρίσθητι ('Quiero; ¡sé limpio!') ejecuta de inmediato la restauración: el adverbio εὐθέως ('al instante') subraya la eficacia creadora de su voz divina."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 4,
+    "greek_text": "καὶ λέγει αὐτῷ ὁ Ἰησοῦς· Ὅρα μηδενὶ εἴπῃς, ἀλλὰ ὕπαγε σεαυτὸν δεῖξον τῷ ἱερεῖ, καὶ προσένεγκον τὸ δῶρον ὃ προσέταξεν Μωϋσῆς εἰς μαρτύριον αὐτοῖς.",
+    "translation": "Y Jesús le dijo: «Mira, no se lo digas a nadie; sino ve, muéstrate al sacerdote y presenta la ofrenda que ordenó Moisés, para testimonio a ellos».",
+    "translation_notes": "El secreto mesiánico y la confirmación sacerdotal: El mandato de silencio (Ὅρα μηδενὶ εἴπῃς, 'Mira que a nadie hables') previene el sensacionalismo popular que distorsionaría su misión redentora en un mesianismo político milagrerista. Jesús ordena cumplir escrupulosamente el protocolo legal de Levítico 14:1-32: presentarse ante el sacerdote en el Templo (δεῖξον τῷ ἱερεῖ) para que la autoridad levítica certifique pericialmente la curación y reciba las ofrendas ceremoniales prescritas (dos avecillas vivas, madera de cedro, grana e hisopo). La frase εἰς μαρτύριον αὐτοῖς ('para testimonio a ellos') significa que el informe sacerdotal oficial constituirá una prueba testimonial jurídica inapelable de que el Mesías purificador de Israel está operando en medio de ellos."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 5,
+    "greek_text": "Εἰσελθόντος δὲ αὐτοῦ εἰς Καφαρναοὺμ προσῆλθεν αὐτῷ ἑκατόνταρχος παρακαλῶν αὐτὸν",
+    "translation": "Al entrar Jesús en Capernaúm, se le acercó un centurión, rogándole con insistencia,",
+    "translation_notes": "El centurión romano en Capernaúm: Capernaúm, como puesto fronterizo aduanero y militar, albergaba una guarnición del ejército auxiliar de Herodes Antipas comandada por un ἑκατόνταρχος (hekatontarchos, centurión, oficial romano al mando de una centuria de 80 a 100 soldados). Este oficial gentil rompe las barreras étnicas y sociales del mundo grecorromano: se acerca personalmente a un maestro judío y le ruega con insistencia (παρακαλῶν)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 6,
+    "greek_text": "καὶ λέγων· Κύριε, ὁ παῖς μου βέβληται ἐν τῇ οἰκίᾳ παραλυτικός, δεινῶς βασανιζόμενος.",
+    "translation": "y diciendo: «Señor, mi siervo está postrado en cama en casa, paralítico, sufriendo terribles dolores».",
+    "translation_notes": "La aflicción del siervo del centurión: El centurión se dirige a Jesús con el vocativo reverente Κύριε ('Señor'). Intercede por su παῖς (pais, término afectuoso que puede designar a un hijo joven o a un siervo/esclavo doméstico muy querido). El participio perfecto pasivo βέβληται (de βάλλω, 'ha sido arrojado / yace postrado') describe la postración absoluta de una parálisis severa. El participio δεινῶς βασανιζόμενος (de βασανίζω, atormentar, torturar) revela que la patología iba acompañada de espasmos y dolores atroces."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 7,
+    "greek_text": "καὶ λέγει αὐτῷ· Ἐγὼ ἐλθὼν θεραπεύσω αὐτόν.",
+    "translation": "Jesús le dijo: «Yo iré y lo sanaré».",
+    "translation_notes": "La disposición de Jesús a cruzar el umbral gentil: La respuesta de Jesús, Ἐγὼ ἐλθὼν θεραπεύσω αὐτόν (con el pronombre enfático Ἐγώ), manifiesta su inmediata disposición a acudir personalmente a la casa del oficial. Para un judío observante, ingresar bajo el techo de un gentil implicaba incurrir en impureza ritual (cf. Hch 10:28; Jn 18:28); Jesús derriba sin vacilación esa barrera segregacionista ante el clamor de la necesidad."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 8,
+    "greek_text": "καὶ ἀποκριθεὶς ὁ ἑκατόνταρχος ἔφη· Κύριε, οὐκ εἰμὶ ἱκανὸς ἵνα μου ὑπὸ τὴν στέγην εἰσέλθῃς· ἀλλὰ μόνον εἰπὲ λόγῳ, καὶ ἰαθήσεται ὁ παῖς μου·",
+    "translation": "Pero el centurión, respondiendo, dijo: «Señor, no soy digno de que entres bajo mi techo; solamente di la palabra y mi siervo será sanado.",
+    "translation_notes": "La confesión de indignidad y la fe en la palabra creadora: La respuesta del centurión destila una humildad sobrecogedora: οὐκ εἰμὶ ἱκανός ('no soy digno / merecedor de tal honor'). Consciente de las leyes de pureza judías y de su condición de gentil pecador, ruega a Jesús que no se exponga a la censura social entrando en su casa (ὑπὸ τὴν στέγην). Su fe vislumbra una verdad cósmica: el poder del Mesías no está limitado por la proximidad física o el contacto manual; basta un mandato verbal a distancia: ἀλλὰ μόνον εἰπὲ λόγῳ ('tan solo pronuncia una palabra por mandato'), y la curación se consumará en el acto (καὶ ἰαθήσεται)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 9,
+    "greek_text": "καὶ γὰρ ἐγὼ ἄνθρωπός εἰμι ὑπὸ ἐξουσίαν, ἔχων ὑπ’ ἐμαυτὸν στρατιώτας, καὶ λέγω τούτῳ· Πορεύθητι, καὶ πορεύεται, καὶ ἄλλῳ· Ἔρχου, καὶ ἔρχεται, καὶ τῷ δούλῳ μου· Ποίησον τοῦτο, καὶ ποιεῖ.",
+    "translation": "Porque yo también soy hombre bajo autoridad, que tengo soldados bajo mis órdenes; y le digo a este: “Ve”, y va; y al otro: “Ven”, y viene; y a mi esclavo: “Haz esto”, y lo hace».",
+    "translation_notes": "La analogía de la jerarquía militar y la autoridad mesiánica: Como oficial del ejército romano, el centurión comprende intuitivamente la naturaleza del mando y la soberanía ejecutiva: él mismo es un hombre colocado bajo la cadena de mando imperial (ὑπὸ ἐξουσίαν) e investido a la vez con mando directo sobre sus subordinados legionarios. Un simple imperativo suyo ('Marcha', 'Ven', 'Ejecuta esto') se cumple sin dilación. Deduce genialmente que Jesús posee idéntica autoridad soberana sobre las fuerzas de la naturaleza, las enfermedades y el cosmos: la enfermedad es un súbdito que debe obedecer al instante la orden del Soberano celestial."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 10,
+    "greek_text": "ἀκούσας δὲ ὁ Ἰησοῦς ἐθαύμασεν καὶ εἶπεν τοῖς ἀκολουθοῦσιν· Ἀμὴν λέγω ὑμῖν, παρ’ οὐδενὶ τοσαύτην πίστιν ἐν τῷ Ἰσραὴλ εὗρον.",
+    "translation": "Al oírlo Jesús, quedó maravillado y dijo a los que lo seguían: «En verdad les digo que en nadie en Israel he hallado una fe tan grande.",
+    "translation_notes": "El asombro de Jesús ante la fe del gentil: El verbo ἐθαύμασεν (aoristo de θαυμάζω, maravillarse con asombro) solo se aplica a Jesús dos veces en los Evangelios: aquí ante la extraordinaria fe de un centurión gentil, y en Marcos 6:6 ante la incredulidad obstinada de sus compatriotas de Nazaret. Con la fórmula de máxima certidumbre Ἀμὴν λέγω ὑμῖν, contrasta la perspicacia espiritual de este militar pagano frente a la ceguera general del pueblo del pacto: παρ’ οὐδενὶ τοσαύτην πίστιν ἐν τῷ Ἰσραὴλ εὗρον ('en nadie dentro de Israel he encontrado tanta fe')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 11,
+    "greek_text": "λέγω δὲ ὑμῖν ὅτι πολλοὶ ἀπὸ ἀνατολῶν καὶ δυσμῶν ἥξουσιν καὶ ἀνακλιθήσονται μετὰ Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακὼβ ἐν τῇ βασιλείᾳ τῶν οὐρανῶν·",
+    "translation": "Y les digo que vendrán muchos del oriente y del occidente, y se sentarán a la mesa con Abraham, Isaac y Jacob en el reino de los cielos;",
+    "translation_notes": "El banquete escatológico universal con los patriarcas: Jesús profetiza la masiva conversión e incorporación de los gentiles a la mesa de la salvación de Dios (cumpliendo Is 49:6; 60:3-4; Mal 1:11). Procederán de los cuatro puntos cardinales (ἀπὸ ἀνατολῶν καὶ δυσμῶν). El verbo ἀνακλιθήσονται (futuro pasivo de ἀνακλίνω, reclinarse a la mesa en el triclinio ceremonial) alude a la gran fiesta de bodas del banquete mesiánico escatológico compartiendo mesa y comunión de pacto con los venerables patriarcas de Israel: Abraham, Isaac y Jacob."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 12,
+    "greek_text": "οἱ δὲ υἱοὶ τῆς βασιλείας ἐκβληθήσονται εἰς τὸ σκότος τὸ ἐξώτερον· ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων.",
+    "translation": "pero los hijos del reino serán arrojados a las tinieblas de afuera; allí será el llanto y el crujir de dientes».",
+    "translation_notes": "La inversión trágica y las tinieblas exteriores: La expresión semítica οἱ υἱοὶ τῆς βασιλείας ('los hijos del reino') designa a los herederos naturales por nacimiento genealógico: los israelitas circuncisos que presumían tener asegurada la salvación por ser linaje de Abraham. Jesús pronuncia una advertencia aterradora: si rechazan la fe mesiánica, serán arrojados fuera (ἐκβληθήσονται, pasivo divino). El destino es τὸ σκότος τὸ ἐξώτερον ('la oscuridad exterior', las tinieblas gélidas fuera de la sala nupcial resplandeciente del banquete). La frase fija ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων ('el llanto y el crujir de dientes', repetida seis veces en Mateo: 8:12; 13:42, 50; 22:13; 24:51; 25:30) describe el desgarro de la desesperación irreparable, el dolor inconsolable y el remordimiento furioso de la condenación eterna."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 13,
+    "greek_text": "καὶ εἶπεν ὁ Ἰησοῦς τῷ ἑκατοντάρχῃ· Ὕπαγε, ὡς ἐπίστευσας γενηθήτω σοι· καὶ ἰάθη ὁ παῖς ἐν τῇ ὥρᾳ ἐκείνῃ.",
+    "translation": "Y Jesús dijo al centurión: «Ve, y como creíste, te sea hecho». Y el siervo fue sanado en aquella misma hora.",
+    "translation_notes": "La curación a distancia y la simultaneidad temporal: Jesús despide al oficial ratificando la correlación entre fe y manifestación del poder divino: ὡς ἐπίστευσας γενηθήτω σοι ('conforme a lo que creíste, hágase para ti'). Mateo constata la simultaneidad cronológica milagrosa: καὶ ἰάθη ὁ παῖς ἐν τῇ ὥρᾳ ἐκείνῃ ('y el siervo quedó sano en aquella misma hora / en ese mismísimo instante')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 14,
+    "greek_text": "Καὶ ἐλθὼν ὁ Ἰησοῦς εἰς τὴν οἰκίαν Πέτρου εἶδεν τὴν πενθερὰν αὐτοῦ βεβλημένην καὶ πυρέσσουσαν·",
+    "translation": "Y viniendo Jesús a la casa de Pedro, vio a la suegra de este postrada en cama y ardiendo con fiebre.",
+    "translation_notes": "En la casa de Pedro y la suegra enferma: Las excavaciones arqueológicas en Capernaúm han sacado a la luz la estructura de basalto negro identificada desde el siglo I como la domus-ecclesia de Pedro, a escasos metros de la sinagoga. El texto atestigua que Simón Pedro era un hombre casado (su suegra, πενθερά; cf. 1Co 9:5). La mujer yacía postrada (βεβλημένην) aquejada de fiebre alta (πυρέσσουσαν)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 15,
+    "greek_text": "καὶ ἥψατο τῆς χειρὸς αὐτῆς, καὶ ἀφῆκεν αὐτὴν ὁ πυρετός, καὶ ἠγέρθη καὶ διηκόνει αὐτῷ.",
+    "translation": "Y le tocó la mano, y la fiebre la dejó; y ella se levantó y le servía.",
+    "translation_notes": "El toque compasivo y el servicio inmediato: Jesús toca suavemente la mano de la anciana enferma (ἥψατο τῆς χειρὸς αὐτῆς). La fiebre desaparece al instante (ἀφῆκεν αὐτήν). A diferencia de una recuperación biológica convaleciente ordinaria que deja al paciente débil durante días, la sanidad es instantánea y perfecta: ella se incorpora (ἠγέρθη) y se pone a servirles la comida (διηκόνει αὐτῷ, imperfecto que describe una hospitalidad gozosa)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 16,
+    "greek_text": "Ὀψίας δὲ γενομένης προσήνεγκαν αὐτῷ δαιμονιζομένους πολλούς· καὶ ἐξέβαλεν τὰ πνεύματα λόγῳ, καὶ πάντας τοὺς κακῶς ἔχοντας ἐθεράπευσεν·",
+    "translation": "Y al atardecer, le trajeron muchos endemoniados; y expulsó a los espíritus con una sola palabra, y sanó a todos los que estaban enfermos;",
+    "translation_notes": "Liberaciones multitudinarias al caer el sol: El genitivo Ὀψίας γενομένης ('al atardecer') marca el fin formal del descanso sabático (tras la puesta del sol con la aparición de las tres primeras estrellas), momento en que la población judía podía transportar enfermos en camillas sin violar las normas rabínicas del Shabat. Jesús expulsa las legiones demoníacas con sola su palabra soberana (λόγῳ), sin recurrir a rituales mágicos, amuletos o exorcismos supersticiosos de la época, y sana la totalidad de los enfermos (πάντας ἐθεράπευσεν)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 17,
+    "greek_text": "ὅπως πληρωθῇ τὸ ῥηθὲν διὰ Ἠσαΐου τοῦ προφήτου λέγοντος· Αὐτὸς τὰς ἀσθενείας ἡμῶν ἔλαβεν καὶ τὰς νόσους ἐβάστασεν.",
+    "translation": "para que se cumpliera lo dicho por medio del profeta Isaías, cuando dijo: «Él mismo tomó nuestras flaquezas y cargó con nuestras enfermedades».",
+    "translation_notes": "Cita del Siervo Sufriente en Isaías 53:4: Mateo traduce con independencia del griego de la Septuaginta, acercándose directamente al texto masorético hebreo de Isaías 53:4 (אָכֵן חֳלָיֵנוּ הוּא נָשָׂא וּמַכְאֹבֵינוּ סְבָלָם). Mateo interpreta el ministerio de sanidades de Jesús no como una demostración mágica de poder triunfalista distante, sino como la acción vicaria del Siervo de Yahvé: Jesús 'tomó' (ἔλαβεν) y 'cargó sobre sí' (ἐβάστασεν, de βαστάζω, llevar como carga pesada sobre los propios hombros) el dolor, las enfermedades y la miseria humana, anticipando su desenlace redentor en la cruz del Calvario."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 18,
+    "greek_text": "Ἰδὼν δὲ ὁ Ἰησοῦς πολλοὺς ὄχλους περὶ αὐτὸν ἐκέλευσεν ἀπελθεῖν εἰς τὸ πέραν.",
+    "translation": "Viendo Jesús muchas multitudes alrededor de él, dio orden de cruzar hacia la otra orilla.",
+    "translation_notes": "Orden de cruzar al otro lado del lago: Para evitar la concentración idolátrica y el desborde multitudinario que entorpecería la proclamación de la palabra, Jesús ordena zarpar hacia 'la otra orilla' (εἰς τὸ πέραν), es decir, la costa oriental y suroriental del lago, predominantemente pagana y no judía."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 19,
+    "greek_text": "καὶ προσελθὼν εἷς γραμματεὺς εἶπεν αὐτῷ· Διδάσκαλε, ἀκολουθήσω σοι ὅπου ἐὰν ἀπέρχῃ.",
+    "translation": "Y acercándose un escriba, le dijo: «Maestro, te seguiré adondequiera que vayas».",
+    "translation_notes": "El compromiso impulsivo de un letrado: La aparición de un γραμματεύς (escriba, teólogo e intérprete profesional de la ley) dispuesto a seguir a Jesús es inusual, pues este estamento solía oponérsele con acritud. Le llama con el título respetuoso Διδάσκαλε ('Maestro', traducción de Rabbí). Su promesa es absoluta y desbordante: ἀκολουθήσω σοι ὅπου ἐὰν ἀπέρχῃ ('te seguiré a cualquier parte adonde vayas')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 20,
+    "greek_text": "καὶ λέγει αὐτῷ ὁ Ἰησοῦς· Αἱ ἀλώπεκες φωλεοὺς ἔχουσιν καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατασκηνώσεις, ὁ δὲ υἱὸς τοῦ ἀνθρώπου οὐκ ἔχει ποῦ τὴν κεφαλὴν κλίνῃ.",
+    "translation": "Jesús le dijo: «Las zorras tienen madrigueras y las aves del cielo tienen nidos, pero el Hijo del Hombre no tiene dónde reclinar la cabeza».",
+    "translation_notes": "El costo del discipulado y el primer uso de 'Hijo del Hombre': Jesús no halaga al candidato ni facilita su adhesión; le advierte de la precariedad física e intemperie del seguimiento mesiánico. Mientras los animales silvestres más comunes de Palestina poseen cobijo seguro (las zorras, φωλεούς; y las aves, κατασκηνώσεις), el Mesías vive en constante despojo itinerante. Aparece aquí por primera vez en Mateo el título cristológico predilecto de Jesús: ὁ υἱὸς τοῦ ἀνθρώπου ('el Hijo del Hombre', arameo Bar Enash), título enigmático que por un lado subraya su fragilidad e identificación con la debilidad de la condición humana terrenal, y por otro evoca la figura gloriosa de Daniel 7:13-14: el ser celestial que viene en las nubes para recibir el reino eterno de manos del Anciano de Días."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 21,
+    "greek_text": "ἕτερος δὲ τῶν μαθητῶν εἶπεν αὐτῷ· Κύριε, ἐπίτρεψόν μοι πρῶτον ἀπελθεῖν καὶ θάψαι τὸν πατέρα μου.",
+    "translation": "Otro de los discípulos le dijo: «Señor, permíteme que vaya primero a sepultar a mi padre».",
+    "translation_notes": "El deber sagrado filial frente a la urgencia del Reino: En la piedad semítica y el mandamiento de honrar a los progenitores (Éx 20:12), sepultar al padre constituía el deber filial más sagrado y perentorio de todos, postergando inclusive el estudio de la Torá y el culto litúrgico en el Templo. La petición de este discípulo podía referirse a atender a su padre moribundo hasta su muerte o a esperar el segundo entierro (ossilegium, cuando un año después se recolectaban los huesos secos para depositarlos en el osario). La expresión πρῶτον ('primero') delata su jerarquía interna de valores."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 22,
+    "greek_text": "ὁ δὲ Ἰησοῦς λέγει αὐτῷ· Ἀκολούθει μοι, καὶ ἄφες τοὺς νεκροὺς θάψαι τοὺς ἑαυτῶν νεκρούς.",
+    "translation": "Pero Jesús le dijo: «Sígueme, y deja que los muertos entierren a sus propios muertos».",
+    "translation_notes": "La radicalidad del llamamiento escatológico: La respuesta de Jesús corta con dureza proverbial: ἄφες τοὺς νεκροὺς θάψαι τοὺς ἑαυτῶν νεκρούς ('deja que los muertos entierren a sus muertos'). El primer término 'muertos' tiene valor espiritual metafórico: aquellos que están espiritualmente muertos y ajenos a la vida del Reino de los cielos pueden encargarse de los ritos funerarios de los muertos biológicos. Ante la irrupción histórica del Reino, la proclamación de la vida exige una prioridad absoluta e impostergable que relativiza aun las obligaciones sociales más vinculantes del orden terrenal."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 23,
+    "greek_text": "Καὶ ἐμβάντι αὐτῷ εἰς πλοῖον ἠκολούθησαν αὐτῷ οἱ μαθηταὶ αὐτοῦ.",
+    "translation": "Y cuando Jesús subió a la barca, sus discípulos lo siguieron.",
+    "translation_notes": "El seguimiento en la travesía marina: El participio dativo ἐμβάντι ('habiendo subido a bordo') marca a Jesús como el líder que encabeza la marcha. El verbo ἀκολουθέω ('seguir') se emplea aquí con deliberada carga teológica: los discípulos siguen a su Señor hacia el corazón de la tempestad en el mar, prefigurando la marcha de la comunidad eclesial a través de las tribulaciones del mundo."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 24,
+    "greek_text": "καὶ ἰδοὺ σεισμὸς μέγας ἐγένετο ἐν τῇ θαλάσσῃ, ὥστε τὸ πλοῖον καλύπτεσθαι ὑπὸ τῶν κυμάτων, αὐτὸς δὲ ἐκάθευδεν.",
+    "translation": "Y he aquí, se levantó en el mar una tempestad tan violenta que las olas cubrían la barca; pero él dormía profundamente.",
+    "translation_notes": "El seísmo marino y el sueño de Jesús: El sustantivo σεισμὸς μέγας (literalmente 'un gran terremoto o conmoción cósmica') es empleado únicamente por Mateo para calificar el temporal marítimo (Marcos y Lucas usan lailaps, torbellino de viento). La geografía del Mar de Galilea, situado en una profunda depresión tectónica flanqueada por desfiladeros, propicia repentinos vendavales feroces que abaten el agua en olas descomunales que cubren la nave (ὥστε τὸ πλοῖον καλύπτεσθαι). En medio del caos amenazante, el contraste es de una sublime serenidad teológica: αὐτὸς δὲ ἐκάθευδεν ('pero él dormía'), manifestando la perfecta paz de una comunión inquebrantable con el Padre (cf. Sal 3:5; 4:8) y su plena humanidad fatigada."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 25,
+    "greek_text": "καὶ προσελθόντες ἤγειραν αὐτὸν λέγοντες· Κύριε, σῶσον, ἀπολλύμεθα.",
+    "translation": "Y acercándose, lo despertaron, diciendo: «¡Señor, sálvanos, que perecemos!».",
+    "translation_notes": "El clamor litúrgico de auxilio: El grito de los discípulos aterrados adopta el lenguaje litúrgico y soteriológico del creyente en crisis extrema: Κύριε, σῶσον, ἀπολλύμεθα ('¡Señor, sálvanos, nos estamos perdiendo / pereciendo!'). El verbo σῴζω posee doble significado: el rescate físico inminente de las aguas y la salvación escatológica eterna del juicio."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 26,
+    "greek_text": "καὶ λέγει αὐτοῖς· Τί δειλοί ἐστε, ὀλιγόπιστοι; τότε ἐγερθεὶς ἐπετίμησεν τοῖς ἀνέμοις καὶ τῇ θαλάσσῃ, καὶ ἐγένετο γαλήνη μεγάλη.",
+    "translation": "Él les dijo: «¿Por qué están temerosos, hombres de poca fe?». Entonces, levantándose, reprendió a los vientos y al mar, y se produjo una gran calma.",
+    "translation_notes": "La reprensión de los elementos cósmicos: Antes de calmar las olas exteriores, Jesús sosiega el pánico interior de sus discípulos interpelándolos con su término característico ὀλιγόπιστοι ('hombres de escasa fe'). El miedo cobarde (δειλοί) delata que olvidaron que el Creador mismo viajaba con ellos en la barca. Incorporándose con majestad soberana, increpa a los vientos y al mar mediante el verbo ἐπετίμησεν (aoristo de ἐπιτιμάω, reprender con autoridad de señorío, el mismo verbo utilizado para reprender a los demonios). Las aguas caóticas (símbolo del abismo hostil en el Antiguo Testamento; cf. Sal 89:9; 107:29) se someten al instante: ἐγένετο γαλήνη μεγάλη ('aconteció una gran bonanza / calma absoluta')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 27,
+    "greek_text": "οἱ δὲ ἄνθρωποι ἐθαύμασαν λέγοντες· Ποταπός ἐστιν οὗτος ὅτι καὶ οἱ ἄνεμοι καὶ ἡ θάλασσα αὐτῷ ὑπακούουσιν;",
+    "translation": "Y los hombres quedaron atónitos de asombro, diciendo: «¿Qué clase de hombre es este, que aun los vientos y el mar le obedecen?».",
+    "translation_notes": "La pregunta ontológica sobre la identidad de Jesús: El adjetivo interrogativo Ποταπός (potapos, '¿de qué estirpe, linaje o naturaleza es este?') expresa el pavor sagrado del auditorio. En la teología de las Escrituras de Israel, dominar el furor del mar embravecido y aquietar sus olas es prerrogativa exclusiva e inalienable de Yahvé, Creador de los mares (Sal 65:7; 89:9; 107:29-30). Al someter las fuerzas cósmicas con su sola voz, Jesús devela su soberanía divina encarnada."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 28,
+    "greek_text": "Καὶ ἐλθόντος αὐτοῦ εἰς τὸ πέραν εἰς τὴν χώραν τῶν Γαδαρηνῶν ὑπήντησαν αὐτῷ δύο δαιμονιζόμενοι ἐκ τῶν μνημείων ἐξερχόμενοι, χαλεποὶ λίαν ὥστε μὴ ἰσχύειν τινὰ παρελθεῖν διὰ τῆς ὁδοῦ ἐκείνης.",
+    "translation": "Cuando llegó a la otra orilla, a la región de los gadarenos, salieron a su encuentro desde los sepulcros dos endemoniados, extremadamente furiosos y violentos, de tal manera que nadie podía pasar por aquel camino.",
+    "translation_notes": "Los dos endemoniados de Gadara y el territorio pagano: La comarca de Gadara (capital de distrito helenístico de la Decápolis, cerca de Gergasa/Kursi en la costa oriental) era tierra de gentiles. Mateo menciona con precisión a 'dos endemoniados' (δύο δαιμονιζόμενοι), mientras Marcos y Lucas se concentran en el portavoz principal (Legión). Habitaban en las cuevas sepulcrales excavadas en la roca (ἐκ τῶν μνημείων), lugar de impureza ritual cadavérica máxima (Nm 19:16) y refugio de espíritus inmundos. Su ferocidad era incontrolable: χαλεποὶ λίαν ('extremadamente salvajes, peligrosos e intratables'), habiendo clausurado por el terror el tránsito por aquella calzada."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 29,
+    "greek_text": "καὶ ἰδοὺ ἔκραξαν λέγοντες· Τί ἡμῖν καὶ σοί, υἱὲ τοῦ θεοῦ; ἦλθες ὧδε πρὸ καιροῦ βασανίσαι ἡμᾶς;",
+    "translation": "Y he aquí, gritaron diciendo: «¿Qué tenemos que ver contigo, Hijo de Dios? ¿Has venido aquí antes del tiempo señalado para atormentarnos?».",
+    "translation_notes": "El reconocimiento demoníaco y el juicio escatológico: Los demonios reconocen de inmediato la majestad y divinidad de su vencedor, llamándolo con su título exacto: υἱὲ τοῦ θεοῦ ('Hijo de Dios'). El modismo semítico Τί ἡμῖν καὶ σοί (Mah-lanu wa-lak; cf. Jue 11:12; 1R 17:18) expresa oposición irreconciliable: '¿Qué conflicto tienes con nosotros?'. La pregunta πρὸ καιροῦ βασανίσαι ἡμᾶς ('¿has venido antes de tiempo a atormentarnos?') es de enorme trascendencia escatológica: los espíritus malignos conocen la teología del juicio y saben que están destinados a la perdición en el lago de fuego en el fin del siglo (el καιρός); la presencia anticipada de Jesús en Galilea inaugura el comienzo del desmantelamiento de su tiranía antes del día final."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 30,
+    "greek_text": "ἦν δὲ μακρὰν ἀπ’ αὐτῶν ἀγέλη χοίρων πολλῶν βοσκομένη.",
+    "translation": "Estaba paciendo a cierta distancia de ellos una gran piara de cerdos.",
+    "translation_notes": "La piara de cerdos y el contexto gentil: La presencia de una piara numerosa de cerdos (ἀγέλη χοίρων πολλῶν) confirma de manera irrefutable que el escenario geográfico es netamente gentil pagano (la Decápolis), pues la crianza de ganado porcino estaba estrictamente proscrita en territorio judío por las leyes de pureza alimentaria levíticas (Lv 11:7-8; Dt 14:8)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 31,
+    "greek_text": "οἱ δὲ δαίμονες παρεκάλουν αὐτὸν λέγοντες· Εἰ ἐκβάλλεις ἡμᾶς, ἀπόστειλον ἡμᾶς εἰς τὴν ἀγέλην τῶν χοίρων.",
+    "translation": "Y los demonios le rogaban con insistencia, diciendo: «Si nos vas a expulsar, envíanos a la piara de cerdos».",
+    "translation_notes": "La súplica sumisa de los espíritus malignos: El imperfecto παρεκάλουν ('le rogaban suplicantes') evidencia la total subordinación de las fuerzas demoníacas ante el mandato de Cristo. Desprovistos de poder autónomo, suplican autorización para ingresar en los animales inmundos afines a su naturaleza corruptora."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 32,
+    "greek_text": "καὶ εἶπεν αὐτοῖς· Ὑπάγετε. οἱ δὲ ἐξελθόντες ἀπῆλθον εἰς τοὺς χοίρους· καὶ ἰδοὺ ὥρμησεν πᾶσα ἡ ἀγέλη κατὰ τοῦ κρημνοῦ εἰς τὴν θάλασσαν, καὶ ἀπέθανον ἐν τοῖς ὕδασιν.",
+    "translation": "Jesús les dijo: «Vayan». Y ellos, saliendo, se fueron a los cerdos; y he aquí, toda la piara se precipitó desbocada por el despeñadero hacia el mar, y murieron en las aguas.",
+    "translation_notes": "La orden soberana y la estampida fatal: Jesús emite una sola palabra imperativa de expulsión: Ὑπάγετε ('¡Vayan!'). La consecuencia es inmediata y caótica: el influjo satánico desata una estampida frenética (ὥρμησεν, de ὁρμάω, precipitarse violentamente) por el acantilado escarpado (κατὰ τοῦ κρημνοῦ) hacia las aguas del lago, pereciendo ahogados. El episodio demuestra la naturaleza destructiva del poder demoníaco, cuyo fin último es siempre la aniquilación y la muerte, y resalta el valor supremo e infinito de una sola alma humana liberada por encima de cualquier interés económico material."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 33,
+    "greek_text": "οἱ δὲ βόσκοντες ἔφυγον, καὶ ἀπελθόντες εἰς τὴν πόλιν ἀπήγγειλαν πάντα καὶ τὰ τῶν δαιμονιζομένων.",
+    "translation": "Y los que los apacentaban huyeron; y yendo a la ciudad, relataron todas las cosas, incluso lo ocurrido a los endemoniados.",
+    "translation_notes": "El pánico de los porquerizos y el testimonio cívico: Los cuidadores de la piara huyen despavoridos ante la hecatombe económica y la manifestación de un poder sobrenatural descomunal. Al llegar a la urbe cívica de Gadara, comunican el doble impacto: la ruina material del rebaño y la liberación milagrosa de los dos hombres que aterrorizaban la comarca (τὰ τῶν δαιμονιζομένων)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 8,
+    "verse": 34,
+    "greek_text": "καὶ ἰδοὺ πᾶσα ἡ πόλις ἐξῆλθεν εἰς ὑπάντησιν τῷ Ἰησοῦ, καὶ ἰδόντες αὐτὸν παρεκάλεσαν ὅπως μεταβῇ ἀπὸ τῶν ὁρίων αὐτῶν.",
+    "translation": "Y he aquí, toda la ciudad salió al encuentro de Jesús; y al verlo, le rogaron con insistencia que se marchara de sus territorios.",
+    "translation_notes": "El rechazo colectivo de la ciudad gentil: Toda la población urbana sale en cortejo (εἰς ὑπάντησιν) no para aclamar al Libertador divino, sino sobrecogida por el temor y por el cálculo económico de sus pérdidas patrimoniales. Prefirieron la tranquilidad de su negocio porcino a la presencia santa del Hijo de Dios, rogándole unánimemente que abandonara sus fronteras (ὅπως μεταβῇ ἀπὸ τῶν ὁρίων αὐτῶν). Jesús, respetando el libre albedrío y el rechazo humano, se retira en silencio sin forzar su presencia."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 1,
+    "greek_text": "Καὶ ἐμβὰς εἰς πλοῖον διεπέρασεν καὶ ἦλθεν εἰς τὴν ἰδίαν πόλιν.",
+    "translation": "Subiendo Jesús a una barca, cruzó a la otra orilla y llegó a su propia ciudad.",
+    "translation_notes": "Retorno a Capernaúm, 'su propia ciudad': Jesús abandona la región gentil de Gadara tras el rechazo de sus habitantes y regresa por vía marítima a la ribera noroccidental. El sintagma τὴν ἰδίαν πόλιν ('su propia ciudad') designa formalmente a Capernaúm (cf. Mt 4:13), convertida en la sede operativa y residencia permanente de su ministerio mesiánico en Galilea."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 2,
+    "greek_text": "Καὶ ἰδοὺ προσέφερον αὐτῷ παραλυτικὸν ἐπὶ κλίνης βεβλημένον. καὶ ἰδὼν ὁ Ἰησοῦς τὴν πίστιν αὐτῶν εἶπεν τῷ παραλυτικῷ· Θάρσει, τέκνον· ἀφίενταί σου αἱ ἁμαρτίαι.",
+    "translation": "Y he aquí, le trajeron un paralítico postrado en una camilla. Y viendo Jesús la fe de ellos, dijo al paralítico: «¡Ten ánimo, hijo!; tus pecados te son perdonados».",
+    "translation_notes": "La fe comunitaria y el perdón de los pecados: El relato introduce a un hombre con parálisis total postrado en una camilla portátil (ἐπὶ κλίνης βεβλημένον). Jesús percibe con mirada divina τὴν πίστιν αὐτῶν ('la fe de ellos', la fe activa, audaz e intercesora de los amigos que lo cargaron). El imperativo paternal Θάρσει, τέκνον ('¡Cobra ánimo, hijo / ten confianza, hijo mío!') infunde paz interior. La declaración verbal ἀφίενταί σου αἱ ἁμαρτίαι (presente pasivo divino: 'tus pecados te quedan perdonados por Dios') penetra en la raíz más profunda de la miseria humana: antes de restaurar la movilidad física de las piernas, Jesús otorga la reconciliación del alma con Dios, revelando que la sanidad integral del Reino comienza con la remisión de la culpa moral."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 3,
+    "greek_text": "καὶ ἰδού τινες τῶν γραμματέων εἶπαν ἐν ἑαυτοῖς· Οὗτος βλασφημεῖ.",
+    "translation": "Y he aquí, algunos de los escribas se dijeron dentro de sí mismos: «Este hombre blasfema».",
+    "translation_notes": "La acusación de blasfemia teológica: Los escribas (γραμματεῖς), guardianes profesionales de la ortodoxia legal, detectan de inmediato la colosal implicación teológica de las palabras de Jesús. En el judaísmo bíblico estricto (Is 43:25; Sal 103:3), perdonar pecados es prerrogativa inalienable y exclusiva del Dios soberano; que un ser humano común pretenda absolver pecados en nombre propio constituía una usurpación sacrílega de la majestad de Yahvé (βλασφημία, blasfemia digna de muerte bajo Lv 24:16)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 4,
+    "greek_text": "καὶ εἰδὼς ὁ Ἰησοῦς τὰς ἐνθυμήσεις αὐτῶν εἶπεν· Ἱνατί ἐνθυμεῖσθε πονηρὰ ἐν ταῖς καρδίαις ὑμῶν;",
+    "translation": "Y conociendo Jesús los pensamientos y deliberaciones íntimas de ellos, dijo: «¿Por qué traman pensamientos perversos en sus corazones?",
+    "translation_notes": "La omnisciencia de Jesús sobre el corazón: El participio εἰδώς ('conociendo plenamente') revela el atributo divino de escudriñar la mente y el corazón humano (kardiognōstēs; cf. 1S 16:7; Sal 139:1-2; Jer 17:10). Jesús confronta directamente las ἐνθυμήσεις (los razonamientos secretos e íntimos de los letrados), calificando su juicio malicioso de πονηρά ('perversos / malignos') por negarse a reconocer la irrupción de la gracia salvífica."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 5,
+    "greek_text": "τί γάρ ἐστιν εὐκοπώτερον, εἰπεῖν· Ἀφίενταί σου αἱ ἁμαρτίαι, ἢ εἰπεῖν· Ἔγειρε καὶ περιπάτει;",
+    "translation": "Porque, ¿qué es más fácil, decir: “Tus pecados te son perdonados”, o decir: “Levántate y camina”?",
+    "translation_notes": "El dilema dialéctico de Jesús: Jesús plantea un agudo dilema hermenéutico: desde la perspectiva humana superficial, es más fácil pronunciar la absolución invisible de pecados ('tus pecados te son perdonados'), pues nadie puede verificar empíricamente en el acto si la culpa ha sido cancelada en el cielo; ordenar a un paralítico conocido de todos que se levante y camine ('Levántate y anda') conlleva un riesgo público inmediato, pues el fracaso evidenciaría al instante la falsedad de la pretensión."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 6,
+    "greek_text": "ἵνα δὲ εἰδῆτε ὅτι ἐξουσίαν ἔχει ὁ υἱὸς τοῦ ἀνθρώπου ἐπὶ τῆς γῆς ἀφιέναι ἁμαρτίας— τότε λέγει τῷ παραλυτικῷ· Ἐγερθεὶς ἆρόν σου τὴν κλίνην καὶ ὕπαγε εἰς τὸν οἶκόν σου.",
+    "translation": "Pues para que sepan que el Hijo del Hombre tiene autoridad soberana en la tierra para perdonar pecados» —dice entonces al paralítico—: «¡Levántate, toma tu camilla y vete a tu casa!».",
+    "translation_notes": "La autoridad del Hijo del Hombre y la anacoluto oratorio: Jesús conecta lo visible con lo invisible: ejecuta el milagro físico visible como sello y garantía probatoria irrefutable de su autoridad divina invisible para perdonar pecados. Se autodenomina solemnemente ὁ υἱὸς τοῦ ἀνθρώπου ('el Hijo del Hombre'), reclamando la potestad celestial de Daniel 7:13-14 ejercida ahora activamente en el ámbito terrenal (ἐπὶ τῆς γῆς). La narración se interrumpe con un vívido anacoluto (quiebre sintáctico de transición dramática): Jesús se vuelve de los escribas hacia el enfermo y pronuncia tres imperativos categóricos de soberanía: Ἐγερθείς ('¡Levántate!'), ἆρον ('¡alza tu lecho!') e ὕπαγε ('¡marcha a tu hogar!')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 7,
+    "greek_text": "καὶ ἐγερθεὶς ἀπῆλθεν εἰς τὸν οἶκον αὐτοῦ.",
+    "translation": "Y él, levantándose, se fue a su casa.",
+    "translation_notes": "Obediencia motriz instantánea: El hombre antes paralizado se incorpora de inmediato (ἐγερθείς), carga sobre sus propios hombros la camilla que antes lo transportaba y camina ágilmente rumbo a su hogar, confirmando la recreación inmediata de nervios y masa muscular atrofiada."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 8,
+    "greek_text": "ἰδόντες δὲ οἱ ὄχλοι ἐφοβήθησαν καὶ ἐδόξασαν τὸν θεὸν τὸν δόντα ἐξουσίαν τοιαύτην τοῖς ἀνθρώποις.",
+    "translation": "Y las multitudes, al ver esto, quedaron sobrecogidas de reverente temor y glorificaron a Dios, que había dado semejante autoridad a los hombres.",
+    "translation_notes": "El temor reverente y la doxología popular: La reacción de la masa es el sobrecogimiento sagrado (ἐφοβήθησαν) ante la presencia de lo numinoso y la gloria tributada al Creador (ἐδόξασαν τὸν θεόν). Mateo formula teológicamente el impacto del evento: Dios ha conferido 'semejante autoridad a los hombres' (τὸν δόντα ἐξουσίαν τοιαύτην τοῖς ἀνθρώποις), prefigurando la autoridad mesiánica delegada que Jesús compartirá más adelante con su comunidad apostólica para atar y desatar, perdonar y retener pecados (cf. Mt 16:19; 18:18; Jn 20:23)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 9,
+    "greek_text": "Καὶ παράγων ὁ Ἰησοῦς ἐκεῖθεν εἶδεν ἄνθρωπον καθήμενον ἐπὶ τὸ τελώνιον, Μαθθαῖον λεγόμενον, καὶ λέγει αὐτῷ· Ἀκολούθει μοι· καὶ ἀναστὰς ἠκολούθησεν αὐτῷ.",
+    "translation": "Pasando Jesús de allí, vio a un hombre sentado en la caseta de cobro de impuestos, llamado Mateo, y le dijo: «Sígueme». Y él, levantándose, lo siguió.",
+    "translation_notes": "El llamamiento de Mateo el recaudador: Jesús divisa a un hombre en su puesto aduanero oficial: καθήμενον ἐπὶ τὸ τελώνιον (el telōnion, la mesa o aduana de peaje fiscal situada en Capernaúm para tasar las mercancías que transitaban por la Vía Maris). El hombre se llama Mateo (Μαθθαῖος, hebreo Mattityahu, 'Don de Yahvé'; en Mc 2:14 y Lc 5:27 llamado Leví). Los publicanos eran despreciados unánimemente en la sociedad judía como traidores a la patria, colaboradores serviles de la ocupación romana y ladrones ritualmente inmundos equiparados a rameras y gentiles. Jesús rompe todo prejuicio clasista y religioso: con el solo mandato imperativo Ἀκολούθει μοι ('¡Sígueme!'), Mateo abandona de inmediato un oficio financieramente lucrativo (ἀναστάς) para abrazar la pobreza del discipulado apostólico."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 10,
+    "greek_text": "Καὶ ἐγένετο αὐτοῦ ἀνακειμένου ἐν τῇ οἰκίᾳ, καὶ ἰδοὺ πολλοὶ τελῶναι καὶ ἁμαρτωλοὶ ἐλθόντες συνανέκειντο τῷ Ἰησοῦ καὶ τοῖς μαθηταῖς αὐτοῦ.",
+    "translation": "Y sucedió que estando Jesús reclinado a la mesa en la casa, he aquí, muchos recaudadores de impuestos y pecadores notorios vinieron y se reclinaron a la mesa con Jesús y sus discípulos.",
+    "translation_notes": "El banquete de gracia con publicanos y pecadores: El participio ἀνακειμένου (de ἀνάκειμαι) describe la postura formal de los comensales en un banquete festivo judío: recostados sobre divanes alrededor de una mesa baja (en la casa de Mateo; cf. Lc 5:29). La concurrencia alarma a los celadores de la pureza: τελῶναι καὶ ἁμαρτωλοί ('publicanos y pecadores', estos últimos personas excluidas de la sinagoga por oficios denigrantes o quebrantamiento público de la ley). En el mundo semítico antiguo, sentarse a comer juntos (συνανέκειντο) implicaba comunión íntima, aceptación mutua y establecimiento de un pacto de paz; Jesús comparte la mesa con los marginados, transformando la comida en un signo profético anticipado del banquete del Reino."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 11,
+    "greek_text": "καὶ ἰδόντες οἱ Φαρισαῖοι ἔλεγον τοῖς μαθηταῖς αὐτοῦ· Διὰ τί μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίει ὁ διδάσκαλος ὑμῶν;",
+    "translation": "Y al ver esto los fariseos, decían a sus discípulos: «¿Por qué come su maestro con los recaudadores de impuestos y pecadores?».",
+    "translation_notes": "La censura farisea sobre la comensalidad impura: Los fariseos (οἱ Φαρισαῖοι) consideraban la comensalidad con pecadores notorios como una flagrante violación de las reglas de santidad y pureza levítica que contaminaba moralmente al comensal. No se atreven a increpar directamente a Jesús; abordan a los discípulos para sembrar dudas sobre la integridad del Maestro (ὁ διδάσκαλος ὑμῶν)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 12,
+    "greek_text": "ὁ δὲ ἀκούσας εἶπεν· Οὐ χρείαν ἔχουσιν οἱ ἰσχύοντες ἰατροῦ ἀλλὰ οἱ κακῶς ἔχοντες.",
+    "translation": "Pero Jesús, oyéndolo, dijo: «Los que están sanos y fuertes no tienen necesidad de médico, sino los que están enfermos.",
+    "translation_notes": "La analogía médica del ministerio mesiánico: Jesús responde con una verdad médica de sentido común: οἱ ἰσχύοντες ('los robustos, sanos, fuertes') no requieren facultativo médico (ἰατρός), sino los que padecen dolencias (οἱ κακῶς ἔχοντες). Jesús define su identidad mesiánica no como un juez distante que segrega y castiga a los impuros, sino como el Médico divino de las almas que busca a los infectados por el virus del pecado para sanarlos mediante su gracia."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 13,
+    "greek_text": "πορευθέντες δὲ μάθετε τί ἐστιν· Ἔλεος θέλω καὶ οὐ θυσίαν· οὐ γὰρ ἦλθον καλέσαι δικαίους ἀλλὰ ἁμαρτωλούς.",
+    "translation": "Vayan, pues, y aprendan qué significa esto: “Misericordia quiero y no sacrificio”; porque no vine a llamar a justos, sino a pecadores».",
+    "translation_notes": "Cita programática de Oseas 6:6 y el llamamiento a los pecadores: Jesús envía a los maestros de la ley a la escuela de su propia Escritura con una fórmula rabínica correctiva mordaz: πορευθέντες μάθετε ('vayan y aprendan'). Cita Oseas 6:6: Ἔλεος θέλω καὶ οὐ θυσίαν ('Misericordia / amor leal [hesed] quiero, y no meros sacrificios rituales externos'). Dios prioriza la compasión activa redentora por encima de los escrúpulos ritualistas desprovistos de amor. La declaración culmina con el manifiesto fundacional de su encarnación: οὐ γὰρ ἦλθον καλέσαι δικαίους ἀλλὰ ἁμαρτωλούς ('no vine a convocar a los que se creen justos y autosuficientes, sino a los pecadores al banquete de la gracia')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 14,
+    "greek_text": "Τότε προσέρχονται αὐτῷ οἱ μαθηταὶ Ἰωάννου λέγοντες· Διὰ τί ἡμεῖς καὶ οἱ Φαρισαῖοι νηστεύομεν πολλά, οἱ δὲ μαθηταί σου οὐ νηστεύουσιν;",
+    "translation": "Entonces se le acercaron los discípulos de Juan, diciendo: «¿Por qué nosotros y los fariseos ayunamos con frecuencia, pero tus discípulos no ayunan?».",
+    "translation_notes": "La controversia sobre el ayuno con los discípulos del Bautista: Los discípulos de Juan el Bautista, imbuidos de una rigurosa piedad ascética (cf. Mt 3:4) y consternados por el encarcelamiento de su maestro bajo Herodes Antipas, practican ayunos frecuentes (νηστεύομεν πολλά, los lunes y jueves fijados por la tradición farisea). Perciben una incoherencia escandalosa en el movimiento de Jesús: mientras ellos y los fariseos se afligen en ayuno penitencial, la comunidad de Jesús se sienta a celebrar banquetes gozosos."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 15,
+    "greek_text": "καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· Μὴ δύνανται οἱ υἱοὶ τοῦ νυμφῶνος πενθεῖν ἐφ’ ὅσον μετ’ αὐτῶν ἐστιν ὁ νυμφίος; ἐλεύσονται δὲ ἡμέραι ὅταν ἀπαρθῇ ἀπ’ αὐτῶν ὁ νυμφίος, καὶ τότε νηστεύσουσιν.",
+    "translation": "Jesús les dijo: «¿Acaso pueden los invitados a la boda estar de duelo mientras el novio está con ellos? Pero vendrán días cuando el novio les será arrebatado, y entonces sí ayunarán.",
+    "translation_notes": "Jesús como el Esposo mesiánico y el primer anuncio implícito de la Pasión: Jesús responde con una metáfora nupcial de inmensa carga teológica: los discípulos son calificados como οἱ υἱοὶ τοῦ νυμφῶνος ('los hijos de la cámara nupcial', hebraísmo para los amigos íntimos del cortejo del novio que celebraban los siete días de regocijo matrimonial). En el Antiguo Testamento, el Esposo del pueblo del pacto es exclusivamente Yahvé (Is 54:5-6; Os 2:19-20); al identificarse a sí mismo como ὁ νυμφίος ('el Novio / Esposo'), Jesús asume la prerrogativa del Señor de Israel. La presencia encarnada del Mesías es un tiempo de fiesta escatológica ininterrumpida que hace absurdo el duelo (πενθεῖν). No obstante, proyecta una sombra profética sombría: el verbo pasivo ἀπαρθῇ (de ἀπαίρω, arrebatar con violencia, arrancar mediante la fuerza bruta) constituye la primera alusión velada de su violenta muerte en la cruz. Cuando el Esposo sea asesinado, sus discípulos ayunarán en sobria vigilia esperando su retorno."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 16,
+    "greek_text": "οὐδεὶς δὲ ἐπιβάλλει ἐπίβλημα ῥάκους ἀγνάφου ἐπὶ ἱματίῳ παλαιῷ· αἴρει γὰρ τὸ πλήρωμα αὐτοῦ ἀπὸ τοῦ ἱματίου, καὶ χεῖρον σχίσμα γίνεται.",
+    "translation": "Nadie pone un remiendo de paño nuevo y sin encoger en un manto viejo; porque el remiendo nuevo tira con fuerza del manto viejo y se produce una rotura peor.",
+    "translation_notes": "La parábola del remiendo nuevo y el manto viejo: La frase ῥάκος ἄγναφον denota un retazo de tela cruda, nueva, que aún no ha pasado por el proceso de batanado o lavado industrial. Si se cose sobre un manto viejo y desgastado (ἱμάτιον παλαιόν), al mojarse por la lluvia se encogerá inexorablemente, desgarrando los hilos quebradizos del tejido añejo y produciendo un desgarrón aún más grave (χεῖρον σχίσμα). El Reino de Dios inaugurado por Cristo no es un mero parche moral cosmético para reformar externamente las viejas estructuras caducas del judaísmo legalista."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 17,
+    "greek_text": "οὐδὲ βάλλουσιν οἶνον νέον εἰς ἀσκοὺς παλαιούς· εἰ δὲ μή γε, ῥήγνυνται οἱ ἀσκοί, καὶ ὁ οἶνος ἐκχεῖται καὶ οἱ ἀσκοὶ ἀπόλλυνται· ἀλλὰ βάλλουσιν οἶνον νέον εἰς ἀσκοὺς καινούς, καὶ ἀμφότεροι συντηροῦνται.",
+    "translation": "Ni tampoco se echa vino nuevo en odres viejos; de lo contrario, los odres se revientan, el vino se derrama y los odres se echan a perder; sino que se echa vino nuevo en odres nuevos, y ambos se conservan juntos».",
+    "translation_notes": "El vino nuevo y los odres nuevos: En la antigüedad, el vino se fermentaba y almacenaba en ἀσκοί (odres de cuero de cabra cosido). Un odre viejo ya había perdido su elasticidad, volviéndose quebradizo y rígido. Verter en él οἶνος νέος ('vino nuevo' en pleno proceso de fermentación activa) generaba gases de dióxido de carbono que reventaban el cuero reseco (ῥήγνυνται), perdiéndose irremediablemente el vino y el recipiente. El evangelio de la gracia mesiánica es una fuerza viva, fermentadora y dinámica que exige odres nuevos (ἀσκοὺς καινούς): corazones regenerados y estructuras comunitarias renovadas aptas para contener la plenitud del nuevo pacto."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 18,
+    "greek_text": "Ταῦτα αὐτοῦ λαλοῦντος αὐτοῖς ἰδοὺ ἄρχων εἷς ἐλθὼν προσεκύνει αὐτῷ λέγων ὅτι Ἡ θυγάτηρ μου ἄρτι ἐτελεύτησεν· ἀλλὰ ἐλθὼν ἐπίθες τὴν χεῖρά σου ἐπ’ αὐτήν, καὶ ζήσεται.",
+    "translation": "Mientras él les decía estas cosas, he aquí, vino un dignatario principal y se postró ante él, diciendo: «Mi hija acaba de morir; pero ven, pon tu mano sobre ella, y vivirá».",
+    "translation_notes": "La intercesión del dignatario y la fe en la resurrección: El término ἄρχων (designado en Mc 5:22 como Jairo, jefe de la sinagoga local) representa a un dignatario prominente de la élite religiosa judía. Rinde proskynesis de adoración ante Jesús (προσεκύνει αὐτῷ). Su angustia es extrema: su hija adolescente acaba de expirar (ἄρτι ἐτελεύτησεν). Su fe sobrepasa la muerte física: suplica la imposición de manos (ἐπίθες τὴν χεῖρά σου) con la convicción absoluta de que el toque de Jesús devolverá la vida biológica a su hija (καὶ ζήσεται)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 19,
+    "greek_text": "καὶ ἐγερθεὶς ὁ Ἰησοῦς ἠκολούθει αὐτῷ καὶ οἱ μαθηταὶ αὐτοῦ.",
+    "translation": "Y levantándose Jesús, lo siguió con sus discípulos.",
+    "translation_notes": "La prontitud pastoral de Jesús: Jesús se pone de pie al instante (ἐγερθείς) y se pone en marcha tras el padre angustiado (ἠκολούθει αὐτῷ), acompañado por el cortejo de sus discípulos."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 20,
+    "greek_text": "Καὶ ἰδοὺ γυνὴ αἱμορροοῦσα δώδεκα ἔτη προσελθοῦσα ὄπισθεν ἥψατο τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ·",
+    "translation": "Y he aquí, una mujer que padecía de flujo de sangre desde hacía doce años, acercándose por detrás, tocó el borde de su manto;",
+    "translation_notes": "La mujer con flujo de sangre y el fleco sagrado (kraspedon): El relato se intercala con el drama de una mujer αἱμορροοῦσα (aquejada de hemorragia uterina crónica durante doce años). Conforme a Levítico 15:25-30, un flujo de sangre continuo sumía a la mujer en impureza ritual perpetua: todo lo que tocaba quedaba inmundo, aislándola del culto del Templo y de todo contacto conyugal o social. Acercándose furtivamente por detrás entre la multitud, toca el κράσπεδον (kraspedon, traducción en la LXX del hebreo tsitsit; cf. Nm 15:38-39; Dt 22:12), los flecos o borlas rituales de hilo azul y blanco que los judíos devotos cosían en las cuatro esquinas de su manto exterior como memorial visible de los mandamientos de Dios. Su fe no era una superstición mágica, sino la convicción de que el poder sanador del Dios del pacto residía plenamente en el Mesías prometido (cf. Mal 4:2: 'nacerá el Sol de justicia, y en sus alas [kenafaim / bordes del manto] habrá sanidad')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 21,
+    "greek_text": "ἔλεγεν γὰρ ἐν ἑαυτῇ· Ἐὰν μόνον ἅψωμαι τοῦ ἱματίου αὐτοῦ σωθήσομαι.",
+    "translation": "porque decía dentro de sí: «Con solo tocar su manto, seré sanada y puesta a salvo».",
+    "translation_notes": "El diálogo interior de fe: La mujer articula su convicción íntima: Ἐὰν μόνον ἅψωμαι ('Si tan solo tocare'). El verbo σωθήσομαι (futuro pasivo de σῴζω) significa literalmente 'seré salvada': engloba tanto la curación de la hemorragia física como la redención espiritual y la liberación de la marginación social."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 22,
+    "greek_text": "ὁ δὲ Ἰησοῦς στραφεὶς καὶ ἰδὼν αὐτὴν εἶπεν· Θάρσει, θύγατερ· ἡ πίστις σου σέσωκέν σε. καὶ ἐσώθη ἡ γυνὴ ἀπὸ τῆς ὥρας ἐκείνης.",
+    "translation": "Pero Jesús, volviéndose y mirándola, dijo: «¡Ten ánimo, hija!; tu fe te ha salvado». Y la mujer quedó sana desde aquella misma hora.",
+    "translation_notes": "El trato filial y la salvación por la fe: Jesús se gira y la mira con ternura personal: Θάρσει, θύγατερ ('¡Cobra ánimo, hija mía!'). Lejos de reprenderla por tocar su manto e incurrir formalmente en contaminación ritual según la ley farisea, la acoge con el título de hija del pacto. La frase teológica ἡ πίστις σου σέσωκέν σε ('tu fe te ha salvado') desmiente cualquier concepción mágica automática del milagro: no fue el tejido material de la túnica lo que obró la sanidad, sino el poder divino recibido mediante el canal de una fe viva y dependiente. El pasivo ἐσώθη certifica la curación médica instantánea e irrevocable (ἀπὸ τῆς ὥρας ἐκείνης)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 23,
+    "greek_text": "καὶ ἐλθὼν ὁ Ἰησοῦς εἰς τὴν οἰκίαν τοῦ ἄρχοντος καὶ ἰδὼν τοὺς αὐλητὰς καὶ τὸν ὄχλον θορυβούμενον",
+    "translation": "Al entrar Jesús en la casa del dignatario principal y ver a los flautistas fúnebres y a la multitud en gran alboroto y llanto,",
+    "translation_notes": "El ritual fúnebre judío y los flautistas: Al arribar al hogar del magistrado, el duelo formal por la niña ya ha dado inicio. En el judaísmo del siglo I (Mishná Ketubot 4:4), aun el judío más indigente tenía la obligación legal de contratar para el entierro de su esposa o hija al menos a dos tocadores de flauta (αὐληταί) y a una plañidera profesional. Los flautistas ejecutaban melodías quejumbrosas y lúgubres mientras la multitud alborotaba con alaridos de duelo desordenado (τὸν ὄχλον θορυβούμενον)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 24,
+    "greek_text": "ἔλεγεν· Ἀναχωρεῖτε, οὐ γὰρ ἀπέθανεν τὸ κοράσιον ἀλλὰ καθεύδει· καὶ κατεγέλων αὐτοῦ.",
+    "translation": "les decía: «¡Retírense!, porque la niña no está muerta, sino que duerme». Y se burlaban de él con desprecio.",
+    "translation_notes": "La muerte resignificada como sueño y la burla mundana: Jesús ordena desalojar la estancia: Ἀναχωρεῖτε ('¡Despejen el lugar / retírense!'). La declaración οὐ γὰρ ἀπέθανεν ἀλλὰ καθεύδει ('pues la niña no ha muerto, sino que duerme') no es un diagnóstico médico de catalepsia o coma temporal, sino una redefinición escatológica soberana de la muerte: ante el Señor de la Vida que tiene el poder de resucitar a los muertos, la muerte física pierde su carácter de tumba definitiva e irrevocable y se reduce a un simple sueño transitorio del cual el Creador puede despertar a la persona en cualquier instante (cf. Jn 11:11-14). Los dolientes responden con mofa escéptica y desprecio burlesco: κατεγέλων (imperfecto de καταγελάω, reírse descaradamente a la cara)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 25,
+    "greek_text": "ὅτε δὲ ἐξεβλήθη ὁ ὄχλος, εἰσελθὼν ἐκράτησεν τῆς χειρὸς αὐτῆς, καὶ ἠγέρθη τὸ κοράσιον.",
+    "translation": "Pero cuando la multitud fue sacada fuera, él entró, tomó a la niña de la mano, y la niña se levantó.",
+    "translation_notes": "La resurrección de la hija del dignatario: Expulsada la multitud ruidosa e incrédula (ἐξεβλήθη), Jesús ingresa en la recámara mortuoria. Toma la mano inerte del cadáver (ἐκράτησεν τῆς χειρὸς αὐτῆς), violando deliberadamente la impureza ritual cadavérica para comunicar vida biológica. El verbo ἠγέρθη (aoristo pasivo de ἐγείρω, incorporarse, resucitar) es el vocablo técnico que la teología neotestamentaria utiliza para la resurrección de Cristo: la niña vuelve instantáneamente a la vida en plenitud de facultades."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 26,
+    "greek_text": "καὶ ἐξῆλθεν ἡ φήμη αὕτη εἰς ὅλην τὴν γῆν ἐκείνην.",
+    "translation": "Y la noticia de este acontecimiento se difundió por toda aquella región.",
+    "translation_notes": "La difusión de la fama mesiánica: La noticia del triunfo de Jesús sobre la muerte (ἡ φήμη αὕτη) desborda todo intento de reserva y se esparce como pólvora por toda la geografía de Galilea (εἰς ὅλην τὴν γῆν ἐκείνην)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 27,
+    "greek_text": "Καὶ παράγοντι ἐκεῖθεν τῷ Ἰησοῦ ἠκολούθησαν αὐτῷ δύο τυφλοὶ κράζοντες καὶ λέγοντες· Ἐλέησον ἡμᾶς, υἱὲ Δαυίδ.",
+    "translation": "Al salir Jesús de allí, lo siguieron dos ciegos, clamando a grandes voces y diciendo: «¡Ten misericordia de nosotros, Hijo de David!».",
+    "translation_notes": "Los dos ciegos y la invocación mesiánica del Hijo de David: Dos invidentes siguen a Jesús guiados por el oído, clamando a voces (κράζοντες). Es la primera vez en Mateo que personas comunes invocan a Jesús con el título mesiánico régio explícito: υἱὲ Δαυίδ ('¡Hijo de David!'). La paradoja es deslumbrante: mientras los sabios letrados y escribas dotados de vista biológica permanecían ciegos ante la identidad mesiánica de Jesús, estos dos ciegos físicos perciben con meridiana claridad espiritual que Él es el vástago davídico prometido destinado a abrir los ojos de los ciegos (Is 35:5; 42:7)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 28,
+    "greek_text": "ἐλθόντι δὲ εἰς τὴν οἰκίαν προσῆλθον αὐτῷ οἱ τυφλοί, καὶ λέγει αὐτοῖς ὁ Ἰησοῦς· Πιστεύετε ὅτι δύναμαι τοῦτο ποιῆσαι; λέγουσιν αὐτῷ· Ναί, κύριε.",
+    "translation": "Y cuando él entró en la casa, se le acercaron los ciegos; y Jesús les preguntó: «¿Creen que tengo poder para hacer esto?». Ellos le respondieron: «Sí, Señor».",
+    "translation_notes": "El examen de la fe en la intimidad de la casa: Jesús ingresa en la vivienda para examinar su fe a solas, lejos de la histeria colectiva de la calle. Plantea una interrogación cristológica directa sobre su omnipotencia: Πιστεύετε ὅτι δύναμαι τοῦτο ποιῆσαι; ('¿Creen de verdad que tengo la potestad y capacidad para ejecutar esto?'). La respuesta de los ciegos es rotunda, sobria y libre de vacilación: Ναί, κύριε ('Sí, Señor')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 29,
+    "greek_text": "τότε ἥψατο τῶν ὀφθαλμῶν αὐτῶν λέγων· Κατὰ τὴν πίστιν ὑμῶν γενηθήτω ὑμῖν.",
+    "translation": "Entonces les tocó los ojos, diciendo: «Conforme a la fe de ustedes, hágase con ustedes».",
+    "translation_notes": "El contacto ocular y la fe como instrumento: Jesús toca físicamente las cuencas oculares apagadas (ἥψατο τῶν ὀφθαλμῶν αὐτῶν). Su sentencia soberana Κατὰ τὴν πίστιν ὑμῶν γενηθήτω ὑμῖν vincula la manifestación de la gracia creadora con la autenticidad de la confianza depositada en Su persona."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 30,
+    "greek_text": "καὶ ἠνεῴχθησαν αὐτῶν οἱ ὀφθαλμοί. καὶ ἐνεβριμήθη αὐτοῖς ὁ Ἰησοῦς λέγων· Ὁρᾶτε μηδεὶς γινωσκέτω·",
+    "translation": "Y los ojos de ellos fueron abiertos. Y Jesús les conminó con severa advertencia, diciendo: «¡Miren que nadie lo sepa!».",
+    "translation_notes": "La apertura ocular y la severa conminación (embrimaomai): Los ojos reciben instantáneamente la vista (ἠνεῴχθησαν οἱ ὀφθαλμοί, pasivo divino que evoca la apertura cósmica de los cielos). La orden de secreto es extraordinariamente enfática: el verbo ἐνεβριμήθη (aoristo pasivo de ἐμβριμάομαι, conminar con severidad enérgica, bufar con vehemencia imperativa) expresa una orden tajante para evitar la instrumentalización política de sus milagros."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 31,
+    "greek_text": "οἱ δὲ ἐξελθόντες διεφήμισαν αὐτὸν ἐν ὅλῃ τῇ γῇ ἐκείνῃ.",
+    "translation": "Pero ellos, habiendo salido, divulgaron su fama por toda aquella tierra.",
+    "translation_notes": "La divulgación incontrolable del testimonio: El celo de la gratitud desborda la prohibición: el verbo διαφημίζω (difundir ampliamente por doquier) describe la proclamación pública del milagro en toda Galilea."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 32,
+    "greek_text": "Αὐτῶν δὲ ἐξερχομένων ἰδοὺ προσήνεγκαν αὐτῷ ἄνθρωποv κωφὸν δαιμονιζόμενον·",
+    "translation": "Mientras ellos salían, he aquí, le trajeron a un hombre mudo que estaba endemoniado.",
+    "translation_notes": "El endemoniado mudo: El adjetivo κωφός puede designar a un sordo, a un mudo o a un sordomudo. En este caso, el versículo siguiente precisa que la atrofia del aparato fonador era la manifestación física de una opresión demoníaca directa (δαιμονιζόμενος)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 33,
+    "greek_text": "καὶ ἐκβληθέντος τοῦ δαιμονίου ἐλάλησεν ὁ κωφός. καὶ ἐθαύμασαν οἱ ὄχλοι λέγοντες· Οὐδέποτε ἐφάνη οὕτως ἐν τῷ Ἰσραήλ.",
+    "translation": "Y una vez expulsado el demonio, el mudo habló. Y las multitudes quedaron asombradas, diciendo: «¡Jamás se ha visto cosa semejante en Israel!».",
+    "translation_notes": "Liberación demoníaca y la aclamación popular: Tras la expulsión del espíritu inmundo (ἐκβληθέντος τοῦ δαιμονίου), el mudo recupera instantáneamente el habla. El asombro multitudinario culmina en una declaración sin precedentes: Οὐδέποτε ἐφάνη οὕτως ἐν τῷ Ἰσραήλ ('¡Jamás en toda la historia sagrada de Israel se ha manifestado un poder semejante!'). Los profetas del Antiguo Testamento realizaron prodigios aislados, pero la autoridad universal, inmediata y múltiple de Jesús sobre enfermedades, naturaleza, parálisis, ceguera, muerte y demonios no tenía parangón en las crónicas de la nación."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 34,
+    "greek_text": "οἱ δὲ Φαρισαῖοι ἔλεγον· Ἐν τῷ ἄρχοντι τῶν δαιμονίων ἐκβάλλει τὰ δαιμόνια.",
+    "translation": "Pero los fariseos decían: «Por obra del príncipe de los demonios es que expulsa los demonios».",
+    "translation_notes": "La acusación blasfema de complicidad satánica: La reacción de los fariseos marca el inicio de la hostilidad blasfema que desembocará en la confrontación del capítulo 12: incapaces de negar la realidad fáctica indudable de los milagros, recurren a la calumnia diabólica de atribuir su origen sobrenatural a Satanás (Ἐν τῷ ἄρχοντι τῶν δαιμονίων, 'en colusión con Beelzebú, el príncipe de los demonios'). La ceguera espiritual atribuye la obra purificadora del Espíritu Santo a la potestad de las tinieblas."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 35,
+    "greek_text": "Καὶ περιῆγεν ὁ Ἰησοῦς τὰς πόλεις πάσας καὶ τὰς κώμας, διδάσκων ἐν ταῖς συναγωγαῖς αὐτῶν καὶ κηρύσσων τὸ εὐαγγέλιον τῆς βασιλείας καὶ θεραπεύων πᾶσαν νόσον καὶ πᾶσαν μαλακίαν.",
+    "translation": "Y Jesús recorría todas las ciudades y las aldeas, enseñando en las sinagogas de ellos, proclamando las buenas nuevas del reino y sanando toda enfermedad y toda dolencia.",
+    "translation_notes": "Inclusio programática del ministerio de Jesús: Este versículo repite palabra por palabra el sumario ministerial de Mateo 4:23, formando una magistral inclusio literaria que enmarca los capítulos 5 al 9: el ciclo completo de la autoridad del Mesías en palabra (Sermón del Monte, caps. 5-7) y en obra (los diez milagros de los caps. 8-9) a través de las tres facetas soberanas: didáctica sinagogal (διδάσκων), heráldica del Reino (κηρύσσων) y terapéutica holística (θεραπεύων)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 36,
+    "greek_text": "Ἰδὼν δὲ τοὺς ὄχλους ἐσπλαγχνίσθη περὶ αὐτῶν ὅτι ἦσαν ἐσκυλμένοι καὶ ἐρριμμένοι ὡσεὶ πρόβατα μὴ ἔχοντα ποιμένα.",
+    "translation": "Y al contemplar las multitudes, se compadeció profundamente de ellas, porque estaban extenuadas y desamparadas, como ovejas que no tienen pastor.",
+    "translation_notes": "La compasión entrañable del Buen Pastor: El verbo ἐσπλαγχνίσθη (aoristo pasivo de σπλαγχνίζομαι, de σπλάγχνα, las vísceras más profundas consideradas en la antropología semítica como la sede del amor entrañable, la compasión visceral y la ternura) describe el dolor conmovido de Jesús ante la tragedia humana. Los participios describen la penosa condición del pueblo bajo la opresión de sus dirigentes religiosos: ἐσκυλμένοι (de σκύλλω, desollados, despellejados, agotados por cargas legales insoportables) y ἐρριμμένοι (de ῥίπτω, arrojados al suelo, desamparados y postrados en el abandono). Jesús evoca la trágica imagen del rebaño disperso y esquilmado de Números 27:17 y Ezequiel 34:1-16, presentándose como el legítimo Pastor prometido que reúne a sus ovejas perdidas."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 37,
+    "greek_text": "τότε λέγει τοῖς μαθηταῖς αὐτοῦ· Ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι·",
+    "translation": "Entonces dijo a sus discípulos: «A la verdad la cosecha es abundante, pero los obreros son pocos.",
+    "translation_notes": "La mies escatológica y la escasez de segadores: La metáfora del campo de cosecha (ὁ θερισμός) es una clásica figura profética para la siega escatológica y la recolección de las almas para el Reino de Dios (cf. Jl 3:13; Is 27:12). La mies está madura y desbordante (πολύς), pero los obreros capacitados y dispuestos al esfuerzo (οἱ ἐργάται) son trágicamente escasos (ὀλίγοι)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 9,
+    "verse": 38,
+    "greek_text": "δεήθητε οὖν τοῦ κυρίου τοῦ θερισμοῦ ὅπως ἐκβάλῃ ἐργάτας εἰς τὸν θερισμὸν αὐτοῦ.",
+    "translation": "Rueguen, por tanto, al Señor de la cosecha que envíe con premura obreros a su cosecha».",
+    "translation_notes": "La oración al Señor de la mies y el verbo ekballō: Jesús instruye a sus discípulos a suplicar con insistencia (δεήθητε, de δέομαι, rogar con apremio humilde) al Soberano del campo: ὁ κύριος τοῦ θερισμοῦ ('el Señor de la siega'). El verbo empleado para enviar los segadores es de extraordinaria fuerza dinámica: ἐκβάλῃ (aoristo subjuntivo de ἐκβάλλω, literalmente 'arrojar fuera, expulsar o empujar con apremio irresistible hacia el campo de labor'). Esta plegaria se cumplirá de inmediato en el capítulo 10: aquellos mismos discípulos a quienes se les mandó orar por obreros serán los primeros obreros enviados al campo de cosecha."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 1,
+    "greek_text": "Καὶ προσκαλεσάμενος τοὺς δώδεκα μαθητὰς αὐτοῦ ἔδωκεν αὐτοῖς ἐξουσίαν πνευμάτων ἀκαθάρτων ὥστε ἐκβάλλειν αὐτὰ καὶ θεραπεύειν πᾶσαν νόσον καὶ πᾶσαν μαλακίαν.",
+    "translation": "Habiendo llamado a sus doce discípulos, les dio autoridad sobre los espíritus inmundos para expulsarlos y para sanar toda enfermedad y toda dolencia.",
+    "translation_notes": "«les dio autoridad» traduce 'edōken autois exousian' (ἔδωκεν αὐτοῖς ἐξουσίαν). En el derecho judío del siglo I, delegar 'exousía' (pleno poder derivado de una investidura legal o profética) implicaba la noción de 'shaliaj' (agente legal plenipotenciario: 'el enviado de un hombre es como él mismo', Berajot 5:5). La transferencia no es de simple pericia médica, sino de dominio escatológico sobre las fuerzas demoníacas ('pneumatōn akathartōn', espíritus inmundos). La frase 'pasan noson kai pasan malakian' repite exactamente la fórmula sumaria del ministerio de Jesús en Mt 4:23 y 9:35, demostrando que la misión apostólica es una prolongación directa e idéntica en autoridad de las obras mesiánicas del Maestro."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 2,
+    "greek_text": "τῶν δὲ δώδεκα ἀποστόλων τὰ ὀνόματά ἐστιν ταῦτα· πρῶτος Σίμων ὁ λεγόμενος Πέτρος καὶ Ἀνδρέας ὁ ἀδελφὸς αὐτοῦ, καὶ Ἰάκωβος ὁ τοῦ Ζεβεδαίου καὶ Ἰωάννης ὁ ἀδελφὸς αὐτοῦ,",
+    "translation": "Los nombres de los doce apóstoles son estos: primero, Simón, llamado Pedro, y Andrés su hermano; Jacobo, el de Zebedeo, y Juan su hermano;",
+    "translation_notes": "«doce apóstoles» ('dōdeka apostolōn', δώδεκα ἀποστόλων): Es la única vez en el Evangelio de Mateo que aparece el sustantivo 'apóstolos' (enviado oficial con misión delegada; en los demás pasajes Mateo prefiere 'mathētai', discípulos). El número doce ('dōdeka') posee un simbolismo fundacional indiscutible: representa la reconstitución escatológica de las doce tribus de Israel (cf. Mt 19:28). El adjetivo 'prōtos' (πρῶτος, primero) aplicado a Simón Pedro no es meramente numérico en una lista ordinal, sino que señala su primacía histórica y de liderazgo entre el colegio apostólico."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 3,
+    "greek_text": "Φίλιππος καὶ Βαρθολομαῖος, Θωμᾶς καὶ Μαθθαῖος ὁ τελώνης, Ἰάκωβος ὁ τοῦ Ἀλφαίου καὶ Θαδδαῖος,",
+    "translation": "Felipe y Bartolomé; Tomás y Mateo el recaudador de impuestos; Jacobo, el de Alfeo, y Tadeo;",
+    "translation_notes": "«Mateo el recaudador de impuestos» ('Maththaios ho telōnēs', Μαθθαῖος ὁ τελώνης): Solo el Primer Evangelio añade el epíteto humillante de su oficio anterior 'ho telōnēs' en la lista oficial de los doce (cf. Mc 3:18; Lc 6:15), un claro rasgo de humildad y autenticidad testimonial mateana. Bartolomé ('Bartholomaios') es la transliteración del arameo 'Bar-Talmay' (hijo de Talmay, identificado frecuentemente con Natanael en Jn 1:45). Tadeo ('Thaddaios') aparece en algunos manuscritos antiguos (D, it) como 'Lebbeo' o combinaciones textuales, reflejando el uso de sobrenombres arameos afectuosos en la comunidad galilea."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 4,
+    "greek_text": "Σίμων ὁ Καναναῖος καὶ Ἰούδας ὁ Ἰσκαριώτης ὁ καὶ παραδοὺς αὐτόν.",
+    "translation": "Simón el cananeo y Judas Iscariote, quien además lo entregó.",
+    "translation_notes": "«Simón el cananeo» ('Simōn ho Kananaios', Σίμων ὁ Καναναῖος): 'Kananaios' no alude a la región pagana de Canaán ni al pueblo de Caná, sino que es la transliteración griega del arameo 'qan'an' (zelote, ferviente celador de la Ley o miembro de la facción zelota antiextranjera; traducido como 'Zēlōtēs' en Lucas 6:15). 'Iskariōtēs' (Ἰσκαριώτης) deriva del hebreo 'Ish Qeriyot' ('hombre de Queriot', una localidad de Judea, Jos 15:25), lo que señalaría a Judas como el único apóstol no galileo del grupo. El participio 'ho kai paradous auton' (el que lo entregó) marca su memoria histórica de traición con sobriedad gramatical, empleando 'paradidōmi' (entregar a juicio/autoridades)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 5,
+    "greek_text": "Τούτους τοὺς δώδεκα ἀπέστειλεν ὁ Ἰησοῦς παραγγείλας αὐτοῖς λέγων· Εἰς ὁδὸν ἐθνῶν μὴ ἀπέλθητε, καὶ εἰς πόλιν Σαμαριτῶν μὴ εἰσέλθητε·",
+    "translation": "A estos doce envió Jesús, dándoles instrucciones y diciendo: «No vayan por camino de gentiles ni entren en ciudad de samaritanos;",
+    "translation_notes": "«No vayan por camino de gentiles» ('Eis hodon ethnōn mē apelthēte', Εἰς ὁδὸν ἐθνῶν μὴ ἀπέλθητε): Esta restricción geográfica y étnica inicial pertenece al orden de la historia de la salvación ('Heilsgeschichte'): la prioridad del anuncio del Reino correspondía al pueblo del pacto ('pros ta probata ta apolōlota oikou Israēl', v. 6; cf. Rom 1:16). No representa un desdén permanente hacia los gentiles (lo cual contradiría Mt 2:1-12; 8:11-12; y la Gran Comisión en 28:19), sino una estrategia de concentración escatológica pre-pascual en Israel. Los samaritanos, mestizos religiosa y étnicamente según la percepción judía del Segundo Templo, estaban excluidos de este itinerario inicial."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 6,
+    "greek_text": "πορεύεσθε δὲ μᾶλλον πρὸς τὰ πρόβατα τὰ ἀπολωλότα οἴκου Ἰσραήλ.",
+    "translation": "vayan más bien a las ovejas perdidas de la casa de Israel.",
+    "translation_notes": "«las ovejas perdidas de la casa de Israel» ('pros ta probata ta apolōlota oikou Israēl', πρὸς τὰ πρόβατα τὰ ἀπολωλότα οἴκου Ἰσραήλ): Evoca de manera contundente la acusación profética de Ezequiel 34 y Jeremías 50:6 contra los malos pastores de Israel que dispersaron al rebaño de Dios. Jesús reitera su autoconciencia profético-mesiánica como el Pastor davídico prometido (cf. Mt 9:36; 15:24) que busca con urgencia a los desamparados y descarriados del pueblo de la Alianza."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 7,
+    "greek_text": "πορευόμενοι δὲ κηρύσσετε λέγοντες ὅτι Ἤγγικεν ἡ βασιλεία τῶν οὐρανῶν.",
+    "translation": "Y al ir, proclamen diciendo: “El reino de los cielos se ha acercado”.",
+    "translation_notes": "«proclamen diciendo: “El reino de los cielos se ha acercado”» ('kēryssete legontes hoti Ēggiken hē basileia tōn ouranōn', κηρύσσετε λέγοντες ὅτι Ἤγγικεν ἡ βασιλεία τῶν οὐρανῶν): El mensaje confiado a los Doce es idéntico al proclamado por Juan el Bautista (Mt 3:2) y por el propio Jesús al inicio de su ministerio galileo (Mt 4:17). El verbo 'ēngiken' (perfecto de 'engizō') denota una realidad que ha irrumpido en la historia y cuya presencia es inminente e irreversible."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 8,
+    "greek_text": "ἀσθενοῦντας θεραπεύετε, νεκροὺς ἐγείρετε, λεπροὺς καθαρίζετε, δαιμόνια ἐκβάλλετε· δωρεὰν ἐλάβετε, δωρεὰν δότε.",
+    "translation": "Sanen enfermos, resuciten muertos, limpien leprosos, expulsen demonios; gratuitamente recibieron, gratuitamente den.",
+    "translation_notes": "«gratuitamente recibieron, gratuitamente den» ('dōrean elabete, dōrean dote', δωρεὰν ἐλάβετε, δωρεὰν δότε): 'dōrean' (adverbio acusativo) significa 'sin costo, como don libre'. El principio regulador de la misión apostólica prohíbe cualquier simonía o comercialización de la gracia divina. En la tradición rabínica regía un principio similar: así como Dios entregó la Torá gratuitamente en el Sinaí, los maestros debían enseñarla sin cobrar honorarios por la instrucción misma (Mishná Nedarim 4:3; Talmud Babli Bejorot 29a: 'Lo que recibisteis gratis, dadlo gratis'). Los milagros son signos del Reino, jamás mercancía religiosa."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 9,
+    "greek_text": "μὴ κτήσησθε χρυσὸν μηδὲ ἄργυρον μηδὲ χαλκὸν εἰς τὰς ζώνας ὑμῶν,",
+    "translation": "No se provean de oro, ni de plata, ni de cobre en sus cinturones,",
+    "translation_notes": "«No se provean... en sus cinturones» ('mē ktēsēsthe... eis tas zōnas hymōn', μὴ κτήσησθε... εἰς τὰς ζώνας ὑμῶν): El verbo 'ktaomai' (adquirir, procurarse, acumular) en aoristo subjuntivo prohibitivo ('mē ktēsēsthe') ordena a los apóstoles viajar desprovistos de capital financiero. La mención de las tres monedas circulantes —oro ('chryson'), plata ('argyron') y cobre/bronce ('chalkon')— abarca toda la escala monetaria del Imperio romano y provincial. El cinturón ('zōnē') servía en el atuendo oriental de bolsillo o bolsa monetaria; despojarse de dinero aseguraba dependencia radical en la hospitalidad de Dios y del prójimo."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 10,
+    "greek_text": "μὴ πήραν εἰς ὁδὸν μηδὲ δύο χιτῶνας μηδὲ ὑποδήματα μηδὲ ῥάβδον· ἄξιος γὰρ ὁ ἐργάτης τῆς τροφῆς αὐτοῦ.",
+    "translation": "ni de alforja para el camino, ni de dos túnicas, ni de sandalias, ni de bastón; porque el obrero es digno de su sustento.",
+    "translation_notes": "«ni de alforja... porque el obrero es digno de su sustento» ('mē pēran... axios gar ho ergatēs tēs trophēs autou'): La 'pēra' (πήρα) era la bolsa de cuero utilizada por mendigos y filósofos cínicos itinerantes para recolectar y almacenar provisiones; los apóstoles no debían adoptar la postura cínica de autosuficiencia ni acumular víveres. La cláusula 'axios gar ho ergatēs tēs trophēs autou' establece un principio ético-jurídico que Pablo citará como norma apostólica (1 Co 9:14; 1 Ti 5:18): la comunidad receptora asume el deber sagrado de sostener materialmente al heraldo del Evangelio."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 11,
+    "greek_text": "εἰς ἣν δ’ ἂν πόλιν ἢ κώμην εἰσέλθητε, ἐξετάσατε τίς ἐν αὐτῇ ἄξιός ἐστιν· κἀκεῖ μείνατε ἕως ἂν ἐξέλθητε.",
+    "translation": "En cualquier ciudad o aldea donde entren, averigüen quién en ella es digno, y quédense allí hasta que salgan.",
+    "translation_notes": "«averigüen quién en ella es digno» ('exetasate tis en autē axios estin', ἐξετάσατε τίς ἐν αὐτῇ ἄξιός ἐστιν): 'exetazō' significa inquirir diligentemente, examinar o investigar. Ser 'digno' ('axios') en este contexto no denota mérito moral abstracto, sino receptividad piadosa al mensaje del Reino y disposición a ejercer la hospitalidad sagrada ('hakhnasat orchim'). La instrucción de quedarse en esa misma casa evita que los misioneros busquen mejores comodidades de casa en casa, protegiendo el testimonio contra sospechas de conveniencia material."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 12,
+    "greek_text": "εἰσερχόμενοι δὲ εἰς τὴν οἰκίαν ἀσπάσασθε αὐτήν·",
+    "translation": "Al entrar en la casa, salúdenla.",
+    "translation_notes": "«salúdenla» ('aspasasthe autēn', ἀσπάσασθε αὐτήν): El saludo tradicional judío al entrar en un hogar era 'Shalom aleijem' (la paz sea sobre ustedes). En la cosmovisión bíblica semítica, el saludo no es una cortesía formal vacía, sino una bendición activa, una invocación efectiva de bienestar integral, reconciliación y presencia divina sobre el hogar que abre sus puertas."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 13,
+    "greek_text": "καὶ ἐὰν μὲν ᾖ ἡ οἰκία ἀξία, ἐλθάτω ἡ εἰρήνη ὑμῶν ἐπ’ αὐτήν· ἐὰν δὲ μὴ ᾖ ἀξία, ἡ εἰρήνη ὑμῶν πρὸς ὑμᾶς ἐπιστραφήτω.",
+    "translation": "Y si la casa es digna, que su paz venga sobre ella; pero si no es digna, que su paz vuelva a ustedes.",
+    "translation_notes": "«que su paz vuelva a ustedes» ('hē eirēnē hymōn pros hymas epistraphētō', ἡ εἰρήνη ὑμῶν πρὸς ὑμᾶς ἐπιστραφήτω): En el pensamiento semítico, la bendición o la palabra pronunciada tiene una realidad cuasi-tangible (cf. Is 55:11). Si la casa rechaza la proclamación mesiánica, la paz ('eirēnē', shalom) no se pierde en el vacío cósmico ni beneficia al hostil, sino que retorna espiritualmente intacta a los mensajeros que la pronunciaron."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 14,
+    "greek_text": "καὶ ὃς ἂν μὴ δέξηται ὑμᾶς μηδὲ ἀκούσῃ τοὺς λόγους ὑμῶν, ἐξερχόμενοι ἔξω τῆς οἰκίας ἢ τῆς πόλεως ἐκείνης ἐκτινάξατε τὸν κονιορτὸν τῶν ποδῶν ὑμῶν.",
+    "translation": "Y a quien no los reciba ni escuche sus palabras, al salir fuera de aquella casa o de aquella ciudad, sacúdanse el polvo de sus pies.",
+    "translation_notes": "«sacúdanse el polvo de sus pies» ('ektinaxate ton koniorton tōn podōn hymōn', ἐκτινάξατε τὸν κονιορτὸν τῶν ποδῶν ὑμῶν): Gesto profético de ruptura legal. Cuando los judíos piadosos regresaban de tierras gentiles a Judea o Galilea, sacudían ceremonialmente el polvo de sus sandalias para no contaminar la Tierra Santa con impureza pagana (Mishná Oholot 18:6). Al ordenar realizar este acto contra una casa o ciudad judía que rechaza el mensaje, Jesús declara que esa comunidad incrédula se ha desclasificado a sí misma, equiparándose formalmente al mundo pagano profano sujeto al juicio escatológico."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 15,
+    "greek_text": "ἀμὴν λέγω ὑμῖν, ἀνεκτότερον ἔσται γῇ Σοδόμων καὶ Γομόρρων ἐν ἡμέρᾳ κρίσεως ἢ τῇ πόλει ἐκείνῃ.",
+    "translation": "En verdad les digo que en el día del juicio será más tolerable para la tierra de Sodoma y Gomorra que para aquella ciudad.",
+    "translation_notes": "«será más tolerable para la tierra de Sodoma y Gomorra» ('anektoteron estai gē Sodomōn kai Gomorrōn', ἀνεκτότερον ἔσται γῇ Σοδόμων καὶ Γομόρρων): Sodoma y Gomorra eran el arquetipo proverbial de la maldad humana y del castigo devastador por fuego divino (Gn 19; Dt 29:23; Is 1:9). El principio teológico formulado aquí afirma que la responsabilidad y el rigor del juicio divino son directamente proporcionales a la luz y a la revelación recibidas: rechazar la revelación culminante del Mesías y su Reino entraña una culpabilidad objetivamente más grave que los pecados de los paganos de la Antigüedad."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 16,
+    "greek_text": "Ἰδοὺ ἐγὼ ἀποστέλλω ὑμᾶς ὡς πρόβατα ἐν μέσῳ λύκων· γίνεσθε οὖν φρόνιμοι ὡς οἱ ὄφεις καὶ ἀκέραιοι ὡς αἱ περιστεραί.",
+    "translation": "Miren, yo los envío a ustedes como ovejas en medio de lobos; sean, pues, prudentes como las serpientes y sencillos como las palomas.",
+    "translation_notes": "«como ovejas en medio de lobos; sean, pues, prudentes como las serpientes y sencillos como las palomas»: Esta doble metáfora zoológica encuentra paralelo en el Midrash Rabbá sobre Cantar de los Cantares 2:14 («Dice el Santo, bendito sea: Conmigo son sencillos como palomas, pero ante las naciones son sagaces como serpientes»). 'phronimoi' (φρόνιμοι) connota lucidez táctica, discernimiento, cautela sin cobardía y sagacidad; 'akeraioi' (ἀκέραιοι, compuesto de 'alfa' privativa y 'kerannymi', mezclar) significa 'sin mezcla, inocentes, puros, sin doblez ni engaño'. Jesús no envía fanáticos ingenuos ni maquiavélicos intrigantes, sino discípulos con aguda percepción de la realidad combinada con una absoluta integridad moral."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 17,
+    "greek_text": "προσέχετε δὲ ἀπὸ τῶν ἀνθρώπων· παραδώσουσιν γὰρ ὑμᾶς εἰς συνέδρια, καὶ ἐν ταῖς συναγωγαῖς αὐτῶν μαστιγώσουσιν ὑμᾶς·",
+    "translation": "Guárdense de los hombres, porque los entregarán a los tribunales y en sus sinagogas los azotarán;",
+    "translation_notes": "«los entregarán a los tribunales y en sus sinagogas los azotarán»: 'synedria' (συνέδρια) en plural no se refiere exclusivamente al Gran Sanedrín de Jerusalén, sino a los tribunales locales judíos de veintitrés jueces establecidos en ciudades importantes (Mishná Sanhedrín 1:6). Las sinagogas funcionaban en el siglo I no solo como lugares de oración y lectura de la Torá, sino como sedes de administración judicial de la comunidad local, donde se aplicaba la pena reglamentaria de los cuarenta azotes menos uno (Dt 25:1-3; 2 Co 11:24; Mishná Makot 3:10)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 18,
+    "greek_text": "καὶ ἐπὶ ἡγεμόνας δὲ καὶ βασιλεῖς ἀχθήσεσθε ἕνεκεν ἐμοῦ εἰς μαρτύριον αὐτοῖς καὶ τοῖς ἔθνεσιν.",
+    "translation": "y aun ante gobernadores y reyes serán llevados por causa de mí, como testimonio a ellos y a los gentiles.",
+    "translation_notes": "«ante gobernadores y reyes serán llevados... como testimonio a ellos y a los gentiles» ('kai epi hēgemonas de kai basileis achthēsesthe... eis martyrion autois kai tois ethnesin'): Predice la extensión del testimonio apostólico al ámbito político imperial: 'hēgemōn' era el título técnico del prefecto o procurador romano (como Poncio Pilato, Félix o Festo) y 'basileis' abarcaba a monarcas clientes como Herodes Antipas y Agripa. 'Eis martyrion' expresa finalidad: el banquillo de los acusados se transforma en púlpito de testimonio escatológico ante las naciones paganas."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 19,
+    "greek_text": "ὅταν δὲ παραδῶσιν ὑμᾶς, μὴ μεριμνήσητε πῶς ἢ τί λαλήσητε· δοθήσεται γὰρ ὑμῖν ἐν ἐκείνῃ τῇ ὥρᾳ τί λαλήσητε·",
+    "translation": "Pero cuando los entreguen, no se angustien por cómo o qué hablarán; porque en aquella misma hora se les dará lo que han de hablar.",
+    "translation_notes": "«no se angustien por cómo o qué hablarán» ('mē merimnēsēte pōs ē ti lalēsēte', μὴ μεριμνήσητε πῶς ἢ τί λαλήσητε): El verbo 'merimnaō' (angustiarse, preocuparse ansiosamente) enlaza con la exhortación del Sermón del Monte (Mt 6:25.34). En la retórica jurídica grecorromana y judicial judía, preparar cuidadosamente la apología forense ('apologia') era fundamental; Jesús libera a los discípulos de la ansiedad forense garantizando una asistencia carismática providencial ('dothēsetai', pasivo divino)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 20,
+    "greek_text": "οὐ γὰρ ὑμεῖς ἐστε οἱ λαλοῦντες ἀλλὰ τὸ πνεῦμα τοῦ πατρὸς ὑμῶν τὸ λαλοῦν ἐν ὑμῖν.",
+    "translation": "Porque no son ustedes los que hablan, sino el Espíritu de su Padre el que habla en ustedes.",
+    "translation_notes": "«el Espíritu de su Padre el que habla en ustedes» ('to pneuma tou patros hymōn to laloun en hymin', τὸ πνεῦμα τοῦ πατρὸς ὑμῶν τὸ λαλοῦν ἐν ὑμῖν): Mateo describe la inspiración oratoria no como un fenómeno estático, sino como una inhabitación activa del Espíritu ('Ruaj ha-Qodesh'), al que llama entrañablemente 'el Espíritu de su Padre'. Esta promesa se cumplirá prototípicamente en las defensas apostólicas descritas en los Hechos de los Apóstoles (cf. Hch 4:8; 6:10; 7:55)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 21,
+    "greek_text": "παραδώσει δὲ ἀδελφὸς ἀδελφὸν εἰς θάνατον καὶ πατὴρ τέκνον, καὶ ἐπαναστήσονται τέκνα ἐπὶ γονεῖς καὶ θανατώσουσιν αὐτούς.",
+    "translation": "El hermano entregará a la muerte al hermano, y el padre al hijo; y los hijos se levantarán contra sus padres y les causarán la muerte.",
+    "translation_notes": "«El hermano entregará a la muerte al hermano... y los hijos se levantarán contra sus padres»: Alusión directa al doloroso cuadro apocalíptico de Miqueas 7:6 sobre la fractura de los lazos familiares más sagrados en los últimos días ('dolores de parto del Mesías', *jevlei ha-Mashíaj*). En la literatura judía intertestamentaria (como 1 Enoc 100:1-2 y Jubileos 23:19), la discordia intrafamiliar letal constituye una señal distintiva de la gran tribulación escatológica que precede a la consumación del Reino."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 22,
+    "greek_text": "καὶ ἔσεσθε μισούμενοι ὑπὸ πάντων διὰ τὸ ὄνομά μου· ὁ δὲ ὑπομείνας εἰς τέλος οὗτος σωθήσεται.",
+    "translation": "Y serán aborrecidos por todos por causa de mi nombre; pero el que persevere hasta el fin, este será salvo.",
+    "translation_notes": "«el que persevere hasta el fin, este será salvo» ('ho de hypomeinas eis telos houtos sōthēsetai', ὁ δὲ ὑπομείνας εἰς τέλος οὗτος σωθήσεται): 'hypomeinas' (aoristo de 'hypomenō', permanecer bajo la carga, perseverar con firmeza y paciencia heroica). 'Eis telos' puede interpretarse en dos niveles: individualmente (hasta el final de la vida terrenal o de la prueba presente) y escatológicamente (hasta la culminación de la era presente). La salvación ('sōthēsetai') es la reivindicación y rescate final en el tribunal de Dios."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 23,
+    "greek_text": "ὅταν δὲ διώκωσιν ὑμᾶς ἐν τῇ πόλει ταύτῃ, φεύγετε εἰς τὴν ἑτέραν· ἀμὴν γὰρ λέγω ὑμῖν, οὐ μὴ τελέσητε τὰς πόλεις τοῦ Ἰσραὴλ ἕως ἂν ἔλθῃ ὁ υἱὸς τοῦ ἀνθρώπου.",
+    "translation": "Cuando los persigan en esta ciudad, huyan a la otra; porque en verdad les digo que no terminarán de recorrer las ciudades de Israel antes de que venga el Hijo del Hombre.",
+    "translation_notes": "«no terminarán de recorrer las ciudades de Israel antes de que venga el Hijo del Hombre»: Uno de los pasajes más debatidos de la escatología neotestamentaria ('crux interpretum'). 'ou mē telēsēte tas poleis tou Israēl' (literalmente 'no acabarán las ciudades de Israel', el verbo 'teleō' aquí significa completar la misión o el circuito de proclamación). La 'venida del Hijo del Hombre' ('heōs an elthē ho huios tou anthrōpou', aludiendo a Daniel 7:13-14) ha sido interpretada históricamente como: 1) Su entronización celestial tras la Resurrección y Ascensión; 2) El juicio histórico de Dios sobre Jerusalén en el 70 d.C.; o 3) La Parusía final. El mandamiento de 'huir' demuestra que el heroísmo cristiano no busca el martirio temerariamente, sino que aprovecha la persecución para dispersar la semilla del Evangelio."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 24,
+    "greek_text": "Οὐκ ἔστιν μαθητὴς ὑπὲρ τὸν διδάσκαλον οὐδὲ δοῦλος ὑπὲρ τὸν κύριον αὐτοῦ.",
+    "translation": "El discípulo no está por encima de su maestro, ni el siervo por encima de su señor.",
+    "translation_notes": "«El discípulo no está por encima de su maestro» ('Ouk estin mathētēs hyper ton didaskalon', Οὐκ ἔστιν μαθητὴς ὑπὲρ τὸν διδάσκαλον): Máxima sapiencial y rabínica muy arraigada (cf. Berajot 58b: 'Basta al siervo ser como su señor'). En la relación de discipulado judío, el 'talmid' aspiraba a modelar su conducta, pensamiento y destino exactamente según su 'rabí'. Si el destino del Maestro supremo implicó hostilidad, persecución y sufrimiento, el discípulo no puede exigir privilegios de exención ni inmunidad ante el mundo."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 25,
+    "greek_text": "ἀρκετὸν τῷ μαθητῇ ἵνα γένηται ὡς ὁ διδάσκαλος αὐτοῦ, καὶ ὁ δοῦλος ὡς ὁ κύριος αὐτοῦ. εἰ τὸν οἰκοδεσπότην Βεελζεβοὺλ ἐπεκάλεσαν, πόσῳ μᾶλλον τοὺς οἰκιακοὺς αὐτοῦ.",
+    "translation": "Le basta al discípulo llegar a ser como su maestro, y al siervo como su señor. Si al dueño de casa llamaron Beelzebul, ¡cuánto más a los miembros de su casa!",
+    "translation_notes": "«Si al dueño de casa llamaron Beelzebul» ('ei ton oikodespotēn Beelzeboul epekalesan', εἰ τὸν οἰκοδεσπότην Βεελζεβοὺλ ἐπεκάλεσαν): 'oikodespotēs' significa señor o amo del hogar; 'oikiakous' son los que pertenecen a su familia y servidumbre íntima. 'Beelzeboul' (Βεελζεβούλ) deriva del cananeo 'Ba'al Zebub' (señor de las moscas, 2 R 1:2) o más probablemente del ugarítico/arameo 'Ba'al Zebel' (señor de la morada/altura, transformado polémicamente por los rabinos en 'señor del estiércol'). Si al Soberano del Reino lo difamaron como príncipe de los demonios (cf. Mt 9:34; 12:24), los suyos deben esperar calumnias semejantes."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 26,
+    "greek_text": "Μὴ οὖν φοβηθῆτε αὐτούς· οὐδὲν γάρ ἐστιν κεκαλυμμένον ὃ οὐκ ἀποκαλυφθήσεται, καὶ κρυπτὸν ὃ οὐ γνωσθήσεται.",
+    "translation": "Así que no les teman; porque no hay nada encubierto que no haya de ser revelado, ni oculto que no haya de ser conocido.",
+    "translation_notes": "«nada encubierto que no haya de ser revelado» ('ouden gar estin kekalymmenon ho ouk apokalyphthēsetai', οὐδὲν γάρ ἐστιν κεκαλυμμένον ὃ οὐκ ἀποκαλυφθήσεται): Sentencia escatológica de consuelo. El doblete pasivo divino ('apokalyphthēsetai', será desvelado; 'gnōsthēsetai', será conocido) garantiza que la verdad del Evangelio y la vindicación de los justos perseguidos triunfarán sobre todas las calumnias y maquinaciones secretas de sus opresores en el juicio final."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 27,
+    "greek_text": "ὃ λέγω ὑμῖν ἐν τῇ σκοτίᾳ, εἴπατε ἐν τῷ φωτί· καὶ ὃ εἰς τὸ οὖς ἀκούετε, κηρύξατε ἐπὶ τῶν δωμάτων.",
+    "translation": "Lo que les digo en la oscuridad, díganlo en la luz; y lo que oyen al oído, proclámenlo desde las azoteas.",
+    "translation_notes": "«lo que oyen al oído, proclámenlo desde las azoteas» ('kai ho eis to ous akouete, kēryxate epi tōn dōmatōn'): Alusión vívida a la práctica sinagoga y a la arquitectura palestina. En las academias rabínicas, el maestro a menudo susurraba su lección al oído del intérprete ('meturgeman'), quien luego la proclamaba a gran voz a la congregación reunida. Las azoteas planas ('dōmata') de las casas de Judea y Galilea eran los puntos elevados tradicionales utilizados para pregones públicos, convocatorias cívicas y señales de alarma ciudadana."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 28,
+    "greek_text": "καὶ μὴ φοβεῖσθε ἀπὸ τῶν ἀποκτεννόντων τὸ σῶμα τὴν δὲ ψυχὴν μὴ δυναμένων ἀποκτεῖναι· φοβεῖσθε δὲ μᾶλλον τὸν δυνάμενον καὶ ψυχὴν καὶ σῶμα ἀπολέσαι ἐν γεέννῃ.",
+    "translation": "Y no teman a los que matan el cuerpo pero no pueden matar el alma; más bien teman a aquel que puede destruir tanto el alma como el cuerpo en la Gehena.",
+    "translation_notes": "«teman a aquel que puede destruir tanto el alma como el cuerpo en la Gehena» ('phobeisthe de mallon ton dynamenon kai psychēn kai sōma apolesai en geennē'): 'Gehenna' (γεέννῃ) translitera el hebreo 'Gei-Hinnom' (Valle del hijo de Hinom, al sur de Jerusalén), lugar donde en el período monárquico se sacrificaban niños a Moloc (Jer 7:31) y que devino en símbolo judío del castigo escatológico de fuego para los impíos. La distinción entre 'sōma' (cuerpo físico perecedero) y 'psychē' (vida interior, alma o ser inmortal ante Dios) enfatiza la soberanía absoluta de Dios: los perseguidores humanos solo poseen poder efímero sobre la existencia biológica, pero únicamente Dios ostenta jurisdicción eterna sobre la totalidad de la persona."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 29,
+    "greek_text": "οὐχὶ δύο στρουθία ἀσσαρίου πωλεῖται; καὶ ἓν ἐξ αὐτῶν οὐ πεσεῖται ἐπὶ τὴν γῆν ἄνευ τοῦ πατρὸς ὑμῶν.",
+    "translation": "¿No se venden dos gorriones por un asarión? Y sin embargo, ni uno de ellos caerá a tierra sin la voluntad de su Padre.",
+    "translation_notes": "«dos gorriones por un asarión» ('dyo strouthia assariou pōleitai', δύο στρουθία ἀσσαρίου πωλεῖται): El 'strouthion' (pajarillo o gorrión) era el ave comestible más barata que se comercializaba en los mercados del siglo I para la alimentación de los pobres. El 'assarion' (del latín 'as') era una moneda romana de bronce que equivalía a apenas la dieciseisava parte (1/16) de un denario (el salario de un día entero de trabajo). Jesús emplea el método hermenéutico rabínico de 'qal va-jomer' (del menor al mayor): si Dios gobierna con soberana providencia el destino de un pájaro de valor casi nulo, ¡con cuánta mayor solicitud cuidará a sus enviados!"
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 30,
+    "greek_text": "ὑμῶν δὲ καὶ αἱ τρίχες τῆς κεφαλῆς πᾶσαι ἠριθμημέναι εἰσίν.",
+    "translation": "Pero en cuanto a ustedes, aun los cabellos de la cabeza están todos contados.",
+    "translation_notes": "«aun los cabellos de la cabeza están todos contados» ('hymōn de kai hai triches tēs kephalēs pasai ērithmēmenai eisin'): El pronombre 'hymōn' (de ustedes) encabeza la cláusula con un énfasis temático arrollador ('en cuanto a ustedes'). El participio perfecto pasivo 'ērithmēmenai eisin' (han sido y permanecen contados) resalta la minuciosidad absoluta, exhaustiva e individual del conocimiento y cuidado providencial divino sobre la vida de los creyentes."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 31,
+    "greek_text": "μὴ οὖν φοβεῖσθε· πολλῶν στρουθίων διαφέρετε ὑμεῖς.",
+    "translation": "Así que no teman; ustedes valen más que muchos gorriones.",
+    "translation_notes": "«ustedes valen más que muchos gorriones» ('pollōn strouthiōn diapherete hymeis', πολλῶν στρουθίων διαφέρετε ὑμεῖς): El verbo 'diapherō' significa aquí 'ser de mucho mayor valor o dignidad'. Concluye formalmente el argumento 'qal va-jomer': la confianza apostólica no se apoya en una ausencia de peligros, sino en la inmutable estimación que el Padre celestial tiene de sus hijos."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 32,
+    "greek_text": "Πᾶς οὖν ὅστις ὁμολογήσει ἐν ἐμοὶ ἔμπροσθεν τῶν ἀνθρώπων, ὁμολογήσω κἀγὼ ἐν αὐτῷ ἔμπροσθεν τοῦ πατρός μου τοῦ ἐν τοῖς οὐρανοῖς·",
+    "translation": "Por tanto, a todo el que me confiese delante de los hombres, yo también lo confesaré delante de mi Padre que está en los cielos;",
+    "translation_notes": "«a todo el que me confiese... yo también lo confesaré» ('Pas oun hostis homologēsei en emoi... homologēsō kagō en autō'): La construcción griega 'homologēsei en emoi' (literalmente 'confesar en mí') refleja un claro semitismo ('hodot be-'), denotando no una mera adhesión verbal intelectual, sino un testimonio público de lealtad personal e inquebrantable compromiso bajo persecución. El juicio del tribunal terrenal humano es contrastado con el tribunal escatológico supremo, donde Jesús actúa como el Abogado y Mediador celestial definitivo ante el Padre."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 33,
+    "greek_text": "ὅστις δ’ ἂν ἀρνήσηταί με ἔμπροσθεν τῶν ἀνθρώπων, ἀρνήσομαι κἀγὼ αὐτὸν ἔμπροσθεν τοῦ πατρός μου τοῦ ἐν τοῖς οὐρανοῖς.",
+    "translation": "pero al que me niegue delante de los hombres, yo también lo negaré delante de mi Padre que está en los cielos.",
+    "translation_notes": "«pero al que me niegue... yo también lo negaré» ('hostis d' an arnēsētai me... arnēsomai kagō auton'): Estricto paralelismo antitético con el v. 32. 'arneomai' significa repudiar, desconocer o renegar de una relación legal o de pacto. Negar a Cristo por miedo a las represalias humanas acarrea la exclusión recíproca de la comunión salvífica ante el trono celestial de Dios."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 34,
+    "greek_text": "Μὴ νομίσητε ὅτι ἦλθον βαλεῖν εἰρήνην ἐπὶ τὴν γῆν· οὐκ ἦλθον βαλεῖν εἰρήνην ἀλλὰ μάχαιραν.",
+    "translation": "No piensen que vine a traer paz a la tierra; no vine a traer paz, sino espada.",
+    "translation_notes": "«no vine a traer paz, sino espada» ('ouk ēlthon balein eirēnēn alla machairan', οὐκ ἦλθον βαλεῖν εἰρήνην ἀλλὰ μάχαιραν): Semitismo de propósito y resultado. 'machaira' (espada corta) se emplea metafóricamente como símbolo de la división inexorable que provoca la revelación mesiánica. El Evangelio ofrece la paz reconciliadora con Dios (Rom 5:1), pero al demandar lealtad absoluta y desbaratar las lealtades idólatras del mundo, suscita inevitablemente conflicto, oposición y hostilidad en la sociedad y la familia humana."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 35,
+    "greek_text": "ἦλθον γὰρ διχάσαι ἄνθρωπον κατὰ τοῦ πατρὸς αὐτοῦ καὶ θυγατέρα κατὰ τῆς μητρὸς αὐτῆς καὶ νύμφην κατὰ τῆς πενθερᾶς αὐτῆς,",
+    "translation": "Porque vine a poner en conflicto al hombre contra su padre, a la hija contra su madre y a la nuera contra su suegra;",
+    "translation_notes": "«vine a poner en conflicto al hombre contra su padre...»: Cita libre del texto profético de Miqueas 7:6. El verbo 'dichazō' (διχάζω, hender en dos, dividir, indisponer) resalta la severidad de la escisión. Las parejas mencionadas reflejan las tensiones generacionales y domésticas típicas del hogar patriarcal extendido del Próximo Oriente: padre-hijo, madre-hija, y de modo especialmente conflictivo en la vivienda compartida, nuera (*nymphē*) contra suegra (*penthera*)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 36,
+    "greek_text": "καὶ ἐχθροὶ τοῦ ἀνθρώπου οἱ οἰκιακοὶ αὐτοῦ.",
+    "translation": "y los enemigos del hombre serán los miembros de su propia casa.",
+    "translation_notes": "«y los enemigos del hombre serán los miembros de su propia casa»: Culmina la cita de Miqueas 7:6. 'hoi oikiakoi autou' (los de su propia familia íntima o doméstica). En el judaísmo del siglo I, la lealtad familiar era uno de los pilares éticos más sagrados; Jesús advierte con realismo profético que la fe mesiánica pondrá a prueba hasta el vínculo filial más entrañable."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 37,
+    "greek_text": "ὁ φιλῶν πατέρα ἢ μητέρα ὑπὲρ ἐμὲ οὐκ ἔστιν μου ἄξιος· καὶ ὁ φιλῶν υἱὸν ἢ θυγατέρα ὑπὲρ ἐμὲ οὐκ ἔστιν μου ἄξιος·",
+    "translation": "El que ama a padre o madre más que a mí, no es digno de mí; y el que ama a hijo o hija más que a mí, no es digno de mí;",
+    "translation_notes": "«El que ama a padre o madre más que a mí, no es digno de mí»: El verbo 'phileō' denota aquí profundo afecto y apego afectivo personal. 'hyper eme' expresa preeminencia o prioridad jerárquica. Exigir un amor y una lealtad superiores al mandamiento más fundamental del Decálogo hacia los padres humanos (Éx 20:12) constituye una afirmación cristológica implícita de una altura colosal: solo Dios puede demandar lícitamente el amor supremo e incondicional del corazón humano (Dt 6:4-5, el Shemá)."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 38,
+    "greek_text": "καὶ ὃς οὐ λαμβάνει τὸν σταυρὸν αὐτοῦ καὶ ἀκολουθεῖ ὀπίσω μου, οὐκ ἔστιν μου ἄξιος.",
+    "translation": "y el que no toma su cruz y sigue en pos de mí, no es digno de mí.",
+    "translation_notes": "«el que no toma su cruz y sigue en pos de mí» ('kai hos ou lambanei ton stauron autou kai akolouthei opisō mou', καὶ ὃς οὐ λαμβάνει τὸν σταυρὸν αὐτοῦ καὶ ἀκολουθεῖ ὀπίσω μου): Primera mención explícita del patíbulo de crucifixión ('stauros') en el Evangelio de Mateo. En el contexto de la Palestina ocupada por Roma, los habitantes presenciaban con frecuencia la espantosa procesión de los condenados cargando la viga transversal ('patibulum') hacia el lugar de ejecución pública. La metáfora no se refiere a sobrellevar ligeras molestias de la vida cotidiana, sino a la disposición radical a la muerte civil, al oprobio público extremo y al martirio físico por fidelidad incondicional al Mesías."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 39,
+    "greek_text": "ὁ εὑρὼν τὴν ψυχὴν αὐτοῦ ἀπολέσει αὐτήν, καὶ ὁ ἀπολέσας τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ εὑρήσει αὐτήν.",
+    "translation": "El que halla su vida la perderá, y el que pierde su vida por causa de mí la hallará.",
+    "translation_notes": "«El que halla su vida la perderá, y el que pierde su vida por causa de mí la hallará»: Paradoja escatológica central del discipulado. 'psychē' (ψυχή) juega deliberadamente con dos niveles de sentido: 1) la vida física temporal presente con sus apegos mundanos; y 2) la verdadera existencia escatológica eterna en comunión con Dios. Quien protege a cualquier costo su supervivencia temporal mediante el compromiso moral o la apostasía pierde su destino eterno; quien sacrifica su vida presente por devoción a Cristo ('heneken emou') la gana para la eternidad."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 40,
+    "greek_text": "Ὁ δεχόμενος ὑμᾶς ἐμὲ δέχεται, καὶ ὁ ἐμὲ δεχόμενος δέχεται τὸν ἀποστείλαντά με.",
+    "translation": "El que los recibe a ustedes, a mí me recibe; y el que me recibe a mí, recibe al que me envió.",
+    "translation_notes": "«El que los recibe a ustedes, a mí me recibe...»: Principio judío fundamental de representación delegada legal ('shaliaj': *shelujo shel adam kemoto*, Berajot 5:5: «el enviado de un hombre es como él mismo»). La cadena de recepción espiritual y legal es directa e ininterrumpida: recibir a los apóstoles equivale a recibir al Hijo (Jesús), y recibir al Hijo equivale a recibir al Padre Dios que lo envió ('ton aposteilanta me')."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 41,
+    "greek_text": "ὁ δεχόμενος προφήτην εἰς ὄνομα προφήτου μισθὸν προφήτου λήμψεται, καὶ ὁ δεχόμενος δίκαιον εἰς ὄνομα δικαίου μισθὸν δικαίου λήμψεται.",
+    "translation": "El que recibe a un profeta por cuanto es profeta, recompensa de profeta recibirá; y el que recibe a un justo por cuanto es justo, recompensa de justo recibirá.",
+    "translation_notes": "«por cuanto es profeta... recompensa de profeta recibirá» ('eis onoma prophētou misthon prophētou lēmpsetai'): El modismo griego 'eis onoma' (εἰς ὄνομα) es un calco semítico directo del hebreo 'le-shem' (en virtud de, en consideración a, en calidad de). No se trata de una ayuda caritativa impersonal, sino del reconocimiento explícito de la investidura espiritual y del mensaje del enviado de Dios. Quien apoya al profeta o al justo comparte espiritualmente la recompensa escatológica ('misthos') reservada a su ministerio."
+  },
+  {
+    "book": "MAT",
+    "chapter": 10,
+    "verse": 42,
+    "greek_text": "καὶ ὃς ἂν ποτίσῃ ἕνα τῶν μικρῶν τούτων ποτήριον ψυχροῦ μόνον εἰς ὄνομα μαθητοῦ, ἀμὴν λέγω ὑμῖν, οὐ μὴ ἀπολέσῃ τὸν μισθὸν αὐτοῦ.",
+    "translation": "Y cualquiera que dé de beber a uno de estos pequeños aunque solo sea un vaso de agua fresca por ser mi discípulo, en verdad les digo que de ningún modo perderá su recompensa».",
+    "translation_notes": "«aunque solo sea un vaso de agua fresca por ser mi discípulo» ('potērion psychrou monon eis onoma mathētou'): 'psychrou' elide el sustantivo 'hydatos' (agua fría o fresca, sumamente apreciada en el clima árido de Judea y Galilea). 'tōn mikrōn toutōn' (uno de estos pequeños) alude a los discípulos de Jesús en su condición de vulnerabilidad, pobreza y desamparo mundano al recorrer los caminos sin alforja ni dinero. La fórmula de doble negación enfática 'ou mē apolesē' (de ningún modo perderá) ratifica con la mayor solemnidad que el más mínimo gesto de hospitalidad hacia los mensajeros del Reino es recordado y recompensado eternamente por Dios."
+  }
+]
