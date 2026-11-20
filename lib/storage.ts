@@ -197,15 +197,15 @@ export function clearUserSessionLocalData(): void {
   window.dispatchEvent(new CustomEvent('biblia-user-data-change'));
 }
 
-export function ensureUserScope(userId: string | null): void {
-  if (typeof window === 'undefined') return;
+export function ensureUserScope(userId: string | null): boolean {
+  if (typeof window === 'undefined' || !userId) return false;
   const prev = localStorage.getItem(STORAGE_KEYS.ACTIVE_USER_ID);
-  if (userId) {
-    if (prev && prev !== userId) {
-      clearUserSessionLocalData();
-    }
-    localStorage.setItem(STORAGE_KEYS.ACTIVE_USER_ID, userId);
+  const wasGuestBefore = !prev;
+  if (prev && prev !== userId) {
+    clearUserSessionLocalData();
   }
+  localStorage.setItem(STORAGE_KEYS.ACTIVE_USER_ID, userId);
+  return wasGuestBefore;
 }
 
 async function getCurrentUserId(): Promise<string | null> {
@@ -573,10 +573,19 @@ export async function recordDailyReading(
 // ==========================================
 
 export async function syncCloudUserData(): Promise<void> {
-  const uid = await getCurrentUserId();
-  if (!uid) return;
-
   try {
+    const { data: sessionData } = await supabase.auth.getSession();
+    const user = sessionData?.session?.user;
+    if (!user) return;
+    const uid = user.id;
+
+    const prevUid =
+      typeof window !== 'undefined' ? localStorage.getItem(STORAGE_KEYS.ACTIVE_USER_ID) : null;
+    if (!prevUid) {
+      await migrateGuestDataToCloud(uid);
+    }
+    ensureUserScope(uid);
+
     const [profileRes, hlRes, bmRes] = await Promise.all([
       supabase.from('profiles').select('full_name, phone').eq('id', uid).maybeSingle(),
       supabase
@@ -589,8 +598,23 @@ export async function syncCloudUserData(): Promise<void> {
         .order('created_at', { ascending: false }),
     ]);
 
-    if (profileRes.data?.full_name) {
-      setDisplayName(profileRes.data.full_name);
+    const googleName = String(
+      user.user_metadata?.full_name || user.user_metadata?.name || ''
+    ).trim();
+    const existingProfileName = profileRes.data?.full_name?.trim() || '';
+
+    if (existingProfileName && existingProfileName !== 'Lector') {
+      setDisplayName(existingProfileName);
+    } else if (googleName) {
+      setDisplayName(googleName);
+      await supabase.from('profiles').upsert(
+        {
+          id: uid,
+          full_name: googleName,
+          updated_at: new Date().toISOString(),
+        },
+        { onConflict: 'id' }
+      );
     }
 
     if (!hlRes.error && hlRes.data) {
@@ -623,8 +647,8 @@ export async function syncCloudUserData(): Promise<void> {
   }
 }
 
-export async function migrateGuestDataToCloud(): Promise<void> {
-  const uid = await getCurrentUserId();
+export async function migrateGuestDataToCloud(explicitUid?: string): Promise<void> {
+  const uid = explicitUid || (await getCurrentUserId());
   if (!uid || typeof window === 'undefined') return;
 
   try {

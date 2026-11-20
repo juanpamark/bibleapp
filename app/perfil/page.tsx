@@ -182,9 +182,16 @@ export default function PerfilPage() {
 
     const {
       data: { subscription },
-    } = supabase.auth.onAuthStateChange((_event, session) => {
+    } = supabase.auth.onAuthStateChange((event, session) => {
       const user = session?.user || null;
       setSessionUser(user);
+      if (
+        event === 'SIGNED_IN' &&
+        typeof window !== 'undefined' &&
+        (window.location.hash.includes('access_token') || window.location.search.includes('code='))
+      ) {
+        window.history.replaceState(null, '', window.location.pathname);
+      }
       if (user) {
         ensureUserScope(user.id);
         void loadAllUserData();
@@ -290,6 +297,7 @@ export default function PerfilPage() {
     setHighlights([]);
     setBookmarks([]);
     setNotes([]);
+    setView('main');
   };
 
   const handleShareApp = async () => {
@@ -340,22 +348,43 @@ export default function PerfilPage() {
             {/* Cabecera del perfil + botones Liquid Glass de Configuración y Más */}
             <section className="flex items-center justify-between gap-3">
               <div className="flex items-center gap-3.5 min-w-0">
-                <div className="w-12 h-12 rounded-full bg-primary/15 border border-primary/25 text-primary font-serif text-lg font-bold flex items-center justify-center flex-shrink-0">
-                  {initials}
-                </div>
+                {(sessionUser?.user_metadata?.avatar_url || sessionUser?.user_metadata?.picture) ? (
+                  <img
+                    src={sessionUser.user_metadata.avatar_url || sessionUser.user_metadata.picture}
+                    alt={resolvedDisplayName}
+                    referrerPolicy="no-referrer"
+                    className="w-12 h-12 rounded-full object-cover border border-primary/25 flex-shrink-0"
+                  />
+                ) : (
+                  <div className="w-12 h-12 rounded-full bg-primary/15 border border-primary/25 text-primary font-serif text-lg font-bold flex items-center justify-center flex-shrink-0">
+                    {initials}
+                  </div>
+                )}
                 <div className="min-w-0">
                   <h1 className="font-serif text-xl sm:text-2xl font-bold text-on-surface tracking-tight truncate">
                     {resolvedDisplayName}
                   </h1>
                   <p className="text-xs text-on-surface-variant truncate">
                     {sessionUser?.email
-                      ? `Sincronizado · ${sessionUser.email}`
+                      ? `Conectado con Google · ${sessionUser.email}`
                       : 'Guardado localmente en este dispositivo'}
                   </p>
                 </div>
               </div>
 
               <div className="flex items-center gap-2 flex-shrink-0">
+                {sessionUser && (
+                  <button
+                    type="button"
+                    onClick={handleSignOut}
+                    aria-label="Cerrar sesión"
+                    title="Cerrar sesión"
+                    className="h-10 px-3 rounded-full liquid-glass inline-flex items-center gap-1.5 text-xs font-semibold text-rose-500 hover:bg-rose-500/10 active:scale-95 transition-all"
+                  >
+                    <LogOut className="w-3.5 h-3.5" />
+                    <span className="hidden sm:inline">Salir</span>
+                  </button>
+                )}
                 <button
                   type="button"
                   onClick={() => setView('settings')}
@@ -396,7 +425,7 @@ export default function PerfilPage() {
                   onClick={() => setShowAuthModal(true)}
                   className="px-4 py-2.5 rounded-full bg-primary hover:bg-tertiary text-on-primary text-xs font-semibold active:scale-95 transition-all flex-shrink-0 self-start sm:self-center"
                 >
-                  Iniciar sesión
+                  Continuar con Google
                 </button>
               </section>
             )}
@@ -623,23 +652,32 @@ export default function PerfilPage() {
                 </form>
 
                 <div className="p-4 flex items-center justify-between gap-3">
-                  <div>
+                  <div className="min-w-0">
                     <p className="text-sm font-semibold text-on-surface">
-                      {sessionUser ? 'Cuenta conectada' : 'Respaldo en la nube'}
+                      {sessionUser ? 'Conectado con Google' : 'Respaldo en la nube'}
                     </p>
-                    <p className="text-xs text-on-surface-variant">
+                    <p className="text-xs text-on-surface-variant truncate">
                       {sessionUser
-                        ? [sessionUser.email, sessionUser.user_metadata?.phone].filter(Boolean).join(' · ')
-                        : 'Inicia sesión para respaldar notas y marcadores.'}
+                        ? sessionUser.email
+                        : 'Conecta tu cuenta de Google para respaldar notas y marcadores.'}
                     </p>
                   </div>
-                  {!sessionUser && (
+                  {sessionUser ? (
+                    <button
+                      type="button"
+                      onClick={handleSignOut}
+                      className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full bg-rose-500/10 hover:bg-rose-500/20 text-xs font-semibold text-rose-500 active:scale-95 transition-all flex-shrink-0"
+                    >
+                      <LogOut className="w-3.5 h-3.5" />
+                      <span>Cerrar sesión</span>
+                    </button>
+                  ) : (
                     <button
                       type="button"
                       onClick={() => setShowAuthModal(true)}
-                      className="px-4 py-2 rounded-full bg-surface-container hover:bg-surface-container-high text-xs font-semibold text-on-surface active:scale-95 transition-all"
+                      className="px-4 py-2 rounded-full bg-primary hover:bg-tertiary text-xs font-semibold text-on-primary active:scale-95 transition-all flex-shrink-0"
                     >
-                      Conectar
+                      Conectar Google
                     </button>
                   )}
                 </div>
