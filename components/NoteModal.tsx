@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { X, Folder, Tag, Save, Check } from 'lucide-react';
 import { NoteFolder, UserNote } from '@/lib/supabase';
-import { getFolders, createNote } from '@/lib/storage';
+import { getFolders, createNote, updateNote } from '@/lib/storage';
 import { getBookMeta } from '@/lib/constants';
 
 interface NoteModalProps {
@@ -95,15 +95,22 @@ export default function NoteModal({
     const verse = verseRef?.verse || existingNote?.verse || 1;
 
     try {
-      const saved = await createNote({
-        book,
-        chapter,
-        verse,
-        title,
-        content,
-        tags,
-        folder_id: selectedFolderId || null,
-      });
+      const saved = existingNote
+        ? (await updateNote(existingNote.id, {
+            title,
+            content,
+            tags,
+            folder_id: selectedFolderId || null,
+          })) || existingNote
+        : await createNote({
+            book,
+            chapter,
+            verse,
+            title,
+            content,
+            tags,
+            folder_id: selectedFolderId || null,
+          });
 
       setSavedSuccess(true);
       if (onSaved) onSaved(saved);

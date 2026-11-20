@@ -25,7 +25,10 @@ import {
   VerseHighlight,
   removeHighlight,
   toggleBookmark,
+  getReadingTheme,
+  syncCloudUserData,
 } from '@/lib/storage';
+import { getHighlightSwatch, resolveHighlightSpec } from '@/lib/highlights';
 import { getBookMeta } from '@/lib/constants';
 import TopHeader from '@/components/TopHeader';
 import NoteModal from '@/components/NoteModal';
@@ -50,6 +53,7 @@ export default function NotasPage() {
   const loadData = async () => {
     setLoading(true);
     try {
+      await syncCloudUserData();
       const [allFolders, allNotes] = await Promise.all([getFolders(), getNotes()]);
       setFolders(allFolders);
       setNotes(allNotes);
@@ -64,6 +68,12 @@ export default function NotasPage() {
 
   useEffect(() => {
     loadData();
+    const onSync = () => {
+      setHighlights(getAllHighlights());
+      setBookmarks(getBookmarks());
+    };
+    window.addEventListener('biblia-user-data-change', onSync);
+    return () => window.removeEventListener('biblia-user-data-change', onSync);
   }, []);
 
   const handleDeleteNote = async (id: string) => {
@@ -362,6 +372,8 @@ export default function NotasPage() {
             ) : (
               highlights.map((h) => {
                 const name = getBookMeta(h.book)?.name || h.book;
+                const spec = resolveHighlightSpec(h.color);
+                const swatch = getHighlightSwatch(h.color, getReadingTheme());
                 return (
                   <div
                     key={`${h.book}-${h.chapter}-${h.verse}`}
@@ -372,15 +384,15 @@ export default function NotasPage() {
                       className="flex items-center gap-3 flex-1 min-w-0"
                     >
                       <span
-                        className="w-4 h-4 rounded-full flex-shrink-0 border border-black/10"
-                        style={{ backgroundColor: h.color }}
+                        className="w-4 h-4 rounded-full flex-shrink-0 border border-black/15"
+                        style={{ backgroundColor: swatch }}
                       />
                       <div className="min-w-0">
                         <p className="font-serif text-sm font-bold text-on-surface truncate">
                           {name} {h.chapter}:{h.verse}
                         </p>
                         <p className="text-[11px] text-on-surface-variant">
-                          Abrir pasaje en el lector
+                          {spec ? `${spec.name} · ${spec.purpose}` : 'Abrir pasaje en el lector'}
                         </p>
                       </div>
                     </Link>

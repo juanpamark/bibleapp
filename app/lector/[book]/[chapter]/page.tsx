@@ -34,7 +34,14 @@ import {
   removeHighlight,
   isBookmarked,
   toggleBookmark,
+  recordDailyReading,
 } from '@/lib/storage';
+import {
+  EDITORIAL_HIGHLIGHTS,
+  getHighlightBackground,
+  getHighlightAccent,
+  resolveHighlightSpec,
+} from '@/lib/highlights';
 import ExegesisDrawer from '@/components/ExegesisDrawer';
 import NoteModal from '@/components/NoteModal';
 import TranslationModal from '@/components/TranslationModal';
@@ -47,18 +54,6 @@ interface LectorPageProps {
     chapter: string;
   };
 }
-
-const EDITORIAL_HIGHLIGHTS = [
-  { name: 'Papiro', hex: '#FDE68A' },
-  { name: 'Salvia', hex: '#BBF7D0' },
-  { name: 'Cielo', hex: '#BAE6FD' },
-  { name: 'Terracota', hex: '#FED7AA' },
-  { name: 'Lavanda', hex: '#E9D5FF' },
-  { name: 'Coral', hex: '#FECDD3' },
-  { name: 'Menta', hex: '#99F6E4' },
-  { name: 'Arena', hex: '#FDE2B8' },
-  { name: 'Índigo', hex: '#C7D2FE' },
-];
 
 export default function LectorChapterPage({ params }: LectorPageProps) {
   const router = useRouter();
@@ -159,6 +154,7 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
     }
 
     setHighlights(getHighlights(bookCode, chapterNum));
+    void recordDailyReading(bookCode, chapterNum);
 
     async function fetchChapter() {
       setLoading(true);
@@ -310,6 +306,7 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
       saveHighlight(bookCode, chapterNum, vNum, color, vObj?.translation);
     });
     setHighlights(getHighlights(bookCode, chapterNum));
+    void recordDailyReading(bookCode, chapterNum);
     // Auto-cerrar el dock para seguir leyendo sin fricción
     setSelectedVerseNums([]);
     setDockDragY(0);
@@ -319,6 +316,7 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
     if (selectedVerseNums.length === 0) return;
     selectedVerseNums.forEach((vNum) => removeHighlight(bookCode, chapterNum, vNum));
     setHighlights(getHighlights(bookCode, chapterNum));
+    void recordDailyReading(bookCode, chapterNum);
     setSelectedVerseNums([]);
     setDockDragY(0);
   };
@@ -716,24 +714,22 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
                   const isSelected = selectedVerseNums.includes(v.verse);
                   const verseHasNote = hasNote(v.verse);
                   const highlightColor = highlights[v.verse];
-                  const isDark = theme === 'dark';
+                  const hlBg = getHighlightBackground(highlightColor, theme);
+                  const hlAccent = getHighlightAccent(highlightColor, theme);
 
                   return (
                     <div
                       key={v.id}
                       id={`verse-${v.verse}`}
                       onClick={() => handleVerseClick(v)}
-                      className={`group relative rounded-xl px-2.5 py-1.5 -mx-2.5 transition-colors duration-150 cursor-pointer ${
+                      className={`group relative rounded-xl px-3 py-1.5 -mx-3 transition-colors duration-150 cursor-pointer ${
                         isSelected
                           ? 'bg-primary/[0.09]'
                           : 'hover:bg-on-surface/[0.03]'
                       }`}
                       style={{
-                        backgroundColor: highlightColor
-                          ? isDark
-                            ? `${highlightColor}30`
-                            : `${highlightColor}55`
-                          : undefined,
+                        backgroundColor: hlBg,
+                        boxShadow: hlAccent ? `inset 3px 0 0 0 ${hlAccent}` : undefined,
                       }}
                     >
                       <p>
@@ -852,23 +848,27 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
               </button>
             </div>
 
-            {/* Paleta editorial ampliada de 9 colores (cierra automáticamente al elegir) */}
-            <div className="flex items-center justify-between gap-2 px-1">
-              <div className="flex flex-wrap items-center gap-2">
+            {/* Paleta calibrada de 10 colores dual-mode (5x2, cierra automáticamente al elegir) */}
+            <div className="flex items-center justify-between gap-3 px-1">
+              <div className="grid grid-cols-5 gap-2">
                 {EDITORIAL_HIGHLIGHTS.map((c) => {
-                  const isActiveColor =
-                    selectedVerseNums.length === 1 && highlights[selectedVerseNums[0]] === c.hex;
+                  const activeSpec =
+                    selectedVerseNums.length === 1
+                      ? resolveHighlightSpec(highlights[selectedVerseNums[0]])
+                      : undefined;
+                  const isActiveColor = activeSpec?.id === c.id;
+                  const swatchHex = theme === 'dark' ? c.swatchDark : c.swatch;
                   return (
                     <button
-                      key={c.hex}
+                      key={c.id}
                       type="button"
-                      onClick={() => handleApplyColor(c.hex)}
-                      aria-label={`Resaltar en ${c.name}`}
-                      title={c.name}
-                      className={`w-7 h-7 sm:w-8 sm:h-8 rounded-full transition-transform hover:scale-110 active:scale-95 border border-black/10 ${
+                      onClick={() => handleApplyColor(c.id)}
+                      aria-label={`Resaltar en ${c.name} (${c.purpose})`}
+                      title={`${c.name} · ${c.purpose}`}
+                      className={`w-7 h-7 sm:w-8 sm:h-8 rounded-full transition-transform hover:scale-110 active:scale-95 border border-black/15 dark:border-white/15 ${
                         isActiveColor ? 'ring-2 ring-primary ring-offset-2 ring-offset-surface' : ''
                       }`}
-                      style={{ backgroundColor: c.hex }}
+                      style={{ backgroundColor: swatchHex }}
                     />
                   );
                 })}

@@ -35,9 +35,14 @@ import {
   setShowNoteIndicators,
   getDisplayName,
   setDisplayName,
+  saveProfileNameCloud,
+  syncCloudUserData,
+  clearUserSessionLocalData,
+  ensureUserScope,
   VerseHighlight,
   BookmarkMetaItem,
 } from '@/lib/storage';
+import { getHighlightSwatch } from '@/lib/highlights';
 import { getBookMeta } from '@/lib/constants';
 import TopHeader from '@/components/TopHeader';
 import TranslationModal from '@/components/TranslationModal';
@@ -70,7 +75,7 @@ export default function PerfilPage() {
   const [editingName, setEditingName] = useState('');
   const [nameSaved, setNameSaved] = useState(false);
 
-  const [streak, setStreak] = useState(14);
+  const [streak, setStreak] = useState(0);
   const [theme, setTheme] = useState<ReadingTheme>('light');
   const [fontSize, setFontSizeState] = useState<'sm' | 'md' | 'lg' | 'xl'>('md');
   const [noteIndicators, setNoteIndicators] = useState(true);
@@ -87,11 +92,21 @@ export default function PerfilPage() {
   const [showGesturesInfo, setShowGesturesInfo] = useState(false);
 
   const loadAllUserData = async () => {
-    setStreak(getReadingStreak());
     setTheme(getReadingTheme());
     setFontSizeState(getFontSize());
     setNoteIndicators(getShowNoteIndicators());
 
+    try {
+      const { data: sessionRes } = await supabase.auth.getSession();
+      const user = sessionRes?.session?.user || null;
+      setSessionUser(user);
+      if (user) {
+        ensureUserScope(user.id);
+        await syncCloudUserData();
+      }
+    } catch {}
+
+    setStreak(getReadingStreak());
     const storedName = getDisplayName();
     setProfileName(storedName);
     setEditingName(storedName);
@@ -102,8 +117,7 @@ export default function PerfilPage() {
     setBookmarks(bm);
 
     try {
-      const [{ data }, allNotes] = await Promise.all([supabase.auth.getSession(), getNotes()]);
-      setSessionUser(data?.session?.user || null);
+      const allNotes = await getNotes();
       setNotes(allNotes);
 
       // Hidratar textos de versículos para resaltados, notas y guardados
@@ -169,7 +183,12 @@ export default function PerfilPage() {
     const {
       data: { subscription },
     } = supabase.auth.onAuthStateChange((_event, session) => {
-      setSessionUser(session?.user || null);
+      const user = session?.user || null;
+      setSessionUser(user);
+      if (user) {
+        ensureUserScope(user.id);
+        void loadAllUserData();
+      }
     });
 
     return () => {
@@ -251,18 +270,26 @@ export default function PerfilPage() {
     .map((part: string) => part[0]?.toUpperCase() || '')
     .join('') || 'B';
 
-  const handleSaveName = (e: React.FormEvent) => {
+  const handleSaveName = async (e: React.FormEvent) => {
     e.preventDefault();
     const cleaned = editingName.trim();
     setDisplayName(cleaned);
     setProfileName(cleaned);
+    await saveProfileNameCloud(cleaned);
     setNameSaved(true);
     setTimeout(() => setNameSaved(false), 1800);
   };
 
   const handleSignOut = async () => {
     await supabase.auth.signOut();
+    clearUserSessionLocalData();
     setSessionUser(null);
+    setProfileName('');
+    setEditingName('');
+    setStreak(0);
+    setHighlights([]);
+    setBookmarks([]);
+    setNotes([]);
   };
 
   const handleShareApp = async () => {
@@ -481,7 +508,7 @@ export default function PerfilPage() {
                           {item.type === 'highlight' && (
                             <span
                               className="w-2.5 h-2.5 rounded-full border border-black/15 flex-shrink-0"
-                              style={{ backgroundColor: item.color }}
+                              style={{ backgroundColor: getHighlightSwatch(item.color, theme) }}
                               aria-hidden="true"
                             />
                           )}
@@ -602,7 +629,7 @@ export default function PerfilPage() {
                     </p>
                     <p className="text-xs text-on-surface-variant">
                       {sessionUser
-                        ? sessionUser.email
+                        ? [sessionUser.email, sessionUser.user_metadata?.phone].filter(Boolean).join(' · ')
                         : 'Inicia sesión para respaldar notas y marcadores.'}
                     </p>
                   </div>

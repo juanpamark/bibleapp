@@ -18,6 +18,10 @@ import {
   getLastRead,
   LastReadPosition,
   getReadingStreak,
+  syncReadingState,
+  syncCloudUserData,
+  getDisplayName,
+  fetchDailyVerse,
   isBookmarked,
   toggleBookmark,
 } from '@/lib/storage';
@@ -43,7 +47,8 @@ export default function InicioPage() {
     verse: 1,
     updatedAt: '',
   });
-  const [streak, setStreak] = useState(14);
+  const [streak, setStreak] = useState(0);
+  const [userName, setUserName] = useState('');
   const [greeting, setGreeting] = useState('Bienvenido');
   const [showTransModal, setShowTransModal] = useState(false);
   const [showNoteModal, setShowNoteModal] = useState(false);
@@ -55,35 +60,15 @@ export default function InicioPage() {
     setGreeting(getGreeting());
     setLastRead(getLastRead());
     setStreak(getReadingStreak());
+    setUserName(getDisplayName());
 
     async function loadDailyVerse() {
       try {
         setLoadingVerse(true);
-        const { data, error } = await supabase
-          .from('verses')
-          .select('*')
-          .eq('book', 'PHP')
-          .eq('chapter', 4)
-          .eq('verse', 6)
-          .maybeSingle();
-
-        if (data && !error) {
-          setDailyVerse(data);
-          setDailyBookmarked(isBookmarked(data.book, data.chapter, data.verse));
-        } else {
-          const { data: fallbackData } = await supabase
-            .from('verses')
-            .select('*')
-            .eq('book', 'MAT')
-            .eq('chapter', 5)
-            .eq('verse', 14)
-            .maybeSingle();
-          if (fallbackData) {
-            setDailyVerse(fallbackData);
-            setDailyBookmarked(
-              isBookmarked(fallbackData.book, fallbackData.chapter, fallbackData.verse)
-            );
-          }
+        const verse = await fetchDailyVerse();
+        if (verse) {
+          setDailyVerse(verse);
+          setDailyBookmarked(isBookmarked(verse.book, verse.chapter, verse.verse));
         }
       } catch (err) {
         console.error('Error cargando versículo del día:', err);
@@ -92,7 +77,24 @@ export default function InicioPage() {
       }
     }
 
+    async function syncUser() {
+      await syncCloudUserData();
+      const state = await syncReadingState();
+      setStreak(state.currentStreak);
+      setUserName(getDisplayName());
+      setLastRead(getLastRead());
+    }
+
     loadDailyVerse();
+    syncUser();
+
+    const handleUserDataChange = () => {
+      setStreak(getReadingStreak());
+      setUserName(getDisplayName());
+      setLastRead(getLastRead());
+    };
+    window.addEventListener('biblia-user-data-change', handleUserDataChange);
+    return () => window.removeEventListener('biblia-user-data-change', handleUserDataChange);
   }, []);
 
   const handleCopyDaily = async () => {
@@ -160,7 +162,7 @@ export default function InicioPage() {
               {formattedDate}
             </p>
             <h1 className="font-serif text-2xl sm:text-3xl font-bold text-on-surface tracking-tight mt-0.5">
-              {greeting}
+              {userName ? `${greeting}, ${userName.split(' ')[0]}` : greeting}
             </h1>
           </div>
 
