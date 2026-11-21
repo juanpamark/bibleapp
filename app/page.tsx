@@ -14,6 +14,7 @@ import {
   Search,
   Clock,
   Languages,
+  CheckCircle2,
 } from 'lucide-react';
 import { VerseRecord } from '@/lib/supabase';
 import {
@@ -26,12 +27,15 @@ import {
   fetchDailyVerse,
   isBookmarked,
   toggleBookmark,
+  getPrayerSession,
+  isPrayerCompletedToday,
 } from '@/lib/storage';
 import { getBookMeta } from '@/lib/constants';
 import {
   HOME_MEDIA,
   PRAYER_THEMES,
   PrayerTheme,
+  getPrayerDateStr,
   getTodayPrayerTheme,
 } from '@/lib/prayers';
 import TopHeader from '@/components/TopHeader';
@@ -46,6 +50,13 @@ function getGreeting(): string {
   if (hour < 12) return 'Buenos días';
   if (hour < 19) return 'Buenas tardes';
   return 'Buenas noches';
+}
+
+function formatCountdown(ms: number): string {
+  const totalSeconds = Math.ceil(Math.max(0, ms) / 1000);
+  const mins = Math.floor(totalSeconds / 60);
+  const secs = totalSeconds % 60;
+  return `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
 }
 
 export default function InicioPage() {
@@ -65,16 +76,45 @@ export default function InicioPage() {
   const [showSearchModal, setShowSearchModal] = useState(false);
   const [showPrayerModal, setShowPrayerModal] = useState(false);
   const [showDailyExegesis, setShowDailyExegesis] = useState(false);
+  const [prayerDateStr, setPrayerDateStr] = useState('');
   const [todayPrayer, setTodayPrayer] = useState<PrayerTheme>(PRAYER_THEMES[0]);
+  const [prayerCompleted, setPrayerCompleted] = useState(false);
+  const [prayerLiveStatus, setPrayerLiveStatus] = useState<{
+    status: 'running' | 'paused';
+    remainingMs: number;
+  } | null>(null);
   const [copiedDaily, setCopiedDaily] = useState(false);
   const [dailyBookmarked, setDailyBookmarked] = useState(false);
 
   useEffect(() => {
     setGreeting(getGreeting());
-    setTodayPrayer(getTodayPrayerTheme());
     setLastRead(getLastRead());
     setStreak(getReadingStreak());
     setUserName(getDisplayName());
+
+    const refreshPrayerState = () => {
+      const dateStr = getPrayerDateStr();
+      setPrayerDateStr(dateStr);
+      setTodayPrayer(getTodayPrayerTheme(dateStr));
+      setPrayerCompleted(isPrayerCompletedToday(dateStr));
+
+      const session = getPrayerSession(dateStr);
+      if (session && session.status === 'running' && session.endTimeMs !== null) {
+        setPrayerLiveStatus({
+          status: 'running',
+          remainingMs: Math.max(0, session.endTimeMs - Date.now()),
+        });
+      } else if (session && session.status === 'paused' && session.pausedRemainingMs !== null) {
+        setPrayerLiveStatus({
+          status: 'paused',
+          remainingMs: Math.max(0, session.pausedRemainingMs),
+        });
+      } else {
+        setPrayerLiveStatus(null);
+      }
+    };
+
+    refreshPrayerState();
 
     async function loadDailyVerse() {
       try {
@@ -107,9 +147,40 @@ export default function InicioPage() {
       setUserName(getDisplayName());
       setLastRead(getLastRead());
     };
+    const handleVisibilityOrFocus = () => {
+      refreshPrayerState();
+    };
+
     window.addEventListener('biblia-user-data-change', handleUserDataChange);
-    return () => window.removeEventListener('biblia-user-data-change', handleUserDataChange);
+    window.addEventListener('biblia-prayer-change', refreshPrayerState);
+    window.addEventListener('focus', handleVisibilityOrFocus);
+    document.addEventListener('visibilitychange', handleVisibilityOrFocus);
+    return () => {
+      window.removeEventListener('biblia-user-data-change', handleUserDataChange);
+      window.removeEventListener('biblia-prayer-change', refreshPrayerState);
+      window.removeEventListener('focus', handleVisibilityOrFocus);
+      document.removeEventListener('visibilitychange', handleVisibilityOrFocus);
+    };
   }, []);
+
+  // Actualizar la visualización del reloj en segundo plano en Inicio si el usuario cerró con X
+  useEffect(() => {
+    if (!prayerDateStr || showPrayerModal || prayerLiveStatus?.status !== 'running') return;
+    const syncTick = () => {
+      const session = getPrayerSession(prayerDateStr);
+      if (session && session.status === 'running' && session.endTimeMs !== null) {
+        setPrayerLiveStatus({
+          status: 'running',
+          remainingMs: Math.max(0, session.endTimeMs - Date.now()),
+        });
+      } else {
+        setPrayerLiveStatus(null);
+      }
+    };
+    syncTick();
+    const id = window.setInterval(syncTick, 1000);
+    return () => window.clearInterval(id);
+  }, [prayerDateStr, showPrayerModal, prayerLiveStatus?.status]);
 
   const handleCopyDaily = async () => {
     if (!dailyVerse) return;
@@ -384,18 +455,34 @@ export default function InicioPage() {
 
         {/* 4. Oración diaria guiada (abajo de Seguir leyendo, arriba de Empieza por el contexto) */}
         <section className="space-y-3">
-          <div className="flex items-center justify-between">
+          <div className="flex items-center justify-between gap-2">
             <h2 className="font-serif text-lg font-bold text-on-surface">Oración</h2>
-            <span className="inline-flex items-center gap-1 text-xs font-semibold text-primary">
-              <Clock className="w-3.5 h-3.5" />
-              <span>{todayPrayer.durationMinutes} min · Hoy</span>
-            </span>
+
+            {prayerCompleted ? (
+              <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-500/12 border border-emerald-500/30 text-emerald-700 dark:text-emerald-400 text-xs font-semibold">
+                <CheckCircle2 className="w-3.5 h-3.5" />
+                <span>Completado</span>
+              </span>
+            ) : prayerLiveStatus ? (
+              <span className="inline-flex items-center gap-1 text-xs font-semibold text-primary font-mono tabular-nums">
+                <Clock className="w-3.5 h-3.5" />
+                <span>
+                  {prayerLiveStatus.status === 'running' ? 'En curso' : 'En pausa'} ·{' '}
+                  {formatCountdown(prayerLiveStatus.remainingMs)}
+                </span>
+              </span>
+            ) : (
+              <span className="inline-flex items-center gap-1 text-xs font-semibold text-primary">
+                <Clock className="w-3.5 h-3.5" />
+                <span>{todayPrayer.durationMinutes} min · Hoy</span>
+              </span>
+            )}
           </div>
 
           <div className="rounded-3xl bg-surface-container-lowest p-4 sm:p-5 border border-outline-variant/40 shadow-warm">
-            <div className="grid grid-cols-[96px_1fr] sm:grid-cols-[148px_1fr] gap-x-4 gap-y-3.5 items-start">
+            <div className="grid grid-cols-[84px_1fr] gap-x-3.5 gap-y-3 items-center sm:grid-cols-[152px_1fr] sm:gap-x-5 sm:gap-y-2.5 sm:items-start">
               {/* Imagen 1:1 editorial de oración */}
-              <div className="sm:row-span-2 w-24 h-24 sm:w-[148px] sm:h-[148px] aspect-square rounded-2xl overflow-hidden border border-outline-variant/30 bg-surface-container flex-shrink-0">
+              <div className="sm:row-span-3 w-[84px] h-[84px] sm:w-[152px] sm:h-[152px] aspect-square rounded-2xl overflow-hidden border border-outline-variant/30 bg-surface-container flex-shrink-0">
                 <img
                   src={HOME_MEDIA.prayerCard}
                   alt="Momento de oración diaria"
@@ -404,20 +491,22 @@ export default function InicioPage() {
                 />
               </div>
 
-              {/* Título del día e invitación */}
-              <div className="space-y-1.5 min-w-0">
+              {/* Encabezado compacto junto a la imagen en móvil */}
+              <div className="space-y-1 min-w-0">
                 <span className="text-[11px] font-semibold uppercase tracking-wider text-primary block">
                   Propósito de hoy · {todayPrayer.shortTitle}
                 </span>
                 <h3 className="font-serif text-base sm:text-lg font-bold text-on-surface leading-snug">
                   {todayPrayer.title}
                 </h3>
-                <p className="text-xs sm:text-[13px] text-on-surface-variant leading-relaxed">
-                  {todayPrayer.shortIntro}
-                </p>
               </div>
 
-              {/* Frase contemplativa de cierre + Botón Empezar */}
+              {/* Invitación a ancho completo en móvil y columna derecha en escritorio */}
+              <p className="col-span-2 sm:col-span-1 sm:col-start-2 text-xs sm:text-[13px] text-on-surface-variant leading-relaxed">
+                {todayPrayer.shortIntro}
+              </p>
+
+              {/* Frase contemplativa de cierre + Botón Empezar (siempre accesible incluso si completado) */}
               <div className="col-span-2 sm:col-span-1 sm:col-start-2 pt-3 sm:pt-1 border-t border-outline-variant/25 sm:border-t-0 flex flex-col sm:flex-row sm:items-end justify-between gap-3">
                 <p className="font-serif italic text-xs sm:text-[13px] text-on-surface/85 leading-relaxed">
                   {todayPrayer.closingCall}
@@ -425,7 +514,7 @@ export default function InicioPage() {
                 <button
                   type="button"
                   onClick={() => setShowPrayerModal(true)}
-                  className="inline-flex items-center justify-center gap-1.5 px-5 py-2.5 rounded-full bg-primary hover:bg-tertiary text-on-primary text-xs font-semibold shadow-sm active:scale-95 transition-all flex-shrink-0"
+                  className="w-full sm:w-auto inline-flex items-center justify-center gap-1.5 px-5 py-2.5 rounded-full bg-primary hover:bg-tertiary text-on-primary text-xs font-semibold shadow-sm active:scale-95 transition-all flex-shrink-0"
                 >
                   <span>Empezar</span>
                   <ChevronRight className="w-3.5 h-3.5" />
@@ -518,7 +607,8 @@ export default function InicioPage() {
       <PrayerModal
         isOpen={showPrayerModal}
         onClose={() => setShowPrayerModal(false)}
-        initialTheme={todayPrayer}
+        theme={todayPrayer}
+        prayerDateStr={prayerDateStr || getPrayerDateStr()}
       />
       <ExegesisDrawer
         verse={dailyVerse}

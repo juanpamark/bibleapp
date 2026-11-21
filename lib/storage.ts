@@ -20,6 +20,8 @@ const STORAGE_KEYS = {
   BOOKMARKS: 'biblia_bookmarks',
   BOOKMARK_META: 'biblia_bookmark_meta',
   DAILY_VERSE_CACHE: 'biblia_daily_verse_cache',
+  PRAYER_SESSION: 'biblia_prayer_session',
+  PRAYER_COMPLETED_DATE: 'biblia_prayer_completed_date',
 };
 
 export interface LastReadPosition {
@@ -1124,4 +1126,64 @@ export function toggleBookmark(
   });
 
   return state;
+}
+
+// ==========================================
+// ORACIÓN DIARIA (CORTE 4:00 A.M. · TEMPORIZADOR PERSISTENTE)
+// ==========================================
+
+export interface PrayerSessionState {
+  dateStr: string;
+  status: 'running' | 'paused';
+  endTimeMs: number | null;
+  pausedRemainingMs: number | null;
+}
+
+export function getPrayerSession(dateStr: string): PrayerSessionState | null {
+  if (typeof window === 'undefined') return null;
+  try {
+    const raw = localStorage.getItem(STORAGE_KEYS.PRAYER_SESSION);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw) as PrayerSessionState;
+    if (!parsed || parsed.dateStr !== dateStr) {
+      localStorage.removeItem(STORAGE_KEYS.PRAYER_SESSION);
+      return null;
+    }
+    return parsed;
+  } catch {
+    return null;
+  }
+}
+
+export function savePrayerSession(session: PrayerSessionState): void {
+  if (typeof window === 'undefined') return;
+  try {
+    localStorage.setItem(STORAGE_KEYS.PRAYER_SESSION, JSON.stringify(session));
+    window.dispatchEvent(new CustomEvent('biblia-prayer-change'));
+  } catch {}
+}
+
+export function clearPrayerSession(): void {
+  if (typeof window === 'undefined') return;
+  try {
+    localStorage.removeItem(STORAGE_KEYS.PRAYER_SESSION);
+    window.dispatchEvent(new CustomEvent('biblia-prayer-change'));
+  } catch {}
+}
+
+export function isPrayerCompletedToday(dateStr: string): boolean {
+  if (typeof window === 'undefined') return false;
+  try {
+    return localStorage.getItem(STORAGE_KEYS.PRAYER_COMPLETED_DATE) === dateStr;
+  } catch {
+    return false;
+  }
+}
+
+export function markPrayerCompletedToday(dateStr: string): void {
+  if (typeof window === 'undefined') return;
+  try {
+    localStorage.setItem(STORAGE_KEYS.PRAYER_COMPLETED_DATE, dateStr);
+    window.dispatchEvent(new CustomEvent('biblia-prayer-change'));
+  } catch {}
 }

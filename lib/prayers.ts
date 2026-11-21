@@ -561,8 +561,16 @@ export const PRAYER_THEMES: PrayerTheme[] = [
   },
 ];
 
-export function getTodayPrayerTheme(devotionalDateStr?: string): PrayerTheme {
-  const dateKey = devotionalDateStr || getDevotionalDateStr();
+/**
+ * Devuelve la fecha del día de oración en formato YYYY-MM-DD con corte exacto a las 4:00 a.m.
+ * Antes de las 4:00 a.m. sigue vigente el tema del día anterior; a las 4:00 a.m. cambia al siguiente.
+ */
+export function getPrayerDateStr(date = new Date()): string {
+  return getDevotionalDateStr(date, 4);
+}
+
+export function getTodayPrayerTheme(prayerDateStr?: string): PrayerTheme {
+  const dateKey = prayerDateStr || getPrayerDateStr();
   const [y, m, d] = dateKey.split('-').map((n) => parseInt(n, 10));
   const daysSinceEpoch = Math.floor(Date.UTC(y, m - 1, d) / 86400000);
   const idx = ((daysSinceEpoch % PRAYER_THEMES.length) + PRAYER_THEMES.length) % PRAYER_THEMES.length;
