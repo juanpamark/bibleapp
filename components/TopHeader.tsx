@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import Link from 'next/link';
 import { Search, Info } from 'lucide-react';
 
 interface TopHeaderProps {
@@ -34,14 +33,9 @@ export default function TopHeader({
       }`}
     >
       <div className="w-full flex items-center justify-between px-4 py-3 max-w-screen-md mx-auto">
-        <Link href="/" className="flex items-center gap-2 text-on-surface active:scale-95 transition-transform">
-          <img
-            src="/icon-192.png"
-            alt="Originals Bible"
-            className="w-6 h-6 rounded-lg object-cover shadow-xs"
-          />
-          <span className="font-serif text-lg font-bold tracking-tight">{title}</span>
-        </Link>
+        <div className="flex items-center text-on-surface">
+          <span className="font-serif text-xl font-bold tracking-tight">{title}</span>
+        </div>
 
         <div className="flex items-center gap-1">
           {onOpenInfo && (

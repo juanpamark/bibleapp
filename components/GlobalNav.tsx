@@ -91,24 +91,10 @@ export default function GlobalNav() {
       >
         <nav
           aria-label="Navegación principal"
-          className={`liquid-glass rounded-full px-2.5 py-1.5 flex items-center gap-1 focus-within:translate-y-0 focus-within:opacity-100 ${
+          className={`liquid-glass rounded-full px-2 py-1.5 flex items-center gap-1 focus-within:translate-y-0 focus-within:opacity-100 ${
             navVisible ? 'pointer-events-auto' : 'pointer-events-none'
           }`}
         >
-          <Link
-            href="/"
-            className="flex items-center gap-2 pl-2 pr-3 py-1.5 rounded-full text-on-surface hover:text-primary transition-colors active:scale-97"
-          >
-            <img
-              src="/icon-192.png"
-              alt="Originals Bible"
-              className="w-6 h-6 rounded-lg object-cover shadow-xs"
-            />
-            <span className="font-serif text-sm font-bold tracking-tight">Biblia</span>
-          </Link>
-
-          <div className="w-px h-5 bg-outline-variant/50 mx-1" aria-hidden="true" />
-
           {navItems.map((item) => {
             const active = isActive(item);
             const Icon = item.icon;

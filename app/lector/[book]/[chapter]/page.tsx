@@ -17,6 +17,7 @@ import {
   X,
   Bookmark,
   Eraser,
+  Languages,
 } from 'lucide-react';
 import { supabase, VerseRecord, UserNote } from '@/lib/supabase';
 import { getBookMeta } from '@/lib/constants';
@@ -28,6 +29,8 @@ import {
   getReadingTheme,
   ReadingTheme,
   getShowNoteIndicators,
+  getStudyMode,
+  setStudyMode as persistStudyMode,
   getNotes,
   getHighlights,
   saveHighlight,
@@ -55,6 +58,42 @@ interface LectorPageProps {
   };
 }
 
+function getNoteTeaser(notes?: string | null, maxLen = 78): string | null {
+  if (!notes) return null;
+  const cleaned = notes.replace(/\s+/g, ' ').trim();
+  if (!cleaned) return null;
+  if (cleaned.length <= maxLen) return cleaned;
+  return `${cleaned.slice(0, maxLen).trimEnd()}…`;
+}
+
+function pickChapterGreekGem(verses: VerseRecord[]): VerseRecord | null {
+  if (!verses || verses.length === 0) return null;
+  let best: VerseRecord | null = null;
+  let bestScore = -1;
+
+  for (const v of verses) {
+    const notes = v.translation_notes?.trim();
+    if (!notes || notes.length < 25) continue;
+
+    let score = 0;
+    // Priorizar notas con escritura griega explícita
+    if (/[\u0370-\u03FF\u1F00-\u1FFF]/.test(notes)) score += 60;
+    // Términos propios de matices léxicos del original
+    if (/(griego|original|literalmente|verbo|término|expresión|matiz|raíz)/i.test(notes)) {
+      score += 25;
+    }
+    // Longitud informativa equilibrada (ni demasiado corta ni excesiva)
+    if (notes.length >= 70 && notes.length <= 520) score += 20;
+    else if (notes.length > 520) score += 10;
+
+    if (score > bestScore) {
+      bestScore = score;
+      best = v;
+    }
+  }
+  return best;
+}
+
 export default function LectorChapterPage({ params }: LectorPageProps) {
   const router = useRouter();
   const bookCode = (params.book || 'MAT').toUpperCase();
@@ -64,6 +103,7 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
   const [verses, setVerses] = useState<VerseRecord[]>([]);
   const [loading, setLoading] = useState(chapterNum > 0);
   const [selectedVerseNums, setSelectedVerseNums] = useState<number[]>([]);
+  const [exegesisVerse, setExegesisVerse] = useState<VerseRecord | null>(null);
   const [isExegesisOpen, setIsExegesisOpen] = useState(false);
   const [isNoteModalOpen, setIsNoteModalOpen] = useState(false);
   const [isTransModalOpen, setIsTransModalOpen] = useState(false);
@@ -72,6 +112,9 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
   const [fontSize, setFontSizeState] = useState<'sm' | 'md' | 'lg' | 'xl'>('md');
   const [theme, setThemeState] = useState<ReadingTheme>('light');
   const [showNoteIndicators, setShowNoteIndicators] = useState(true);
+  const [studyMode, setStudyModeState] = useState(false);
+  const [showStudyToast, setShowStudyToast] = useState(false);
+  const studyToastTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const [showAppearanceMenu, setShowAppearanceMenu] = useState(false);
 
   const [chapterNotes, setChapterNotes] = useState<UserNote[]>([]);
@@ -123,6 +166,7 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
       setShowNoteIndicators(getShowNoteIndicators());
       setFontSizeState(getFontSize());
       setThemeState(getReadingTheme());
+      setStudyModeState(getStudyMode());
     };
 
     window.addEventListener('biblia-chrome-visibility', handleChrome as EventListener);
@@ -132,8 +176,37 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
       window.removeEventListener('biblia-chrome-visibility', handleChrome as EventListener);
       window.removeEventListener('biblia-theme-change', handleTheme as EventListener);
       window.removeEventListener('biblia-settings-change', handleSettings as EventListener);
+      if (studyToastTimerRef.current) {
+        clearTimeout(studyToastTimerRef.current);
+      }
     };
   }, []);
+
+  const openExegesis = (v: VerseRecord) => {
+    setExegesisVerse(v);
+    setIsExegesisOpen(true);
+  };
+
+  const handleToggleStudyMode = () => {
+    const next = !studyMode;
+    setStudyModeState(next);
+    persistStudyMode(next);
+
+    if (studyToastTimerRef.current) {
+      clearTimeout(studyToastTimerRef.current);
+      studyToastTimerRef.current = null;
+    }
+
+    if (next) {
+      setShowStudyToast(true);
+      studyToastTimerRef.current = setTimeout(() => {
+        setShowStudyToast(false);
+        studyToastTimerRef.current = null;
+      }, 2800);
+    } else {
+      setShowStudyToast(false);
+    }
+  };
 
   // Cargar capítulo o contexto
   useEffect(() => {
@@ -144,6 +217,7 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
     setFontSizeState(getFontSize());
     setThemeState(getReadingTheme());
     setShowNoteIndicators(getShowNoteIndicators());
+    setStudyModeState(getStudyMode());
 
     if (chapterNum === 0) {
       setVerses([]);
@@ -185,6 +259,35 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
 
     fetchChapter();
   }, [bookCode, chapterNum]);
+
+  // Deep link (?verse=N&note=1) desde Palabras del Original, Oración o Buscador
+  useEffect(() => {
+    if (loading || verses.length === 0 || typeof window === 'undefined') return;
+    const sp = new URLSearchParams(window.location.search);
+    const verseParam = sp.get('verse');
+    const noteParam = sp.get('note');
+    if (!verseParam) return;
+
+    const targetNum = parseInt(verseParam, 10);
+    if (!Number.isFinite(targetNum)) return;
+
+    const targetVerse = verses.find((v) => v.verse === targetNum);
+    if (!targetVerse) return;
+
+    const raf = window.requestAnimationFrame(() => {
+      const el = document.getElementById(`verse-${targetVerse.verse}`);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+      if (noteParam === '1') {
+        openExegesis(targetVerse);
+      }
+      // Limpiar query params para no reabrir al recargar
+      window.history.replaceState({}, '', window.location.pathname);
+    });
+
+    return () => window.cancelAnimationFrame(raf);
+  }, [loading, verses]);
 
   // Ocultar GlobalNav mientras hay versículos seleccionados
   useEffect(() => {
@@ -367,7 +470,7 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
     setDockDragY(0);
 
     if (primarySelectedVerse && (dy <= -32 || (dy <= -16 && velocityUp > 0.35))) {
-      setIsExegesisOpen(true);
+      openExegesis(primarySelectedVerse);
     }
   };
 
@@ -420,6 +523,12 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
 
   const hasNote = (verseNumber: number) => chapterNotes.some((n) => n.verse === verseNumber);
 
+  const chapterGreekGem = useMemo(() => pickChapterGreekGem(verses), [verses]);
+  const dockNoteTeaser = useMemo(
+    () => getNoteTeaser(primarySelectedVerse?.translation_notes),
+    [primarySelectedVerse]
+  );
+
   const anySelectedHasHighlight = selectedVerseNums.some((n) => Boolean(highlights[n]));
   const allSelectedBookmarked =
     selectedVerseNums.length > 0 &&
@@ -446,37 +555,73 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
             chromeVisible ? 'pointer-events-auto' : 'pointer-events-none'
           }`}
         >
-          <div className="liquid-glass rounded-full px-2 py-1.5 flex items-center justify-between gap-2">
+          <div className="liquid-glass rounded-full px-2 py-1.5 flex items-center justify-between gap-1.5 sm:gap-2">
             {/* Píldoras estilo YouVersion: [ Libro Capítulo ] + [ TDO ] */}
-            <div className="flex items-center gap-1">
+            <div className="flex items-center gap-1 min-w-0">
               <button
                 type="button"
                 onClick={() => setShowBookSheet(true)}
-                className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-on-surface/[0.06] hover:bg-on-surface/[0.1] text-on-surface transition-all active:scale-[0.97]"
+                className="flex items-center gap-1.5 px-3 sm:px-3.5 py-1.5 rounded-full bg-on-surface/[0.06] hover:bg-on-surface/[0.1] text-on-surface transition-all active:scale-[0.97] min-w-0"
               >
-                <span className="font-serif text-sm sm:text-[15px] font-bold tracking-tight">
+                <span className="font-serif text-sm sm:text-[15px] font-bold tracking-tight truncate">
                   {bookMeta.name} {chapterNum === 0 ? '· Contexto' : chapterNum}
                 </span>
-                <ChevronDown className="w-3.5 h-3.5 text-on-surface-variant" />
+                <ChevronDown className="w-3.5 h-3.5 text-on-surface-variant flex-shrink-0" />
               </button>
 
               <button
                 type="button"
                 onClick={() => setIsTransModalOpen(true)}
-                className="px-2.5 py-1.5 rounded-full hover:bg-on-surface/[0.07] text-xs font-bold tracking-wide text-primary transition-all active:scale-[0.97]"
+                className="px-2 sm:px-2.5 py-1.5 rounded-full hover:bg-on-surface/[0.07] text-xs font-bold tracking-wide text-primary transition-all active:scale-[0.97] flex-shrink-0"
                 title="Acerca de esta traducción"
               >
                 TDO
               </button>
             </div>
 
-            {/* Herramientas de lectura */}
-            <div className="flex items-center gap-1 relative">
+            {/* Herramientas de lectura: Modo Estudio (interruptor directo), Buscar, Aa */}
+            <div className="flex items-center gap-1 relative flex-shrink-0">
+              {chapterNum >= 1 && (
+                <button
+                  type="button"
+                  role="switch"
+                  aria-checked={studyMode}
+                  aria-label="Modo estudio: mostrar puntos de notas del griego"
+                  title={
+                    studyMode
+                      ? 'Modo estudio activado (toca el punto dorado en los versículos)'
+                      : 'Activar modo estudio para leer notas del griego en un toque'
+                  }
+                  onClick={handleToggleStudyMode}
+                  className={`inline-flex items-center gap-1.5 pl-2.5 pr-1.5 py-1 rounded-full border transition-all active:scale-95 ${
+                    studyMode
+                      ? 'bg-primary/10 border-primary/30 text-primary'
+                      : 'bg-on-surface/[0.04] border-transparent text-on-surface-variant hover:bg-on-surface/[0.08]'
+                  }`}
+                >
+                  <span className="text-[11px] font-semibold tracking-tight hidden min-[400px]:inline">
+                    Estudio
+                  </span>
+                  <span
+                    aria-hidden="true"
+                    className={`relative inline-flex h-[18px] w-8 items-center rounded-full transition-colors duration-200 ${
+                      studyMode ? 'bg-primary' : 'bg-on-surface/20'
+                    }`}
+                  >
+                    <span
+                      className={`inline-block h-3.5 w-3.5 transform rounded-full bg-white shadow-xs transition-transform duration-200 ${
+                        studyMode ? 'translate-x-[16px]' : 'translate-x-[2px]'
+                      }`}
+                    />
+                  </span>
+                </button>
+              )}
+
               <button
                 type="button"
                 onClick={() => setShowSearch(true)}
                 aria-label="Buscar en toda la aplicación"
-                className="w-9 h-9 rounded-full flex items-center justify-center transition-all active:scale-95 text-on-surface-variant hover:bg-on-surface/[0.07]"
+                className="w-8 h-8 sm:w-9 sm:h-9 rounded-full flex items-center justify-center transition-all active:scale-95 text-on-surface-variant hover:bg-on-surface/[0.07]"
               >
                 <Search className="w-4 h-4" />
               </button>
@@ -485,7 +630,7 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
                 type="button"
                 onClick={() => setShowAppearanceMenu((m) => !m)}
                 aria-label="Tamaño de letra"
-                className={`relative z-40 w-9 h-9 rounded-full flex items-center justify-center text-sm font-serif font-bold transition-all active:scale-95 ${
+                className={`relative z-40 w-8 h-8 sm:w-9 sm:h-9 rounded-full flex items-center justify-center text-sm font-serif font-bold transition-all active:scale-95 ${
                   showAppearanceMenu
                     ? 'bg-primary text-on-primary'
                     : 'text-on-surface-variant hover:bg-on-surface/[0.07]'
@@ -535,6 +680,34 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
           </div>
         </div>
       </div>
+
+      {/* Toast sutil centrado al activar Modo Estudio */}
+      {showStudyToast && (
+        <div
+          role="status"
+          aria-live="polite"
+          className="fixed inset-x-4 top-1/2 -translate-y-1/2 z-50 flex justify-center pointer-events-none"
+        >
+          <div className="liquid-glass-elevated rounded-3xl px-5 py-3.5 max-w-xs sm:max-w-sm text-center animate-fade-in space-y-1">
+            <div className="inline-flex items-center justify-center gap-2">
+              <span
+                className="w-2.5 h-2.5 rounded-full flex-shrink-0"
+                style={{
+                  backgroundColor: 'var(--color-study-dot)',
+                  boxShadow: '0 0 0 3px var(--color-study-dot-ring)',
+                }}
+                aria-hidden="true"
+              />
+              <span className="text-xs sm:text-sm font-semibold text-on-surface">
+                Modo estudio activado
+              </span>
+            </div>
+            <p className="text-[11px] sm:text-xs text-on-surface-variant leading-relaxed">
+              Toca el punto dorado junto a un versículo para entender más desde el original.
+            </p>
+          </div>
+        </div>
+      )}
 
       {/* Indicador visual al deslizar entre capítulos */}
       {isDragging && Math.abs(dragOffsetX) > 20 && (
@@ -752,11 +925,86 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
                         >
                           {v.translation}
                         </span>
+
+                        {studyMode &&
+                          v.translation_notes &&
+                          v.translation_notes.trim().length > 0 && (
+                            <button
+                              type="button"
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                openExegesis(v);
+                              }}
+                              aria-label={`Leer nota del original de ${bookMeta.name} ${chapterNum}:${v.verse}`}
+                              title="Nota del griego original"
+                              className="inline-flex items-center justify-center align-middle ml-1 p-2 -m-1.5 rounded-full hover:bg-primary/10 active:scale-90 transition-transform focus:outline-none focus-visible:ring-2 focus-visible:ring-primary"
+                            >
+                              <span
+                                className="w-[7px] h-[7px] rounded-full block"
+                                style={{
+                                  backgroundColor: 'var(--color-study-dot)',
+                                  boxShadow: '0 0 0 3px var(--color-study-dot-ring)',
+                                }}
+                              />
+                            </button>
+                          )}
                       </p>
                     </div>
                   );
                 })}
               </article>
+            )}
+
+            {/* Cápsula editorial: Joya del Griego al final del capítulo (Idea 4) */}
+            {!loading && chapterGreekGem && (
+              <section
+                aria-label="Joya del griego en este capítulo"
+                className="mt-10 rounded-3xl bg-surface-container-low border border-outline-variant/40 p-5 sm:p-6 space-y-3"
+              >
+                <div className="flex items-center justify-between gap-2">
+                  <div className="flex items-center gap-2">
+                    <span
+                      className="w-2 h-2 rounded-full flex-shrink-0"
+                      style={{
+                        backgroundColor: 'var(--color-study-dot)',
+                        boxShadow: '0 0 0 3px var(--color-study-dot-ring)',
+                      }}
+                      aria-hidden="true"
+                    />
+                    <span className="text-[11px] font-semibold uppercase tracking-wider text-primary">
+                      Joya del griego en este capítulo
+                    </span>
+                  </div>
+                  <span className="text-xs font-semibold text-on-surface-variant">
+                    {bookMeta.name} {chapterNum}:{chapterGreekGem.verse}
+                  </span>
+                </div>
+
+                {chapterGreekGem.greek_text && (
+                  <p className="font-serif text-sm sm:text-base text-primary/90 leading-relaxed line-clamp-2">
+                    {chapterGreekGem.greek_text}
+                  </p>
+                )}
+
+                <p className="text-xs sm:text-sm text-on-surface/90 leading-relaxed line-clamp-3">
+                  {chapterGreekGem.translation_notes}
+                </p>
+
+                <div className="pt-1 flex items-center justify-between gap-2">
+                  <span className="inline-flex items-center gap-1.5 text-[11px] text-on-surface-variant">
+                    <Languages className="w-3.5 h-3.5 text-primary" />
+                    <span>Traducción Directa (TDO)</span>
+                  </span>
+                  <button
+                    type="button"
+                    onClick={() => openExegesis(chapterGreekGem)}
+                    className="inline-flex items-center gap-1 px-4 py-2 rounded-full bg-surface-container-lowest hover:bg-surface-container text-xs font-semibold text-primary border border-outline-variant/40 active:scale-95 transition-all"
+                  >
+                    <span>Leer nota completa</span>
+                    <ChevronRight className="w-3.5 h-3.5" />
+                  </button>
+                </div>
+              </section>
             )}
 
             {/* Navegación pie de capítulo */}
@@ -818,18 +1066,23 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
             }}
             className="pointer-events-auto w-full max-w-md liquid-glass-elevated rounded-3xl p-3.5 animate-dock-in space-y-2.5 touch-none"
           >
-            {/* Mango deslizable hacia arriba SOLO cuando hay 1 versículo seleccionado */}
+            {/* Mango deslizable hacia arriba SOLO cuando hay 1 versículo seleccionado + 1 línea de adelanto real (Idea 1) */}
             {primarySelectedVerse && (
               <button
                 type="button"
-                onClick={() => setIsExegesisOpen(true)}
-                className="w-full flex flex-col items-center gap-1 pb-1.5 border-b border-outline-variant/25 group cursor-grab active:cursor-grabbing"
+                onClick={() => openExegesis(primarySelectedVerse)}
+                className="w-full flex flex-col items-center gap-1 pb-2 border-b border-outline-variant/25 group cursor-grab active:cursor-grabbing text-center"
               >
                 <span className="w-9 h-1 rounded-full bg-on-surface/20 group-hover:bg-primary/50 transition-colors" />
                 <span className="inline-flex items-center gap-1 text-[11px] font-semibold text-primary">
                   <ChevronUp className="w-3.5 h-3.5" />
-                  <span>Desliza para leer el griego y sus notas</span>
+                  <span>Desliza o toca para leer el griego y sus notas</span>
                 </span>
+                {dockNoteTeaser && (
+                  <span className="w-full px-2 text-[11px] text-on-surface-variant truncate">
+                    {dockNoteTeaser}
+                  </span>
+                )}
               </button>
             )}
 
@@ -942,7 +1195,7 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
               {primarySelectedVerse && (
                 <button
                   type="button"
-                  onClick={() => setIsExegesisOpen(true)}
+                  onClick={() => openExegesis(primarySelectedVerse)}
                   className="flex flex-col items-center justify-center py-2 px-1 rounded-2xl transition-all min-h-[48px] text-primary hover:bg-primary/10 active:scale-95 font-semibold"
                 >
                   <BookOpen className="w-4 h-4" />
@@ -971,10 +1224,13 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
 
       {/* Drawer de Texto Original y Notas */}
       <ExegesisDrawer
-        verse={primarySelectedVerse}
+        verse={exegesisVerse || primarySelectedVerse}
         isOpen={isExegesisOpen}
         onClose={() => setIsExegesisOpen(false)}
-        onAddNote={() => setIsNoteModalOpen(true)}
+        onAddNote={(v) => {
+          setSelectedVerseNums([v.verse]);
+          setIsNoteModalOpen(true);
+        }}
       />
 
       {/* Modal de Añadir Nota */}

@@ -72,7 +72,7 @@ const config: Config = {
         full: '9999px',
       },
       boxShadow: {
-        warm: '0 2px 14px -2px rgba(28, 25, 23, 0.05), 0 1px 4px -1px rgba(28, 25, 23, 0.03)',
+        warm: 'var(--shadow-warm)',
         'warm-nav': '0 -4px 24px rgba(28, 25, 23, 0.06)',
       },
     },

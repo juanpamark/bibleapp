@@ -10,6 +10,7 @@ const STORAGE_KEYS = {
   FONT_SIZE: 'biblia_font_size',
   THEME: 'biblia_reading_theme',
   SHOW_NOTE_BADGES: 'biblia_show_note_badges',
+  STUDY_MODE: 'biblia_study_mode',
   DISPLAY_NAME: 'biblia_display_name',
   LOCAL_FOLDERS: 'biblia_folders_local',
   LOCAL_NOTES: 'biblia_notes_local',
@@ -396,6 +397,17 @@ export function getShowNoteIndicators(): boolean {
 export function setShowNoteIndicators(enabled: boolean): void {
   if (typeof window === 'undefined') return;
   localStorage.setItem(STORAGE_KEYS.SHOW_NOTE_BADGES, String(enabled));
+}
+
+export function getStudyMode(): boolean {
+  if (typeof window === 'undefined') return false;
+  return localStorage.getItem(STORAGE_KEYS.STUDY_MODE) === 'true';
+}
+
+export function setStudyMode(enabled: boolean): void {
+  if (typeof window === 'undefined') return;
+  localStorage.setItem(STORAGE_KEYS.STUDY_MODE, String(enabled));
+  window.dispatchEvent(new CustomEvent('biblia-settings-change'));
 }
 
 export function getDisplayName(): string {

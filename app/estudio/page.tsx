@@ -2,18 +2,19 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { BookOpen, ChevronRight, Star, CheckCircle2 } from 'lucide-react';
+import { BookOpen, ChevronRight, Star, CheckCircle2, Languages } from 'lucide-react';
 import { AVAILABLE_BOOKS } from '@/lib/constants';
 import {
   DEVOTIONAL_THEMES,
   BIBLICAL_THEMES,
   STUDY_PLANS,
 } from '@/lib/study-catalog';
+import { ORIGINAL_WORDS } from '@/lib/original-words';
 import TopHeader from '@/components/TopHeader';
 import GlobalSearchModal from '@/components/GlobalSearchModal';
 
 export default function EstudioPage() {
-  const [activeTab, setActiveTab] = useState<'tareas' | 'devocionales' | 'biblico'>('devocionales');
+  const [activeTab, setActiveTab] = useState<'tareas' | 'devocionales' | 'biblico' | 'original'>('devocionales');
   const [selectedTheme, setSelectedTheme] = useState<string | null>(null);
   const [showSearchModal, setShowSearchModal] = useState(false);
 
@@ -36,11 +37,11 @@ export default function EstudioPage() {
           </h1>
 
           {/* Selector de sub-pestañas */}
-          <div className="inline-flex p-1 rounded-full bg-surface-container text-xs font-semibold">
+          <div className="flex w-full sm:w-auto sm:inline-flex items-center p-1 rounded-full bg-surface-container text-[11px] sm:text-xs font-semibold">
             <button
               type="button"
               onClick={() => setActiveTab('tareas')}
-              className={`px-4 py-2 rounded-full transition-all ${
+              className={`flex-1 sm:flex-none px-2 sm:px-4 py-2 rounded-full whitespace-nowrap transition-all text-center ${
                 activeTab === 'tareas'
                   ? 'bg-surface-container-lowest text-on-surface shadow-xs'
                   : 'text-on-surface-variant hover:text-on-surface'
@@ -51,7 +52,7 @@ export default function EstudioPage() {
             <button
               type="button"
               onClick={() => setActiveTab('devocionales')}
-              className={`px-4 py-2 rounded-full transition-all ${
+              className={`flex-1 sm:flex-none px-2 sm:px-4 py-2 rounded-full whitespace-nowrap transition-all text-center ${
                 activeTab === 'devocionales'
                   ? 'bg-surface-container-lowest text-on-surface shadow-xs'
                   : 'text-on-surface-variant hover:text-on-surface'
@@ -62,13 +63,28 @@ export default function EstudioPage() {
             <button
               type="button"
               onClick={() => setActiveTab('biblico')}
-              className={`px-4 py-2 rounded-full transition-all ${
+              className={`flex-1 sm:flex-none px-2 sm:px-4 py-2 rounded-full whitespace-nowrap transition-all text-center ${
                 activeTab === 'biblico'
                   ? 'bg-surface-container-lowest text-on-surface shadow-xs'
                   : 'text-on-surface-variant hover:text-on-surface'
               }`}
             >
               Por libro
+            </button>
+            <button
+              type="button"
+              onClick={() => setActiveTab('original')}
+              className={`flex-1 sm:flex-none inline-flex items-center justify-center gap-1.5 px-2 sm:px-4 py-2 rounded-full whitespace-nowrap transition-all ${
+                activeTab === 'original'
+                  ? 'bg-surface-container-lowest text-on-surface shadow-xs'
+                  : 'text-on-surface-variant hover:text-on-surface'
+              }`}
+            >
+              <span
+                className="w-1.5 h-1.5 rounded-full flex-shrink-0"
+                style={{ backgroundColor: 'var(--color-study-dot)' }}
+              />
+              <span>Original</span>
             </button>
           </div>
         </section>
@@ -269,6 +285,81 @@ export default function EstudioPage() {
                   </Link>
                 ))}
               </div>
+            </div>
+          </div>
+        )}
+
+        {/* Sub-pestaña 4: Palabras del Original (Griego Koiné -> TDO) */}
+        {activeTab === 'original' && (
+          <div className="space-y-6">
+            <div className="space-y-1.5">
+              <div className="flex items-center gap-2">
+                <Languages className="w-4 h-4 text-primary" />
+                <span className="text-xs font-semibold uppercase tracking-wider text-primary">
+                  Griego koiné · Nuevo Testamento
+                </span>
+              </div>
+              <h2 className="font-serif text-xl sm:text-2xl font-bold text-on-surface tracking-tight">
+                Palabras del Original
+              </h2>
+              <p className="text-xs sm:text-sm text-on-surface-variant leading-relaxed">
+                Doce términos esenciales del griego bíblico. Toca cualquier pasaje para abrir el versículo y leer su nota del original al instante.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3.5">
+              {ORIGINAL_WORDS.map((word) => (
+                <article
+                  key={word.id}
+                  className="p-5 rounded-3xl bg-surface-container-lowest border border-outline-variant/40 shadow-warm flex flex-col justify-between gap-4"
+                >
+                  <div className="space-y-2.5">
+                    <div className="flex items-baseline justify-between gap-2">
+                      <div className="flex items-baseline gap-2 min-w-0">
+                        <h3 className="font-serif text-xl font-bold text-primary tracking-tight">
+                          {word.greek}
+                        </h3>
+                        <span className="text-xs italic text-on-surface-variant">
+                          {word.translit}
+                        </span>
+                      </div>
+                      <span
+                        className="w-2 h-2 rounded-full flex-shrink-0"
+                        style={{
+                          backgroundColor: 'var(--color-study-dot)',
+                          boxShadow: '0 0 0 3px var(--color-study-dot-ring)',
+                        }}
+                        aria-hidden="true"
+                      />
+                    </div>
+
+                    <p className="text-xs font-semibold text-on-surface">{word.spanish}</p>
+
+                    <p className="text-xs text-on-surface-variant leading-relaxed">
+                      {word.summary}
+                    </p>
+
+                    <div className="p-3 rounded-2xl bg-surface-container-low border border-outline-variant/25">
+                      <p className="text-[11px] sm:text-xs text-on-surface/85 leading-relaxed">
+                        {word.nuance}
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="pt-3 border-t border-outline-variant/25 flex flex-wrap gap-1.5">
+                    {word.refs.map((ref) => (
+                      <Link
+                        key={`${word.id}-${ref.book}-${ref.chapter}-${ref.verse}`}
+                        href={`/lector/${ref.book}/${ref.chapter}?verse=${ref.verse}&note=1`}
+                        className="inline-flex items-center gap-1 px-3 py-1.5 rounded-full bg-surface-container hover:bg-primary hover:text-on-primary text-xs font-semibold text-on-surface transition-all active:scale-95"
+                      >
+                        <span>{ref.label}</span>
+                        <ChevronRight className="w-3 h-3 opacity-75" />
+                      </Link>
+                    ))}
+                  </div>
+                </article>
+              ))}
             </div>
           </div>
         )}
