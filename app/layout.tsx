@@ -68,7 +68,7 @@ export default function RootLayout({
       <head>
         <meta name="color-scheme" content="light dark" />
         <meta name="theme-color" content="#FAF6F1" media="(prefers-color-scheme: light)" />
-        <meta name="theme-color" content="#0B0B0C" media="(prefers-color-scheme: dark)" />
+        <meta name="theme-color" content="#070708" media="(prefers-color-scheme: dark)" />
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />

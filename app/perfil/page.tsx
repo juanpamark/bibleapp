@@ -807,8 +807,8 @@ export default function PerfilPage() {
                     }`}
                   >
                     <span
-                      className={`pointer-events-none inline-block h-6 w-6 transform rounded-full bg-white shadow-sm transition-transform duration-200 ${
-                        noteIndicators ? 'translate-x-5' : 'translate-x-0'
+                      className={`pointer-events-none inline-block h-6 w-6 transform rounded-full shadow-sm transition-transform duration-200 ${
+                        noteIndicators ? 'translate-x-5 bg-on-primary' : 'translate-x-0 bg-white'
                       }`}
                     />
                   </button>

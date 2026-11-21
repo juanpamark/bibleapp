@@ -600,8 +600,8 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
                     }`}
                   >
                     <span
-                      className={`inline-block h-3.5 w-3.5 transform rounded-full bg-white shadow-xs transition-transform duration-200 ${
-                        studyMode ? 'translate-x-[16px]' : 'translate-x-[2px]'
+                      className={`inline-block h-3.5 w-3.5 transform rounded-full shadow-xs transition-transform duration-200 ${
+                        studyMode ? 'translate-x-[16px] bg-on-primary' : 'translate-x-[2px] bg-white'
                       }`}
                     />
                   </span>

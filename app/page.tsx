@@ -303,7 +303,7 @@ export default function InicioPage() {
               <button
                 type="button"
                 onClick={() => setShowTransModal(true)}
-                className="text-xs font-semibold text-[#F5D6A0] hover:text-white px-2.5 py-1 rounded-full bg-black/22 hover:bg-black/32 backdrop-blur-sm border border-white/20 transition-colors"
+                className="text-xs font-semibold text-[var(--daily-hero-accent)] hover:text-white px-2.5 py-1 rounded-full bg-black/22 hover:bg-black/32 backdrop-blur-sm border border-white/20 transition-colors"
               >
                 TDO
               </button>
@@ -321,7 +321,7 @@ export default function InicioPage() {
                   «{dailyVerse.translation}»
                 </p>
                 <div className="flex flex-wrap items-center justify-between gap-2 pt-0.5">
-                  <cite className="not-italic text-sm font-semibold text-[#FCE1AE] [text-shadow:0_1px_10px_rgba(0,0,0,0.48)]">
+                  <cite className="not-italic text-sm font-semibold text-[var(--daily-hero-accent)] [text-shadow:0_1px_10px_rgba(0,0,0,0.48)]">
                     {getBookMeta(dailyVerse.book)?.name || dailyVerse.book} {dailyVerse.chapter}:
                     {dailyVerse.verse}
                   </cite>
@@ -330,7 +330,7 @@ export default function InicioPage() {
                     onClick={() => setShowDailyExegesis(true)}
                     className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-black/25 hover:bg-black/38 backdrop-blur-md border border-white/25 text-[#FAF6F1] text-[11px] font-semibold active:scale-95 transition-all"
                   >
-                    <Languages className="w-3.5 h-3.5 text-[#FCE1AE]" />
+                    <Languages className="w-3.5 h-3.5 text-[var(--daily-hero-accent)]" />
                     <span>Nota del griego</span>
                   </button>
                 </div>
@@ -340,7 +340,7 @@ export default function InicioPage() {
                 <p className="font-serif text-lg sm:text-[22px] text-[#FAF6F1] leading-relaxed [text-shadow:0_1px_14px_rgba(0,0,0,0.52)]">
                   «Por nada estén afanosos; más bien, en todo, mediante oración y súplica con acción de gracias, sean dadas a conocer sus peticiones delante de Dios.»
                 </p>
-                <cite className="block not-italic text-sm font-semibold text-[#FCE1AE] [text-shadow:0_1px_10px_rgba(0,0,0,0.48)]">
+                <cite className="block not-italic text-sm font-semibold text-[var(--daily-hero-accent)] [text-shadow:0_1px_10px_rgba(0,0,0,0.48)]">
                   Filipenses 4:6
                 </cite>
               </blockquote>
@@ -358,7 +358,9 @@ export default function InicioPage() {
                 >
                   <Bookmark
                     className={`w-4 h-4 ${
-                      dailyBookmarked ? 'text-[#FCE1AE] fill-[#FCE1AE]' : 'text-[#FAF6F1]'
+                      dailyBookmarked
+                        ? 'text-[var(--daily-hero-accent)] fill-[var(--daily-hero-accent)]'
+                        : 'text-[#FAF6F1]'
                     }`}
                   />
                 </button>

@@ -51,60 +51,62 @@ html[data-theme='light'] {
 
   --color-study-dot: #B87D1E;
   --color-study-dot-ring: rgba(184, 125, 30, 0.22);
+  --daily-hero-accent: #FCE1AE;
 
   --scrollbar-thumb: rgba(132, 122, 115, 0.45);
   --scrollbar-track: transparent;
 }
 
-/* MODO OSCURO PROFESIONAL (Negro carbón profundo estilo YouVersion / iOS 26) */
+/* MODO OSCURO MONOCROMÁTICO: OBSIDIANA Y BLANCO PURO (Alternativa 1) */
 html[data-theme='dark'] {
   color-scheme: dark;
-  --color-background: 11 11 12;
-  --color-surface: 11 11 12;
-  --color-surface-dim: 6 6 7;
+  --color-background: 7 7 8;
+  --color-surface: 7 7 8;
+  --color-surface-dim: 3 3 4;
   --color-surface-bright: 24 24 27;
-  --color-surface-container-lowest: 22 22 24;
+  --color-surface-container-lowest: 18 18 20;
   --color-surface-container-low: 27 27 30;
-  --color-surface-container: 34 34 38;
-  --color-surface-container-high: 44 44 49;
-  --color-surface-container-highest: 56 56 62;
+  --color-surface-container: 37 37 41;
+  --color-surface-container-high: 48 48 54;
+  --color-surface-container-highest: 62 62 68;
   --color-on-surface: 244 244 245;
   --color-on-surface-variant: 161 161 170;
   --color-outline: 113 113 122;
-  --color-outline-variant: 46 46 52;
+  --color-outline-variant: 43 43 49;
 
-  --color-primary: 229 138 99;
-  --color-primary-container: 204 112 75;
-  --color-primary-fixed: 64 34 23;
-  --color-primary-fixed-dim: 138 72 48;
-  --color-on-primary: 17 15 14;
+  --color-primary: 250 250 250;
+  --color-primary-container: 228 228 231;
+  --color-primary-fixed: 39 39 42;
+  --color-primary-fixed-dim: 63 63 70;
+  --color-on-primary: 9 9 11;
 
-  --color-secondary: 222 180 104;
-  --color-secondary-container: 58 46 24;
-  --color-secondary-fixed: 82 64 32;
-  --color-secondary-fixed-dim: 176 138 72;
-  --color-on-secondary: 17 15 14;
-  --color-on-secondary-container: 245 223 176;
+  --color-secondary: 228 228 231;
+  --color-secondary-container: 39 39 42;
+  --color-secondary-fixed: 39 39 42;
+  --color-secondary-fixed-dim: 82 82 91;
+  --color-on-secondary: 9 9 11;
+  --color-on-secondary-container: 244 244 245;
 
-  --color-tertiary: 242 158 122;
-  --color-tertiary-container: 204 112 75;
-  --color-tertiary-fixed: 64 34 23;
+  --color-tertiary: 212 212 216;
+  --color-tertiary-container: 39 39 42;
+  --color-tertiary-fixed: 39 39 42;
 
-  --glass-bg: rgba(24, 24, 28, 0.82);
-  --glass-bg-elevated: rgba(30, 30, 35, 0.94);
-  --glass-border: rgba(255, 255, 255, 0.14);
-  --glass-outer-stroke: rgba(0, 0, 0, 0.62);
+  --glass-bg: rgba(18, 18, 21, 0.84);
+  --glass-bg-elevated: rgba(24, 24, 28, 0.95);
+  --glass-border: rgba(255, 255, 255, 0.16);
+  --glass-outer-stroke: rgba(0, 0, 0, 0.72);
   --glass-shadow:
     0 0 0 1px var(--glass-outer-stroke),
-    0 18px 44px -6px rgba(0, 0, 0, 0.72),
-    0 4px 12px -2px rgba(0, 0, 0, 0.4),
-    inset 0 1px 0 0 rgba(255, 255, 255, 0.15),
-    inset 0 -1px 0 0 rgba(0, 0, 0, 0.45);
-  --glass-pill-active: rgba(255, 255, 255, 0.14);
-  --shadow-warm: 0 6px 20px -4px rgba(0, 0, 0, 0.55), 0 1px 0 0 rgba(255, 255, 255, 0.04) inset;
+    0 18px 44px -6px rgba(0, 0, 0, 0.78),
+    0 4px 12px -2px rgba(0, 0, 0, 0.45),
+    inset 0 1px 0 0 rgba(255, 255, 255, 0.16),
+    inset 0 -1px 0 0 rgba(0, 0, 0, 0.5);
+  --glass-pill-active: rgba(255, 255, 255, 0.15);
+  --shadow-warm: 0 6px 20px -4px rgba(0, 0, 0, 0.62), 0 1px 0 0 rgba(255, 255, 255, 0.05) inset;
 
   --color-study-dot: #E8BE67;
   --color-study-dot-ring: rgba(232, 190, 103, 0.26);
+  --daily-hero-accent: #E4E4E7;
 
   --scrollbar-thumb: rgba(161, 161, 170, 0.35);
   --scrollbar-track: transparent;
