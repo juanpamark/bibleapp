@@ -97,9 +97,13 @@ export default function GlobalNav() {
         >
           <Link
             href="/"
-            className="flex items-center gap-2 pl-2.5 pr-3 py-1.5 rounded-full text-on-surface hover:text-primary transition-colors active:scale-97"
+            className="flex items-center gap-2 pl-2 pr-3 py-1.5 rounded-full text-on-surface hover:text-primary transition-colors active:scale-97"
           >
-            <BookOpen className="w-4 h-4 text-primary" strokeWidth={2.2} />
+            <img
+              src="/icon-192.png"
+              alt="Originals Bible"
+              className="w-6 h-6 rounded-lg object-cover shadow-xs"
+            />
             <span className="font-serif text-sm font-bold tracking-tight">Biblia</span>
           </Link>
 

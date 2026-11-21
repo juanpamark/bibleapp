@@ -3,8 +3,23 @@ import './globals.css';
 import GlobalNav from '@/components/GlobalNav';
 
 export const metadata: Metadata = {
-  title: 'Biblia',
+  title: 'Biblia · TDO',
   description: 'Lectura diaria directa de los textos originales con notas de estudio y cuaderno personal.',
+  applicationName: 'Biblia',
+  manifest: '/manifest.webmanifest',
+  icons: {
+    icon: [
+      { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+      { url: '/icon-192.png', sizes: '192x192', type: 'image/png' },
+    ],
+    shortcut: '/favicon-32x32.png',
+    apple: [{ url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }],
+  },
+  appleWebApp: {
+    capable: true,
+    title: 'Biblia',
+    statusBarStyle: 'default',
+  },
 };
 
 const themeInitScript = `
@@ -34,6 +49,8 @@ export default function RootLayout({
     <html lang="es" suppressHydrationWarning>
       <head>
         <meta name="color-scheme" content="light dark" />
+        <meta name="theme-color" content="#FAF6F1" media="(prefers-color-scheme: light)" />
+        <meta name="theme-color" content="#0B0B0C" media="(prefers-color-scheme: dark)" />
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />

@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { BookOpen, Search, Info } from 'lucide-react';
+import { Search, Info } from 'lucide-react';
 
 interface TopHeaderProps {
   title?: string;
@@ -35,7 +35,11 @@ export default function TopHeader({
     >
       <div className="w-full flex items-center justify-between px-4 py-3 max-w-screen-md mx-auto">
         <Link href="/" className="flex items-center gap-2 text-on-surface active:scale-95 transition-transform">
-          <BookOpen className="w-5 h-5 text-primary" strokeWidth={2} />
+          <img
+            src="/icon-192.png"
+            alt="Originals Bible"
+            className="w-6 h-6 rounded-lg object-cover shadow-xs"
+          />
           <span className="font-serif text-lg font-bold tracking-tight">{title}</span>
         </Link>
 
