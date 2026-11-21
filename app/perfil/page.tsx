@@ -158,20 +158,33 @@ export default function PerfilPage() {
       }
 
       if (missingRefs.length > 0) {
-        const uniqueBooks = Array.from(new Set(missingRefs.map((r) => r.book))).slice(0, 8);
-        const { data: versesData } = await supabase
-          .from('verses')
-          .select('book, chapter, verse, translation')
-          .in('book', uniqueBooks)
-          .limit(400);
-
-        if (versesData) {
-          const map: Record<string, string> = {};
-          for (const v of versesData) {
-            map[`${v.book.toUpperCase()}:${v.chapter}:${v.verse}`] = v.translation;
+        // Deduplicar y consultar exactamente solo las referencias faltantes en bloques de 25
+        const uniqueMap = new Map<string, { book: string; chapter: number; verse: number }>();
+        for (const r of missingRefs) {
+          if (!uniqueMap.has(r.key)) {
+            uniqueMap.set(r.key, { book: r.book, chapter: r.chapter, verse: r.verse });
           }
-          setHydratedTexts(map);
         }
+        const exactRefs = Array.from(uniqueMap.values()).slice(0, 75);
+        const map: Record<string, string> = {};
+
+        for (let i = 0; i < exactRefs.length; i += 25) {
+          const batch = exactRefs.slice(i, i + 25);
+          const orFilter = batch
+            .map((r) => `and(book.eq.${r.book},chapter.eq.${r.chapter},verse.eq.${r.verse})`)
+            .join(',');
+          const { data: versesData } = await supabase
+            .from('verses')
+            .select('book, chapter, verse, translation')
+            .or(orFilter);
+
+          if (versesData) {
+            for (const v of versesData) {
+              map[`${v.book.toUpperCase()}:${v.chapter}:${v.verse}`] = v.translation;
+            }
+          }
+        }
+        setHydratedTexts(map);
       }
     } catch (err) {
       console.error('Error cargando datos de perfil:', err);

@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import GlobalNav from '@/components/GlobalNav';
+import ServiceWorkerRegister from '@/components/ServiceWorkerRegister';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://biblia-tdo.vercel.app'),
@@ -53,10 +54,6 @@ const themeInitScript = `
       var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
       document.documentElement.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
     }
-    if (!sessionStorage.getItem('biblia_session_intro')) {
-      sessionStorage.setItem('biblia_session_intro', '1');
-      document.documentElement.setAttribute('data-session-intro', '1');
-    }
   } catch (e) {}
 })();
 `;
@@ -81,6 +78,7 @@ export default function RootLayout({
         />
       </head>
       <body className="bg-background text-on-surface antialiased min-h-screen pb-24 md:pt-20 md:pb-12 font-sans">
+        <ServiceWorkerRegister />
         <GlobalNav />
         <main className="w-full">{children}</main>
       </body>

@@ -241,12 +241,12 @@ body {
 }
 
 /* ==========================================
-   COREOGRAFÍA EDITORIAL DE APERTURA (OPCIÓN 1 · SOLO GPU · 1 VEZ POR SESIÓN)
+   COREOGRAFÍA EDITORIAL DE APERTURA (OPCIÓN 1 · SOLO GPU · 1 VEZ AL ABRIR)
 ========================================== */
 @keyframes homeLeadIn {
   from {
     opacity: 0;
-    transform: translate3d(0, 8px, 0);
+    transform: translate3d(0, 14px, 0);
   }
   to {
     opacity: 1;
@@ -257,7 +257,7 @@ body {
 @keyframes homeHeroIn {
   from {
     opacity: 0;
-    transform: translate3d(0, 12px, 0) scale(0.975);
+    transform: translate3d(0, 22px, 0) scale(0.95);
   }
   to {
     opacity: 1;
@@ -267,31 +267,49 @@ body {
 
 @keyframes homeCloudsBreath {
   from {
-    transform: scale(1.075);
+    transform: scale(1.1);
   }
   to {
     transform: scale(1.02);
   }
 }
 
-html[data-session-intro='1'] .home-intro-lead {
-  animation: homeLeadIn 320ms var(--ease-out-apple) 0ms both;
+@keyframes homeHeroSheen {
+  0% {
+    opacity: 0;
+    transform: translate3d(-120%, 0, 0) skewX(-18deg);
+  }
+  30% {
+    opacity: 0.28;
+  }
+  100% {
+    opacity: 0;
+    transform: translate3d(135%, 0, 0) skewX(-18deg);
+  }
 }
 
-html[data-session-intro='1'] .home-intro-hero {
-  animation: homeHeroIn 380ms var(--ease-out-apple) 40ms both;
+.home-intro-active .home-intro-lead {
+  animation: homeLeadIn 420ms var(--ease-out-apple) 0ms both;
 }
 
-html[data-session-intro='1'] .home-intro-clouds {
-  animation: homeCloudsBreath 1800ms var(--ease-out-apple) 40ms both;
+.home-intro-active .home-intro-hero {
+  animation: homeHeroIn 560ms var(--ease-out-apple) 60ms both;
 }
 
-html[data-session-intro='1'] .home-intro-support {
-  animation: homeLeadIn 340ms var(--ease-out-apple) 110ms both;
+.home-intro-active .home-intro-clouds {
+  animation: homeCloudsBreath 2200ms var(--ease-out-apple) 60ms both;
 }
 
-html[data-session-intro='1'] .home-intro-tail {
-  animation: homeLeadIn 320ms var(--ease-out-apple) 160ms both;
+.home-intro-active .home-intro-sheen {
+  animation: homeHeroSheen 1000ms var(--ease-out-apple) 220ms both;
+}
+
+.home-intro-active .home-intro-support {
+  animation: homeLeadIn 440ms var(--ease-out-apple) 140ms both;
+}
+
+.home-intro-active .home-intro-tail {
+  animation: homeLeadIn 440ms var(--ease-out-apple) 210ms both;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -301,11 +319,12 @@ html[data-session-intro='1'] .home-intro-tail {
     animation: fadeIn 120ms ease both;
   }
 
-  html[data-session-intro='1'] .home-intro-lead,
-  html[data-session-intro='1'] .home-intro-hero,
-  html[data-session-intro='1'] .home-intro-clouds,
-  html[data-session-intro='1'] .home-intro-support,
-  html[data-session-intro='1'] .home-intro-tail {
+  .home-intro-active .home-intro-lead,
+  .home-intro-active .home-intro-hero,
+  .home-intro-active .home-intro-clouds,
+  .home-intro-active .home-intro-sheen,
+  .home-intro-active .home-intro-support,
+  .home-intro-active .home-intro-tail {
     animation: none;
   }
 }

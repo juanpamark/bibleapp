@@ -243,7 +243,36 @@ export async function fetchDailyVerse(): Promise<VerseRecord | null> {
     } catch {}
   }
 
-  // 2. RPC determinista en Supabase (corte a las 5:00 a.m.)
+  // 2. Endpoint cacheado en Vercel Edge CDN (evita golpear Supabase con miles de visitas al mismo tiempo)
+  if (typeof window !== 'undefined') {
+    try {
+      const res = await fetch(
+        `/api/daily-verse?date=${encodeURIComponent(todayDevotional)}&tz=${encodeURIComponent(tz)}`
+      );
+      if (res.ok) {
+        const json = (await res.json()) as { verse?: VerseRecord & { devotional_date?: string } };
+        const row = json?.verse;
+        if (row && row.translation) {
+          const verseRecord: VerseRecord = {
+            id: row.id,
+            book: row.book,
+            chapter: row.chapter,
+            verse: row.verse,
+            greek_text: row.greek_text,
+            translation: row.translation,
+            translation_notes: row.translation_notes,
+          };
+          localStorage.setItem(
+            STORAGE_KEYS.DAILY_VERSE_CACHE,
+            JSON.stringify({ date: row.devotional_date || todayDevotional, verse: verseRecord })
+          );
+          return verseRecord;
+        }
+      }
+    } catch {}
+  }
+
+  // 3. Respaldo directo: RPC determinista en Supabase (corte a las 5:00 a.m.)
   try {
     const { data, error } = await supabase.rpc('get_daily_verse', {
       p_tz: tz,

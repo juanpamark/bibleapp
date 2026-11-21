@@ -4,6 +4,7 @@ import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Home, BookOpen, Compass, BookmarkCheck, User } from 'lucide-react';
+import InstallAppPrompt from './InstallAppPrompt';
 
 export default function GlobalNav() {
   const pathname = usePathname();
@@ -156,6 +157,9 @@ export default function GlobalNav() {
           })}
         </nav>
       </div>
+
+      {/* Botón flotante «Agregar al inicio» sobrepuesto abajo a la derecha */}
+      <InstallAppPrompt variant="floating" />
     </>
   );
 }

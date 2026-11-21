@@ -1,20 +1,22 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { Smartphone, X, Share, PlusSquare, ChevronRight, Check } from 'lucide-react';
+import { usePathname } from 'next/navigation';
+import { Download, X, Share, PlusSquare, ChevronRight, Check } from 'lucide-react';
 
 interface BeforeInstallPromptEvent extends Event {
   prompt: () => Promise<void>;
   userChoice: Promise<{ outcome: 'accepted' | 'dismissed'; platform: string }>;
 }
 
-const DISMISS_KEY = 'biblia_install_prompt_dismissed';
+const DISMISS_KEY = 'biblia_install_floating_dismissed';
 
 interface InstallAppPromptProps {
-  variant?: 'banner' | 'row';
+  variant?: 'floating' | 'row';
 }
 
-export default function InstallAppPrompt({ variant = 'banner' }: InstallAppPromptProps) {
+export default function InstallAppPrompt({ variant = 'floating' }: InstallAppPromptProps) {
+  const pathname = usePathname();
   const [mounted, setMounted] = useState(false);
   const [isStandalone, setIsStandalone] = useState(true);
   const [dismissed, setDismissed] = useState(false);
@@ -22,6 +24,7 @@ export default function InstallAppPrompt({ variant = 'banner' }: InstallAppPromp
   const [deferredPrompt, setDeferredPrompt] = useState<BeforeInstallPromptEvent | null>(null);
   const [showInstructions, setShowInstructions] = useState(false);
   const [installedJustNow, setInstalledJustNow] = useState(false);
+  const [hiddenByModal, setHiddenByModal] = useState(false);
 
   useEffect(() => {
     setMounted(true);
@@ -38,7 +41,7 @@ export default function InstallAppPrompt({ variant = 'banner' }: InstallAppPromp
     setIsIOS(iosDevice);
 
     try {
-      if (variant === 'banner' && localStorage.getItem(DISMISS_KEY) === '1') {
+      if (variant === 'floating' && localStorage.getItem(DISMISS_KEY) === '1') {
         setDismissed(true);
       }
     } catch {}
@@ -51,19 +54,33 @@ export default function InstallAppPrompt({ variant = 'banner' }: InstallAppPromp
     const handleInstalled = () => {
       setInstalledJustNow(true);
       setDeferredPrompt(null);
+      setShowInstructions(false);
       setTimeout(() => setIsStandalone(true), 1600);
+    };
+
+    const handleToggleNav = (e: CustomEvent<{ visible?: boolean }>) => {
+      if (e?.detail?.visible !== undefined) {
+        setHiddenByModal(!e.detail.visible);
+        if (!e.detail.visible) setShowInstructions(false);
+      }
     };
 
     window.addEventListener('beforeinstallprompt', handleBeforeInstall);
     window.addEventListener('appinstalled', handleInstalled);
+    window.addEventListener('biblia-toggle-nav', handleToggleNav as EventListener);
     return () => {
       window.removeEventListener('beforeinstallprompt', handleBeforeInstall);
       window.removeEventListener('appinstalled', handleInstalled);
+      window.removeEventListener('biblia-toggle-nav', handleToggleNav as EventListener);
     };
   }, [variant]);
 
   if (!mounted || isStandalone) return null;
-  if (variant === 'banner' && dismissed) return null;
+
+  // En modo flotante: ocultar si fue cerrado, si hay un modal abierto o dentro del lector bíblico
+  if (variant === 'floating') {
+    if (dismissed || hiddenByModal || pathname.startsWith('/lector')) return null;
+  }
 
   const handleInstallClick = async () => {
     if (deferredPrompt) {
@@ -73,6 +90,7 @@ export default function InstallAppPrompt({ variant = 'banner' }: InstallAppPromp
         if (choice.outcome === 'accepted') {
           setInstalledJustNow(true);
           setDeferredPrompt(null);
+          setShowInstructions(false);
         }
       } catch {
         setShowInstructions((v) => !v);
@@ -82,41 +100,40 @@ export default function InstallAppPrompt({ variant = 'banner' }: InstallAppPromp
     setShowInstructions((v) => !v);
   };
 
-  const handleDismiss = () => {
+  const handleDismiss = (e: React.MouseEvent) => {
+    e.stopPropagation();
     setDismissed(true);
+    setShowInstructions(false);
     try {
       localStorage.setItem(DISMISS_KEY, '1');
     } catch {}
   };
 
-  const instructionsBlock = showInstructions && (
-    <div className="mt-3 pt-3 border-t border-outline-variant/25 space-y-2 text-xs text-on-surface-variant animate-fade-in">
-      {isIOS ? (
-        <ol className="space-y-1.5">
-          <li className="flex items-start gap-2">
-            <span className="font-bold text-primary">1.</span>
-            <span>
-              Toca el botón <strong className="text-on-surface">Compartir</strong>{' '}
-              <Share className="w-3.5 h-3.5 inline text-primary -mt-0.5" /> en la barra inferior de Safari.
-            </span>
-          </li>
-          <li className="flex items-start gap-2">
-            <span className="font-bold text-primary">2.</span>
-            <span>
-              Desliza y elige <strong className="text-on-surface">«Agregar a inicio»</strong>{' '}
-              <PlusSquare className="w-3.5 h-3.5 inline text-primary -mt-0.5" /> para tener el ícono directo en tu teléfono.
-            </span>
-          </li>
-        </ol>
-      ) : (
-        <p className="leading-relaxed">
-          Abre el menú de tu navegador (<strong className="text-on-surface">⋮</strong> o barra de direcciones) y elige{' '}
-          <strong className="text-on-surface">«Agregar a pantalla de inicio»</strong> o{' '}
-          <strong className="text-on-surface">«Instalar aplicación»</strong>.
-        </p>
-      )}
-    </div>
-  );
+  const renderInstructionsContent = () =>
+    isIOS ? (
+      <ol className="space-y-1.5 text-xs text-on-surface-variant">
+        <li className="flex items-start gap-2">
+          <span className="font-bold text-primary">1.</span>
+          <span>
+            Toca <strong className="text-on-surface">Compartir</strong>{' '}
+            <Share className="w-3.5 h-3.5 inline text-primary -mt-0.5" /> abajo en Safari.
+          </span>
+        </li>
+        <li className="flex items-start gap-2">
+          <span className="font-bold text-primary">2.</span>
+          <span>
+            Elige <strong className="text-on-surface">«Agregar a inicio»</strong>{' '}
+            <PlusSquare className="w-3.5 h-3.5 inline text-primary -mt-0.5" /> para crear el atajo con tu logo.
+          </span>
+        </li>
+      </ol>
+    ) : (
+      <p className="text-xs text-on-surface-variant leading-relaxed">
+        Abre el menú del navegador (<strong className="text-on-surface">⋮</strong> o barra de direcciones) y selecciona{' '}
+        <strong className="text-on-surface">«Agregar a pantalla de inicio»</strong> o{' '}
+        <strong className="text-on-surface">«Instalar app»</strong>.
+      </p>
+    );
 
   if (variant === 'row') {
     return (
@@ -130,7 +147,7 @@ export default function InstallAppPrompt({ variant = 'banner' }: InstallAppPromp
             {installedJustNow ? (
               <Check className="w-4 h-4 text-emerald-500 flex-shrink-0" />
             ) : (
-              <Smartphone className="w-4 h-4 text-primary flex-shrink-0" />
+              <Download className="w-4 h-4 text-primary flex-shrink-0" />
             )}
             <div className="min-w-0">
               <p className="text-sm font-semibold text-on-surface group-hover:text-primary transition-colors">
@@ -138,7 +155,7 @@ export default function InstallAppPrompt({ variant = 'banner' }: InstallAppPromp
               </p>
               <p className="text-xs text-on-surface-variant">
                 {deferredPrompt
-                  ? 'Instálala en 1 toque con el ícono oficial'
+                  ? 'Crea el atajo en 1 toque con el ícono oficial'
                   : 'Úsala como app directa desde tu teléfono'}
               </p>
             </div>
@@ -149,59 +166,73 @@ export default function InstallAppPrompt({ variant = 'banner' }: InstallAppPromp
             }`}
           />
         </button>
-        {instructionsBlock}
+        {showInstructions && (
+          <div className="mt-3 pt-3 border-t border-outline-variant/25 animate-fade-in">
+            {renderInstructionsContent()}
+          </div>
+        )}
       </div>
     );
   }
 
+  // Variante flotante sobrepuesta abajo a la derecha (encima de la barra inferior en móvil)
   return (
-    <section
+    <div
       aria-label="Agregar Biblia TDO a pantalla de inicio"
-      className="rounded-3xl bg-surface-container-low/90 border border-outline-variant/40 p-4 sm:p-4.5"
+      className="fixed bottom-[86px] right-3.5 md:bottom-5 md:right-5 z-[38] flex flex-col items-end gap-2 pointer-events-none"
     >
-      <div className="flex items-center justify-between gap-3">
-        <div className="flex items-center gap-3 min-w-0">
-          <div className="w-10 h-10 rounded-2xl bg-surface-container-lowest border border-outline-variant/40 flex items-center justify-center text-primary flex-shrink-0">
-            {installedJustNow ? (
-              <Check className="w-5 h-5 text-emerald-500" />
-            ) : (
-              <Smartphone className="w-5 h-5" />
-            )}
-          </div>
-          <div className="min-w-0">
-            <p className="text-xs sm:text-sm font-semibold text-on-surface leading-snug">
-              {installedJustNow ? '¡Lista en tu pantalla de inicio!' : 'Lleva Biblia TDO en tu inicio'}
-            </p>
-            <p className="text-[11px] sm:text-xs text-on-surface-variant leading-snug">
-              {deferredPrompt
-                ? 'Agrégala en 1 toque para abrirla como app.'
-                : 'Ábrela directo con su ícono en tu pantalla.'}
-            </p>
-          </div>
-        </div>
-
-        <div className="flex items-center gap-1.5 flex-shrink-0">
-          {!installedJustNow && (
+      {/* Burbuja de instrucciones hacia arriba (iPhone Safari / navegadores sin prompt nativo) */}
+      {showInstructions && (
+        <div className="pointer-events-auto w-72 max-w-[calc(100vw-2rem)] liquid-glass-elevated rounded-3xl p-4 space-y-2.5 animate-fade-in origin-bottom-right">
+          <div className="flex items-center justify-between gap-2">
+            <span className="text-xs font-bold text-on-surface">
+              Crear atajo en tu pantalla
+            </span>
             <button
               type="button"
-              onClick={handleInstallClick}
-              className="px-3.5 py-2 rounded-full bg-primary hover:bg-tertiary text-on-primary text-xs font-semibold active:scale-95 transition-transform"
+              onClick={() => setShowInstructions(false)}
+              aria-label="Cerrar instrucciones"
+              className="w-6 h-6 rounded-full flex items-center justify-center text-on-surface-variant hover:bg-on-surface/10"
             >
-              Agregar
+              <X className="w-3.5 h-3.5" />
             </button>
-          )}
+          </div>
+          {renderInstructionsContent()}
+        </div>
+      )}
+
+      {/* Cápsula flotante compacta Liquid Glass con ícono de descarga */}
+      <div className="pointer-events-auto liquid-glass-elevated rounded-full pl-1.5 pr-1.5 py-1.5 flex items-center gap-1.5 animate-fade-in">
+        <button
+          type="button"
+          onClick={handleInstallClick}
+          className="inline-flex items-center gap-2 pr-1.5 rounded-full active:scale-95 transition-transform"
+          title="Agregar Biblia TDO a tu pantalla de inicio"
+        >
+          <span className="w-8 h-8 rounded-full bg-primary text-on-primary flex items-center justify-center shadow-xs flex-shrink-0">
+            {installedJustNow ? (
+              <Check className="w-4 h-4" strokeWidth={2.5} />
+            ) : (
+              <Download className="w-4 h-4" strokeWidth={2.2} />
+            )}
+          </span>
+          <span className="text-xs font-semibold text-on-surface whitespace-nowrap">
+            {installedJustNow ? '¡Agregada!' : 'Agregar al inicio'}
+          </span>
+        </button>
+
+        {!installedJustNow && (
           <button
             type="button"
             onClick={handleDismiss}
-            aria-label="Ocultar sugerencia de instalación"
-            className="w-8 h-8 rounded-full flex items-center justify-center text-on-surface-variant hover:bg-surface-container active:scale-95 transition-colors"
+            aria-label="Ocultar aviso de agregar al inicio"
+            title="Ocultar"
+            className="w-6 h-6 rounded-full flex items-center justify-center text-on-surface-variant hover:bg-on-surface/10 active:scale-95 transition-colors flex-shrink-0"
           >
-            <X className="w-4 h-4" />
+            <X className="w-3.5 h-3.5" />
           </button>
-        </div>
+        )}
       </div>
-
-      {instructionsBlock}
-    </section>
+    </div>
   );
 }

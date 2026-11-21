@@ -44,7 +44,8 @@ import NoteModal from '@/components/NoteModal';
 import GlobalSearchModal from '@/components/GlobalSearchModal';
 import PrayerModal from '@/components/PrayerModal';
 import ExegesisDrawer from '@/components/ExegesisDrawer';
-import InstallAppPrompt from '@/components/InstallAppPrompt';
+
+let hasPlayedHomeIntro = false;
 
 function getGreeting(): string {
   const hour = new Date().getHours();
@@ -86,8 +87,13 @@ export default function InicioPage() {
   } | null>(null);
   const [copiedDaily, setCopiedDaily] = useState(false);
   const [dailyBookmarked, setDailyBookmarked] = useState(false);
+  const [playIntro, setPlayIntro] = useState(false);
 
   useEffect(() => {
+    if (!hasPlayedHomeIntro) {
+      hasPlayedHomeIntro = true;
+      setPlayIntro(true);
+    }
     setGreeting(getGreeting());
     setLastRead(getLastRead());
     setStreak(getReadingStreak());
@@ -157,13 +163,7 @@ export default function InicioPage() {
     window.addEventListener('focus', handleVisibilityOrFocus);
     document.addEventListener('visibilitychange', handleVisibilityOrFocus);
 
-    // Limpiar atributo de coreografía de apertura tras la primera entrada para que volver entre pestañas sea instantáneo
-    const introCleanup = window.setTimeout(() => {
-      document.documentElement.removeAttribute('data-session-intro');
-    }, 2000);
-
     return () => {
-      window.clearTimeout(introCleanup);
       window.removeEventListener('biblia-user-data-change', handleUserDataChange);
       window.removeEventListener('biblia-prayer-change', refreshPrayerState);
       window.removeEventListener('focus', handleVisibilityOrFocus);
@@ -247,7 +247,11 @@ export default function InicioPage() {
         onSearchClick={() => setShowSearchModal(true)}
       />
 
-      <div className="max-w-screen-md mx-auto px-4 sm:px-6 pt-3 sm:pt-6 space-y-6 pb-12">
+      <div
+        className={`max-w-screen-md mx-auto px-4 sm:px-6 pt-3 sm:pt-6 space-y-6 pb-12 ${
+          playIntro ? 'home-intro-active' : ''
+        }`}
+      >
         {/* 1. Saludo y Racha */}
         <section className="home-intro-lead flex items-center justify-between gap-3">
           <div>
@@ -284,6 +288,13 @@ export default function InicioPage() {
             aria-hidden="true"
             className="absolute inset-0 bg-gradient-to-b from-[#1A130E]/16 via-[#19120D]/32 to-[#120D0A]/64 pointer-events-none"
           />
+          {/* Destello cálido sutil de una sola vez al abrir la app */}
+          {playIntro && (
+            <div
+              aria-hidden="true"
+              className="home-intro-sheen absolute inset-y-0 -left-1/3 w-2/3 bg-gradient-to-r from-transparent via-[#FFF6E5]/35 to-transparent pointer-events-none"
+            />
+          )}
 
           <div className="relative z-10 p-5 sm:p-7 flex flex-col justify-between gap-5 flex-1">
             <div className="flex items-center justify-between gap-2">
@@ -607,9 +618,6 @@ export default function InicioPage() {
             </button>
           </div>
         </section>
-
-        {/* Sugerencia inteligente para agregar a pantalla de inicio (solo en navegador, descartable) */}
-        <InstallAppPrompt variant="banner" />
       </div>
 
       <TranslationModal isOpen={showTransModal} onClose={() => setShowTransModal(false)} />
