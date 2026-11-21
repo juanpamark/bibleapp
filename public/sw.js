@@ -1,6 +1,6 @@
-const DATA_CACHE = 'biblia-data-v2';
-const STATIC_CACHE = 'biblia-static-v2';
-const PAGES_CACHE = 'biblia-pages-v2';
+const DATA_CACHE = 'biblia-data-v3';
+const STATIC_CACHE = 'biblia-static-v3';
+const PAGES_CACHE = 'biblia-pages-v3';
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();

@@ -44,8 +44,7 @@ import NoteModal from '@/components/NoteModal';
 import GlobalSearchModal from '@/components/GlobalSearchModal';
 import PrayerModal from '@/components/PrayerModal';
 import ExegesisDrawer from '@/components/ExegesisDrawer';
-
-let homeIntroCompleted = false;
+import AppLaunchExperience from '@/components/AppLaunchExperience';
 
 function getGreeting(): string {
   const hour = new Date().getHours();
@@ -87,14 +86,9 @@ export default function InicioPage() {
   } | null>(null);
   const [copiedDaily, setCopiedDaily] = useState(false);
   const [dailyBookmarked, setDailyBookmarked] = useState(false);
-  const [playIntro] = useState(() => !homeIntroCompleted);
+  const [playIntro, setPlayIntro] = useState(false);
 
   useEffect(() => {
-    const introDoneTimer = !homeIntroCompleted
-      ? window.setTimeout(() => {
-          homeIntroCompleted = true;
-        }, 900)
-      : null;
     setGreeting(getGreeting());
     setLastRead(getLastRead());
     setStreak(getReadingStreak());
@@ -165,7 +159,6 @@ export default function InicioPage() {
     document.addEventListener('visibilitychange', handleVisibilityOrFocus);
 
     return () => {
-      if (introDoneTimer !== null) window.clearTimeout(introDoneTimer);
       window.removeEventListener('biblia-user-data-change', handleUserDataChange);
       window.removeEventListener('biblia-prayer-change', refreshPrayerState);
       window.removeEventListener('focus', handleVisibilityOrFocus);
@@ -243,6 +236,8 @@ export default function InicioPage() {
 
   return (
     <div className="min-h-screen">
+      <AppLaunchExperience onRevealStart={() => setPlayIntro(true)} />
+
       <TopHeader
         title="Inicio"
         onOpenInfo={() => setShowTransModal(true)}
