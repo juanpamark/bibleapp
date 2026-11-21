@@ -187,6 +187,7 @@ export default function NotasPage() {
               <Search className="w-4 h-4 text-outline absolute left-3.5 pointer-events-none" />
               <input
                 type="text"
+                maxLength={80}
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder="Buscar por pasaje, tema o contenido..."
@@ -520,6 +521,7 @@ export default function NotasPage() {
                 <input
                   type="text"
                   required
+                  maxLength={80}
                   value={newFolderName}
                   onChange={(e) => setNewFolderName(e.target.value)}
                   placeholder="Ej. Cartas de la prisión"
@@ -533,6 +535,7 @@ export default function NotasPage() {
                 </label>
                 <input
                   type="text"
+                  maxLength={300}
                   value={newFolderDesc}
                   onChange={(e) => setNewFolderDesc(e.target.value)}
                   placeholder="Ej. Filipenses, Efesios y Colosenses"

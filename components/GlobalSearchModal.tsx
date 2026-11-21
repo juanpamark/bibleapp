@@ -184,7 +184,17 @@ export default function GlobalSearchModal({
           const { data } = await refQuery;
           if (!cancelled) setVerseResults(data || []);
         } else {
-          const safeTerm = trimmed.replace(/[%_,]/g, ' ').trim();
+          const safeTerm = trimmed
+            .replace(/[^\p{L}\p{N}\s\-']/gu, ' ')
+            .replace(/\s+/g, ' ')
+            .trim()
+            .slice(0, 80);
+
+          if (safeTerm.length < 2) {
+            if (!cancelled) setVerseResults([]);
+            return;
+          }
+
           let dbQuery = supabase
             .from('verses')
             .select('*')
@@ -346,6 +356,7 @@ export default function GlobalSearchModal({
             ref={inputRef}
             type="text"
             enterKeyHint="search"
+            maxLength={80}
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Buscar versículos, temas, libros o notas..."

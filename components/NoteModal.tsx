@@ -87,8 +87,9 @@ export default function NoteModal({
     setSaving(true);
     const tags = tagsInput
       .split(',')
-      .map((t) => t.trim().replace(/^#/, ''))
-      .filter((t) => t.length > 0);
+      .map((t) => t.trim().replace(/^#/, '').slice(0, 32))
+      .filter((t) => t.length > 0)
+      .slice(0, 15);
 
     const book = verseRef?.book || existingNote?.book || 'MAT';
     const chapter = verseRef?.chapter || existingNote?.chapter || 1;
@@ -165,6 +166,7 @@ export default function NoteModal({
             <input
               type="text"
               required
+              maxLength={200}
               value={title}
               onChange={(e) => setTitle(e.target.value)}
               placeholder="Ej. La gracia transformadora y la ley..."
@@ -200,6 +202,7 @@ export default function NoteModal({
             <textarea
               required
               rows={4}
+              maxLength={20000}
               value={content}
               onChange={(e) => setContent(e.target.value)}
               placeholder="Escribe tus observaciones teológicas, aplicaciones y términos clave..."
@@ -215,6 +218,7 @@ export default function NoteModal({
             </label>
             <input
               type="text"
+              maxLength={240}
               value={tagsInput}
               onChange={(e) => setTagsInput(e.target.value)}
               placeholder="Paz, Justificación, Cristo"

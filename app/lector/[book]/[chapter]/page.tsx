@@ -14,12 +14,13 @@ export function generateStaticParams() {
 }
 
 interface LectorPageProps {
-  params: {
+  params: Promise<{
     book: string;
     chapter: string;
-  };
+  }>;
 }
 
-export default function LectorChapterPage({ params }: LectorPageProps) {
-  return <LectorChapterClient params={params} />;
+export default async function LectorChapterPage({ params }: LectorPageProps) {
+  const resolvedParams = await params;
+  return <LectorChapterClient params={resolvedParams} />;
 }

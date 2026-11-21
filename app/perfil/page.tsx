@@ -646,6 +646,7 @@ export default function PerfilPage() {
                     <input
                       id="profile-display-name"
                       type="text"
+                      maxLength={120}
                       value={editingName}
                       onChange={(e) => setEditingName(e.target.value)}
                       placeholder="Tu nombre"
