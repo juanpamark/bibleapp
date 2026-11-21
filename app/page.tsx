@@ -45,7 +45,7 @@ import GlobalSearchModal from '@/components/GlobalSearchModal';
 import PrayerModal from '@/components/PrayerModal';
 import ExegesisDrawer from '@/components/ExegesisDrawer';
 
-let hasPlayedHomeIntro = false;
+let homeIntroCompleted = false;
 
 function getGreeting(): string {
   const hour = new Date().getHours();
@@ -87,13 +87,14 @@ export default function InicioPage() {
   } | null>(null);
   const [copiedDaily, setCopiedDaily] = useState(false);
   const [dailyBookmarked, setDailyBookmarked] = useState(false);
-  const [playIntro, setPlayIntro] = useState(false);
+  const [playIntro] = useState(() => !homeIntroCompleted);
 
   useEffect(() => {
-    if (!hasPlayedHomeIntro) {
-      hasPlayedHomeIntro = true;
-      setPlayIntro(true);
-    }
+    const introDoneTimer = !homeIntroCompleted
+      ? window.setTimeout(() => {
+          homeIntroCompleted = true;
+        }, 900)
+      : null;
     setGreeting(getGreeting());
     setLastRead(getLastRead());
     setStreak(getReadingStreak());
@@ -164,6 +165,7 @@ export default function InicioPage() {
     document.addEventListener('visibilitychange', handleVisibilityOrFocus);
 
     return () => {
+      if (introDoneTimer !== null) window.clearTimeout(introDoneTimer);
       window.removeEventListener('biblia-user-data-change', handleUserDataChange);
       window.removeEventListener('biblia-prayer-change', refreshPrayerState);
       window.removeEventListener('focus', handleVisibilityOrFocus);
@@ -281,7 +283,9 @@ export default function InicioPage() {
             src={HOME_MEDIA.dailyVerseClouds}
             alt=""
             aria-hidden="true"
-            className="home-intro-clouds absolute inset-0 w-full h-full object-cover object-center scale-[1.02] select-none pointer-events-none"
+            className={`absolute inset-0 w-full h-full object-cover object-center select-none pointer-events-none ${
+              playIntro ? 'home-intro-clouds' : 'scale-[1.02]'
+            }`}
           />
           {/* Scrim suavizado para lucir más las nubes manteniendo contraste nítido en Claro y Oscuro */}
           <div
@@ -292,7 +296,7 @@ export default function InicioPage() {
           {playIntro && (
             <div
               aria-hidden="true"
-              className="home-intro-sheen absolute inset-y-0 -left-1/3 w-2/3 bg-gradient-to-r from-transparent via-[#FFF6E5]/35 to-transparent pointer-events-none"
+              className="home-intro-sheen absolute inset-y-0 -left-1/3 w-2/3 bg-gradient-to-r from-transparent via-[#FFF3DC]/65 to-transparent pointer-events-none"
             />
           )}
 
@@ -317,7 +321,7 @@ export default function InicioPage() {
                 <div className="h-3.5 bg-white/20 rounded-md w-1/3 mt-3" />
               </div>
             ) : dailyVerse ? (
-              <blockquote className="space-y-3">
+              <blockquote className="home-verse-reveal space-y-3">
                 <p className="font-serif text-lg sm:text-[22px] text-[#FAF6F1] leading-relaxed [text-shadow:0_1px_14px_rgba(0,0,0,0.52)]">
                   «{dailyVerse.translation}»
                 </p>
@@ -411,7 +415,7 @@ export default function InicioPage() {
         </section>
 
         {/* Buscador Global directo desde Inicio (Biblia, estudio y notas) */}
-        <section className="home-intro-support">
+        <section className="home-intro-search">
           <button
             type="button"
             onClick={() => setShowSearchModal(true)}
@@ -543,7 +547,7 @@ export default function InicioPage() {
         </section>
 
         {/* 5. Contexto antes de leer & Acerca de la traducción (imágenes 1:1 solo en vista previa de Inicio) */}
-        <section className="space-y-3">
+        <section className="home-intro-context space-y-3">
           <div className="flex items-center justify-between">
             <h2 className="font-serif text-lg font-bold text-on-surface">
               Empieza por el contexto
