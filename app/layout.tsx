@@ -3,10 +3,27 @@ import './globals.css';
 import GlobalNav from '@/components/GlobalNav';
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://biblia-tdo.vercel.app'),
   title: 'Biblia · TDO',
-  description: 'Lectura diaria directa de los textos originales con notas de estudio y cuaderno personal.',
+  description:
+    '¿Alguna vez sentiste que un versículo dice aún más en su idioma original? Lee la Traducción Directa con notas claras para entender a fondo al autor, guía diaria de oración y agrégala a tu pantalla de inicio.',
   applicationName: 'Biblia',
   manifest: '/manifest.webmanifest',
+  openGraph: {
+    title: 'Biblia · TDO — Mucho se pierde al traducir',
+    description:
+      'Descubre lo que el autor realmente dijo desde el texto original, con notas claras por versículo y espacio diario de oración. Agrégala a tu pantalla de inicio.',
+    url: 'https://biblia-tdo.vercel.app',
+    siteName: 'Biblia · TDO',
+    locale: 'es_LA',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Biblia · TDO — Mucho se pierde al traducir',
+    description:
+      'Descubre lo que el autor realmente dijo desde el texto original, con notas claras y guía diaria de oración. Agrégala a tu inicio.',
+  },
   icons: {
     icon: [
       { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
@@ -35,6 +52,10 @@ const themeInitScript = `
     } else {
       var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
       document.documentElement.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
+    }
+    if (!sessionStorage.getItem('biblia_session_intro')) {
+      sessionStorage.setItem('biblia_session_intro', '1');
+      document.documentElement.setAttribute('data-session-intro', '1');
     }
   } catch (e) {}
 })();

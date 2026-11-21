@@ -14,7 +14,7 @@ import TopHeader from '@/components/TopHeader';
 import GlobalSearchModal from '@/components/GlobalSearchModal';
 
 export default function EstudioPage() {
-  const [activeTab, setActiveTab] = useState<'tareas' | 'devocionales' | 'biblico' | 'original'>('devocionales');
+  const [activeTab, setActiveTab] = useState<'tareas' | 'devocionales' | 'biblico' | 'original'>('biblico');
   const [selectedTheme, setSelectedTheme] = useState<string | null>(null);
   const [showSearchModal, setShowSearchModal] = useState(false);
 
@@ -28,13 +28,22 @@ export default function EstudioPage() {
 
   return (
     <div className="min-h-screen">
-      <TopHeader title="Estudio" onSearchClick={() => setShowSearchModal(true)} />
+      <TopHeader
+        title="Estudio"
+        badge="En desarrollo"
+        onSearchClick={() => setShowSearchModal(true)}
+      />
 
       <div className="max-w-screen-md mx-auto px-4 sm:px-6 pt-3 sm:pt-6 space-y-6 pb-24">
         <section className="space-y-4">
-          <h1 className="font-serif text-2xl sm:text-3xl font-bold text-on-surface tracking-tight">
-            Planes y Estudio
-          </h1>
+          <div className="flex items-center flex-wrap gap-2.5">
+            <h1 className="font-serif text-2xl sm:text-3xl font-bold text-on-surface tracking-tight">
+              Planes y Estudio
+            </h1>
+            <span className="hidden md:inline-flex items-center px-2.5 py-1 rounded-full text-[11px] font-semibold uppercase tracking-wider bg-primary/12 text-primary border border-primary/20">
+              En desarrollo
+            </span>
+          </div>
 
           {/* Selector de sub-pestañas */}
           <div className="flex w-full sm:w-auto sm:inline-flex items-center p-1 rounded-full bg-surface-container text-[11px] sm:text-xs font-semibold">

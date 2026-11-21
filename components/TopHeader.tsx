@@ -5,12 +5,14 @@ import { Search, Info } from 'lucide-react';
 
 interface TopHeaderProps {
   title?: string;
+  badge?: string;
   onOpenInfo?: () => void;
   onSearchClick?: () => void;
 }
 
 export default function TopHeader({
   title = 'Biblia',
+  badge,
   onOpenInfo,
   onSearchClick,
 }: TopHeaderProps) {
@@ -33,8 +35,13 @@ export default function TopHeader({
       }`}
     >
       <div className="w-full flex items-center justify-between px-4 py-3 max-w-screen-md mx-auto">
-        <div className="flex items-center text-on-surface">
-          <span className="font-serif text-xl font-bold tracking-tight">{title}</span>
+        <div className="flex items-center gap-2 text-on-surface min-w-0">
+          <span className="font-serif text-xl font-bold tracking-tight truncate">{title}</span>
+          {badge && (
+            <span className="px-2 py-0.5 rounded-full text-[10px] font-semibold uppercase tracking-wider bg-primary/12 text-primary border border-primary/20 flex-shrink-0">
+              {badge}
+            </span>
+          )}
         </div>
 
         <div className="flex items-center gap-1">

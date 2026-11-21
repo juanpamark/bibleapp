@@ -19,6 +19,8 @@ import {
   Share2,
   Check,
   Info,
+  ShieldCheck,
+  FileText,
 } from 'lucide-react';
 import { supabase, UserNote } from '@/lib/supabase';
 import {
@@ -44,10 +46,13 @@ import {
 } from '@/lib/storage';
 import { getHighlightSwatch } from '@/lib/highlights';
 import { getBookMeta } from '@/lib/constants';
+import { shareBibleApp } from '@/lib/share';
 import TopHeader from '@/components/TopHeader';
 import TranslationModal from '@/components/TranslationModal';
 import GlobalSearchModal from '@/components/GlobalSearchModal';
 import AuthModal from '@/components/AuthModal';
+import InstallAppPrompt from '@/components/InstallAppPrompt';
+import LegalInfoModal, { LegalSection } from '@/components/LegalInfoModal';
 
 type ProfileView = 'main' | 'settings' | 'more';
 type ActivityFilter = 'all' | 'highlights' | 'notes' | 'bookmarks';
@@ -88,6 +93,7 @@ export default function PerfilPage() {
   const [showTransModal, setShowTransModal] = useState(false);
   const [showSearchModal, setShowSearchModal] = useState(false);
   const [showAuthModal, setShowAuthModal] = useState(false);
+  const [legalModalSection, setLegalModalSection] = useState<LegalSection | null>(null);
   const [copiedShare, setCopiedShare] = useState(false);
   const [showGesturesInfo, setShowGesturesInfo] = useState(false);
 
@@ -301,23 +307,11 @@ export default function PerfilPage() {
   };
 
   const handleShareApp = async () => {
-    const shareUrl = typeof window !== 'undefined' ? window.location.origin : '';
-    const payload = {
-      title: 'Biblia TDO',
-      text: 'Lee la Biblia en traducción directa de los idiomas originales con notas de griego.',
-      url: shareUrl,
-    };
-    if (navigator.share) {
-      try {
-        await navigator.share(payload);
-        return;
-      } catch {}
-    }
-    try {
-      await navigator.clipboard.writeText(shareUrl);
+    const outcome = await shareBibleApp();
+    if (outcome === 'copied') {
       setCopiedShare(true);
-      setTimeout(() => setCopiedShare(false), 2000);
-    } catch {}
+      setTimeout(() => setCopiedShare(false), 2400);
+    }
   };
 
   const formatShortDate = (iso: string) => {
@@ -440,7 +434,9 @@ export default function PerfilPage() {
                   </span>
                 </div>
                 <div>
-                  <p className="font-serif text-2xl font-bold text-on-surface">{streak} días</p>
+                  <p className="font-serif text-2xl font-bold text-on-surface">
+                    {streak} {streak === 1 ? 'día' : 'días'}
+                  </p>
                   <p className="text-[11px] text-on-surface-variant">Lectura diaria activa</p>
                 </div>
               </div>
@@ -477,7 +473,7 @@ export default function PerfilPage() {
               </div>
 
               {/* Píldoras de filtro */}
-              <div className="flex items-center gap-1.5 overflow-x-auto pb-1">
+              <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar pb-1">
                 {(
                   [
                     { key: 'all', label: `Todos (${activityItems.length})` },
@@ -893,18 +889,25 @@ export default function PerfilPage() {
                 onClick={handleShareApp}
                 className="w-full p-4 flex items-center justify-between gap-3 text-left hover:bg-surface-container-low transition-colors"
               >
-                <div className="flex items-center gap-3">
+                <div className="flex items-center gap-3 min-w-0">
                   {copiedShare ? (
-                    <Check className="w-4 h-4 text-emerald-500" />
+                    <Check className="w-4 h-4 text-emerald-500 flex-shrink-0" />
                   ) : (
-                    <Share2 className="w-4 h-4 text-primary" />
+                    <Share2 className="w-4 h-4 text-primary flex-shrink-0" />
                   )}
-                  <span className="text-sm font-semibold text-on-surface">
-                    {copiedShare ? 'Enlace copiado al portapapeles' : 'Compartir Biblia TDO'}
-                  </span>
+                  <div className="min-w-0">
+                    <p className="text-sm font-semibold text-on-surface">
+                      {copiedShare ? 'Invitación copiada · Pégala en WhatsApp' : 'Compartir Biblia TDO'}
+                    </p>
+                    <p className="text-xs text-on-surface-variant">
+                      Comparte el enlace con su tarjeta del logo y explicación
+                    </p>
+                  </div>
                 </div>
-                <ChevronRight className="w-4 h-4 text-outline" />
+                <ChevronRight className="w-4 h-4 text-outline flex-shrink-0" />
               </button>
+
+              <InstallAppPrompt variant="row" />
 
               <div>
                 <button
@@ -929,13 +932,55 @@ export default function PerfilPage() {
                       <strong className="text-on-surface">Cambiar de capítulo:</strong> desliza horizontalmente hacia la izquierda o derecha dentro de cualquier libro.
                     </p>
                     <p>
-                      <strong className="text-on-surface">Leer el griego y notas:</strong> toca un versículo y desliza hacia arriba la barra flotante de acciones.
+                      <strong className="text-on-surface">Leer el griego y notas:</strong> activa el Modo Estudio en el lector y toca el punto dorado, o selecciona un versículo y desliza hacia arriba la barra flotante.
                     </p>
                     <p>
                       <strong className="text-on-surface">Resaltado rápido:</strong> elige varios versículos y toca un color; la barra se cierra automáticamente para continuar leyendo.
                     </p>
                   </div>
                 )}
+              </div>
+            </section>
+
+            {/* Legal y privacidad */}
+            <section className="space-y-2">
+              <h2 className="text-xs font-semibold uppercase tracking-wider text-on-surface-variant px-2">
+                Privacidad y términos
+              </h2>
+              <div className="rounded-3xl bg-surface-container-lowest border border-outline-variant/40 shadow-warm divide-y divide-outline-variant/25 overflow-hidden">
+                <button
+                  type="button"
+                  onClick={() => setLegalModalSection('privacy')}
+                  className="w-full p-4 flex items-center justify-between gap-3 text-left hover:bg-surface-container-low transition-colors"
+                >
+                  <div className="flex items-center gap-3 min-w-0">
+                    <ShieldCheck className="w-4 h-4 text-primary flex-shrink-0" />
+                    <div className="min-w-0">
+                      <p className="text-sm font-semibold text-on-surface">Política de Privacidad</p>
+                      <p className="text-xs text-on-surface-variant">
+                        Cómo protegemos tus notas y tu cuenta de Google
+                      </p>
+                    </div>
+                  </div>
+                  <ChevronRight className="w-4 h-4 text-outline flex-shrink-0" />
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => setLegalModalSection('terms')}
+                  className="w-full p-4 flex items-center justify-between gap-3 text-left hover:bg-surface-container-low transition-colors"
+                >
+                  <div className="flex items-center gap-3 min-w-0">
+                    <FileText className="w-4 h-4 text-primary flex-shrink-0" />
+                    <div className="min-w-0">
+                      <p className="text-sm font-semibold text-on-surface">Términos de Uso</p>
+                      <p className="text-xs text-on-surface-variant">
+                        Uso de la app y derechos de la Traducción Directa (TDO)
+                      </p>
+                    </div>
+                  </div>
+                  <ChevronRight className="w-4 h-4 text-outline flex-shrink-0" />
+                </button>
               </div>
             </section>
           </div>
@@ -948,6 +993,11 @@ export default function PerfilPage() {
         isOpen={showAuthModal}
         onClose={() => setShowAuthModal(false)}
         onSuccess={loadAllUserData}
+      />
+      <LegalInfoModal
+        isOpen={legalModalSection !== null}
+        onClose={() => setLegalModalSection(null)}
+        section={legalModalSection || 'privacy'}
       />
     </div>
   );

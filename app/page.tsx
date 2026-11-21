@@ -44,6 +44,7 @@ import NoteModal from '@/components/NoteModal';
 import GlobalSearchModal from '@/components/GlobalSearchModal';
 import PrayerModal from '@/components/PrayerModal';
 import ExegesisDrawer from '@/components/ExegesisDrawer';
+import InstallAppPrompt from '@/components/InstallAppPrompt';
 
 function getGreeting(): string {
   const hour = new Date().getHours();
@@ -155,7 +156,14 @@ export default function InicioPage() {
     window.addEventListener('biblia-prayer-change', refreshPrayerState);
     window.addEventListener('focus', handleVisibilityOrFocus);
     document.addEventListener('visibilitychange', handleVisibilityOrFocus);
+
+    // Limpiar atributo de coreografía de apertura tras la primera entrada para que volver entre pestañas sea instantáneo
+    const introCleanup = window.setTimeout(() => {
+      document.documentElement.removeAttribute('data-session-intro');
+    }, 2000);
+
     return () => {
+      window.clearTimeout(introCleanup);
       window.removeEventListener('biblia-user-data-change', handleUserDataChange);
       window.removeEventListener('biblia-prayer-change', refreshPrayerState);
       window.removeEventListener('focus', handleVisibilityOrFocus);
@@ -241,7 +249,7 @@ export default function InicioPage() {
 
       <div className="max-w-screen-md mx-auto px-4 sm:px-6 pt-3 sm:pt-6 space-y-6 pb-12">
         {/* 1. Saludo y Racha */}
-        <section className="flex items-center justify-between gap-3">
+        <section className="home-intro-lead flex items-center justify-between gap-3">
           <div>
             <p className="text-xs font-medium text-on-surface-variant capitalize">
               {formattedDate}
@@ -257,37 +265,35 @@ export default function InicioPage() {
             title="Racha de lectura diaria"
           >
             <Flame className="w-4 h-4 text-primary" strokeWidth={2.2} />
-            <span className="text-xs sm:text-sm font-semibold">{streak} días</span>
+            <span className="text-xs sm:text-sm font-semibold">
+              {streak} {streak === 1 ? 'día' : 'días'}
+            </span>
           </Link>
         </section>
 
-        {/* 2. Versículo del Día con fondo de nubes y scrim oscuro de alto contraste */}
-        <section className="relative overflow-hidden rounded-3xl shadow-warm border border-outline-variant/30 min-h-[296px] sm:min-h-[320px] flex flex-col justify-between bg-[#1C1510]">
+        {/* 2. Versículo del Día con fondo de nubes luminoso y scrim equilibrado */}
+        <section className="home-intro-hero relative overflow-hidden rounded-3xl shadow-warm border border-outline-variant/30 min-h-[296px] sm:min-h-[320px] flex flex-col justify-between bg-[#241B14]">
           <img
             src={HOME_MEDIA.dailyVerseClouds}
             alt=""
             aria-hidden="true"
-            className="absolute inset-0 w-full h-full object-cover object-center scale-[1.02] select-none pointer-events-none"
+            className="home-intro-clouds absolute inset-0 w-full h-full object-cover object-center scale-[1.02] select-none pointer-events-none"
           />
-          {/* Doble capa scrim editorial para garantizar legibilidad impecable en Claro y Oscuro */}
+          {/* Scrim suavizado para lucir más las nubes manteniendo contraste nítido en Claro y Oscuro */}
           <div
             aria-hidden="true"
-            className="absolute inset-0 bg-gradient-to-b from-[#17110D]/45 via-[#18120E]/62 to-[#120D0A]/85 pointer-events-none"
-          />
-          <div
-            aria-hidden="true"
-            className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(255,235,205,0.08),rgba(14,10,8,0.42))] pointer-events-none"
+            className="absolute inset-0 bg-gradient-to-b from-[#1A130E]/16 via-[#19120D]/32 to-[#120D0A]/64 pointer-events-none"
           />
 
           <div className="relative z-10 p-5 sm:p-7 flex flex-col justify-between gap-5 flex-1">
             <div className="flex items-center justify-between gap-2">
-              <span className="text-xs font-semibold tracking-wide text-[#F3ECE4]/90">
+              <span className="text-xs font-semibold tracking-wide text-[#FAF6F1]/95 [text-shadow:0_1px_8px_rgba(0,0,0,0.45)]">
                 Versículo del día
               </span>
               <button
                 type="button"
                 onClick={() => setShowTransModal(true)}
-                className="text-xs font-semibold text-[#F5D6A0] hover:text-white px-2.5 py-1 rounded-full bg-white/10 hover:bg-white/18 backdrop-blur-sm border border-white/15 transition-colors"
+                className="text-xs font-semibold text-[#F5D6A0] hover:text-white px-2.5 py-1 rounded-full bg-black/22 hover:bg-black/32 backdrop-blur-sm border border-white/20 transition-colors"
               >
                 TDO
               </button>
@@ -295,54 +301,54 @@ export default function InicioPage() {
 
             {loadingVerse ? (
               <div className="py-4 animate-pulse space-y-2.5">
-                <div className="h-4 bg-white/20 rounded-md w-full" />
-                <div className="h-4 bg-white/20 rounded-md w-5/6" />
-                <div className="h-3.5 bg-white/15 rounded-md w-1/3 mt-3" />
+                <div className="h-4 bg-white/25 rounded-md w-full" />
+                <div className="h-4 bg-white/25 rounded-md w-5/6" />
+                <div className="h-3.5 bg-white/20 rounded-md w-1/3 mt-3" />
               </div>
             ) : dailyVerse ? (
               <blockquote className="space-y-3">
-                <p className="font-serif text-lg sm:text-[22px] text-[#FAF6F1] leading-relaxed [text-shadow:0_1px_12px_rgba(0,0,0,0.38)]">
+                <p className="font-serif text-lg sm:text-[22px] text-[#FAF6F1] leading-relaxed [text-shadow:0_1px_14px_rgba(0,0,0,0.52)]">
                   «{dailyVerse.translation}»
                 </p>
                 <div className="flex flex-wrap items-center justify-between gap-2 pt-0.5">
-                  <cite className="not-italic text-sm font-semibold text-[#F5D6A0]">
+                  <cite className="not-italic text-sm font-semibold text-[#FCE1AE] [text-shadow:0_1px_10px_rgba(0,0,0,0.48)]">
                     {getBookMeta(dailyVerse.book)?.name || dailyVerse.book} {dailyVerse.chapter}:
                     {dailyVerse.verse}
                   </cite>
                   <button
                     type="button"
                     onClick={() => setShowDailyExegesis(true)}
-                    className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/14 hover:bg-white/24 backdrop-blur-md border border-white/20 text-[#FAF6F1] text-[11px] font-semibold active:scale-95 transition-all"
+                    className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-black/25 hover:bg-black/38 backdrop-blur-md border border-white/25 text-[#FAF6F1] text-[11px] font-semibold active:scale-95 transition-all"
                   >
-                    <Languages className="w-3.5 h-3.5 text-[#F5D6A0]" />
+                    <Languages className="w-3.5 h-3.5 text-[#FCE1AE]" />
                     <span>Nota del griego</span>
                   </button>
                 </div>
               </blockquote>
             ) : (
               <blockquote className="space-y-2.5">
-                <p className="font-serif text-lg sm:text-[22px] text-[#FAF6F1] leading-relaxed [text-shadow:0_1px_12px_rgba(0,0,0,0.38)]">
+                <p className="font-serif text-lg sm:text-[22px] text-[#FAF6F1] leading-relaxed [text-shadow:0_1px_14px_rgba(0,0,0,0.52)]">
                   «Por nada estén afanosos; más bien, en todo, mediante oración y súplica con acción de gracias, sean dadas a conocer sus peticiones delante de Dios.»
                 </p>
-                <cite className="block not-italic text-sm font-semibold text-[#F5D6A0]">
+                <cite className="block not-italic text-sm font-semibold text-[#FCE1AE] [text-shadow:0_1px_10px_rgba(0,0,0,0.48)]">
                   Filipenses 4:6
                 </cite>
               </blockquote>
             )}
 
             {/* Barra de acciones: 4 botones circulares solo ícono + Leer capítulo */}
-            <div className="pt-3 flex items-center justify-between gap-2 border-t border-white/15">
+            <div className="pt-3 flex items-center justify-between gap-2 border-t border-white/20">
               <div className="flex items-center gap-1.5 sm:gap-2">
                 <button
                   type="button"
                   onClick={handleBookmarkDaily}
                   aria-label={dailyBookmarked ? 'Quitar versículo de guardados' : 'Guardar versículo'}
                   title={dailyBookmarked ? 'Guardado' : 'Guardar'}
-                  className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/12 hover:bg-white/22 backdrop-blur-md border border-white/15 text-[#FAF6F1] active:scale-95 transition-all"
+                  className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-black/22 hover:bg-black/35 backdrop-blur-md border border-white/20 text-[#FAF6F1] active:scale-95 transition-all"
                 >
                   <Bookmark
                     className={`w-4 h-4 ${
-                      dailyBookmarked ? 'text-[#F5D6A0] fill-[#F5D6A0]' : 'text-[#FAF6F1]'
+                      dailyBookmarked ? 'text-[#FCE1AE] fill-[#FCE1AE]' : 'text-[#FAF6F1]'
                     }`}
                   />
                 </button>
@@ -352,7 +358,7 @@ export default function InicioPage() {
                   onClick={() => setShowNoteModal(true)}
                   aria-label="Escribir nota personal"
                   title="Escribir nota"
-                  className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/12 hover:bg-white/22 backdrop-blur-md border border-white/15 text-[#FAF6F1] active:scale-95 transition-all"
+                  className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-black/22 hover:bg-black/35 backdrop-blur-md border border-white/20 text-[#FAF6F1] active:scale-95 transition-all"
                 >
                   <Edit3 className="w-4 h-4" />
                 </button>
@@ -362,7 +368,7 @@ export default function InicioPage() {
                   onClick={handleCopyDaily}
                   aria-label={copiedDaily ? 'Versículo copiado' : 'Copiar versículo'}
                   title={copiedDaily ? 'Copiado' : 'Copiar'}
-                  className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/12 hover:bg-white/22 backdrop-blur-md border border-white/15 text-[#FAF6F1] active:scale-95 transition-all"
+                  className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-black/22 hover:bg-black/35 backdrop-blur-md border border-white/20 text-[#FAF6F1] active:scale-95 transition-all"
                 >
                   {copiedDaily ? (
                     <Check className="w-4 h-4 text-emerald-300" />
@@ -376,7 +382,7 @@ export default function InicioPage() {
                   onClick={handleShareDaily}
                   aria-label="Compartir versículo"
                   title="Compartir"
-                  className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/12 hover:bg-white/22 backdrop-blur-md border border-white/15 text-[#FAF6F1] active:scale-95 transition-all"
+                  className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-black/22 hover:bg-black/35 backdrop-blur-md border border-white/20 text-[#FAF6F1] active:scale-95 transition-all"
                 >
                   <Share2 className="w-4 h-4" />
                 </button>
@@ -394,7 +400,7 @@ export default function InicioPage() {
         </section>
 
         {/* Buscador Global directo desde Inicio (Biblia, estudio y notas) */}
-        <section>
+        <section className="home-intro-support">
           <button
             type="button"
             onClick={() => setShowSearchModal(true)}
@@ -411,7 +417,7 @@ export default function InicioPage() {
         </section>
 
         {/* 3. Seguir leyendo */}
-        <section className="space-y-3">
+        <section className="home-intro-support space-y-3">
           <div className="flex items-center justify-between">
             <h2 className="font-serif text-lg font-bold text-on-surface">Seguir leyendo</h2>
             <Link
@@ -454,7 +460,7 @@ export default function InicioPage() {
         </section>
 
         {/* 4. Oración diaria guiada (abajo de Seguir leyendo, arriba de Empieza por el contexto) */}
-        <section className="space-y-3">
+        <section className="home-intro-tail space-y-3">
           <div className="flex items-center justify-between gap-2">
             <h2 className="font-serif text-lg font-bold text-on-surface">Oración</h2>
 
@@ -467,8 +473,9 @@ export default function InicioPage() {
               <span className="inline-flex items-center gap-1 text-xs font-semibold text-primary font-mono tabular-nums">
                 <Clock className="w-3.5 h-3.5" />
                 <span>
-                  {prayerLiveStatus.status === 'running' ? 'En curso' : 'En pausa'} ·{' '}
-                  {formatCountdown(prayerLiveStatus.remainingMs)}
+                  {prayerLiveStatus.remainingMs === 0
+                    ? 'Tiempo cumplido · 00:00'
+                    : `${prayerLiveStatus.status === 'running' ? 'En curso' : 'En pausa'} · ${formatCountdown(prayerLiveStatus.remainingMs)}`}
                 </span>
               </span>
             ) : (
@@ -600,6 +607,9 @@ export default function InicioPage() {
             </button>
           </div>
         </section>
+
+        {/* Sugerencia inteligente para agregar a pantalla de inicio (solo en navegador, descartable) */}
+        <InstallAppPrompt variant="banner" />
       </div>
 
       <TranslationModal isOpen={showTransModal} onClose={() => setShowTransModal(false)} />
