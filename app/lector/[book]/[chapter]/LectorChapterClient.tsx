@@ -777,13 +777,28 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
                   <h2 className="font-serif text-base font-bold text-on-surface">
                     Claves para aprovechar la lectura
                   </h2>
-                  <ul className="space-y-2.5 text-sm sm:text-[15px] leading-relaxed text-on-surface-variant">
-                    {bookIntro.readingKeys.map((key, idx) => (
-                      <li key={idx} className="flex items-start gap-2.5">
-                        <span className="mt-2 w-1.5 h-1.5 rounded-full bg-primary flex-shrink-0" />
-                        <span>{key}</span>
-                      </li>
-                    ))}
+                  <ul className="space-y-3 text-sm sm:text-[15px] leading-relaxed text-on-surface-variant">
+                    {bookIntro.readingKeys.map((key, idx) => {
+                      const colonIdx = key.indexOf(': ');
+                      const hasLead = colonIdx > 0 && colonIdx < 68;
+                      const lead = hasLead ? key.slice(0, colonIdx + 1) : '';
+                      const body = hasLead ? key.slice(colonIdx + 1) : key;
+                      return (
+                        <li key={idx} className="flex items-start gap-2.5">
+                          <span className="mt-2 w-1.5 h-1.5 rounded-full bg-primary flex-shrink-0" />
+                          <span>
+                            {hasLead ? (
+                              <>
+                                <strong className="font-semibold text-on-surface">{lead}</strong>
+                                {body}
+                              </>
+                            ) : (
+                              key
+                            )}
+                          </span>
+                        </li>
+                      );
+                    })}
                   </ul>
                 </section>
               </div>

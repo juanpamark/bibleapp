@@ -97,7 +97,7 @@ export const BIBLICAL_THEMES: BookStudyHighlight[] = [
   {
     name: 'Carta a los Gálatas',
     code: 'GAL',
-    desc: 'La libertad cristiana y el fruto del Espíritu frente a las reglas.',
+    desc: 'La libertad en Cristo y el fruto del Espíritu frente al legalismo.',
     chapter: 0,
   },
   {

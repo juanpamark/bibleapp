@@ -104,7 +104,7 @@ export const NT_BOOKS: BookMeta[] = [
     chapters: 6,
     isAvailable: true,
     theme: 'Libertad en Cristo',
-    description: 'La justificación por la fe frente al legalismo y la vida guiada por el fruto del Espíritu.'
+    description: 'La justificación por la fe frente al legalismo y la vida guiada por el Espíritu.'
   },
   {
     code: 'EPH',
