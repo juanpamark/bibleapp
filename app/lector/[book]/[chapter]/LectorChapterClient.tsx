@@ -23,6 +23,7 @@ import { VerseRecord, UserNote } from '@/lib/supabase';
 import { fetchChapterWithCache } from '@/lib/chapter-cache';
 import { getBookMeta } from '@/lib/constants';
 import { getBookIntro } from '@/lib/book-intros';
+import { parseStudyNote } from '@/lib/study-note-format';
 import {
   saveLastRead,
   getFontSize,
@@ -60,11 +61,8 @@ interface LectorPageProps {
 }
 
 function getNoteTeaser(notes?: string | null, maxLen = 78): string | null {
-  if (!notes) return null;
-  const cleaned = notes.replace(/\s+/g, ' ').trim();
-  if (!cleaned) return null;
-  if (cleaned.length <= maxLen) return cleaned;
-  return `${cleaned.slice(0, maxLen).trimEnd()}…`;
+  const teaser = parseStudyNote(notes, maxLen).teaser;
+  return teaser || null;
 }
 
 function pickChapterGreekGem(verses: VerseRecord[]): VerseRecord | null {
@@ -992,9 +990,32 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
                   </p>
                 )}
 
-                <p className="text-xs sm:text-sm text-on-surface/90 leading-relaxed line-clamp-3">
-                  {chapterGreekGem.translation_notes}
-                </p>
+                {(() => {
+                  const gemParsed = parseStudyNote(chapterGreekGem.translation_notes);
+                  if (gemParsed.isStructured) {
+                    return (
+                      <div className="space-y-2 text-xs sm:text-sm text-on-surface/90 leading-relaxed">
+                        {gemParsed.originalPart && (
+                          <p>
+                            <strong className="font-semibold text-on-surface">En el original: </strong>
+                            {gemParsed.originalPart}
+                          </p>
+                        )}
+                        {gemParsed.contextPart && (
+                          <p className="text-on-surface-variant line-clamp-2">
+                            <strong className="font-semibold text-on-surface">Para entenderlo mejor: </strong>
+                            {gemParsed.contextPart}
+                          </p>
+                        )}
+                      </div>
+                    );
+                  }
+                  return (
+                    <p className="text-xs sm:text-sm text-on-surface/90 leading-relaxed line-clamp-3">
+                      {chapterGreekGem.translation_notes}
+                    </p>
+                  );
+                })()}
 
                 <div className="pt-1 flex items-center justify-between gap-2">
                   <span className="inline-flex items-center gap-1.5 text-[11px] text-on-surface-variant">

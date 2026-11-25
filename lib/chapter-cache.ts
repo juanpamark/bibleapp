@@ -1,7 +1,8 @@
 import { supabase, VerseRecord } from './supabase';
 
-const CACHE_PREFIX = 'biblia_ch_v1_';
-const CACHE_INDEX_KEY = 'biblia_ch_v1_index';
+const CACHE_VERSION = 'v2';
+const CACHE_PREFIX = `biblia_ch_${CACHE_VERSION}_`;
+const CACHE_INDEX_KEY = `biblia_ch_${CACHE_VERSION}_index`;
 const MAX_CACHED_CHAPTERS = 40;
 const CACHE_TTL_MS = 14 * 24 * 60 * 60 * 1000; // 14 días
 
@@ -88,9 +89,9 @@ export async function fetchChapterWithCache(
 
   // 2. API cacheada en el CDN de Vercel
   try {
-    const res = await fetch(`/api/chapters/${encodeURIComponent(normalizedBook)}/${chapter}`, {
-      cache: 'force-cache',
-    });
+    const res = await fetch(
+      `/api/chapters/${encodeURIComponent(normalizedBook)}/${chapter}?v=${CACHE_VERSION}`
+    );
     if (res.ok) {
       const json = (await res.json()) as { verses?: VerseRecord[] };
       if (Array.isArray(json.verses) && json.verses.length > 0) {
