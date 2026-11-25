@@ -118,9 +118,9 @@ export default function GlobalNav() {
         </nav>
       </div>
 
-      {/* MOBILE: Cápsula Flotante Liquid Glass inferior */}
+      {/* MOBILE: Cápsula Flotante Liquid Glass inferior (respeta safe-area en iOS/Android standalone) */}
       <div
-        className={`md:hidden fixed bottom-4 inset-x-0 z-40 flex justify-center px-4 pointer-events-none transition-all duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] ${
+        className={`md:hidden fixed mobile-nav-safe-bottom inset-x-0 z-40 flex justify-center px-4 pointer-events-none transition-all duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] ${
           navVisible ? 'translate-y-0 opacity-100' : 'translate-y-24 opacity-0'
         }`}
       >

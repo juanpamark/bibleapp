@@ -1,14 +1,25 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import './globals.css';
 import GlobalNav from '@/components/GlobalNav';
 import ServiceWorkerRegister from '@/components/ServiceWorkerRegister';
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  viewportFit: 'cover',
+  colorScheme: 'light dark',
+  themeColor: [
+    { media: '(prefers-color-scheme: light)', color: '#FAF6F1' },
+    { media: '(prefers-color-scheme: dark)', color: '#070708' },
+  ],
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://biblia-tdo.vercel.app'),
   title: 'Biblia · TDO',
   description:
     '¿Alguna vez sentiste que un versículo dice aún más en su idioma original? Lee la Traducción Directa con notas claras para entender a fondo al autor, guía diaria de oración y agrégala a tu pantalla de inicio.',
-  applicationName: 'Biblia',
+  applicationName: 'Biblia · TDO',
   manifest: '/manifest.webmanifest',
   openGraph: {
     title: 'Biblia · TDO — Mucho se pierde al traducir',
@@ -29,6 +40,7 @@ export const metadata: Metadata = {
     icon: [
       { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
       { url: '/icon-192.png', sizes: '192x192', type: 'image/png' },
+      { url: '/icon-512.png', sizes: '512x512', type: 'image/png' },
     ],
     shortcut: '/favicon-32x32.png',
     apple: [{ url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }],
@@ -40,7 +52,7 @@ export const metadata: Metadata = {
   },
 };
 
-const themeInitScript = `
+const earlyBootScript = `
 (function() {
   try {
     var t = localStorage.getItem('biblia_reading_theme');
@@ -55,6 +67,18 @@ const themeInitScript = `
       document.documentElement.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
     }
   } catch (e) {}
+
+  try {
+    window.addEventListener('beforeinstallprompt', function(ev) {
+      ev.preventDefault();
+      window.__bibliaDeferredPrompt = ev;
+      window.dispatchEvent(new Event('biblia-pwa-prompt-ready'));
+    });
+    window.addEventListener('appinstalled', function() {
+      window.__bibliaDeferredPrompt = null;
+      window.dispatchEvent(new Event('biblia-pwa-installed'));
+    });
+  } catch (e) {}
 })();
 `;
 
@@ -66,10 +90,7 @@ export default function RootLayout({
   return (
     <html lang="es" suppressHydrationWarning>
       <head>
-        <meta name="color-scheme" content="light dark" />
-        <meta name="theme-color" content="#FAF6F1" media="(prefers-color-scheme: light)" />
-        <meta name="theme-color" content="#070708" media="(prefers-color-scheme: dark)" />
-        <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
+        <script dangerouslySetInnerHTML={{ __html: earlyBootScript }} />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <link

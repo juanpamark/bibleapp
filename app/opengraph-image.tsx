@@ -1,6 +1,5 @@
 import { ImageResponse } from 'next/og';
 
-export const runtime = 'edge';
 export const alt =
   'Biblia TDO — Mucho se pierde al traducir. Descubre lo que el autor realmente dijo.';
 export const size = {

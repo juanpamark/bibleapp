@@ -1,10 +1,9 @@
 'use client';
 
-import { useState, useEffect } from 'react';
-import { X, Copy, Check, BookOpen, Edit3, Languages, Sparkles } from 'lucide-react';
+import { useState, useEffect, useRef } from 'react';
+import { X, Copy, Check, BookOpen, Edit3 } from 'lucide-react';
 import { VerseRecord } from '@/lib/supabase';
 import { getBookMeta } from '@/lib/constants';
-import { parseStudyNote } from '@/lib/study-note-format';
 
 interface ExegesisDrawerProps {
   verse: VerseRecord | null;
@@ -20,6 +19,17 @@ export default function ExegesisDrawer({
   onAddNote,
 }: ExegesisDrawerProps) {
   const [copied, setCopied] = useState(false);
+  const wasOpenRef = useRef(false);
+
+  useEffect(() => {
+    if (isOpen) {
+      wasOpenRef.current = true;
+      window.dispatchEvent(new CustomEvent('biblia-toggle-nav', { detail: { visible: false } }));
+    } else if (wasOpenRef.current) {
+      wasOpenRef.current = false;
+      window.dispatchEvent(new CustomEvent('biblia-toggle-nav', { detail: { visible: true } }));
+    }
+  }, [isOpen]);
 
   useEffect(() => {
     if (!isOpen) return;
@@ -35,14 +45,13 @@ export default function ExegesisDrawer({
   const bookMeta = getBookMeta(verse.book);
   const bookName = bookMeta ? bookMeta.name : verse.book;
   const reference = `${bookName} ${verse.chapter}:${verse.verse}`;
-  const parsedNote = parseStudyNote(verse.translation_notes);
 
   const handleCopyNote = async () => {
     const textToCopy = `${reference} (TDO)\n«${verse.translation}»\n\nTexto original:\n${verse.greek_text}\n\nNota de estudio:\n${verse.translation_notes || 'Lectura directa del texto base.'}`;
     try {
       await navigator.clipboard.writeText(textToCopy);
       setCopied(true);
-      setTimeout(() => setTimeout(() => setCopied(false), 0), 2000);
+      setTimeout(() => setCopied(false), 2000);
     } catch (e) {
       console.error('Error al copiar:', e);
     }
@@ -73,7 +82,7 @@ export default function ExegesisDrawer({
               </span>
             </div>
             <p className="text-xs text-on-surface-variant mt-0.5">
-              Aprende del texto griego original
+              Texto original y notas de traducción
             </p>
           </div>
 
@@ -88,73 +97,41 @@ export default function ExegesisDrawer({
         </div>
 
         {/* Body */}
-        <div className="p-5 overflow-y-auto space-y-4 flex-1">
-          <div className="space-y-1">
-            <span className="text-[11px] font-semibold uppercase tracking-wider text-on-surface-variant block">
-              Traducción TDO
+        <div className="p-5 overflow-y-auto space-y-5 flex-1">
+          <div className="space-y-1.5">
+            <span className="text-xs font-semibold text-on-surface-variant block">
+              Traducción
             </span>
             <p className="font-serif text-base sm:text-lg leading-relaxed text-on-surface">
               «{verse.translation}»
             </p>
           </div>
 
-          {parsedNote.isStructured ? (
-            <div className="space-y-3.5 pt-1">
-              {parsedNote.originalPart && (
-                <div className="p-4 rounded-2xl bg-surface-container-low border border-outline-variant/35 space-y-1.5">
-                  <div className="flex items-center gap-1.5">
-                    <Languages className="w-3.5 h-3.5 text-primary flex-shrink-0" />
-                    <h3 className="text-[11px] font-bold uppercase tracking-wider text-primary">
-                      En el original
-                    </h3>
-                  </div>
-                  <p className="text-sm sm:text-[15px] leading-relaxed text-on-surface/95">
-                    {parsedNote.originalPart}
-                  </p>
-                </div>
-              )}
-
-              {parsedNote.contextPart && (
-                <div className="p-4 rounded-2xl bg-surface-container/60 border-l-2 border-primary space-y-1.5">
-                  <div className="flex items-center gap-1.5">
-                    <Sparkles className="w-3.5 h-3.5 text-primary flex-shrink-0" />
-                    <h3 className="text-[11px] font-bold uppercase tracking-wider text-on-surface">
-                      Para entenderlo mejor
-                    </h3>
-                  </div>
-                  <p className="text-sm sm:text-[15px] leading-relaxed text-on-surface/90">
-                    {parsedNote.contextPart}
-                  </p>
-                </div>
-              )}
-            </div>
-          ) : (
-            <div className="space-y-2 pt-1">
-              <div className="flex items-center gap-1.5 text-on-surface">
-                <BookOpen className="w-4 h-4 text-primary" />
-                <h3 className="text-xs font-semibold uppercase tracking-wide text-on-surface-variant">
-                  Notas de estudio
-                </h3>
-              </div>
-              {verse.translation_notes ? (
-                <div className="text-sm sm:text-[15px] leading-relaxed text-on-surface/90 whitespace-pre-line">
-                  {verse.translation_notes}
-                </div>
-              ) : (
-                <p className="text-sm text-on-surface-variant italic">
-                  Este versículo sigue de manera unánime la lectura de los manuscritos más antiguos.
-                </p>
-              )}
-            </div>
-          )}
-
-          <div className="p-3.5 rounded-2xl bg-surface-container-low/70 border border-outline-variant/25 space-y-1">
-            <span className="text-[11px] font-semibold uppercase tracking-wider text-on-surface-variant block">
-              Manuscrito griego (SBLGNT)
+          <div className="p-4 rounded-2xl bg-surface-container-low space-y-1.5">
+            <span className="text-xs font-semibold text-primary block">
+              Texto griego original
             </span>
-            <p className="font-serif text-base sm:text-[17px] text-on-surface/85 leading-relaxed">
+            <p className="font-serif text-lg sm:text-xl text-on-surface leading-relaxed">
               {verse.greek_text || '(Texto original no disponible)'}
             </p>
+          </div>
+
+          <div className="space-y-2">
+            <div className="flex items-center gap-1.5 text-on-surface">
+              <BookOpen className="w-4 h-4 text-primary" />
+              <h3 className="text-xs font-semibold uppercase tracking-wide text-on-surface-variant">
+                Notas de estudio
+              </h3>
+            </div>
+            {verse.translation_notes ? (
+              <div className="text-sm sm:text-[15px] leading-relaxed text-on-surface/90 whitespace-pre-line">
+                {verse.translation_notes}
+              </div>
+            ) : (
+              <p className="text-sm text-on-surface-variant italic">
+                Este versículo sigue de manera unánime la lectura de los manuscritos más antiguos.
+              </p>
+            )}
           </div>
         </div>
 

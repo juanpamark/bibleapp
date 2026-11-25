@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { X, CheckCircle2, Cloud, ShieldCheck, RefreshCw } from 'lucide-react';
 import { supabase } from '@/lib/supabase';
 
@@ -13,11 +13,14 @@ interface AuthModalProps {
 export default function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
   const [loading, setLoading] = useState(false);
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
+  const wasOpenRef = useRef(false);
 
   useEffect(() => {
     if (isOpen) {
+      wasOpenRef.current = true;
       window.dispatchEvent(new CustomEvent('biblia-toggle-nav', { detail: { visible: false } }));
-    } else {
+    } else if (wasOpenRef.current) {
+      wasOpenRef.current = false;
       window.dispatchEvent(new CustomEvent('biblia-toggle-nav', { detail: { visible: true } }));
     }
   }, [isOpen]);

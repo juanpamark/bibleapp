@@ -1,6 +1,6 @@
 import { supabase, VerseRecord } from './supabase';
 
-const CACHE_VERSION = 'v2';
+const CACHE_VERSION = 'v3';
 const CACHE_PREFIX = `biblia_ch_${CACHE_VERSION}_`;
 const CACHE_INDEX_KEY = `biblia_ch_${CACHE_VERSION}_index`;
 const MAX_CACHED_CHAPTERS = 40;

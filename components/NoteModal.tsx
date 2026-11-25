@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { X, Folder, Tag, Save, Check } from 'lucide-react';
 import { NoteFolder, UserNote } from '@/lib/supabase';
 import { getFolders, createNote, updateNote } from '@/lib/storage';
@@ -33,6 +33,7 @@ export default function NoteModal({
   const [folders, setFolders] = useState<NoteFolder[]>([]);
   const [saving, setSaving] = useState(false);
   const [savedSuccess, setSavedSuccess] = useState(false);
+  const wasOpenRef = useRef(false);
 
   useEffect(() => {
     if (isOpen) {
@@ -60,8 +61,10 @@ export default function NoteModal({
 
   useEffect(() => {
     if (isOpen) {
+      wasOpenRef.current = true;
       window.dispatchEvent(new CustomEvent('biblia-toggle-nav', { detail: { visible: false } }));
-    } else {
+    } else if (wasOpenRef.current) {
+      wasOpenRef.current = false;
       window.dispatchEvent(new CustomEvent('biblia-toggle-nav', { detail: { visible: true } }));
     }
   }, [isOpen]);

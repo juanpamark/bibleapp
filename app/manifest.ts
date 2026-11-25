@@ -2,15 +2,20 @@ import type { MetadataRoute } from 'next';
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Originals Bible · TDO',
+    id: '/',
+    name: 'Biblia · TDO',
     short_name: 'Biblia',
     description:
-      'Lectura diaria directa de los textos originales con notas de estudio y cuaderno personal.',
+      'Lectura diaria directa de los textos originales con notas de estudio, guía de oración y cuaderno personal.',
+    lang: 'es',
+    dir: 'ltr',
     start_url: '/',
+    scope: '/',
     display: 'standalone',
+    orientation: 'any',
     background_color: '#FAF6F1',
     theme_color: '#9A4322',
-    orientation: 'portrait',
+    categories: ['books', 'education', 'lifestyle'],
     icons: [
       {
         src: '/icon-192.png',

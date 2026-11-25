@@ -51,6 +51,9 @@ function playGentleChime() {
       osc.start(ctx.currentTime + idx * 0.22);
       osc.stop(ctx.currentTime + idx * 0.22 + 1.9);
     });
+    window.setTimeout(() => {
+      void ctx.close().catch(() => {});
+    }, 2400);
   } catch {}
 }
 
@@ -71,6 +74,7 @@ export default function PrayerModal({
   const endTimeRef = useRef<number | null>(null);
   const completedTriggeredRef = useRef(false);
   const wakeLockRef = useRef<{ release: () => Promise<void> } | null>(null);
+  const wasOpenRef = useRef(false);
 
   const { scrollContainerRef, headerTouchHandlers, bodyTouchHandlers, sheetStyle } =
     useSwipeToClose({ onClose });
@@ -98,6 +102,7 @@ export default function PrayerModal({
   // Restaurar o iniciar sesión de 10 minutos al abrir la ventana
   useEffect(() => {
     if (isOpen) {
+      wasOpenRef.current = true;
       completedTriggeredRef.current = false;
       const saved = getPrayerSession(prayerDateStr);
 
@@ -131,7 +136,8 @@ export default function PrayerModal({
       }
 
       window.dispatchEvent(new CustomEvent('biblia-toggle-nav', { detail: { visible: false } }));
-    } else {
+    } else if (wasOpenRef.current) {
+      wasOpenRef.current = false;
       // Al cerrar por X / swipe / Esc, NO tocamos localStorage para que el contador siga corriendo.
       setIsRunning(false);
       endTimeRef.current = null;

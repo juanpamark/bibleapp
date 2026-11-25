@@ -38,6 +38,10 @@ const securityHeaders = [
     key: 'Permissions-Policy',
     value: 'camera=(), microphone=(), geolocation=(), payment=(), usb=()',
   },
+  {
+    key: 'X-DNS-Prefetch-Control',
+    value: 'on',
+  },
 ];
 
 /** @type {import('next').NextConfig} */
@@ -59,6 +63,16 @@ const nextConfig = {
   },
   async headers() {
     return [
+      {
+        source: '/sw.js',
+        headers: [
+          ...securityHeaders,
+          {
+            key: 'Cache-Control',
+            value: 'no-cache, no-store, must-revalidate',
+          },
+        ],
+      },
       {
         source: '/(.*)',
         headers: securityHeaders,

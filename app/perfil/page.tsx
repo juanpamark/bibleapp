@@ -289,6 +289,26 @@ export default function PerfilPage() {
     (sessionUser?.email ? sessionUser.email.split('@')[0] : '') ||
     'Mi Perfil';
 
+  const safeAvatarUrl = useMemo(() => {
+    const rawUrl = sessionUser?.user_metadata?.avatar_url || sessionUser?.user_metadata?.picture;
+    if (typeof rawUrl !== 'string' || !rawUrl.trim()) return null;
+    try {
+      const parsed = new URL(rawUrl);
+      if (parsed.protocol !== 'https:') return null;
+      const host = parsed.hostname.toLowerCase();
+      if (
+        host === 'lh3.googleusercontent.com' ||
+        host.endsWith('.googleusercontent.com') ||
+        host === 'res.cloudinary.com'
+      ) {
+        return parsed.toString();
+      }
+      return null;
+    } catch {
+      return null;
+    }
+  }, [sessionUser]);
+
   const initials = resolvedDisplayName
     .split(/\s+/)
     .filter(Boolean)
@@ -355,9 +375,9 @@ export default function PerfilPage() {
             {/* Cabecera del perfil + botones Liquid Glass de Configuración y Más */}
             <section className="flex items-center justify-between gap-3">
               <div className="flex items-center gap-3.5 min-w-0">
-                {(sessionUser?.user_metadata?.avatar_url || sessionUser?.user_metadata?.picture) ? (
+                {safeAvatarUrl ? (
                   <img
-                    src={sessionUser.user_metadata.avatar_url || sessionUser.user_metadata.picture}
+                    src={safeAvatarUrl}
                     alt={resolvedDisplayName}
                     referrerPolicy="no-referrer"
                     className="w-12 h-12 rounded-full object-cover border border-primary/25 flex-shrink-0"

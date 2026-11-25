@@ -129,15 +129,18 @@ export default function GlobalSearchModal({
   const [localNotes, setLocalNotes] = useState<UserNote[]>([]);
   const [localHighlights, setLocalHighlights] = useState<VerseHighlight[]>([]);
   const [localBookmarks, setLocalBookmarks] = useState<BookmarkMetaItem[]>([]);
+  const wasOpenRef = useRef(false);
 
   useEffect(() => {
     if (isOpen) {
+      wasOpenRef.current = true;
       window.dispatchEvent(new CustomEvent('biblia-toggle-nav', { detail: { visible: false } }));
       getNotes().then(setLocalNotes);
       setLocalHighlights(getAllHighlights());
       setLocalBookmarks(getBookmarkItems());
       setTimeout(() => inputRef.current?.focus(), 60);
-    } else {
+    } else if (wasOpenRef.current) {
+      wasOpenRef.current = false;
       window.dispatchEvent(new CustomEvent('biblia-toggle-nav', { detail: { visible: true } }));
       setShowFilterMenu(false);
     }

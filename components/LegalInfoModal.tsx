@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect } from 'react';
+import { useEffect, useRef } from 'react';
 import { X, ShieldCheck, FileText } from 'lucide-react';
 import { useSwipeToClose } from '@/lib/useSwipeToClose';
 
@@ -15,11 +15,14 @@ interface LegalInfoModalProps {
 export default function LegalInfoModal({ isOpen, onClose, section }: LegalInfoModalProps) {
   const { scrollContainerRef, headerTouchHandlers, bodyTouchHandlers, sheetStyle } =
     useSwipeToClose({ onClose });
+  const wasOpenRef = useRef(false);
 
   useEffect(() => {
     if (isOpen) {
+      wasOpenRef.current = true;
       window.dispatchEvent(new CustomEvent('biblia-toggle-nav', { detail: { visible: false } }));
-    } else {
+    } else if (wasOpenRef.current) {
+      wasOpenRef.current = false;
       window.dispatchEvent(new CustomEvent('biblia-toggle-nav', { detail: { visible: true } }));
     }
   }, [isOpen]);

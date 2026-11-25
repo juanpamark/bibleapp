@@ -1,5 +1,6 @@
 import { supabase, NoteFolder, UserNote, VerseRecord } from './supabase';
 import { normalizeHighlightColor } from './highlights';
+import { getBookMeta } from './constants';
 
 export type ReadingTheme = 'light' | 'dark';
 
@@ -340,7 +341,22 @@ export function getLastRead(): LastReadPosition {
   }
   try {
     const raw = localStorage.getItem(STORAGE_KEYS.LAST_READ);
-    if (raw) return JSON.parse(raw);
+    if (raw) {
+      const parsed = JSON.parse(raw) as Partial<LastReadPosition>;
+      const code = String(parsed.book || 'MAT').toUpperCase();
+      const meta = getBookMeta(code);
+      if (meta && meta.isAvailable) {
+        const ch = typeof parsed.chapter === 'number' && Number.isFinite(parsed.chapter)
+          ? Math.max(0, Math.min(Math.floor(parsed.chapter), meta.chapters))
+          : 1;
+        return {
+          book: meta.code,
+          chapter: ch,
+          verse: typeof parsed.verse === 'number' && parsed.verse >= 1 ? Math.floor(parsed.verse) : 1,
+          updatedAt: typeof parsed.updatedAt === 'string' ? parsed.updatedAt : '',
+        };
+      }
+    }
   } catch (e) {
     console.error('Error leyendo last_read:', e);
   }
@@ -722,6 +738,35 @@ export async function migrateGuestDataToCloud(explicitUid?: string): Promise<voi
       await supabase
         .from('user_bookmarks')
         .upsert(bmRows, { onConflict: 'user_id,book,chapter,verse' });
+    }
+
+    const rawNotes = localStorage.getItem(STORAGE_KEYS.LOCAL_NOTES);
+    if (rawNotes) {
+      try {
+        const localNotes = JSON.parse(rawNotes) as UserNote[];
+        if (Array.isArray(localNotes) && localNotes.length > 0) {
+          const noteRows = localNotes
+            .filter((n) => n && n.title && n.content)
+            .slice(0, 100)
+            .map((n) => ({
+              user_id: uid,
+              book: String(n.book || 'MAT').toUpperCase().slice(0, 10),
+              chapter: Math.max(0, Math.min(150, Number(n.chapter) || 1)),
+              verse: Math.max(1, Math.min(200, Number(n.verse) || 1)),
+              title: String(n.title).slice(0, 200),
+              content: String(n.content).slice(0, 20000),
+              tags: Array.isArray(n.tags) ? n.tags.slice(0, 15) : [],
+              folder_id:
+                n.folder_id && !String(n.folder_id).startsWith('f-') ? n.folder_id : null,
+            }));
+          if (noteRows.length > 0) {
+            const { error: notesErr } = await supabase.from('user_notes').insert(noteRows);
+            if (!notesErr) {
+              localStorage.removeItem(STORAGE_KEYS.LOCAL_NOTES);
+            }
+          }
+        }
+      } catch {}
     }
   } catch (e) {
     console.error('Error migrando datos locales:', e);

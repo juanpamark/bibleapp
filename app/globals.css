@@ -185,6 +185,23 @@ body {
   );
 }
 
+/* Posicionamiento seguro con safe-area para iOS/Android PWA standalone */
+.mobile-nav-safe-bottom {
+  bottom: 1rem;
+  bottom: max(1rem, env(safe-area-inset-bottom, 0px));
+}
+
+.floating-install-safe-bottom {
+  bottom: 5.375rem;
+  bottom: calc(70px + max(1rem, env(safe-area-inset-bottom, 0px)));
+}
+
+@media (min-width: 768px) {
+  .floating-install-safe-bottom {
+    bottom: 1.25rem;
+  }
+}
+
 /* Ocultar barra de scroll */
 .no-scrollbar::-webkit-scrollbar {
   display: none;

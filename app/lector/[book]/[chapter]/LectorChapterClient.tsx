@@ -23,7 +23,6 @@ import { VerseRecord, UserNote } from '@/lib/supabase';
 import { fetchChapterWithCache } from '@/lib/chapter-cache';
 import { getBookMeta } from '@/lib/constants';
 import { getBookIntro } from '@/lib/book-intros';
-import { parseStudyNote } from '@/lib/study-note-format';
 import {
   saveLastRead,
   getFontSize,
@@ -61,8 +60,11 @@ interface LectorPageProps {
 }
 
 function getNoteTeaser(notes?: string | null, maxLen = 78): string | null {
-  const teaser = parseStudyNote(notes, maxLen).teaser;
-  return teaser || null;
+  if (!notes) return null;
+  const cleaned = notes.replace(/\s+/g, ' ').trim();
+  if (!cleaned) return null;
+  if (cleaned.length <= maxLen) return cleaned;
+  return `${cleaned.slice(0, maxLen).trimEnd()}…`;
 }
 
 function pickChapterGreekGem(verses: VerseRecord[]): VerseRecord | null {
@@ -97,7 +99,11 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
   const router = useRouter();
   const bookCode = (params.book || 'MAT').toUpperCase();
   const rawChapter = (params.chapter || '1').toLowerCase();
-  const chapterNum = rawChapter === 'intro' ? 0 : Math.max(0, parseInt(rawChapter, 10) || 0);
+  const rawChapterNum = rawChapter === 'intro' ? 0 : Math.max(0, parseInt(rawChapter, 10) || 0);
+  const knownBookMeta = getBookMeta(bookCode);
+  const chapterNum = knownBookMeta
+    ? Math.min(rawChapterNum, knownBookMeta.chapters)
+    : rawChapterNum;
 
   const [verses, setVerses] = useState<VerseRecord[]>([]);
   const [loading, setLoading] = useState(chapterNum > 0);
@@ -212,13 +218,15 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
     setSelectedVerseNums([]);
     setShowAppearanceMenu(false);
     setChromeVisible(true);
-    saveLastRead(bookCode, chapterNum);
+    if (knownBookMeta?.isAvailable) {
+      saveLastRead(bookCode, chapterNum);
+    }
     setFontSizeState(getFontSize());
     setThemeState(getReadingTheme());
     setShowNoteIndicators(getShowNoteIndicators());
     setStudyModeState(getStudyMode());
 
-    if (chapterNum === 0) {
+    if (chapterNum === 0 || !knownBookMeta?.isAvailable) {
       setVerses([]);
       setLoading(false);
       setHighlights({});
@@ -990,32 +998,9 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
                   </p>
                 )}
 
-                {(() => {
-                  const gemParsed = parseStudyNote(chapterGreekGem.translation_notes);
-                  if (gemParsed.isStructured) {
-                    return (
-                      <div className="space-y-2 text-xs sm:text-sm text-on-surface/90 leading-relaxed">
-                        {gemParsed.originalPart && (
-                          <p>
-                            <strong className="font-semibold text-on-surface">En el original: </strong>
-                            {gemParsed.originalPart}
-                          </p>
-                        )}
-                        {gemParsed.contextPart && (
-                          <p className="text-on-surface-variant line-clamp-2">
-                            <strong className="font-semibold text-on-surface">Para entenderlo mejor: </strong>
-                            {gemParsed.contextPart}
-                          </p>
-                        )}
-                      </div>
-                    );
-                  }
-                  return (
-                    <p className="text-xs sm:text-sm text-on-surface/90 leading-relaxed line-clamp-3">
-                      {chapterGreekGem.translation_notes}
-                    </p>
-                  );
-                })()}
+                <p className="text-xs sm:text-sm text-on-surface/90 leading-relaxed line-clamp-3">
+                  {chapterGreekGem.translation_notes}
+                </p>
 
                 <div className="pt-1 flex items-center justify-between gap-2">
                   <span className="inline-flex items-center gap-1.5 text-[11px] text-on-surface-variant">
@@ -1113,58 +1098,57 @@ export default function LectorChapterPage({ params }: LectorPageProps) {
               </button>
             )}
 
-            {/* Referencia seleccionada + Cerrar */}
+            {/* Referencia seleccionada + Quitar resaltado + Cerrar */}
             <div className="flex items-center justify-between gap-2 px-1">
               <span className="text-xs font-semibold text-on-surface truncate">
                 {selectedRefLabel}
               </span>
-              <button
-                type="button"
-                onClick={() => setSelectedVerseNums([])}
-                aria-label="Deseleccionar versículo"
-                className="w-7 h-7 rounded-full flex items-center justify-center text-on-surface-variant hover:bg-on-surface/10 active:scale-95 transition-colors"
-              >
-                <X className="w-4 h-4" />
-              </button>
-            </div>
-
-            {/* Paleta calibrada de 10 colores dual-mode (5x2, cierra automáticamente al elegir) */}
-            <div className="flex items-center justify-between gap-3 px-1">
-              <div className="grid grid-cols-5 gap-2">
-                {EDITORIAL_HIGHLIGHTS.map((c) => {
-                  const activeSpec =
-                    selectedVerseNums.length === 1
-                      ? resolveHighlightSpec(highlights[selectedVerseNums[0]])
-                      : undefined;
-                  const isActiveColor = activeSpec?.id === c.id;
-                  const swatchHex = theme === 'dark' ? c.swatchDark : c.swatch;
-                  return (
-                    <button
-                      key={c.id}
-                      type="button"
-                      onClick={() => handleApplyColor(c.id)}
-                      aria-label={`Resaltar en ${c.name} (${c.purpose})`}
-                      title={`${c.name} · ${c.purpose}`}
-                      className={`w-7 h-7 sm:w-8 sm:h-8 rounded-full transition-transform hover:scale-110 active:scale-95 border border-black/15 dark:border-white/15 ${
-                        isActiveColor ? 'ring-2 ring-primary ring-offset-2 ring-offset-surface' : ''
-                      }`}
-                      style={{ backgroundColor: swatchHex }}
-                    />
-                  );
-                })}
-              </div>
-
-              {anySelectedHasHighlight && (
+              <div className="flex items-center gap-1.5 flex-shrink-0">
+                {anySelectedHasHighlight && (
+                  <button
+                    type="button"
+                    onClick={handleRemoveColor}
+                    aria-label="Quitar resaltado"
+                    className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full bg-on-surface/[0.07] hover:bg-on-surface/[0.12] text-[11px] font-medium text-on-surface-variant active:scale-95 transition-all"
+                  >
+                    <Eraser className="w-3 h-3" />
+                    <span>Quitar</span>
+                  </button>
+                )}
                 <button
                   type="button"
-                  onClick={handleRemoveColor}
-                  aria-label="Quitar resaltado"
-                  className="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-full bg-on-surface/[0.07] hover:bg-on-surface/[0.12] text-xs font-medium text-on-surface-variant active:scale-95 transition-all flex-shrink-0"
+                  onClick={() => setSelectedVerseNums([])}
+                  aria-label="Deseleccionar versículo"
+                  className="w-7 h-7 rounded-full flex items-center justify-center text-on-surface-variant hover:bg-on-surface/10 active:scale-95 transition-colors"
                 >
-                  <Eraser className="w-3.5 h-3.5" />
-                  <span>Quitar</span>
+                  <X className="w-4 h-4" />
                 </button>
-              )}
+              </div>
+            </div>
+
+            {/* Paleta calibrada de 10 colores dual-mode en 1 sola fila (10x1, cierra automáticamente al elegir) */}
+            <div className="grid grid-cols-10 gap-1.5 sm:gap-2 px-0.5 py-0.5 items-center justify-items-center">
+              {EDITORIAL_HIGHLIGHTS.map((c) => {
+                const activeSpec =
+                  selectedVerseNums.length === 1
+                    ? resolveHighlightSpec(highlights[selectedVerseNums[0]])
+                    : undefined;
+                const isActiveColor = activeSpec?.id === c.id;
+                const swatchHex = theme === 'dark' ? c.swatchDark : c.swatch;
+                return (
+                  <button
+                    key={c.id}
+                    type="button"
+                    onClick={() => handleApplyColor(c.id)}
+                    aria-label={`Resaltar en ${c.name} (${c.purpose})`}
+                    title={`${c.name} · ${c.purpose}`}
+                    className={`w-6 h-6 min-[380px]:w-7 min-[380px]:h-7 sm:w-8 sm:h-8 rounded-full transition-transform hover:scale-110 active:scale-95 border border-black/15 dark:border-white/15 flex-shrink-0 ${
+                      isActiveColor ? 'ring-2 ring-primary ring-offset-2 ring-offset-surface' : ''
+                    }`}
+                    style={{ backgroundColor: swatchHex }}
+                  />
+                );
+              })}
             </div>
 
             {/* Acciones principales */}
